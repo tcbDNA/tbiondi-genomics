@@ -17,3 +17,6 @@ results/work/
 data/mitos_ref/
 data/panel/
 data/mtrf/
+data/sweep/
+results/gate3/out.jsonl
+results/gate3/run/
