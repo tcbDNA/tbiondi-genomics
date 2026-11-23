@@ -115,8 +115,10 @@ congener *G. yakushimaensis* at two sites, and the distances from the sites to *
   skipping, three form an AGG codon (the extra A plus the first two bases of the GGC after it) and one, *cob* 26477, a
   TGG.
 - Each is in 100% of the reads that span it, from the run the assembly was built from:
-  - 1,440 to 1,785 reads per site, on both strands in similar numbers, none without;
-  - 1,516 reads span both *cob* 26496 and 26477 (19 nt apart) and carry both bases.
+  - 1,440 to 1,785 reads per site (1,151 to 1,381 with PCR duplicates removed), on both strands in similar numbers,
+    none without;
+  - 1,516 reads (1,220 with duplicates removed) span both *cob* 26496 and 26477 (19 nt apart) and carry both bases
+    ([`candidate/funnel/step_f_reads_dedup.md`](candidate/funnel/step_f_reads_dedup.md)).
 - Removing each one restores the reading frame.
 - All three congeners lack them, at all four sites:
   - *G. yakushimaensis*, deposited as OR703946;
@@ -158,34 +160,56 @@ last few percent of the branch, and none of the other genes we checked looks bro
   - both rRNAs and the RNase P RNA are present;
   - the tRNA set matches *G. yakushimaensis*'s, except tRNA-Gly.
 
-**So the extra bases are most likely bypassed, unless the genes broke very recently, perhaps even in culture.**
-- The bypass could be a +1 shift during translation, like the one proposed from DNA alone for its CTG relatives (sites
+**So the cause is unresolved: the extra bases may be bypassed, or the genes may have broken very recently, perhaps
+even in culture.**
+- A bypass could be a +1 shift during translation, like the one proposed from DNA alone for its CTG relatives (sites
   in *cob*, *cox2*, *cox3* and others), or RNA editing.
 - The tests above cannot tell a bypass from a loss within roughly the last 1–5% of the branch: both predict intact
   machinery and a low ω. A loss in the last fraction of a percent, or in culture, would leave too few changes to
   detect at all.
-- The lean toward a bypass rests on the pattern of the insertions.
+- The pattern of the insertions (below) is the main argument for a bypass, but part of it follows from how the sites
+  were found. The glycine tRNA raises a decoding problem that cuts the other way (below).
 
 **The pattern of the insertions (noticed after the fact).**
 - **GGC.** *G. jiainica*'s seven core mitochondrial genes (*cox1*, *cob*, *cox2*, *cox3*, *atp6*, *atp8*, *atp9*; the
   scan found no *nad* genes in it) contain 4 GGC codons in 1,815 (5.4% G or C at third codon positions), and all four
-  sit at the extra bases. These are the only GGC codons in *cox1* and *cob*: one in *cox1* and three in *cob*, each at an
-  extra-base site; the other five genes have none. The extra base can be placed right before each; at *cob* 26266 the
-  best-fitting placement is one codon earlier, and both give Thr-Gly.
+  sit at the extra bases. These are the only GGC codons in *cox1* and *cob*: one in *cox1* and three in *cob*, each at
+  an extra-base site; the other five genes have none. An extra base can be placed right before the GGC at every site,
+  but against *G. yakushimaensis* that placement scores best only at *cob* 26496 (tied). At *cob* 26266 the best
+  placements are three bases earlier (score 75; the placement before GGC scores 70; both give Thr-Gly). At *cox1*,
+  removing a G instead scores 85 against 80 and gives the congener's serine (see Caveats). *cob* 26477 cannot be
+  compared ([`candidate/followup/test1_sister_codons.md`](candidate/followup/test1_sister_codons.md)).
+- **How the sites were found.** The scan flagged *G. jiainica* because shifts recurred at AGG, so at three sites the
+  extra A and the GG after it are part of the signal that selected them. The part the scan did not select for is the C
+  that completes GGC. C is the third base of 3.7% of codons in the seven genes (67 of 1,815), and of none of the other
+  105 glycine codons ([`candidate/followup/genus/codon_positions.md`](candidate/followup/genus/codon_positions.md)).
+  Two sites are 19 nt apart, so the four are not independent, and no null model for the pattern has been run.
 - **Congeners and outgroups.** They have GGT, GGA or GGG at these four codons, so each event pairs an extra A or T
   with a change of the next codon to GGC, a codon the genes use nowhere else. The same pairing at all four sites
   points to a process tied to these places.
-- **tRNA-Gly.** Its only mitochondrial glycine tRNA has anticodon GCC (1,329 reads; 4 reads with TCC). That is unique
-  among the four *Grigorovia* species and the 100 other Saccharomycetaceae in the scan, which all have UCC. A GCC
-  anticodon pairs exactly with GGC, the codon each skip produces (at *cob* 26266, under the placement in AGG).
+- **tRNA-Gly.** Its only mitochondrial glycine tRNA has anticodon GCC (1,329 reads in an exact-match count; the 4
+  reads with TCC are sequencing errors, see Glycine decoding). That is unique among the four *Grigorovia* species and
+  the 100 other Saccharomycetaceae in the scan, which all have UCC. A GCC anticodon pairs exactly with GGC, the codon
+  each skip produces (at *cob* 26266, under the placement in AGG).
+
+**Glycine decoding (noticed after the fact).**
+- By standard pairing a GCC anticodon reads GGC and GGT, not GGA, and the seven genes have 38 GGA codons
+  ([`codon_positions.md`](candidate/followup/genus/codon_positions.md)).
+- There is no second, TCC tRNA-Gly in the mitogenome. ARAGORN, even at a relaxed threshold, and tRNAscan-SE each find
+  one tRNA-Gly, with GCC. Of 1,249 reads at its anticodon, 4 read TCC (0.32%), a share matched or exceeded by the
+  C-to-A error share at 74 of 564 other C positions nearby. Three of the four are contradicted by another read of the
+  same DNA molecule (the mate, or PCR copies), which reads GCC; the fourth has 8 mismatches. No copy of the
+  mitochondrial tRNA-Gly was found in the nuclear assembly
+  ([`candidate/funnel/trna_gly_tcc.md`](candidate/funnel/trna_gly_tcc.md)).
+- So either something else decodes GGA in the mitochondrion (for example a tRNA imported from the cytoplasm), which
+  would weaken the tie between the GCC tRNA and the sites, or nothing does, which would impair translation of every
+  mitochondrial gene and fit a loss of function. The growth records cannot decide this: two congeners with intact
+  genes and a UCC tRNA-Gly also fail to grow on non-fermentable carbon (Caveats).
 
 **Caveats.**
 - **Serine at the *cox1* site.** By the rule logged in advance, the *cox1* site counts against a bypass, because the
   congener first compared (*G. yakushimaensis*) has serine there. Skipping a G instead of the A would reproduce it.
   But that serine is unique to *G. yakushimaensis*: the other congeners and all three outgroups have glycine.
-- **GGA decoding.** A GCC tRNA cannot, by standard pairing, read the 38 GGA codons in its aligned core genes. Either
-  something else decodes GGA, which weakens the tie to the sites, or nothing does, which would impair translation of
-  every mitochondrial gene and would fit a loss of function.
 - **Age of the bases.** 100% of reads does not date them, because a culture's mtDNA becomes uniform quickly.
 - **Nuclear evidence.** Intact nuclear genes show that the machinery exists, not that Cox1 and Cob are made. A search
   with PET122 (needed for Cox3) finds no *S. cerevisiae* match, so its orthology rests on relatives' proteins.
@@ -250,8 +274,9 @@ None we found tested for shifts piling up at one codon across many genomes.
 
 - **The cause of the *G. jiainica* extra bases.** No experiment so far separates a translational skip, RNA editing and
   a very recent loss of function.
-- **Glycine decoding.** How *G. jiainica* reads GGA with only a GCC tRNA-Gly. The GCC tRNA-Gly is seen in a single
-  lineage (n = 1) and was noticed after the case was chosen.
+- **Glycine decoding.** How *G. jiainica* reads GGA with only a GCC tRNA-Gly (see Glycine decoding above; the GCC
+  tRNA-Gly is seen in one lineage and was noticed after the case was chosen). Whether a nuclear tRNA-Gly is imported
+  cannot be checked from DNA data; it would need RNA from purified mitochondria.
 - **How recent a loss could be.** An indel-to-substitution comparison in neutral yeast mtDNA could put a number on
   "very recently". It was not done.
 - **Limits of the scan:**

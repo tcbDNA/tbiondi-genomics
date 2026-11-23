@@ -8,10 +8,15 @@ The exploratory follow-up of *Grigorovia jiainica*, the one candidate. Every num
 
 ## funnel/ (the steps after the result)
 - `step_a_sites.md` … `step_f_reads.md`: the funnel steps in their logged order.
+- `step_f_reads_dedup.md`: the step f read counts with PCR duplicates removed, also for the two close *cob*
+  sites (added after an outside review).
 - `agg_usage_relatives.md`: in-frame AGG and glycine codon use in *G. jiainica* and its six closest relatives.
 - `closest_relatives.md`, `closest_relatives.json`: relatives ranked by protein identity.
 - `trna_gly_structure.md`, `fam_trna_gly.json`: tRNA-Gly loops, base 37 and anticodon read support; tRNA-Gly
   anticodons in all 101 Saccharomycetaceae.
+- `trna_gly_tcc.md`: whether a TCC tRNA-Gly exists: read counts at the anticodon with and without duplicates, the
+  background error rate, each TCC read against other reads of the same molecule, and searches for other copies
+  (added after an outside review).
 - `completeness_and_data.md`: completeness of the mitogenome, and the other public data on the species and genus.
 - `introns_and_congener.md`: intron positions near the sites (*S. cerevisiae*), and the congener's codons at them
   (post hoc, prompted by the referee).
@@ -54,6 +59,8 @@ The exploratory follow-up of *Grigorovia jiainica*, the one candidate. Every num
   - `codon_alignments/`, `dnds.md`/`.json`, `dnds_profile.md`/`_jiainica.json`: dN/dS.
   - `dnds_sensitivity.md`/`.json`: the same test under other codon models and without outgroups (added after review).
   - `ggc_sites.md`: GGC codons in *G. jiainica*'s core genes and every taxon's codons at the four sites (added after
+    review).
+  - `codon_positions.md`: codons per gene, glycine codons by type and third-position bases (added after an outside
     review).
   - `trnascan_*.txt`: tRNAscan-SE output for the assembled mitogenomes.
   - `downloads.md`: what was downloaded and its size.

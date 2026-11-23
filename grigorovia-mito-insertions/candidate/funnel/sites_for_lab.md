@@ -4,12 +4,12 @@
 - Mitogenome: GenBank TPA BK073075.1 (Sarhan et al. 2025), circular, 29,214 bp. cox1 and cob are on the minus strand of the record.
 - Coordinates are 1-based on BK073075.1. Context is the coding (minus) strand, 5'->3', 30 nt either side, the extra base in brackets; the old-frame codons are split by spaces in the second line.
 
-| gene | extra base (BK073075.1, 1-based) | ref. protein residue | old-frame codons at the site | read after skipping the extra base | reads with / without |
+| gene | extra base (BK073075.1, 1-based) | ref. protein residue | old-frame codons at the site | read after skipping the extra base | reads with / without (duplicates removed) |
 |---|---|---|---|---|---|
-| cob | 26496 (minus strand) | ~137 of 386 | AGG/AGG | GGC | 1718 / 0 |
-| cob | 26477 (minus strand) | ~143 of 386 | TGG/TGG | GGC | 1733 / 0 |
-| cob | 26266 (minus strand) | ~213 of 386 | ACT/AGG | CTA as aligned; GGC if the skipped base is taken as the A of AGG (both placements give the same protein, Thr-Gly, in code 3) | 1785 / 0 |
-| cox1 | 24711 (minus strand) | ~78 of 534 | GGA/AGG | GGC | 1440 / 0 |
+| cob | 26496 (minus strand) | ~137 of 386 | AGG/AGG | GGC | 1718 / 0 (1343 / 0) |
+| cob | 26477 (minus strand) | ~143 of 386 | TGG/TGG | GGC | 1733 / 0 (1340 / 0) |
+| cob | 26266 (minus strand) | ~213 of 386 | ACT/AGG | CTA as aligned; GGC if the skipped base is taken as the A of AGG (both placements give the same protein, Thr-Gly, in code 3) | 1785 / 0 (1381 / 0) |
+| cox1 | 24711 (minus strand) | ~78 of 534 | GGA/AGG | GGC | 1440 / 0 (1151 / 0) |
 
 **cob, extra base at 26496:**
 ```

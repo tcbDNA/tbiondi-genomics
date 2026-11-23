@@ -212,3 +212,40 @@ agent; two newcomer reads by separate agents; and a claim diff against the pre-e
 *cob* (one in *cox1*, three in *cob*, each at an extra-base site; none in the other five core genes). Checked against
 `candidate/followup/genus/ggc_sites.md` and a recount of the *G. jiainica* rows of the codon alignments
 (`codon_alignments/`): *cox1* 529 codons, 1 GGC; *cob* 384 codons, 3 GGC; the other five genes 902 codons, 0 GGC.
+
+## Changes after an outside review (2026-11-23 08:14 EST, user request)
+
+Two outside reviews (by other AI models) and the replies to them led to these changes in the *G. jiainica* section:
+1. **Conclusion softened.** "So the extra bases are most likely bypassed, unless the genes broke very recently, perhaps
+   even in culture" is now "So the cause is unresolved: the extra bases may be bypassed, or the genes may have broken
+   very recently, perhaps even in culture". The bullet "The lean toward a bypass rests on the pattern of the insertions"
+   is replaced by one saying the pattern is the main argument for a bypass, that part of it follows from how the sites
+   were found, and that the glycine tRNA cuts the other way.
+2. **Placement caveat.** The GGC bullet said the extra base "can be placed right before each". It now says that against
+   *G. yakushimaensis* that placement scores best only at *cob* 26496 (tied); at *cob* 26266 the best placements are
+   three bases earlier (score 75; before GGC, 70); at *cox1* removing a G scores 85 against 80 and gives serine; *cob*
+   26477 cannot be compared (`candidate/followup/test1_sister_codons.md`).
+3. **Detection-bias note added.** The scan selected the sites through an AGG signal, so at three sites the A and GG are
+   part of what selected them; the unselected part is the C that completes GGC, which is the third base of 3.7% of codons
+   (67 of 1,815) and of none of the other 105 glycine codons. New table: `candidate/followup/genus/codon_positions.md`
+   (script `code/explore/codon_positions.py`).
+4. **GGA decoding made a main point.** Moved from Caveats to its own subsection, with a new check: no TCC tRNA-Gly
+   exists; the 4 TCC reads at the anticodon (of 1,249) are at the background error rate, three are contradicted by
+   another read of the same molecule, the fourth has 8 mismatches; no nuclear copy of the tRNA-Gly was found. New table:
+   `candidate/funnel/trna_gly_tcc.md` (script `code/explore/trna_gly_tcc.py`). The tRNA-Gly bullet and the open point
+   on glycine decoding were updated to match.
+5. **Corrected in the discussion, not in the README:** a reply had said the GGC context does not depend on placement; at
+   *cob* 26266 it does (item 2). It had also said the respiratory phenotype fits a translation defect; the congeners
+   with intact genes also fail to grow on non-fermentable carbon, so the phenotype does not discriminate (now stated in
+   the Glycine decoding subsection).
+
+2026-11-23 08:22 EST, user request, two further changes before publishing the above:
+6. **Duplicate-removed read counts** added next to the per-site counts. Same exact-match count (20 nt + base + 20 nt),
+   excluding read pairs flagged by samtools markdup after competitive mapping: 1,151, 1,343, 1,340 and 1,381 reads with
+   the base at *cox1* 24711 and *cob* 26496, 26477, 26266 (raw 1,440, 1,718, 1,733, 1,785), none without; 1,220 reads
+   (raw 1,516) span both close *cob* sites with both bases. New table `candidate/funnel/step_f_reads_dedup.md` (script
+   `code/explore/site_reads_dedup.py`); the column is added to `step_f_reads.md`, `sites_for_lab.md` and
+   `candidate/followup/reads_strand.md`, and the figures to the README.
+7. **Open point on glycine decoding** shortened to a pointer to the new subsection, and "whether a nuclear tRNA-Gly is
+   imported has not been checked" replaced by: it cannot be checked from DNA data and would need RNA from purified
+   mitochondria. (The Caveats bullet on GGA decoding had already been moved into the new subsection.)

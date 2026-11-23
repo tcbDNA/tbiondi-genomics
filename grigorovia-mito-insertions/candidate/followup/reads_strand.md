@@ -11,9 +11,9 @@
 
 ## Reads spanning both cob sites (26477 and 26496; window 26462-26511)
 
-| version | reads |
-|---|---|
-| both bases | 1516 |
-| lacks 26477 only | 0 |
-| lacks 26496 only | 0 |
-| lacks both | 0 |
+| version | reads | duplicates removed |
+|---|---|---|
+| both bases | 1516 | 1220 |
+| lacks 26477 only | 0 | 0 |
+| lacks 26496 only | 0 | 0 |
+| lacks both | 0 | 0 |
