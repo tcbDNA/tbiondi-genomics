@@ -1,0 +1,16 @@
+env/prefix/
+env/pkgs/
+env/tools/
+data/sources/fulltext/
+data/ncbi/
+data/*.gz
+__pycache__/
+.DS_Store
+env/hmmer332/
+env/*.log
+data/pfam/
+data/ena/
+data/orthodb/
+data/figshare/
+data/nuclear/
+results/work/

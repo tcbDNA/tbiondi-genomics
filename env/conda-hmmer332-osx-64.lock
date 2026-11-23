@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+# created-by: conda 24.11.3
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/osx-64/libcxx-23.1.6-h88b51c2_0.conda
+https://conda.anaconda.org/bioconda/osx-64/hmmer-3.3.2-h7133b54_4.tar.bz2

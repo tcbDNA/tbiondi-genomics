@@ -1,0 +1,3 @@
+assemblies 33760
+env/prefix/bin/datasets summary genome taxon metazoa --assembly-version lates  7.35s user 0.69s system 22% cpu 35.344 total
+env/prefix/bin/python -I -c   0.76s user 0.12s system 2% cpu 35.346 total
