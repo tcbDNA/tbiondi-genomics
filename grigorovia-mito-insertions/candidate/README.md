@@ -50,6 +50,9 @@ The exploratory follow-up of *Grigorovia jiainica*, the one candidate. Every num
 - `test4_phenotypes.md`: growth on non-fermentable carbon in the congeners' descriptions and trait tables.
 - `test5_*`: the rest of the *G. jiainica* and congener mitogenomes (genes, VAR1, rRNAs, tRNAs, scan events).
 - `reads_strand.md`: reads at the four sites by strand, and reads spanning both close *cob* sites (added after review).
+- `trna_gly_relatives.md`: the tRNA-Gly gene against those of the three congeners and four other
+  Saccharomycetaceae: differences, pairwise differences among the four *Grigorovia*, and stem pairing (added after
+  an outside review).
 - `test6_genus.md` and `genus/`: the four *Grigorovia* mitogenomes.
   - `mtreads.md`: the share of mtDNA reads per run.
   - `pick.md`, `bait.md`, `confirm_*.md`, `genes_in_contigs.md`: assembly and confirmation.
@@ -62,6 +65,8 @@ The exploratory follow-up of *Grigorovia jiainica*, the one candidate. Every num
     review).
   - `codon_positions.md`: codons per gene, glycine codons by type and third-position bases (added after an outside
     review).
+  - `genes_per_gene.md`: every mitochondrial protein gene: codons, glycine codons, extra bases, stops and branch
+    dN/dS (added after an outside review); per-gene alignments in `codon_alignments/`.
   - `trnascan_*.txt`: tRNAscan-SE output for the assembled mitogenomes.
   - `downloads.md`: what was downloaded and its size.
 
@@ -72,3 +77,5 @@ The exploratory follow-up of *Grigorovia jiainica*, the one candidate. Every num
 ## search_log/
 - `grigorovia_literature.md`, `grigorovia_epmc_query_grid.json`: the *Grigorovia* literature and data search, and
   its 140-query grid.
+- `gga_decoding_prior_art.md`: the prior-art check on glycine decoding and tRNA import (added after an outside
+  review).

@@ -249,3 +249,22 @@ Two outside reviews (by other AI models) and the replies to them led to these ch
 7. **Open point on glycine decoding** shortened to a pointer to the new subsection, and "whether a nuclear tRNA-Gly is
    imported has not been checked" replaced by: it cannot be checked from DNA data and would need RNA from purified
    mitochondria. (The Caveats bullet on GGA decoding had already been moved into the new subsection.)
+
+2026-11-23 08:38 EST, user request: two further checks after the outside review, added with their tables and script
+(`code/explore/quick_checks.py`):
+8. **tRNA-Gly against relatives** (`candidate/followup/trna_gly_relatives.md`): *G. jiainica*'s gene differs from all
+   seven relatives compared at nine positions and from all three congeners at ten (the congeners differ from one another
+   at 2–5); two changes are compensatory stem pairs (acceptor stem 6/66, anticodon stem 30/40) and one completes a pair
+   mismatched in the relatives. Added to the Glycine decoding subsection and to "The rest of the mitogenome".
+9. **Every mitochondrial protein gene** (`candidate/followup/genus/genes_per_gene.md`; per-gene alignments added to
+   `codon_alignments/`): no gene shows weaker selection on the *G. jiainica* branch than in its relatives, including the
+   five that use GGA (38 codons); neutral evolution is rejected for *cox1*, *cob*, *cox2*, *cox3* and *atp9*, only just for
+   *atp6*, and cannot be tested for *atp8*. Added to the Selection bullet, with *cox2* and *cox3* (complex IV with *cox1*)
+   named.
+10. **README wording.** "Cause unresolved" is kept. The Glycine decoding subsection now says mitochondrial translation looks
+   functional over the branch, so GGA must have been decoded somehow (an imported tRNA or non-standard pairing; unknown),
+   and that these branch averages cannot exclude a very recent failure. The conclusion bullet was reworded to match.
+11. **Prior-art check before any claim about yeast** (`candidate/search_log/gga_decoding_prior_art.md`): potato and
+   tobacco mitochondria with a GCC-only tRNA-Gly import cytosolic UCC/CCC tRNA-Gly (Brubacher-Kauffmann et al. 1999;
+   Salinas et al. 2005); yeast mitochondria import tRNA-Lys and tRNA-Gln (Martin et al. 1979; Rinehart et al. 2005). These
+   are cited. The searches were not designed to show absence, so no "not known in yeast" claim is made.

@@ -154,11 +154,18 @@ last few percent of the branch, and none of the other genes we checked looks bro
   - Any period without constraint is at most about 1–5% of the branch, depending on the codon model and the outgroups
     (*cox1* alone: 5–29%).
   - That share is measured in synonymous change, not in years.
+  - Gene by gene (added after an outside review), none of the seven protein genes that can be aligned shows weaker
+    selection on the *G. jiainica* branch than in its relatives, including the five that use GGA (38 codons: *cox1*
+    17, *cob* 11, *cox2* 5, *atp6* 3, *cox3* 2). Neutral evolution is rejected for *cox1*, *cob*, *cox2*, *cox3* and
+    *atp9*, only just for *atp6* (p = 0.05), and cannot be tested for *atp8* (48 codons). *cox2* and *cox3*, which
+    form complex IV with *cox1*, stay constrained
+    ([`candidate/followup/genus/genes_per_gene.md`](candidate/followup/genus/genes_per_gene.md)).
 - **The rest of the mitogenome.** We found no damage:
   - *atp6*, *atp8*, *atp9*, *cox2* and *cox3* are full length, without frameshifts or stops;
   - *VAR1* is an open frame;
   - both rRNAs and the RNase P RNA are present;
-  - the tRNA set matches *G. yakushimaensis*'s, except tRNA-Gly.
+  - the tRNA set matches *G. yakushimaensis*'s, except tRNA-Gly, whose gene has been remodeled (see Glycine
+    decoding).
 
 **So the cause is unresolved: the extra bases may be bypassed, or the genes may have broken very recently, perhaps
 even in culture.**
@@ -168,7 +175,8 @@ even in culture.**
   machinery and a low ω. A loss in the last fraction of a percent, or in culture, would leave too few changes to
   detect at all.
 - The pattern of the insertions (below) is the main argument for a bypass, but part of it follows from how the sites
-  were found. The glycine tRNA raises a decoding problem that cuts the other way (below).
+  were found. The glycine tRNA raises a decoding problem, yet every mitochondrial gene and the tRNA itself look
+  maintained over the branch, so GGA must be read somehow (below).
 
 **The pattern of the insertions (noticed after the fact).**
 - **GGC.** *G. jiainica*'s seven core mitochondrial genes (*cox1*, *cob*, *cox2*, *cox3*, *atp6*, *atp8*, *atp9*; the
@@ -201,10 +209,26 @@ even in culture.**
   same DNA molecule (the mate, or PCR copies), which reads GCC; the fourth has 8 mismatches. No copy of the
   mitochondrial tRNA-Gly was found in the nuclear assembly
   ([`candidate/funnel/trna_gly_tcc.md`](candidate/funnel/trna_gly_tcc.md)).
-- So either something else decodes GGA in the mitochondrion (for example a tRNA imported from the cytoplasm), which
-  would weaken the tie between the GCC tRNA and the sites, or nothing does, which would impair translation of every
-  mitochondrial gene and fit a loss of function. The growth records cannot decide this: two congeners with intact
-  genes and a UCC tRNA-Gly also fail to grow on non-fermentable carbon (Caveats).
+- **The tRNA-Gly has been remodeled, not just given a new anticodon.** It differs from all seven relatives compared
+  at nine positions, and from all three congeners at ten; the congeners differ from one another at only 2–5. Two of
+  the changes are compensatory pairs, in the acceptor stem (C-G where every relative has T-A) and in the anticodon
+  stem (A-T where they have G-C); a third completes a pair that is mismatched in the relatives
+  ([`candidate/followup/trna_gly_relatives.md`](candidate/followup/trna_gly_relatives.md)). A decaying gene would lose
+  pairs, not keep them.
+- **So mitochondrial translation looks functional over the branch.** None of the seven mitochondrial protein genes
+  that can be aligned, including the five that use GGA, shows relaxed selection (Selection, above), and the tRNA-Gly
+  kept its stems paired while it changed. GGA must then have been decoded somehow: by a tRNA imported from the
+  cytoplasm or by non-standard pairing; which one is unknown. These are averages over the whole branch, so they cannot
+  exclude a failure in its last few percent, or in culture. The growth records cannot settle it either: two congeners
+  with intact genes and a UCC tRNA-Gly also fail to grow on non-fermentable carbon (Caveats).
+- **A precedent for import.** Potato mitochondria encode only a GCC tRNA-Gly, which the authors judge likely to be
+  insufficient to read all four GGN codons, and contain imported cytosolic tRNA-Gly(UCC) and (CCC)
+  ([Brubacher-Kauffmann et al. 1999](https://doi.org/10.1093/nar/27.9.2037)); tobacco mitochondria import the UCC and
+  CCC forms but not GCC ([Salinas et al. 2005](https://doi.org/10.1016/j.biochi.2005.04.004)). Yeast mitochondria
+  import some nuclear-encoded tRNAs, for lysine ([Martin et al. 1979](https://doi.org/10.1021/bi00588a021)) and
+  glutamine ([Rinehart et al. 2005](https://doi.org/10.1101/gad.1269305)). Whether *G. jiainica* imports a tRNA-Gly
+  cannot be checked from DNA data
+  ([`candidate/search_log/gga_decoding_prior_art.md`](candidate/search_log/gga_decoding_prior_art.md)).
 
 **Caveats.**
 - **Serine at the *cox1* site.** By the rule logged in advance, the *cox1* site counts against a bypass, because the
