@@ -19,8 +19,7 @@ HEADER = """# Pre-registered rules, predictions and changes
 - **History rewrite.** On 2026-11-22 the local history after commit d6e06a9 was rewritten to remove a 611 MB
   intermediate file committed by mistake. Messages, authors and dates were preserved, and no hash cited in this file
   changed. The old-to-new hash table is in the log entry "Local history rewritten in this session".
-- **Paths.** The log refers to files by their paths in the working repository. This release renamed several of
-  them; `protocol/corrections.md` has the old-to-new table. The log itself is not edited.
+- **Paths.** Paths in the log are those of the working repository. The log itself is not edited.
 - Times are US Eastern (EST), 2026-11-21 to 2026-11-22. Where an entry's typed time differed from its commit time, the
   log says so (entry "correction of timestamps").
 

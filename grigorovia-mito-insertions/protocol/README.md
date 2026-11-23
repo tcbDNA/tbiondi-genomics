@@ -13,7 +13,7 @@ one of these files. `scripts/run_all.sh` regenerates them into `results/` (the s
   F = full text.
 - `accessions.tsv`: every record used: accession.version, set, taxid, organism, genetic code, length, and whether it
   was in the main scan.
-- `corrections.md`: the fact-check and referee reviews of this release, every change they led to, and the table of file renames.
+- `corrections.md`: the fact-check and referee reviews of this release, and every change they led to.
 
 ## scan/ (the frozen scan of 20,343 genomes)
 - `genomes_refseq.tsv`, `genomes_fungal.tsv`: one row per genome: GC, hits, aligned bases, masked share, core genes
