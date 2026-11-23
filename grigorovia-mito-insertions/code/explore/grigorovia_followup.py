@@ -174,7 +174,7 @@ def trnas():
                      f"{len(ts)} | {','.join(r[5] for r in ts if r[4] == 'Arg')} / {','.join(r[5] for r in ts if r[4] == 'Gly')} | "
                      f"{iso.get('Pro', 0)}, {iso.get('Cys', 0)} |")
     lines += ["", "Anticodons 5'->3' as DNA. TCT reads AGA and, by wobble, AGG. tRNAscan-SE names the UCA-anticodon tRNA by the "
-              "standard code, so 'Trp' appears missing in every genome; that is a labelling artefact."]
+              "standard code, so 'Trp' appears missing in every genome; that is a labeling artifact."]
     (OUT / "step_d_trnas.md").write_text("\n".join(lines) + "\n")
     print("\n".join(lines))
 

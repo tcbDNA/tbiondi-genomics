@@ -9,7 +9,7 @@ one of these files. `scripts/run_all.sh` regenerates them into `results/` (the s
   full timestamped log of every decision, correction and post-freeze addition. It ends with the commit hashes and
   times from the project's local git repository, which were **not externally timestamped**.
 - `design.md`: the design agreed before any data were downloaded, and its four amendments.
-- `prior_art.md`: prior work. Each source is labelled with how deeply it was read: A = abstract, K = keyword windows,
+- `prior_art.md`: prior work. Each source is labeled with how deeply it was read: A = abstract, K = keyword windows,
   F = full text.
 - `accessions.tsv`: every record used: accession.version, set, taxid, organism, genetic code, length, and whether it
   was in the main scan.

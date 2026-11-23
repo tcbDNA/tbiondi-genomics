@@ -70,7 +70,7 @@ def main() -> None:
         plant += rs[:quota.get(code, len(rs))]
 
     intron_accs = {r["accession"] for r in csv.DictReader(open(ROOT / "data/work/introns.tsv"), delimiter="\t")}
-    # NC_079576 ("Pholiota spumosa") removed 2026-11-22: mislabelled ascomycete (DESIGN.md amendment 4)
+    # NC_079576 ("Pholiota spumosa") removed 2026-11-22: mislabeled ascomycete (DESIGN.md amendment 4)
     intron = [r for r in g if r["set"] == "refseq_main" and r["kingdom_name"] == "Fungi" and r["accession"] in intron_accs
               and r["accession"] not in {"NC_079576.1"}]
 

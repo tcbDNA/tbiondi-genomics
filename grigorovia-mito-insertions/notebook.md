@@ -55,7 +55,7 @@ Taxonomy's mitochondrial code where there are no CDS.
 **Alignment.**
 - DIAMOND 2.2.9 blastx in frameshift mode (`--sensitive -F 15 --range-culling -k 10 -e 1e-5`), each genome under its
   own code.
-- References: 53,641 RefSeq mitochondrial proteins, one genome per family. NC_079576 was removed as a mislabelled
+- References: 53,641 RefSeq mitochondrial proteins, one genome per family. NC_079576 was removed as a mislabeled
   record.
 - Hits to the query's own family are dropped, then the hits are culled to the best per locus.
 
@@ -276,7 +276,7 @@ site each, but some have a documented second AGT site.
 
 In each, the extra base can be placed just before a GGC codon:
 - at *cob* 26496 (AGG) and 26477 (TGG), the placement window is a single position;
-- at *cox1* (GGA·AGG) and *cob* 26266 (ACT·AGG), a neighbouring placement gives the same protein.
+- at *cox1* (GGA·AGG) and *cob* 26266 (ACT·AGG), a neighboring placement gives the same protein.
 
 Read straight on, each gene meets a stop 3 to 9 codons later. Read with the extra bases removed, *cox1* runs 450
 codons to the end of its alignment without a stop. *cob* runs on for 6, 70 and 172 codons between and after its three
@@ -371,13 +371,13 @@ Two readings were weighed:
 - **H2 (broken):** the yeast no longer respires; the genes are dispensable and the extra bases disable them, possibly
   as scars of intron loss.
 
-What each predicted, and which result would favour which, was logged in `protocol/frozen_rules.md` before each test ran. Some
+What each predicted, and which result would favor which, was logged in `protocol/frozen_rules.md` before each test ran. Some
 inputs had already been seen: the congener's codons at *cox1* and *cob* 26266, and the *S. cerevisiae* intron
 distances. The H1 prediction for test 6 completes a truncated instruction and was written by the agent. Methods changes
 made while running are logged there too, as are the checks added after the referee review. The summary is
 `candidate/grigorovia_jiainica.md`.
 
-| test | H1 predicted | H2 predicted | result | favours |
+| test | H1 predicted | H2 predicted | result | favors |
 |---|---|---|---|---|
 | 1. Congener codons (`candidate/followup/test1_*`) | Gly in the congener at every comparable site | no constraint | *cob* 26496: Gly, matching the A-skip. *cob* 26266: Thr-Gly, as under every top placement. *cox1*: *G. yakushimaensis* has Ser, which skipping a G reproduces exactly. *cob* 26477: not comparable (congener intron) | H2 at *cox1* by the logged criterion. But that Ser is derived: the other two congeners and the three outgroups have Gly (`candidate/followup/genus/ggc_sites.md`, added after review) |
 | 2. Introns (`candidate/followup/test2_*`) | no prediction | sites cluster near intron positions (P < 0.05), within 2 nt of junctions of introns *G. jiainica* lost | 3 of 4 within 12 nt of *S. cerevisiae* intron positions (P = 0.0042), but 44% of coding positions lie within 12 nt of some budding-yeast intron (P of ≥ 3 of 4 = 0.23). The nearest is the congener's bI2-type intron, 2 or 3 nt from 26477 (tied; 3 under the group I splice rule); the others are 7–20 nt away or near none. *G. transvaalensis* lacks that intron and has no extra base there. No intron-ORF remnants | no precise scar; a weak link to intron positions (the *S. cerevisiae* null was met) |
@@ -516,9 +516,9 @@ made while running are logged there too, as are the checks added after the refer
       - read counts by strand;
       - reciprocal best hits.
     - **Forking paths.**
-      - Anomalies that favoured H2 (apparent losses and frameshifts in nuclear genes) were pursued until resolved.
-      - Results that favoured H1 were stress-tested (codon models, orthology) only after the referee asked.
-      - Test 1's outcome at *cox1* favours H2 by its logged criterion, and is reported that way in §8c.
+      - Anomalies that favored H2 (apparent losses and frameshifts in nuclear genes) were pursued until resolved.
+      - Results that favored H1 were stress-tested (codon models, orthology) only after the referee asked.
+      - Test 1's outcome at *cox1* favors H2 by its logged criterion, and is reported that way in §8c.
 
 **Some of these definitions were written after partial looks at the data.** These included peeks at codes 1–4, the
 vertebrate batch with its grebe and turtle flags, and a partial real-site rate. None changes the frozen single-genome
@@ -547,7 +547,7 @@ All are in the `protocol/frozen_rules.md` log.
   - An earlier draft said the GCC tRNA-Gly was unique among "101 relatives". The 101 included *G. jiainica* itself;
     the comparison is 100 Saccharomycetaceae in the scan plus three congeners.
   - Pileup counts at indels suggested heterozygous frameshifts that read-level grouping showed to be alignment
-    artefacts (§8c).
+    artifacts (§8c).
 - **A 611 MB intermediate file was committed** to the local repository by mistake. The local history after commit
   d6e06a9 was rewritten to remove it, with messages, authors and dates preserved. No hash cited before the rewrite
   changed; the old-to-new table is in the `protocol/frozen_rules.md` log.

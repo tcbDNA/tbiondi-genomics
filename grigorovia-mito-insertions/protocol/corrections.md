@@ -23,7 +23,7 @@ The same items are logged in `protocol/frozen_rules.md`.
 | 9 | README, notebook | "Assembled by Sarhan et al. without gene annotation" | Annotated with MFannot by the authors; the annotation is not public, and we did not run MFannot | `protocol/design.md` amendment 1; Sarhan methods |
 | 10 | README | "Neither has [the congener]" | The congener lacks the extra base at the three comparable positions; the fourth is at its intron; the written prediction failed | `candidate/heldout/summary.md` |
 | 11 | notebook | "They are recent and unique" | "probably recent" | `candidate/heldout/summary.md` |
-| 12 | README, notebook | Blinded task "told only to find frameshifts"; "the known CTG shifts"; "glycine at each" | It was also asked for the residue and a systematic/scattered judgement. The CTG yeast has no documented sites (the agent found 5, the scan 3). Glycine holds under its preferred placement only; at 26266 miniprot faces Thr | `candidate/funnel/blind/TASK.md`, `candidate/funnel/blind/VERDICT.md` |
+| 12 | README, notebook | Blinded task "told only to find frameshifts"; "the known CTG shifts"; "glycine at each" | It was also asked for the residue and a systematic/scattered judgment. The CTG yeast has no documented sites (the agent found 5, the scan 3). Glycine holds under its preferred placement only; at 26266 miniprot faces Thr | `candidate/funnel/blind/TASK.md`, `candidate/funnel/blind/VERDICT.md` |
 | 13 | README | "In the DNA, not the assembly" | Read support from the same run excludes assembly and read errors in this sample; it is necessary, not sufficient | `protocol/design.md` decision 13 |
 | 14 | README | "flagged every time (76 of 76)" when every site is "detected" | When every site is *counted* at its codon: 76 of 76 with two sense sites; stop codons 0.976 (n = 42) | `protocol/controls/BARS.md` |
 | 15 | README | "would very likely catch a *Perkinsus*-like lineage (7 clean shifts)" | Removed. The text gives the computed chances with ranges, the scope, and the fact that listed lineages were exempt | `protocol/scan/lineage_sensitivity.md` |
@@ -82,7 +82,7 @@ The nuclear-gene check, the dN/dS test and the intron map were done afterwards a
   project's rules exclude assembly from reads.
 - An intron map across the four *Grigorovia* species.
 - A neutral figure with congener rows; dropping the animation. The animation was kept because the user asked for it,
-  labelled as a model. (Second round: the animation was removed from the release at the user's request.)
+  labeled as a model. (Second round: the animation was removed from the release at the user's request.)
 - Possibly cutting the *G. jiainica* section to a short "candidate, cause unknown" paragraph.
 
 # Second round (2026-11-22, after the six follow-up tests on *G. jiainica*)
@@ -102,7 +102,7 @@ Two fresh agents reviewed the revised text. Neither edited any file.
 | 4 | notebook §10 | "All are in the frozen-rules log": two errors were not | Logged in `protocol/frozen_rules.md` |
 | 5 | notebook §8b | "Only *G. yakushimaensis* had a mitogenome assembly" | "Of the three congeners, only…" |
 | 6 | `protocol/frozen_rules.md` | A 12:21 entry refers to a "12:23 entry" (should be the 12:11 entries); a later entry says "25–35%" (should be 24–32%) | Corrected by new log entries (the log is not edited in place) |
-| 7 | README opening | "Survived every computational check we could run" overstates: test 1 favours H2 at *cox1* by its logged rule, and the held-out congener prediction failed | Now: "survived every check that its extra bases are real". The original was the user's wording and is flagged to the user |
+| 7 | README opening | "Survived every computational check we could run" overstates: test 1 favors H2 at *cox1* by its logged rule, and the held-out congener prediction failed | Now: "survived every check that its extra bases are real". The original was the user's wording and is flagged to the user |
 | 8 | notebook §8c test 1 verdict | "Mixed" against the logged criterion | "H2 at *cox1* by the logged criterion", with the derived Ser noted |
 | 9 | notebook §8c test 2 verdict | "Against the scar version" was stronger than `candidate/followup/test2_summary.md` | "No precise scar; a weak link to intron positions" |
 | 10 | notebook §8b | "More than 100 nt from any intron" (true only for *S. cerevisiae*) | "From any *S. cerevisiae* intron" |
@@ -136,7 +136,7 @@ Two fresh agents reviewed the revised text. Neither edited any file.
 | R7 | CBS 10587 and ATCC MYA-4454 are the type strain, not "another strain" | Corrected, and recorded in `candidate/search_log/grigorovia_literature.md`. A PCR of an independent type-strain stock is suggested |
 | R8 | 100% of reads does not date the bases | Caveat added |
 | R9 | Read counts at the two close *cob* sites; strand balance | Recomputed (`candidate/followup/reads_strand.md`): balanced strands; 1,516 reads span both sites with both bases, none without |
-| R10 | Forking paths: H2-favouring anomalies were pursued, H1-favouring results were not stress-tested; the test 6 H1 prediction was partly written by the agent | Stated in notebook §9 and §8c |
+| R10 | Forking paths: H2-favoring anomalies were pursued, H1-favoring results were not stress-tested; the test 6 H1 prediction was partly written by the agent | Stated in notebook §9 and §8c |
 | R11 | An indel-to-substitution analysis would put a number on "very recently" | Not done; listed as open |
 | R12 | RNA editing that deletes a base may lack precedent in fungal mitochondria | Not adopted: we did not check the literature for it, so skip and editing are still listed without ranking |
 
@@ -210,7 +210,7 @@ agent; two newcomer reads by separate agents; and a claim diff against the pre-e
 
 ## File renames (2026-11-22, user request)
 
-The release was reorganised into `protocol/` (rules, corrections, the scan) and `candidate/` (the *G. jiainica*
+The release was reorganized into `protocol/` (rules, corrections, the scan) and `candidate/` (the *G. jiainica*
 follow-up). Contents are unchanged. Paths inside the files were updated, except in `protocol/frozen_rules.md` and
 `protocol/design.md`, which are kept verbatim as records and use the working repository's paths. Two mentions of
 `notes.md` in `protocol/prior_art.md` name a file in ry-xu/genome-research and were left as they are.

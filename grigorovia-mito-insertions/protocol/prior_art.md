@@ -79,7 +79,7 @@ for that paper's author manuscript and supplement.
 | *cob* | *Crassostrea virginica* (AY905542; not in RefSeq 238) | DNA only | Milbury & Gaffney 2005 (A) |
 | *nad4* (3 species), *cob* (1) | Venerid bivalves (*Leukoma*, *Anomalodiscus*, *Antigona*) | DNA only; "first time ... in Heterodonta" | Wang 2020 (A) |
 | *cytb* +1 inside a T run | *Arctica islandica* (NC_022709) | annotation only | RefSeq |
-| *cox1*, conserved frameshift | Foraminifera, order Miliolida: all 4 species analysed, no rotaliid | DNA only (single-cell genomics). "suggests that a mechanism for stop codon read-through or posttranscriptional mRNA modification of this codon exists in this lineage" | Macher et al. 2023 (K, me; found by the red team) |
+| *cox1*, conserved frameshift | Foraminifera, order Miliolida: all 4 species analyzed, no rotaliid | DNA only (single-cell genomics). "suggests that a mechanism for stop codon read-through or posttranscriptional mRNA modification of this codon exists in this lineage" | Macher et al. 2023 (K, me; found by the red team) |
 | *cox1*, +1 at CCC/CCU | Diatom *Phaeodactylum tricornutum* (NC_016739; not annotated) | DNA only | Oudot-Le Secq & Green 2011 (A) |
 | *cox1* fragment, +1 at GGC | *Amoebophrya* sp. A120 (not A25) | DNA only | Kayal & Smith 2021 (K) |
 | *nad5*, −1 | Strepsipteran *Dipterophagus daci* (NC_058598; not annotated) | 6 assemblies + 5 unamplified Sanger samples | Towett-Kirui 2022 (F-agent) |
@@ -90,7 +90,7 @@ for that paper's author manuscript and supplement.
 ## 3. Superseded: human −1 at AGA/AGG
 
 Temperley et al. 2010 (A) proposed a −1 shift before the AGA/AGG ends of human *MT-CO1* and *MT-ND6*.
-Later work shows that the release factors mtRF1 and mtRF1L recognise AGA/AGG directly:
+Later work shows that the release factors mtRF1 and mtRF1L recognize AGA/AGG directly:
 - ribosome profiling, *in vitro* assays and cryo-EM, reviewed by Krüger et al. 2024 (F-agent);
 - knockouts in Wakigawa et al. 2026 (F-agent).
 
@@ -178,7 +178,7 @@ gene ends are not a control, and shifts at gene ends are excluded from the codon
 - **MitoHiFi** (K) prefers final contigs whose "annotation includes no genes that contain a frameshift".
 - **MitoFinder** (K): in its ant case study the authors excluded "Sequences with internal stop codons ...
   potentially corresponding to nuclear mtDNA segments (NUMTs)". That was an analysis step, not tool
-  behaviour; the first version of this file misattributed it.
+  behavior; the first version of this file misattributed it.
 
 **How RefSeq and GenBank write a known shift.** Counted from RefSeq release 238, 17,648 non-land-plant
 records (`code/audit/annotation_census.py`, `code/audit/known_cases.py`):
@@ -256,7 +256,7 @@ frame elsewhere in the genome.**
 - codon and lineage tests;
 - per-phylum alignment coverage, showing where a code like *Perkinsus*'s could not have been seen.
 
-**Smaller additions, labelled exploratory:**
+**Smaller additions, labeled exploratory:**
 - the extent of CTGY shifts across the 2,695 fungi;
 - UGG shifts across all glass sponges;
 - bypass-like inserts outside *Magnusiomyces*;
@@ -275,13 +275,13 @@ See `PRIOR_ART_AUDIT.md`, answer 6.
   - Added venerid bivalves (Wang 2020), chytrid *cob* annotations, *Arctica*, other RefSeq-annotated single
     sites, Seligmann's claims, and Poehls 2025.
   - Corrected: *Perkinsus* *is* in RefSeq (NC_068742, NC_068743). Round 1 said GenBank only.
-  - Corrected: the MitoFinder "internal stop" exclusion was a case-study step, not tool behaviour.
-  - Corrected: sources read by the sweep agent as keyword windows were labelled "F"; they are now "K-sweep"
+  - Corrected: the MitoFinder "internal stop" exclusion was a case-study step, not tool behavior.
+  - Corrected: sources read by the sweep agent as keyword windows were labeled "F"; they are now "K-sweep"
     or re-read by me ("K").
   - Corrected: *Physarum* (*Badhamia polycephala*) is in the scan set.
   - Corrected: the CTGY yeasts in RefSeq are written as joins, not 1-bp introns (Wolters' statement
     concerns their own and the GenBank reference formatting).
-  - Added MFannot and MITOS2 behaviour from their code, and RefSeq annotation counts.
+  - Added MFannot and MITOS2 behavior from their code, and RefSeq annotation counts.
 - **2026-11-21 20:25, after the red team** (`PRIOR_ART_AUDIT.md`, answer 7). Every quote below was
   verified by me against the fetched source.
   - Added Lin et al. 2026 (*Heteranomia* TAG +1), which corrects the "nothing from 2025–2026" line.

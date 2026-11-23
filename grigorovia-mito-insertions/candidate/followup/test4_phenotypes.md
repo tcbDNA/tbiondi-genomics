@@ -5,7 +5,7 @@ Growth or assimilation on non-fermentable carbon. Quotes are short; "depth" says
 | species | ethanol | glycerol | lactate | succinate | citrate | other | source | quote or table cell (length) | depth |
 |---|---|---|---|---|---|---|---|---|---|
 | *G. yakushimaensis* | − | − | − | − | − | methanol −, gluconate − | Mikata, Ueda-Nishimura & Hisatomi 2001, *IJSEM* 51:2189 (original description, as *Saccharomyces yakushimaensis*) | "Glucose, galactose and trehalose (slow) are assimilated, but not … ethanol, methanol, glycerol … lactic acid, succinic acid, citric acid" (≈ 22 words, with ellipses); Table 3: Eth −, Gly −, LA −, SA −, GA − | full-text PDF; Table 3 viewed as an image |
-| | − | − | − | − | − | erythritol, mannitol, inositol − | Opulente et al. 2018, *BMC Biol*, Table S10 (curated from *The Yeasts*, 2011) | each cell "-" (row label misspelt "K. yakushimaenisis") | spreadsheet cells |
+| | − | − | − | − | − | erythritol, mannitol, inositol − | Opulente et al. 2018, *BMC Biol*, Table S10 (curated from *The Yeasts*, 2011) | each cell "-" (row label misspelled "K. yakushimaenisis") | spreadsheet cells |
 | *G. humatica* | − | − | − | − | − | methanol −, gluconate − | Mikata et al. 2001 (original description, as *S. humaticus*) | "Glucose and galactose are assimilated, but not … ethanol, methanol, glycerol … lactic acid, succinic acid, citric acid" (≈ 20 words); Table 3 all − | full text and table |
 | | − | − | − | − | − | | Opulente 2018 Table S10 | each cell "-" (row label "K. humantica") | spreadsheet cells |
 | *G. transvaalensis* | v | v | − | − | | gluconate + | Mikata et al. 2001, Table 3 (their tests on type strain IFO 1625) | "Eth v, Gly v, LA −, SA −, GA +" (table row) | table viewed as an image |
@@ -28,7 +28,7 @@ Growth or assimilation on non-fermentable carbon. Quotes are short; "depth" says
   could be more recent.
 - *G. transvaalensis* is uncertain: glycerol variable or positive in two sources, negative in the curated table, and
   its type culture is respiration-deficient in one stock.
-- No congener is documented to respire while *G. jiainica* does not. So the result that would have favoured a
+- No congener is documented to respire while *G. jiainica* does not. So the result that would have favored a
   *G. jiainica*-specific loss was not seen.
 
 ## The two controls used in test 3 (same literature search; quotes or cells as reported)

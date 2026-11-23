@@ -28,7 +28,7 @@ also at an intron in the congener.
   - *G. yakushimaensis*: `ATT GGT AGT TTT GGT AAT` = Ile Gly **Ser** Phe Gly Asn.
   - **The congener has Ser where the skip-A reading gives Gly.**
   - Skipping instead the G of AGG (`ATT GGA AGC TTT GGT`) gives Ser and fits the congener equally well or better. The
-    position of this extra base is ambiguous, and the most-related sequence favours a reading that is not AGG→GGC.
+    position of this extra base is ambiguous, and the most-related sequence favors a reading that is not AGG→GGC.
   - The distant reference proteins mostly have Gly here (8 of 10).
 - **cob 26266.**
   - *G. jiainica*: `GGA ATT [A]CT AGG CAA TTT`.

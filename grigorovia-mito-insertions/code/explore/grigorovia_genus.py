@@ -506,7 +506,7 @@ def dnds():
     lines = ["# Branch dN/dS (codeml, PAML 4.10.10; yeast mitochondrial code, icode = 2; F3x4; cleandata = 1)", "",
              f"Taxa: {', '.join(order)}. CDS from miniprot exon structures (S. cerevisiae proteins); G. jiainica's four extra bases "
              "fall in the gaps between miniprot segments and are therefore excluded. Codon alignments: MAFFT L-INS-i on proteins, "
-             "back-translated. Tree: neighbour joining on concatenated protein p-distances (unrooted), "
+             "back-translated. Tree: neighbor joining on concatenated protein p-distances (unrooted), "
              f"`{newick_plain(tree)}`.", "",
              "Tests per Grigorovia lineage (its terminal branch as foreground):",
              "- **A: different from background** — two-ratio model (model = 2) against one ratio (M0), 1 df.",

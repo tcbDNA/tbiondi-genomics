@@ -36,7 +36,7 @@ record cites (Forget et al. 2002) does not mention a frameshift.
   introns.
   - Its data include the congener *G. yakushimaensis* ("Kazachstania yakushimaensis yHAB166"). The annotation
     files in its figshare deposit (not the GenBank record, which has no CDS features) read cox1 and cob straight
-    through. That genome is GenBank OR703946, analysed here as the held-out relative.
+    through. That genome is GenBank OR703946, analyzed here as the held-out relative.
 - **Liu et al. 2024, *Persoonia*** (keyword search of the PDF text). Uses the NRRL Y-48843 nuclear genome for genus
   delimitation. No frameshift content.
 - **Groenewald et al. 2023, *Stud Mycol*** (keyword windows). Taxonomy only ("Grigorovia is nested within
@@ -88,6 +88,6 @@ among the strains in the Y1000+ phenotype tables (Opulente et al. 2024).
 ## Strains (added at the second review, 2026-11-22)
 
 - **SF1S05 is the type strain of the species.** Lee et al. (2008) give SF1S05T = CBS 10587T. The referee agent
-  confirmed that the ATCC catalogue lists ATCC MYA-4454 as SF1S05, the type strain (catalogue entry, read directly).
+  confirmed that the ATCC catalog lists ATCC MYA-4454 as SF1S05, the type strain (catalog entry, read directly).
 - **The sequenced strain is NRRL Y-48843** (BioSample SAMN20341879). No record we found says whether it is a deposit of
   the same isolate as SF1S05.

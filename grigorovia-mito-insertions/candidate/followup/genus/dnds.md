@@ -1,6 +1,6 @@
 # Branch dN/dS (codeml, PAML 4.10.10; yeast mitochondrial code, icode = 2; F3x4; cleandata = 1)
 
-Taxa: Abovina, Atelluris, Ghumatica, Gjiainica, Gtransvaal, Gyakushima, Mservazzii. CDS from miniprot exon structures (S. cerevisiae proteins); G. jiainica's four extra bases fall in the gaps between miniprot segments and are therefore excluded. Codon alignments: MAFFT L-INS-i on proteins, back-translated. Tree: neighbour joining on concatenated protein p-distances (unrooted), `((Mservazzii,(Abovina,Atelluris)),(Gyakushima,(Gtransvaal,Ghumatica)),Gjiainica);`.
+Taxa: Abovina, Atelluris, Ghumatica, Gjiainica, Gtransvaal, Gyakushima, Mservazzii. CDS from miniprot exon structures (S. cerevisiae proteins); G. jiainica's four extra bases fall in the gaps between miniprot segments and are therefore excluded. Codon alignments: MAFFT L-INS-i on proteins, back-translated. Tree: neighbor joining on concatenated protein p-distances (unrooted), `((Mservazzii,(Abovina,Atelluris)),(Gyakushima,(Gtransvaal,Ghumatica)),Gjiainica);`.
 
 Tests per Grigorovia lineage (its terminal branch as foreground):
 - **A: different from background** — two-ratio model (model = 2) against one ratio (M0), 1 df.

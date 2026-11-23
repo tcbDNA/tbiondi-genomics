@@ -2,7 +2,7 @@
 
 Outputs (data/work/, not committed):
   genomes.tsv        one row per record: set, taxonomy pools, genetic code, length, CDS count
-  cds.tsv            annotated CDS (RefSeq only): normalised gene, strand, parts, protein id
+  cds.tsv            annotated CDS (RefSeq only): normalized gene, strand, parts, protein id
   introns.tsv        annotated intron edges (intron features and CDS-join gaps > 30 nt), RefSeq only
   queries/code_<n>.fna   genome sequences grouped by mitochondrial genetic code (main + land plants)
   ref_proteins.faa   reference proteins: one representative RefSeq genome per family pool
@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data/raw"
 WORK = ROOT / "data/work"
 
-GENE_PATTERNS = [  # (normalised name, regex on gene/product), first match wins
+GENE_PATTERNS = [  # (normalized name, regex on gene/product), first match wins
     ("nad4l", r"\bn(a)?d(h)?4l\b|nadh dehydrogenase subunit 4l|subunit 4L"),
     ("cox1", r"\bco(x)?1\b|\bcoi\b|cytochrome c oxidase subunit (1|i)\b"),
     ("cox2", r"\bco(x)?2\b|\bcoii\b|cytochrome c oxidase subunit (2|ii)\b"),

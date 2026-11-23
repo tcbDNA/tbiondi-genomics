@@ -4,7 +4,7 @@
 
 Rules (DESIGN.md amendment 4, PREREG.md section 1):
   - EXCLUDE: reference genomes removed from the references (NC_079576, "Pholiota spumosa", is a
-    mislabelled ascomycete; Strophariaceae has no other RefSeq genome with proteins, so it gets no
+    mislabeled ascomycete; Strophariaceae has no other RefSeq genome with proteins, so it gets no
     representative).
   - --length-filter: drop core-gene reference proteins longer than LENGTH_FACTOR x the median length of
     that gene among references of the same kingdom group (Metazoa, Fungi, Viridiplantae, other). Such

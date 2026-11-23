@@ -76,7 +76,7 @@ Neither assembly is circular, as AT-rich spacers and GC clusters usually break y
 | *G. transvaalensis* | TCC | 16 (assembly incomplete) |
 
 **4. Tree.**
-- Neighbour joining on the concatenated proteins of the seven genes gives
+- Neighbor joining on the concatenated proteins of the seven genes gives
   ((*M. servazzii*, (*A. bovina*, *A. telluris*)), (*G. yakushimaensis*, (*G. transvaalensis*, *G. humatica*)),
   *G. jiainica*).
 - *G. jiainica* is the earliest-diverging of the four, as the nuclear protein identities also suggest (test 3).

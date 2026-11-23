@@ -55,6 +55,6 @@ only, not function.
   - All other protein genes are full length without stops or frameshifts.
   - The rRNAs and RPM1 are present.
   - The tRNA set is complete and matches the congener's, except tRNA-Gly.
-- **This favours H1, weakly** (as logged). The extra bases are confined to cox1 and cob.
+- **This favors H1, weakly** (as logged). The extra bases are confined to cox1 and cob.
 - Under H2, a genome that had stopped needing complex III and IV would be expected to accumulate damage in cox2 and
   cox3 too, given time. None is seen. So either the loss is very recent, or cox1/cob are still translated.
