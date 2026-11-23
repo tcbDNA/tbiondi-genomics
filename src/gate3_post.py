@@ -76,10 +76,11 @@ if __name__=="__main__":
     rows=list(csv.DictReader(open("results/mitogenome_master.tsv"),delimiter="\t")); R={json.loads(l)["acc"]:json.loads(l) for l in open("results/gate3/run/out.jsonl")}
     inc=[r for r in rows if r["status"]=="included"]; C=[r for r in inc if r["role"]=="confirmatory" and r["provenance"]!="named_extra"]; stop=[r for r in inc if r["uaa"]=="Stop" and r["provenance"]!="named_extra"]
     with open("results/gate3/post.txt","w") as o:
-        W=lambda *x: print(*x,file=o); W("== weak-tier audit"); wk=[r for r in C if r["uaa"]=="weak"]; oth=[r for r in inc if r["uaa"] in("Tyr","weak")]
+        W=lambda *x: print(*x,file=o)
+        W("== weak-tier audit"); wk=[r for r in C if r["uaa"]=="weak"]; oth=[r for r in inc if r["uaa"] in("Tyr","weak")]
         for r in wk: W("  ",weak_audit(r,stop,oth))
-        
         for lv in("family","order"):
-            LEVEL=lv; globals()["LEVEL"]=lv; W(f"== A1 (clusters by {lv})"); A1(C,W); W(f"== B1 (clusters by {lv})"); B1(C,R,W,"first"); B1(C,R,W,"tagfirst")
-         W("== T6"); T6(inc,R,W)
+            LEVEL=lv
+            W(f"== A1 (clusters by {lv})"); A1(C,W); W(f"== B1 (clusters by {lv})"); B1(C,R,W,"first"); B1(C,R,W,"tagfirst")
+        W("== T6"); T6(inc,R,W)
     print(open("results/gate3/post.txt").read()[:4000])
