@@ -169,8 +169,9 @@ last few percent of the branch, and none of the other genes we checked looks bro
 **The pattern of the insertions (noticed after the fact).**
 - **GGC.** *G. jiainica*'s seven core mitochondrial genes (*cox1*, *cob*, *cox2*, *cox3*, *atp6*, *atp8*, *atp9*; the
   scan found no *nad* genes in it) contain 4 GGC codons in 1,815 (5.4% G or C at third codon positions), and all four
-  sit at the extra bases. The extra base can be placed right before each; at *cob* 26266 the best-fitting placement is
-  one codon earlier, and both give Thr-Gly.
+  sit at the extra bases. These are the only GGC codons in *cox1* and *cob*: one in *cox1* and three in *cob*, each at an
+  extra-base site; the other five genes have none. The extra base can be placed right before each; at *cob* 26266 the
+  best-fitting placement is one codon earlier, and both give Thr-Gly.
 - **Congeners and outgroups.** They have GGT, GGA or GGG at these four codons, so each event pairs an extra A or T
   with a change of the next codon to GGC, a codon the genes use nowhere else. The same pairing at all four sites
   points to a process tied to these places.

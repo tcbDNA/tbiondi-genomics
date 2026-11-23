@@ -207,3 +207,8 @@ agent; two newcomer reads by separate agents; and a claim diff against the pre-e
 - **Length of the *G. jiainica* section and its gene-by-gene list:** user-specified.
 - **The author-name placeholder** and the missing issue link: for the user at publication. (The name was filled in
   when the repository was prepared: Thomas Biondi.)
+
+2026-11-23 07:08 EST, user request: the README's GGC bullet now states that the four GGC codons are the only GGC codons in *cox1* and
+*cob* (one in *cox1*, three in *cob*, each at an extra-base site; none in the other five core genes). Checked against
+`candidate/followup/genus/ggc_sites.md` and a recount of the *G. jiainica* rows of the codon alignments
+(`codon_alignments/`): *cox1* 529 codons, 1 GGC; *cob* 384 codons, 3 GGC; the other five genes 902 codons, 0 GGC.
