@@ -196,4 +196,6 @@ Rules: verified GUA in a 7-nt loop with stem ≥4/5; overlap ≤10 nt with any a
 - **Sweep set:** 33,080 representatives, 32,982 included; excluded: 94 ambiguous bases >1%, 3 length, 1 by PREREG (`OZ576062`). Roles among included: 32,624 confirmatory, 334 panel, 24 panel species. All 13,199 GenBank records requested for Gate 3 were retrieved.
 
 ## A14. PREREG lock
-(hash recorded in the following commit)
+- PREREG.md commit: `5aa5774eb2ee906a9838a578bf4ccbe1d012bb92` (2026-11-23T16:51:04-05:00)
+- PREREG.md SHA256: `e23bc13f37ca48647b86cdc6b3d70abc5f7e0b69c71968de05e7b32285b4fa0c`
+- Gate 3 code is refused unless PREREG.md is committed, unmodified, and its SHA256 appears in this file (`src/panel_guard.py`).
