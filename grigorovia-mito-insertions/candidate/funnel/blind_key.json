@@ -1,0 +1,16 @@
+{
+ "key": {
+  "genome_1": "BK073182.1",
+  "genome_2": "BK073075.1",
+  "genome_3": "BK073486.1"
+ },
+ "roles": {
+  "genome_1": "decoy: closest relative, no clean shifts (Kazachstania bromeliacearum)",
+  "genome_2": "candidate (Grigorovia jiainica)",
+  "genome_3": "decoy: CTG yeast (Monosporozyma solicola)"
+ },
+ "references": {
+  "NC_001224.1": "refA",
+  "NC_037703.1": "refB"
+ }
+}

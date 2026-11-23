@@ -1,0 +1,699 @@
+{
+ "Grigorovia AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "Grigorovia AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "Grigorovia AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "Grigorovia AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "Grigorovia AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "Grigorovia AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "Grigorovia AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "Grigorovia AND insertion": [
+  0,
+  []
+ ],
+ "Grigorovia AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "Grigorovia AND pseudogene": [
+  0,
+  []
+ ],
+ "Grigorovia AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "Grigorovia AND (\"codon reassignment\" OR reassignment)": [
+  1,
+  [
+   [
+    "MED",
+    "38895705",
+    "2023",
+    "A genome-informed higher rank classification of the biotechnologically important fungal su"
+   ]
+  ]
+ ],
+ "Grigorovia AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "Grigorovia AND mitochondri*": [
+  1,
+  [
+   [
+    "MED",
+    "39161631",
+    "2024",
+    "<i>Saccharomycetaceae</i>: delineation of fungal genera based on phylogenomic analyses, ge"
+   ]
+  ]
+ ],
+ "jiainica AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "jiainica AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "jiainica AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "jiainica AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "jiainica AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "jiainica AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "jiainica AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "jiainica AND insertion": [
+  0,
+  []
+ ],
+ "jiainica AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "jiainica AND pseudogene": [
+  0,
+  []
+ ],
+ "jiainica AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "jiainica AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "jiainica AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "jiainica AND mitochondri*": [
+  1,
+  [
+   [
+    "MED",
+    "39161631",
+    "2024",
+    "<i>Saccharomycetaceae</i>: delineation of fungal genera based on phylogenomic analyses, ge"
+   ]
+  ]
+ ],
+ "jiainicus AND (frameshift OR frameshifts OR frameshifting)": [
+  1,
+  [
+   [
+    "MED",
+    "38419295",
+    "2024",
+    "Unlocking the plant growth-promoting potential of yeast spp.: exploring species from the M"
+   ]
+  ]
+ ],
+ "jiainicus AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "jiainicus AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "jiainicus AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "jiainicus AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "jiainicus AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "jiainicus AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "jiainicus AND insertion": [
+  0,
+  []
+ ],
+ "jiainicus AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "jiainicus AND pseudogene": [
+  0,
+  []
+ ],
+ "jiainicus AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "jiainicus AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "jiainicus AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "jiainicus AND mitochondri*": [
+  0,
+  []
+ ],
+ "SF1S05 AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "SF1S05 AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "SF1S05 AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "SF1S05 AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "SF1S05 AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "SF1S05 AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "SF1S05 AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "SF1S05 AND insertion": [
+  0,
+  []
+ ],
+ "SF1S05 AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "SF1S05 AND pseudogene": [
+  0,
+  []
+ ],
+ "SF1S05 AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "SF1S05 AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "SF1S05 AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "SF1S05 AND mitochondri*": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND insertion": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND pseudogene": [
+  1,
+  [
+   [
+    "MED",
+    "31353182",
+    "2019",
+    "Multiple Reinventions of Mating-type Switching during Budding Yeast Evolution."
+   ]
+  ]
+ ],
+ "\"Kazachstania transvaalensis\" AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "\"Kazachstania transvaalensis\" AND mitochondri*": [
+  1,
+  [
+   [
+    "MED",
+    "39161631",
+    "2024",
+    "<i>Saccharomycetaceae</i>: delineation of fungal genera based on phylogenomic analyses, ge"
+   ]
+  ]
+ ],
+ "\"Saccharomyces transvaalensis\" AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND insertion": [
+  1,
+  [
+   [
+    "MED",
+    "12364601",
+    "2002",
+    "Deletions in the S1 domain of Rrp5p cause processing at a novel site in ITS1 of yeast pre-"
+   ]
+  ]
+ ],
+ "\"Saccharomyces transvaalensis\" AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND pseudogene": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces transvaalensis\" AND mitochondri*": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND insertion": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND pseudogene": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "\"Kazachstania humatica\" AND mitochondri*": [
+  1,
+  [
+   [
+    "MED",
+    "39161631",
+    "2024",
+    "<i>Saccharomycetaceae</i>: delineation of fungal genera based on phylogenomic analyses, ge"
+   ]
+  ]
+ ],
+ "\"Saccharomyces humaticus\" AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND insertion": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND pseudogene": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces humaticus\" AND mitochondri*": [
+  1,
+  [
+   [
+    "MED",
+    "27199969",
+    "2016",
+    "The Microbiota and Health Promoting Characteristics of the Fermented Beverage Kefir."
+   ]
+  ]
+ ],
+ "\"Kazachstania yakushimaensis\" AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND insertion": [
+  1,
+  [
+   [
+    "MED",
+    "37679437",
+    "2023",
+    "High quality de novo genome assembly of the non-conventional yeast Kazachstania bulderi de"
+   ]
+  ]
+ ],
+ "\"Kazachstania yakushimaensis\" AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND pseudogene": [
+  1,
+  [
+   [
+    "MED",
+    "31353182",
+    "2019",
+    "Multiple Reinventions of Mating-type Switching during Budding Yeast Evolution."
+   ]
+  ]
+ ],
+ "\"Kazachstania yakushimaensis\" AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "\"Kazachstania yakushimaensis\" AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  1,
+  [
+   [
+    "MED",
+    "37679437",
+    "2023",
+    "High quality de novo genome assembly of the non-conventional yeast Kazachstania bulderi de"
+   ]
+  ]
+ ],
+ "\"Kazachstania yakushimaensis\" AND mitochondri*": [
+  2,
+  [
+   [
+    "MED",
+    "37679437",
+    "2023",
+    "High quality de novo genome assembly of the non-conventional yeast Kazachstania bulderi de"
+   ],
+   [
+    "MED",
+    "39161631",
+    "2024",
+    "<i>Saccharomycetaceae</i>: delineation of fungal genera based on phylogenomic analyses, ge"
+   ]
+  ]
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (frameshift OR frameshifts OR frameshifting)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND \"frame shift\"": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (\"translational bypass\" OR \"translational bypassing\" OR bypassing)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (jumping OR \"ribosome jumping\" OR \"ribosomal jumping\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (hopping OR \"ribosome hopping\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (\"ribosomal slippage\" OR slippage)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND \"RNA editing\"": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND insertion": [
+  1,
+  [
+   [
+    "MED",
+    "37679437",
+    "2023",
+    "High quality de novo genome assembly of the non-conventional yeast Kazachstania bulderi de"
+   ]
+  ]
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (\"extra nucleotide\" OR \"extra base\" OR \"additional nucleotide\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND pseudogene": [
+  1,
+  [
+   [
+    "MED",
+    "31353182",
+    "2019",
+    "Multiple Reinventions of Mating-type Switching during Budding Yeast Evolution."
+   ]
+  ]
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (\"genetic code\" OR \"non-standard genetic code\" OR \"unusual genetic code\")": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (\"codon reassignment\" OR reassignment)": [
+  0,
+  []
+ ],
+ "\"Saccharomyces yakushimaensis\" AND (\"mitochondrial genome\" OR mitogenome OR \"mitochondrial DNA\" OR mtDNA)": [
+  1,
+  [
+   [
+    "MED",
+    "37679437",
+    "2023",
+    "High quality de novo genome assembly of the non-conventional yeast Kazachstania bulderi de"
+   ]
+  ]
+ ],
+ "\"Saccharomyces yakushimaensis\" AND mitochondri*": [
+  3,
+  [
+   [
+    "MED",
+    "38786707",
+    "2024",
+    "Genome Characteristics of the Endophytic Fungus <i>Talaromyces</i> sp. DC2 Isolated from <"
+   ],
+   [
+    "MED",
+    "37679437",
+    "2023",
+    "High quality de novo genome assembly of the non-conventional yeast Kazachstania bulderi de"
+   ],
+   [
+    "MED",
+    "39161631",
+    "2024",
+    "<i>Saccharomycetaceae</i>: delineation of fungal genera based on phylogenomic analyses, ge"
+   ]
+  ]
+ ]
+}

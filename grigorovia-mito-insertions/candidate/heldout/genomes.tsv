@@ -1,0 +1,2 @@
+accession	gc	n_hits	aligned_nt	masked_nt	masked_share	genes_hit	n_genes_hit	n_events	n_clean	n_split	n_inserts_intron	n_inserts_bypass_like	n_stop_columns
+OR703946.1	0.2434	9	6786	450	0.0663	atp6,atp9,cob,cox1,cox2,cox3,other:orf146,other:rps5	8	4	0	0	1	3	2

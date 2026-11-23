@@ -1,0 +1,11 @@
+[project]
+name = "grigorovia-mito-insertions"
+version = "0.1.0"
+description = "Scan for recurring-codon frameshifts in mitochondrial genomes"
+requires-python = ">=3.12"
+dependencies = [
+    "biopython>=1.88",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+    "pillow>=13.0.0",
+]

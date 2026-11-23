@@ -1,0 +1,709 @@
+[
+ {
+  "accession": "NC_036748.1",
+  "organism": "Huiozyma sinensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036375.1",
+  "organism": "Torulaspora quercuum",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036376.1",
+  "organism": "Torulaspora microellipsoides",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036377.1",
+  "organism": "Naumovozyma dairenensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036378.1",
+  "organism": "Monosporozyma unispora",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036379.1",
+  "organism": "Nakaseomyces nivariensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036380.1",
+  "organism": "Nakaseomyces bracarensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_018044.1",
+  "organism": "Saccharomyces paradoxus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036374.1",
+  "organism": "Zygosaccharomyces mellis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_027458.1",
+  "organism": "Torulaspora franciscae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_027264.1",
+  "organism": "Saccharomyces cerevisiae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_027457.1",
+  "organism": "Torulaspora pretoriensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031512.1",
+  "organism": "Saccharomyces uvarum",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_027433.1",
+  "organism": "Torulaspora delbrueckii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 1,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031511.1",
+  "organism": "Saccharomyces arboricola",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031513.1",
+  "organism": "Saccharomyces x bayanus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031514.1",
+  "organism": "Saccharomyces cariocanus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031515.1",
+  "organism": "Saccharomyces pastorianus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_036023.1",
+  "organism": "Kluyveromyces marxianus DMKU3-1042",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_027459.1",
+  "organism": "Torulaspora globosa",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_059893.1",
+  "organism": "Saccharomyces cerevisiae x Saccharomyces paradoxus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031184.1",
+  "organism": "Saccharomyces kudriavzevii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_031185.1",
+  "organism": "Saccharomyces mikatae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_018056.1",
+  "organism": "Lachancea kluyveri",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_004691.1",
+  "organism": "Nakaseomyces glabratus CBS 138",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_012145.1",
+  "organism": "Saccharomyces pastorianus Weihenstephan 34/70",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_025331.1",
+  "organism": "Kluyveromyces marxianus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_006626.1",
+  "organism": "Lachancea thermotolerans",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_001224.1",
+  "organism": "Saccharomyces cerevisiae S288C",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_005789.1",
+  "organism": "Eremothecium gossypii ATCC 10895",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_012619.1",
+  "organism": "Nakaseomyces delphensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_012620.1",
+  "organism": "Oligophagozyma castellii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_012621.1",
+  "organism": "Cylindricascospora bacillispora",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_016756.1",
+  "organism": "Eremothecium gossypii FDAG1",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_003920.1",
+  "organism": "Naumovozyma castellii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_004918.1",
+  "organism": "Monosporozyma servazzii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_006077.1",
+  "organism": "Kluyveromyces lactis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NC_029458.1",
+  "organism": "Eremothecium sinecaudum",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NW_023500906.1",
+  "organism": "Zygotorulaspora mrakii",
+  "gly_aragorn": "tcc,tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "NW_017264706.1",
+  "organism": "Saccharomyces eubayanus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK072186.1",
+  "organism": "Arxiozyma bovina",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK072187.1",
+  "organism": "Arxiozyma heterogenica",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK072188.1",
+  "organism": "Arxiozyma telluris",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073075.1",
+  "organism": "Grigorovia jiainica (nom. inval.)",
+  "gly_aragorn": "gcc",
+  "agg_shift_events": 3,
+  "agg_clean": 3
+ },
+ {
+  "accession": "BK073105.1",
+  "organism": "Henningerozyma blattae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073131.1",
+  "organism": "Huiozyma naganishii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073173.1",
+  "organism": "Jamesozyma gamospora",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073174.1",
+  "organism": "Jamesozyma hellenica",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073175.1",
+  "organism": "Jamesozyma jinghongensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073176.1",
+  "organism": "Jamesozyma lodderae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073177.1",
+  "organism": "Jamesozyma piceae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073178.1",
+  "organism": "Jamesozyma spencerorum",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073182.1",
+  "organism": "Kazachstania bromeliacearum",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073183.1",
+  "organism": "Kazachstania kunashirensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073184.1",
+  "organism": "Kazachstania taianensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073185.1",
+  "organism": "Kazachstania viticola",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073189.1",
+  "organism": "Kluyveromyces aestuarii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073190.1",
+  "organism": "Kluyveromyces dobzhanskii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073191.1",
+  "organism": "Kluyveromyces starmeri",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073192.1",
+  "organism": "Kluyveromyces wickerhamii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073240.1",
+  "organism": "Lachancea cidri",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073241.1",
+  "organism": "Lachancea mirantina",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073242.1",
+  "organism": "Lachancea quebecensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073243.1",
+  "organism": "Lachancea sp. yHQL494",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073244.1",
+  "organism": "Lachancea waltii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073404.1",
+  "organism": "Maudiozyma barnettii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073405.1",
+  "organism": "Maudiozyma bulderi",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 1,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073406.1",
+  "organism": "Maudiozyma exigua",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073407.1",
+  "organism": "Maudiozyma humilis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073408.1",
+  "organism": "Maudiozyma saulgeensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073484.1",
+  "organism": "Monosporozyma aerobia",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 1,
+  "agg_clean": 1
+ },
+ {
+  "accession": "BK073485.1",
+  "organism": "Monosporozyma siamensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073486.1",
+  "organism": "Monosporozyma solicola",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073615.1",
+  "organism": "Nakaseomyces cf. glabratus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073616.1",
+  "organism": "Nakaseomyces kungkrabaensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073617.1",
+  "organism": "Nakaseomyces uthaithaninus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK073632.1",
+  "organism": "Naumovozyma baii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074109.1",
+  "organism": "Saccharomyces cerevisiae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 1,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074110.1",
+  "organism": "Saccharomyces sp. FC-2024a",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074111.1",
+  "organism": "Saccharomyces sp. ZIM3587",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074112.1",
+  "organism": "Saccharomyces sp. sm401",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074356.1",
+  "organism": "Tetrapisispora fleetii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074357.1",
+  "organism": "Tetrapisispora namnaoensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074358.1",
+  "organism": "Tetrapisispora nanseiensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074359.1",
+  "organism": "Tetrapisispora phaffii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074360.1",
+  "organism": "Tetrapisispora pingtungensis (nom. inval.)",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074404.1",
+  "organism": "Torulaspora maleeae",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 1,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074508.1",
+  "organism": "Vanderwaltozyma verrucispora",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074653.1",
+  "organism": "Yueomyces sinensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074654.1",
+  "organism": "Yueomyces sp. yHKB289",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074668.1",
+  "organism": "Zygosaccharomyces bailii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074669.1",
+  "organism": "Zygosaccharomyces bisporus",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074670.1",
+  "organism": "Zygosaccharomyces gambellarensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074671.1",
+  "organism": "Zygosaccharomyces kombuchaensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074672.1",
+  "organism": "Zygosaccharomyces pseudobailii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074673.1",
+  "organism": "Zygosaccharomyces pseudorouxii (nom. inval.)",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074674.1",
+  "organism": "Zygosaccharomyces rouxii",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074675.1",
+  "organism": "Zygosaccharomyces siamensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074676.1",
+  "organism": "Zygotorulaspora chibaensis",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074677.1",
+  "organism": "Zygotorulaspora florentina",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ },
+ {
+  "accession": "BK074678.1",
+  "organism": "Zygotorulaspora sp. UFMG-CM-Y6047",
+  "gly_aragorn": "tcc",
+  "agg_shift_events": 0,
+  "agg_clean": 0
+ }
+]

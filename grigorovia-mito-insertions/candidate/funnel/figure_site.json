@@ -1,0 +1,240 @@
+{
+ "genome": "BK073075.1",
+ "species": "Grigorovia jiainica",
+ "strain": "NRRL Y-48843",
+ "gene": "cob",
+ "sites_1based": [
+  26496,
+  26477
+ ],
+ "reference": "Saccharomyces cerevisiae S288C COB (NP_009315.1)",
+ "items": [
+  {
+   "kind": "codon",
+   "codon": "TTA",
+   "aa": "L",
+   "ref": "L"
+  },
+  {
+   "kind": "codon",
+   "codon": "GGA",
+   "aa": "G",
+   "ref": "G"
+  },
+  {
+   "kind": "codon",
+   "codon": "TAC",
+   "aa": "Y",
+   "ref": "Y"
+  },
+  {
+   "kind": "codon",
+   "codon": "TGT",
+   "aa": "C",
+   "ref": "C"
+  },
+  {
+   "kind": "codon",
+   "codon": "TGT",
+   "aa": "C",
+   "ref": "C"
+  },
+  {
+   "kind": "codon",
+   "codon": "GTA",
+   "aa": "V",
+   "ref": "V"
+  },
+  {
+   "kind": "codon",
+   "codon": "TAT",
+   "aa": "Y",
+   "ref": "Y"
+  },
+  {
+   "kind": "skip",
+   "base": "A"
+  },
+  {
+   "kind": "codon",
+   "codon": "GGC",
+   "aa": "G",
+   "ref": "G"
+  },
+  {
+   "kind": "codon",
+   "codon": "CAA",
+   "aa": "Q",
+   "ref": "Q"
+  },
+  {
+   "kind": "codon",
+   "codon": "ATG",
+   "aa": "M",
+   "ref": "M"
+  },
+  {
+   "kind": "codon",
+   "codon": "TCA",
+   "aa": "S",
+   "ref": "S"
+  },
+  {
+   "kind": "codon",
+   "codon": "CAT",
+   "aa": "H",
+   "ref": "H"
+  },
+  {
+   "kind": "codon",
+   "codon": "TGA",
+   "aa": "W",
+   "ref": "W"
+  },
+  {
+   "kind": "skip",
+   "base": "T"
+  },
+  {
+   "kind": "codon",
+   "codon": "GGC",
+   "aa": "G",
+   "ref": "G"
+  },
+  {
+   "kind": "codon",
+   "codon": "GCA",
+   "aa": "A",
+   "ref": "A"
+  },
+  {
+   "kind": "codon",
+   "codon": "CTA",
+   "aa": "T",
+   "ref": "T"
+  },
+  {
+   "kind": "codon",
+   "codon": "GTT",
+   "aa": "V",
+   "ref": "V"
+  }
+ ],
+ "without_skip": [
+  [
+   "AGG",
+   "R"
+  ],
+  [
+   "CCA",
+   "P"
+  ],
+  [
+   "AAT",
+   "N"
+  ],
+  [
+   "GTC",
+   "V"
+  ],
+  [
+   "ACA",
+   "T"
+  ],
+  [
+   "TTG",
+   "L"
+  ],
+  [
+   "ATG",
+   "M"
+  ],
+  [
+   "GCG",
+   "A"
+  ],
+  [
+   "CAC",
+   "H"
+  ],
+  [
+   "TAG",
+   "*"
+  ]
+ ],
+ "reads_with_without": {
+  "26496": [
+   1718,
+   0
+  ],
+  "26477": [
+   1733,
+   0
+  ]
+ },
+ "trna_anticodons": {
+  "Met": [
+   "CAT"
+  ],
+  "Ala": [
+   "TGC"
+  ],
+  "Leu": [
+   "TAA"
+  ],
+  "Gln": [
+   "TTG"
+  ],
+  "Lys": [
+   "TTT"
+  ],
+  "Arg": [
+   "TCT"
+  ],
+  "Ser": [
+   "GCT",
+   "TGA"
+  ],
+  "Val": [
+   "TAC"
+  ],
+  "Gly": [
+   "GCC"
+  ],
+  "Thr": [
+   "TGT"
+  ],
+  "Phe": [
+   "GAA"
+  ],
+  "Sup": [
+   "TCA",
+   "TTA"
+  ],
+  "Cys": [
+   "GCA"
+  ],
+  "His": [
+   "GTG"
+  ],
+  "Pro": [
+   "TGG"
+  ],
+  "Glu": [
+   "TTC"
+  ],
+  "Asp": [
+   "GTC"
+  ],
+  "Tyr": [
+   "GTA"
+  ],
+  "Asn": [
+   "GTT"
+  ],
+  "Ile": [
+   "GAT"
+  ]
+ },
+ "trna_note": "tRNAscan-SE 2.0.12 -O on BK073075.1; 'Sup' rows are named by the standard code (TCA reads UGA = Trp in code 3)"
+}

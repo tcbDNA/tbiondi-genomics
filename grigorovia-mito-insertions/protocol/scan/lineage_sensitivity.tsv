@@ -1,0 +1,1322 @@
+lineage	accession	organism	documented_sites	counted	flagged	sites
+CTG yeasts	NC_036748.1	Huiozyma sinensis	3	2	+1CTG	cox3@16878 [record annotation]: counted; atp6@29007 [record annotation]: counted; cob@34612 [record annotation]: misplaced (shift elsewhere in the gene)
+CTG yeasts	NC_036378.1	Monosporozyma unispora	2	1	no	atp6@7780 [record annotation]: clean_other_codon; cox2@14542 [record annotation]: counted; rps3@26764 [record annotation]: non-core gene (not tested)
+CTG yeasts	NC_036379.1	Nakaseomyces nivariensis	0	0	no	no documented sites
+CTG yeasts	NC_036380.1	Nakaseomyces bracarensis	0	0	no	no documented sites
+CTG yeasts	NC_004691.1	Nakaseomyces glabratus CBS 138	1	0	no	cox2 [record note, 3' end (K15)]: detected clean in gene (codon not checked)
+CTG yeasts	NC_012619.1	Nakaseomyces delphensis	0	0	no	no documented sites
+CTG yeasts	NC_004918.1	Monosporozyma servazzii	5	1	+1CTG	cox2@4697 [record annotation]: clean_other_codon; cob@8588 [record annotation]: flank_fail; cob@8610 [record annotation]: flank_fail; cox3@18298 [record annotation]: counted; atp6@28460 [record annotation]: clean_other_codon
+CTG yeasts	BK073131.1	Huiozyma naganishii	0	0	+1CTG	no documented sites
+CTG yeasts	BK073182.1	Kazachstania bromeliacearum	0	0	no	no documented sites
+CTG yeasts	BK073183.1	Kazachstania kunashirensis	0	0	no	no documented sites
+CTG yeasts	BK073184.1	Kazachstania taianensis	0	0	no	no documented sites
+CTG yeasts	BK073185.1	Kazachstania viticola	0	0	+1CTG	no documented sites
+CTG yeasts	BK073484.1	Monosporozyma aerobia	0	0	+1CTG	no documented sites
+CTG yeasts	BK073485.1	Monosporozyma siamensis	0	0	no	no documented sites
+CTG yeasts	BK073486.1	Monosporozyma solicola	0	0	+1CTG	no documented sites
+CTG yeasts	BK073615.1	Nakaseomyces cf. glabratus	0	0	no	no documented sites
+CTG yeasts	BK073616.1	Nakaseomyces kungkrabaensis	0	0	no	no documented sites
+CTG yeasts	BK073617.1	Nakaseomyces uthaithaninus	0	0	no	no documented sites
+glass sponges	NC_010769.1	Aphrocallistes vastus	2	2	+1TGG	cox3@3513 [record annotation]: counted; nad6@11256 [record annotation]: counted
+glass sponges	NC_072601.1	Caulophacus iocasicus	0	0	no	no documented sites
+glass sponges	NC_027419.1	Oopsacas minuta	0	0	no	no documented sites
+glass sponges	NC_028054.1	Vazella pourtalesii	0	0	no	no documented sites
+Perkinsus	NC_068742.1	Perkinsus marinus	19	6	+1AGG	cox1@1589 [record annotation]: paired; cox1@1608 [record annotation]: paired; cox1@1748 [record annotation]: paired; cox1@1827 [record annotation]: counted; cox1@2404 [record annotation]: counted; cox1@2447 [record annotation]: counted; cox1@2526 [record annotation]: misplaced (shift elsewhere in the gene); cox1@2593 [record annotation]: misplaced (shift elsewhere in the gene); cox1@2648 [record annotation]: misplaced (shift elsewhere in the gene); cox1@2664 [record annotation]: misplaced (shift elsewhere in the gene); cox3@15034 [record annotation]: not_aligned; cob@27089 [record annotation]: paired; cob@27132 [record annotation]: paired; cob@27212 [record annotation]: paired; cob@27414 [record annotation]: counted; cob@27445 [record annotation]: counted; cob@27476 [record annotation]: counted; cob@27669 [record annotation]: clean_other_codon; cob@27925 [record annotation]: misplaced (shift elsewhere in the gene)
+Perkinsus	NC_068743.1	Perkinsus olseni	19	6	+1AGG	cox1@8483 [record annotation]: paired; cox1@8502 [record annotation]: paired; cox1@8642 [record annotation]: paired; cox1@8721 [record annotation]: counted; cox1@9298 [record annotation]: counted; cox1@9341 [record annotation]: counted; cox1@9420 [record annotation]: misplaced (shift elsewhere in the gene); cox1@9487 [record annotation]: misplaced (shift elsewhere in the gene); cox1@9542 [record annotation]: paired; cox1@9558 [record annotation]: paired; cox3@19548 [record annotation]: not_aligned; cob@61789 [record annotation]: paired; cob@61746 [record annotation]: paired; cob@61666 [record annotation]: paired; cob@61464 [record annotation]: counted; cob@61433 [record annotation]: counted; cob@61402 [record annotation]: counted; cob@61209 [record annotation]: clean_other_codon; cob@60953 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_036297.1	Spheniscus mendiculus	1	0	no	nad3@9728 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_028404.1	Pyrrhura rupicola	1	0	no	nad3@9670 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052776.1	Ceuthmochares aereus	1	1	no	nad3@9719 [record annotation]: counted
+birds	NC_052777.1	Oceanites oceanicus	1	0	no	nad3@9708 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052779.1	Bucco capensis	1	0	no	nad3@9734 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052780.1	Stercorarius parasiticus	1	1	no	nad3@9711 [record annotation]: counted
+birds	NC_026066.1	Phoenicurus auroreus	0	0	no	no documented sites
+birds	NC_027241.1	Aethopyga gouldiae	0	0	no	no documented sites
+birds	NC_022839.1	Nucifraga columbiana	0	0	no	no documented sites
+birds	NC_057294.1	Dicaeum concolor	0	0	no	no documented sites
+birds	NC_050049.1	Centropus bengalensis	1	1	no	nad3@11424 [record annotation]: counted
+birds	NC_052781.1	Psilopogon haemacephalus	0	0	no	no documented sites
+birds	NC_052782.1	Oceanodroma tethys	1	0	no	nad3@9709 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052783.1	Amazona guildingii	1	1	no	nad3@9661 [record annotation]: counted
+birds	NC_052785.1	Psophia crepitans	1	1	no	nad3@9741 [record annotation]: counted
+birds	NC_052793.1	Chloroceryle aenea	1	1	no	nad3@9709 [record annotation]: counted
+birds	NC_052794.1	Burhinus bistriatus	1	1	no	nad3@9710 [record annotation]: counted
+birds	NC_052795.1	Aramus guarauna	1	1	no	nad3@9718 [record annotation]: counted
+birds	NC_052796.1	Rhinopomastus cyanomelas	0	0	no	no documented sites
+birds	NC_027731.1	Arremon aurantiirostris	0	0	no	no documented sites
+birds	NC_052801.1	Herpetotheres cachinnans	1	1	no	nad3@9746 [record annotation]: counted
+birds	NC_052802.1	Trogon melanurus	1	0	no	nad3@9760 [record annotation]: homopolymer
+birds	NC_052803.1	Spizaetus tyrannus	1	1	no	nad3@9696 [record annotation]: counted
+birds	NC_052804.1	Piaya cayana	1	1	no	nad3@9725 [record annotation]: counted
+birds	NC_052805.1	Circaetus pectoralis	1	1	no	nad3@9711 [record annotation]: counted
+birds	NC_052806.1	Corythaixoides concolor	1	0	no	nad3@9731 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052807.1	Chauna torquata	1	0	no	nad3@9707 [record annotation]: homopolymer
+birds	NC_028436.1	Suthora fulvifrons	0	0	no	no documented sites
+birds	NC_022815.1	Pyrgilauda ruficollis	0	0	no	no documented sites
+birds	NC_028408.1	Gallicrex cinerea	0	0	no	no documented sites
+birds	NC_022840.1	Campylorhynchus zonatus	0	0	no	no documented sites
+birds	NC_037702.1	Pygoscelis papua	1	0	no	nad3@9726 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_038152.1	Anthracoceros coronatus	1	1	no	nad3@11374 [record annotation]: counted
+birds	NC_052778.1	Penelope pileata	1	1	no	nad3@9708 [record annotation]: counted
+birds	NC_052800.1	Crotophaga sulcirostris	1	1	no	nad3@9739 [record annotation]: counted
+birds	NC_052808.1	Zapornia atra	1	0	no	nad3@9673 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_035673.1	Sporophila maximiliani	0	0	no	no documented sites
+birds	NC_024673.1	Henicorhina leucosticta	0	0	no	no documented sites
+birds	NC_024682.1	Mionectes oleagineus	0	0	no	no documented sites
+birds	NC_040290.1	Oenanthe isabellina	0	0	no	no documented sites
+birds	NC_048470.1	Eremophila alpestris	0	0	no	no documented sites
+birds	NC_025580.1	Accipiter nisus	1	1	no	nad3@9709 [record annotation]: counted
+birds	NC_023777.1	Ichthyaetus relictus	1	1	no	nad3@9687 [record annotation]: counted
+birds	NC_025615.1	Leucosticte arctoa	0	0	no	no documented sites
+birds	NC_023787.1	Phodilus badius	1	0	no	nad3@9697 [record annotation]: homopolymer
+birds	NC_023788.1	Sagittarius serpentarius	1	1	no	nad3@9784 [record annotation]: counted
+birds	NC_034296.1	Glaucidium cuculoides	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_025610.1	Haemorhous mexicanus	0	0	no	no documented sites
+birds	NC_025611.1	Passer domesticus	0	0	no	no documented sites
+birds	NC_053051.1	Serilophus lunatus	0	0	no	no documented sites
+birds	NC_053052.1	Oxyruncus cristatus	0	0	no	no documented sites
+birds	NC_042765.1	Psittacula eupatria	1	0	no	nad3@9685 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_025612.1	Loxops coccineus	0	0	no	no documented sites
+birds	NC_025620.1	Drepanis coccinea	0	0	no	no documented sites
+birds	NC_025622.1	Magumma parva	0	0	no	no documented sites
+birds	NC_025624.1	Akialoa stejnegeri	0	0	no	no documented sites
+birds	NC_025637.1	Vanellus vanellus	1	0	no	nad3@9705 [record annotation]: clean_other_codon
+birds	NC_025500.1	Fulica atra	1	1	no	nad3@9678 [record annotation]: counted
+birds	NC_053054.1	Sylvia borin	0	0	no	no documented sites
+birds	NC_053055.1	Certhia brachydactyla	0	0	no	no documented sites
+birds	NC_053056.1	Paradisaea raggiana	0	0	no	no documented sites
+birds	NC_053057.1	Bombycilla garrulus	0	0	no	no documented sites
+birds	NC_053059.1	Sitta europaea	0	0	no	no documented sites
+birds	NC_053060.1	Rhadina sibilatrix	0	0	no	no documented sites
+birds	NC_053061.1	Phainopepla nitens	0	0	no	no documented sites
+birds	NC_053062.1	Nicator chloris	0	0	no	no documented sites
+birds	NC_034316.1	Sarothrura ayresi	0	0	no	no documented sites
+birds	NC_023779.1	Lophura swinhoii	1	1	no	nad3@10867 [record annotation]: counted
+birds	NC_058600.1	Vultur gryphus	1	0	no	nad3@10933 [record annotation]: homopolymer
+birds	NC_025501.1	Eulabeornis castaneoventris	1	0	no	nad3@9688 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_053064.1	Scytalopus superciliaris	0	0	no	no documented sites
+birds	NC_053066.1	Peucedramus taeniatus	0	0	no	no documented sites
+birds	NC_053068.1	Chloropsis cyanopogon	0	0	no	no documented sites
+birds	NC_053069.1	Erpornis zantholeuca	0	0	no	no documented sites
+birds	NC_053070.1	Erythrocercus mccallii	0	0	no	no documented sites
+birds	NC_053071.1	Neodrepanis coruscans	0	0	no	no documented sites
+birds	NC_053072.1	Mystacornis crossleyi	0	0	no	no documented sites
+birds	NC_053074.1	Furnarius figulus	0	0	no	no documented sites
+birds	NC_021137.1	Pygoscelis adeliae	1	0	no	nad3@9716 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_036344.1	Gelochelidon nilotica	1	1	no	nad3@9689 [record annotation]: counted
+birds	NC_025594.1	Carpodacus sibiricus	0	0	no	no documented sites
+birds	NC_025595.1	Crithagra albogularis	0	0	no	no documented sites
+birds	NC_025598.1	Loxops mana	0	0	no	no documented sites
+birds	NC_025599.1	Fringilla coelebs	0	0	no	no documented sites
+birds	NC_025601.1	Paroreomyza montana	0	0	no	no documented sites
+birds	NC_033536.1	Monticola gularis	0	0	no	no documented sites
+birds	NC_025602.1	Himatione sanguinea	0	0	no	no documented sites
+birds	NC_025605.1	Loxops caeruleirostris	0	0	no	no documented sites
+birds	NC_025606.1	Chlorophanes spiza	0	0	no	no documented sites
+birds	NC_025607.1	Carpodacus roseus	0	0	no	no documented sites
+birds	NC_025608.1	Chlorodrepanis flava	0	0	no	no documented sites
+birds	NC_025616.1	Bucanetes mongolicus	0	0	no	no documented sites
+birds	NC_025617.1	Melamprosops phaeosoma	0	0	no	no documented sites
+birds	NC_025618.1	Cardinalis cardinalis	0	0	no	no documented sites
+birds	NC_025627.1	Spinus psaltria	0	0	no	no documented sites
+birds	NC_025628.1	Oreomystis bairdi	0	0	no	no documented sites
+birds	NC_025630.1	Pseudonestor xanthophrys	0	0	no	no documented sites
+birds	NC_025649.1	Chroicocephalus ridibundus	0	0	no	no documented sites
+birds	NC_025654.1	Anser indicus	1	1	no	nad3@9724 [record annotation]: counted
+birds	NC_025502.1	Lewinia muelleri	1	0	no	nad3@9683 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_025508.1	Porphyrio porphyrio	1	1	no	nad3@9679 [record annotation]: counted
+birds	NC_026715.1	Falco cherrug	1	1	no	nad3@9767 [record annotation]: counted
+birds	NC_025521.1	Scolopax rusticola	0	0	no	no documented sites
+birds	NC_034001.1	Haematortyx sanguiniceps	1	1	no	nad3@10862 [record annotation]: counted
+birds	NC_034002.1	Lagopus muta	1	1	no	nad3@10853 [record annotation]: counted
+birds	NC_029837.1	Regulus regulus	0	0	no	no documented sites
+birds	NC_025499.1	Heliornis fulica	1	0	no	nad3@9667 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_025514.1	Vanellus cinereus	1	1	no	nad3@9705 [record annotation]: counted
+birds	NC_021408.1	Emberiza pusilla	0	0	no	no documented sites
+birds	NC_025556.1	Larus crassirostris	1	1	no	nad3@9687 [record annotation]: counted
+birds	NC_035877.1	Corvus coronoides	0	0	no	no documented sites
+birds	NC_054153.1	Psittacula cyanocephala	1	0	no	nad3@9687 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_060992.1	Riparia riparia	0	0	no	no documented sites
+birds	NC_035806.1	Aquila heliaca	0	0	no	no documented sites
+birds	NC_035868.1	Alcedo atthis	1	0	no	nad3@9697 [record annotation]: homopolymer
+birds	NC_042730.1	Sitta himalayensis	0	0	no	no documented sites
+birds	NC_042731.1	Sitta nagaensis	0	0	no	no documented sites
+birds	NC_024087.1	Aquila chrysaetos	0	0	no	no documented sites
+birds	NC_048497.1	Hirundo tahitica	0	0	no	no documented sites
+birds	NC_024107.1	Cecropis daurica	0	0	no	no documented sites
+birds	NC_039536.1	Psittiparus gularis	0	0	no	no documented sites
+birds	NC_039537.1	Picumnus innominatus	1	0	no	nad3@9742 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_039538.1	Niltava davidi	0	0	no	no documented sites
+birds	NC_045366.1	Saltator similis	0	0	no	no documented sites
+birds	NC_030368.1	Emberiza elegans	0	0	no	no documented sites
+birds	NC_031897.1	Phalcoboenus australis	1	1	no	nad3@9769 [record annotation]: counted
+birds	NC_031348.1	Moho braccatus	0	0	no	no documented sites
+birds	NC_020587.1	Pucrasia macrolopha	1	1	no	nad3@10870 [record annotation]: counted
+birds	NC_020588.1	Perdix dauurica	1	1	no	nad3@10861 [record annotation]: counted
+birds	NC_020589.1	Lophophorus sclateri	1	1	no	nad3@10882 [record annotation]: counted
+birds	NC_020591.1	Tetrastes bonasia	1	1	no	nad3@10847 [record annotation]: counted
+birds	NC_031867.1	Columba rupestris	1	1	no	nad3@9692 [record annotation]: counted
+birds	NC_039096.1	Tringa glareola	0	0	no	no documented sites
+birds	NC_026029.1	Ara glaucogularis	1	0	no	nad3@9668 [record annotation]: homopolymer
+birds	NC_025596.1	Thraupis episcopus	0	0	no	no documented sites
+birds	NC_062298.1	Corvus cornix cornix	0	0	no	no documented sites
+birds	NC_031871.1	Pampusana salamonis	1	0	no	nad3@9707 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_032725.1	Terpsiphone atrocaudata	0	0	no	no documented sites
+birds	NC_033966.1	Pluvialis fulva	1	0	no	nad3@9685 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_033967.1	Ninox strenua	1	0	no	nad3@9697 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_035801.1	Circus melanoleucos	0	0	no	no documented sites
+birds	NC_047199.1	Ara chloropterus	1	1	no	nad3@9674 [record annotation]: counted
+birds	NC_033973.1	Xenus cinereus	1	0	no	nad3@9706 [record annotation]: homopolymer
+birds	NC_033974.1	Tringa ochropus	1	0	no	nad3@9698 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_026068.1	Pterorhinus perspicillatus	0	0	no	no documented sites
+birds	NC_020578.1	Grus monacha	1	0	no	nad3@9688 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020599.1	Tachycineta cyaneoviridis	0	0	no	no documented sites
+birds	NC_020569.1	Balearica regulorum	1	1	no	nad3@9693 [record annotation]: counted
+birds	NC_020570.1	Balearica pavonina	1	0	no	nad3@9694 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020571.1	Grus carunculatus	1	0	no	nad3@9686 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020572.1	Anthropoides paradiseus	1	0	no	nad3@9684 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020573.1	Anthropoides virgo	1	0	no	nad3@9685 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020576.1	Grus americana	1	0	no	nad3@9687 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020577.1	Grus grus	1	0	no	nad3@9688 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020579.1	Grus nigricollis	1	0	no	nad3@9685 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020580.1	Antigone rubicunda	1	0	no	nad3@9682 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020581.1	Antigone antigone	1	0	no	nad3@9687 [record annotation]: aligned_no_event
+birds	NC_020582.1	Antigone canadensis	1	0	no	nad3@9691 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020583.1	Bambusicola fytchii	1	1	no	nad3@10897 [record annotation]: counted
+birds	NC_031819.1	Prunella strophiata	0	0	no	no documented sites
+birds	NC_020584.1	Arborophila rufogularis	1	1	no	nad3@10901 [record annotation]: counted
+birds	NC_020585.1	Alectoris chukar	1	0	no	nad3@10860 [record annotation]: homopolymer
+birds	NC_020586.1	Tragopan temminckii	1	0	no	nad3@10909 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020592.1	Cacatua moluccensis	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_020593.1	Calyptorhynchus lathami	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_020596.1	Tachycineta bicolor	0	0	no	no documented sites
+birds	NC_020597.1	Tachycineta thalassina	0	0	no	no documented sites
+birds	NC_020598.1	Tachycineta euchrysea	0	0	no	no documented sites
+birds	NC_026042.1	Psittacara rubritorquis	1	0	no	nad3@9680 [record annotation]: clean_wide_window
+birds	NC_031830.1	Pycnonotus xanthorrhous	0	0	no	no documented sites
+birds	NC_020600.1	Tachycineta stolzmanni	0	0	no	no documented sites
+birds	NC_020601.1	Tachycineta albilinea	0	0	no	no documented sites
+birds	NC_020602.1	Tachycineta albiventer	0	0	no	no documented sites
+birds	NC_057527.1	Ardenna carneipes	0	0	no	no documented sites
+birds	NC_057528.1	Ardenna pacifica	0	0	no	no documented sites
+birds	NC_036337.1	Spheniscus humboldti	1	0	no	nad3@9731 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_028020.1	Campephilus guatemalensis	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_028036.1	Lonchura punctulata	0	0	no	no documented sites
+birds	NC_028037.1	Castanozoster thoracicus	0	0	no	no documented sites
+birds	NC_025597.1	Carpodacus erythrinus	0	0	no	no documented sites
+birds	NC_025600.1	Hesperiphona vespertina	0	0	no	no documented sites
+birds	NC_028038.1	Microspingus cabanisi	0	0	no	no documented sites
+birds	NC_028039.1	Microspingus lateralis	0	0	no	no documented sites
+birds	NC_031845.1	Emberiza lathami	0	0	no	no documented sites
+birds	NC_045367.1	Agapornis nigrigenis	1	1	no	nad3@9668 [record annotation]: counted
+birds	NC_025604.1	Leucosticte brandti	0	0	no	no documented sites
+birds	NC_025609.1	Pinicola enucleator	0	0	no	no documented sites
+birds	NC_025613.1	Haemorhous cassinii	0	0	no	no documented sites
+birds	NC_025614.1	Coccothraustes coccothraustes	0	0	no	no documented sites
+birds	NC_025621.1	Crithagra dorsostriata	0	0	no	no documented sites
+birds	NC_025625.1	Pyrrhula pyrrhula	0	0	no	no documented sites
+birds	NC_028019.1	Sasia ochracea	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_031863.1	Zenaida macroura	1	1	no	nad3@9694 [record annotation]: counted
+birds	NC_031864.1	Raphus cucullatus	1	1	no	nad3@9709 [record annotation]: counted
+birds	NC_031865.1	Goura cristata	1	1	no	nad3@9712 [record annotation]: counted
+birds	NC_045379.1	Psittacula roseata	1	0	no	nad3@9687 [record annotation]: homopolymer
+birds	NC_027934.1	Phoenicopterus ruber	1	0	no	nad3@9715 [record annotation]: homopolymer
+birds	NC_027936.1	Dryobates pubescens	1	1	no	nad3@9721 [record annotation]: counted
+birds	NC_031866.1	Didunculus strigirostris	1	1	no	nad3@9711 [record annotation]: counted
+birds	NC_031868.1	Columba jouyi	1	1	no	nad3@9694 [record annotation]: counted
+birds	NC_031869.1	Caloenas nicobarica	1	0	no	nad3@9705 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_031870.1	Caloenas maculata	1	0	no	nad3@9700 [record annotation]: clean_wide_window
+birds	NC_027655.1	Lanius isabellinus	0	0	no	no documented sites
+birds	NC_027657.1	Garrulax ocellatus	0	0	no	no documented sites
+birds	NC_034741.1	Gallinago stenura	1	0	no	nad3@9700 [record annotation]: homopolymer
+birds	NC_052711.1	Diopsittaca nobilis	1	1	no	nad3@9679 [record annotation]: counted
+birds	NC_045364.1	Accipiter trivirgatus	0	0	no	no documented sites
+birds	NC_045365.1	Dromaius baudinianus	1	0	no	nad3@9692 [record annotation]: flank_fail
+birds	NC_045368.1	Agapornis pullarius	1	1	no	nad3@9672 [record annotation]: counted
+birds	NC_045369.1	Agapornis lilianae	1	1	no	nad3@9670 [record annotation]: counted
+birds	NC_045370.1	Rupicola peruvianus	0	0	no	no documented sites
+birds	NC_045371.1	Aratinga nenday	1	1	no	nad3@9673 [record annotation]: counted
+birds	NC_045372.1	Picus canus	1	1	no	nad3@9728 [record annotation]: counted
+birds	NC_045373.1	Mareca strepera	1	1	no	nad3@10760 [record annotation]: counted
+birds	NC_072120.1	Enicurus schistaceus	0	0	no	no documented sites
+birds	NC_045374.1	Muscicapa sibirica	0	0	no	no documented sites
+birds	NC_045375.1	Muscicapa latirostris	0	0	no	no documented sites
+birds	NC_045376.1	Dendrocitta formosae	0	0	no	no documented sites
+birds	NC_045377.1	Aptenodytes patagonicus	1	0	no	nad3@9713 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_045378.1	Psittacula alexandri	1	0	no	nad3@9677 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_045381.1	Corvus pectoralis	0	0	no	no documented sites
+birds	NC_045387.1	Actinodura cyanouroptera	0	0	no	no documented sites
+birds	NC_045401.1	Fulvetta ruficapilla	0	0	no	no documented sites
+birds	NC_029141.1	Petroica australis	0	0	no	no documented sites
+birds	NC_041576.1	Hydrophasianus chirurgus	0	0	no	no documented sites
+birds	NC_041577.1	Lewinia striata	1	0	no	nad3@9679 [record annotation]: homopolymer
+birds	NC_029145.1	Rhipidura fuliginosa	0	0	no	no documented sites
+birds	NC_029147.1	Turdus philomelos	0	0	no	no documented sites
+birds	NC_053075.1	Neopipo cinnamomea	0	0	no	no documented sites
+birds	NC_053076.1	Anthoscopus minutus	0	0	no	no documented sites
+birds	NC_053079.1	Urocynchramus pylzowi	0	0	no	no documented sites
+birds	NC_053080.1	Chaetops frenatus	0	0	no	no documented sites
+birds	NC_053081.1	Tichodroma muraria	0	0	no	no documented sites
+birds	NC_053082.1	Prunella himalayana	0	0	no	no documented sites
+birds	NC_053084.1	Spizella passerina	0	0	no	no documented sites
+birds	NC_053085.1	Onychorhynchus coronatus	0	0	no	no documented sites
+birds	NC_018798.1	Agelasticus xanthophthalmus	0	0	no	no documented sites
+birds	NC_018801.1	Agelaius phoeniceus	0	0	no	no documented sites
+birds	NC_018803.1	Quiscalus quiscula	0	0	no	no documented sites
+birds	NC_018805.1	Pseudoleistes virescens	0	0	no	no documented sites
+birds	NC_045517.1	Aethia cristatella	1	0	no	nad3@9721 [record annotation]: flank_fail
+birds	NC_059907.1	Sinosuthora conspicillata	0	0	no	no documented sites
+birds	NC_018806.1	Molothrus aeneus	0	0	no	no documented sites
+birds	NC_018808.1	Curaeus curaeus	0	0	no	no documented sites
+birds	NC_054210.1	Nesotrochis steganinos	1	0	no	nad3@9721 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_040990.1	Calidris ruficollis	1	1	no	nad3@9676 [record annotation]: counted
+birds	NC_050393.1	Pagodroma nivea	1	0	no	nad3@9715 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_053086.1	Orthonyx spaldingii	0	0	no	no documented sites
+birds	NC_053089.1	Melanocharis versteri	0	0	no	no documented sites
+birds	NC_053091.1	Eulacestoma nigropectus	0	0	no	no documented sites
+birds	NC_053092.1	Ifrita kowaldi	0	0	no	no documented sites
+birds	NC_053093.1	Oreocharis arfaki	0	0	no	no documented sites
+birds	NC_053094.1	Machaerirhynchus nigripectus	0	0	no	no documented sites
+birds	NC_053095.1	Malurus elegans	0	0	no	no documented sites
+birds	NC_053096.1	Daphoenositta chrysoptera	0	0	no	no documented sites
+birds	NC_025507.1	Hypotaenidia philippensis	1	0	no	nad3@9679 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_050287.1	Hirundo angolensis	0	0	no	no documented sites
+birds	NC_018796.1	Chrysomus ruficapillus	0	0	no	no documented sites
+birds	NC_054244.1	Aerodramus fuciphagus	0	0	no	no documented sites
+birds	NC_057960.1	Alauda gulgula	0	0	no	no documented sites
+birds	NC_027230.1	Eopsaltria georgiana	0	0	no	no documented sites
+birds	NC_018810.1	Macroagelaius imthurni	0	0	no	no documented sites
+birds	NC_038195.1	Milvus migrans	1	1	no	nad3@4315 [record annotation]: counted
+birds	NC_050286.1	Hirundo smithii	0	0	no	no documented sites
+birds	NC_050288.1	Hirundo dimidiata	0	0	no	no documented sites
+birds	NC_050290.1	Hirundo neoxena	0	0	no	no documented sites
+birds	NC_050293.1	Hirundo aethiopica	0	0	no	no documented sites
+birds	NC_025318.1	Tetrastes sewerzowi	1	1	no	nad3@10832 [record annotation]: counted
+birds	NC_050295.1	Hirundo rustica transitiva	0	0	no	no documented sites
+birds	NC_050297.1	Hirundo rustica tytleri	0	0	no	no documented sites
+birds	NC_050298.1	Delichon urbicum	0	0	no	no documented sites
+birds	NC_050299.1	Hirundo albigularis	0	0	no	no documented sites
+birds	NC_034237.1	Haematopus ostralegus	1	1	no	nad3@9677 [record annotation]: counted
+birds	NC_059795.1	Treron curvirostra	1	1	no	nad3@9823 [record annotation]: counted
+birds	NC_045076.1	Ara macao	1	1	no	nad3@9671 [record annotation]: counted
+birds	NC_040956.1	Rhagologus leucostigma	0	0	no	no documented sites
+birds	NC_021641.1	Remiz consobrinus	0	0	no	no documented sites
+birds	NC_037692.1	Emberiza leucocephalos	0	0	no	no documented sites
+birds	NC_040975.1	Carpodacus rubicilloides	0	0	no	no documented sites
+birds	NC_040986.1	Mergus merganser	1	0	no	nad3@9725 [record annotation]: aligned_no_event
+birds	NC_040991.1	Yuhina nigrimenta	0	0	no	no documented sites
+birds	NC_031347.1	Pinguinus impennis	1	0	no	nad3@9706 [record annotation]: homopolymer
+birds	NC_031349.1	Akialoa obscura	0	0	no	no documented sites
+birds	NC_031350.1	Callaeas cinereus	0	0	no	no documented sites
+birds	NC_031351.1	Heteralocha acutirostris	0	0	no	no documented sites
+birds	NC_031352.1	Myadestes myadestinus	0	0	no	no documented sites
+birds	NC_052771.1	Charadrius vociferus	1	0	no	nad3@9697 [record annotation]: homopolymer
+birds	NC_052772.1	Colius striatus	1	1	no	nad3@9681 [record annotation]: counted
+birds	NC_052773.1	Crypturellus soui	1	1	no	nad3@9705 [record annotation]: counted
+birds	NC_024198.1	Halcyon pileata	1	0	no	nad3@9717 [record annotation]: homopolymer
+birds	NC_025786.1	Chrysolampis mosquitus	1	0	no	nad3@9710 [record annotation]: aligned_no_event
+birds	NC_052775.1	Ardeotis kori	1	0	no	nad3@9722 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_053645.1	Rhodinocichla rosea	0	0	no	no documented sites
+birds	NC_052797.1	Fregata magnificens	1	0	no	nad3@9709 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052798.1	Eurystomus gularis	1	0	no	nad3@9735 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052809.1	Pelecanoides urinatrix	1	1	no	nad3@9704 [record annotation]: counted
+birds	NC_052810.1	Brachypteracias leptosomus	1	1	no	nad3@9708 [record annotation]: counted
+birds	NC_052811.1	Centropus unirufus	1	1	no	nad3@9707 [record annotation]: counted
+birds	NC_052812.1	Chroicocephalus maculipennis	1	1	no	nad3@9683 [record annotation]: counted
+birds	NC_052813.1	Halcyon senegalensis	1	1	no	nad3@9706 [record annotation]: counted
+birds	NC_052815.1	Turnix velox	1	1	no	nad3@9679 [record annotation]: counted
+birds	NC_052817.1	Urocolius indicus	1	0	no	nad3@9706 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052818.1	Nothocercus julius	1	0	no	nad3@9692 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_036760.1	Melanocorypha mongolica	0	0	no	no documented sites
+birds	NC_052819.1	Nothocercus nigrocapillus	1	0	no	nad3@9709 [record annotation]: homopolymer
+birds	NC_052820.1	Nothoprocta ornata	0	0	no	no documented sites
+birds	NC_052821.1	Nothoprocta pentlandii	0	0	no	no documented sites
+birds	NC_052822.1	Phalacrocorax auritus	1	0	no	nad3@9701 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052823.1	Steatornis caripensis	1	0	no	nad3@9700 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052824.1	Apteryx rowi	1	1	no	nad3@9705 [record annotation]: counted
+birds	NC_052826.1	Nothoprocta perdicaria	0	0	no	no documented sites
+birds	NC_052827.1	Asarcornis scutulata	1	1	no	nad3@9716 [record annotation]: counted
+birds	NC_024156.1	Chrysuronia versicolor	1	1	no	nad3@9701 [record annotation]: counted
+birds	NC_018033.1	Ithaginis cruentus	0	0	no	no documented sites
+birds	NC_045525.1	Phylloscopus tenellipes	0	0	no	no documented sites
+birds	NC_050278.1	Hirundo atrocaerulea	0	0	no	no documented sites
+birds	NC_026911.1	Poecile palustris	0	0	no	no documented sites
+birds	NC_052839.1	Cossypha semirufa	0	0	no	no documented sites
+birds	NC_052841.1	Melaenornis chocolatinus	0	0	no	no documented sites
+birds	NC_052842.1	Sylvia galinieri	0	0	no	no documented sites
+birds	NC_052843.1	Turdus abyssinicus	0	0	no	no documented sites
+birds	NC_053710.1	Certhia himalayana	0	0	no	no documented sites
+birds	NC_021474.1	Pygoscelis antarcticus	1	0	no	nad3@9701 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020325.1	Thectocercus acuticaudatus acuticaudatus	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_022418.1	Anas poecilorhyncha	1	1	no	nad3@9716 [record annotation]: counted
+birds	NC_045042.1	Aquila nipalensis	0	0	no	no documented sites
+birds	NC_026701.1	Pardaliparus venustulus	0	0	no	no documented sites
+birds	NC_030604.1	Lanius schach	0	0	no	no documented sites
+birds	NC_037153.1	Sicalis olivascens	0	0	no	no documented sites
+birds	NC_037154.1	Lepidocolaptes angustirostris	0	0	no	no documented sites
+birds	NC_040850.1	Lophophorus impejanus	0	0	no	no documented sites
+birds	NC_030588.1	Minla ignotincta	0	0	no	no documented sites
+birds	NC_035626.1	Napothera epilepidota	0	0	no	no documented sites
+birds	NC_037189.1	Phylloscopus proregulus	0	0	no	no documented sites
+birds	NC_025742.1	Primolius couloni	1	1	no	nad3@9675 [record annotation]: counted
+birds	NC_035658.1	Megaceryle lugubris	1	1	no	nad3@9702 [record annotation]: counted
+birds	NC_040902.1	Gallus gallus spadiceus	1	1	no	nad3@10957 [record annotation]: counted
+birds	NC_024640.1	Tadorna ferruginea	1	1	no	nad3@10785 [record annotation]: counted
+birds	NC_050291.1	Hirundo nigrita	0	0	no	no documented sites
+birds	NC_053098.1	Grantiella picta	0	0	no	no documented sites
+birds	NC_053100.1	Origma solitaria	0	0	no	no documented sites
+birds	NC_053101.1	Climacteris rufus	0	0	no	no documented sites
+birds	NC_053102.1	Atrichornis clamosus	0	0	no	no documented sites
+birds	NC_053103.1	Horornis vulcanius	0	0	no	no documented sites
+birds	NC_053104.1	Falcunculus frontatus	0	0	no	no documented sites
+birds	NC_053106.1	Panurus biarmicus	0	0	no	no documented sites
+birds	NC_053107.1	Sapayoa aenigma	0	0	no	no documented sites
+birds	NC_054275.1	Eudyptes chrysolophus	1	1	no	nad3@9692 [record annotation]: counted
+birds	NC_027173.1	Corvus macrorhynchos	0	0	no	no documented sites
+birds	NC_054298.1	Zoothera aurea	0	0	no	no documented sites
+birds	NC_025579.1	Falco columbarius	1	1	no	nad3@9757 [record annotation]: counted
+birds	NC_040004.1	Ardea insignis	1	1	no	nad3@9718 [record annotation]: counted
+birds	NC_029862.1	Dendrocopos leucotos	1	1	no	nad3@9557 [record annotation]: counted
+birds	NC_030585.1	Tringa erythropus	0	0	no	no documented sites
+birds	NC_020574.1	Leucogeranus leucogeranus	1	0	no	nad3@9685 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_020590.1	Chrysolophus amherstiae	1	0	no	nad3@10852 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_034353.1	Trochalopteron formosum	0	0	no	no documented sites
+birds	NC_054361.1	Prunella rubeculoides	0	0	no	no documented sites
+birds	NC_026189.1	Phoebastria immutabilis	1	1	no	nad3@9681 [record annotation]: counted
+birds	NC_030603.1	Copsychus saularis	0	0	no	no documented sites
+birds	NC_036345.1	Sterna hirundo	1	1	no	nad3@9693 [record annotation]: counted
+birds	NC_026067.1	Tarsiger cyanurus	0	0	no	no documented sites
+birds	NC_026125.1	Stercorarius maccormicki	1	0	no	nad3@4319 [record annotation]: flank_fail
+birds	NC_029229.1	Motacilla alba	0	0	no	no documented sites
+birds	NC_050289.1	Fulvetta vinipectus	0	0	no	no documented sites
+birds	NC_028336.1	Turnagra capensis	0	0	no	no documented sites
+birds	NC_020595.1	Zanda latirostris	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_026082.1	Accipiter virgatus	0	0	no	no documented sites
+birds	NC_020603.1	Tachycineta leucorrhoa	0	0	no	no documented sites
+birds	NC_020604.1	Tachycineta leucopyga	0	0	no	no documented sites
+birds	NC_051538.1	Carpodacus pulcherrimus	0	0	no	no documented sites
+birds	NC_040875.1	Parus major	0	0	no	no documented sites
+birds	NC_051552.1	Acanthorhynchus tenuirostris	0	0	no	no documented sites
+birds	NC_027840.1	Amazona ochrocephala	1	1	no	nad3@11359 [record annotation]: counted
+birds	NC_051558.1	Nucifraga caryocatactes	0	0	no	no documented sites
+birds	NC_018827.1	Euphagus cyanocephalus	0	0	no	no documented sites
+birds	NC_018804.1	Xanthopsar flavus	0	0	no	no documented sites
+birds	NC_018807.1	Agelasticus thilius	0	0	no	no documented sites
+birds	NC_018811.1	Agelaioides badius	0	0	no	no documented sites
+birds	NC_020575.1	Grus japonensis	1	0	no	nad3@9688 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_051468.1	Molothrus ater	0	0	no	no documented sites
+birds	NC_026190.1	Phoebastria albatrus	1	1	no	nad3@9683 [record annotation]: counted
+birds	NC_030507.1	Numenius phaeopus	0	0	no	no documented sites
+birds	NC_018795.1	Gnorimopsar chopi	0	0	no	no documented sites
+birds	NC_018797.1	Oreopsar bolivianus	0	0	no	no documented sites
+birds	NC_018802.1	Amblyramphus holosericeus	0	0	no	no documented sites
+birds	NC_058320.1	Ficedula hyperythra	0	0	no	no documented sites
+birds	NC_020613.1	Tetraophasis szechenyii	1	1	no	nad3@10881 [record annotation]: counted
+birds	NC_042683.1	Dendrocopos darjellensis	1	1	no	nad3@9741 [record annotation]: counted
+birds	NC_027938.1	Aptenodytes forsteri	1	0	no	nad3@9716 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_051462.1	Gymnorhina tibicen	0	0	no	no documented sites
+birds	NC_051463.1	Pitta sordida	0	0	no	no documented sites
+birds	NC_051464.1	Pomatostomus ruficeps	0	0	no	no documented sites
+birds	NC_051465.1	Sporophila hypoxantha	0	0	no	no documented sites
+birds	NC_051466.1	Rhegmatorhina hoffmannsi	0	0	no	no documented sites
+birds	NC_046416.1	Phylloscopus fuscatus	0	0	no	no documented sites
+birds	NC_046418.1	Acrocephalus orientalis	0	0	no	no documented sites
+birds	NC_071941.1	Phylloscopus canariensis	0	0	no	no documented sites
+birds	NC_071942.1	Phylloscopus sindianus	0	0	no	no documented sites
+birds	NC_071943.1	Phylloscopus ibericus	0	0	no	no documented sites
+birds	NC_051467.1	Aphelocoma coerulescens	0	0	no	no documented sites
+birds	NC_051469.1	Nesospiza acunhae	0	0	no	no documented sites
+birds	NC_051470.1	Xiphorhynchus elegans	0	0	no	no documented sites
+birds	NC_051471.1	Corvus moneduloides	0	0	no	no documented sites
+birds	NC_042191.1	Culicicapa ceylonensis	0	0	no	no documented sites
+birds	NC_029137.1	Anthus novaeseelandiae	0	0	no	no documented sites
+birds	NC_029138.1	Poodytes punctatus	0	0	no	no documented sites
+birds	NC_029139.1	Gerygone igata	0	0	no	no documented sites
+birds	NC_029140.1	Notiomystis cincta	0	0	no	no documented sites
+birds	NC_029142.1	Petroica macrocephala	0	0	no	no documented sites
+birds	NC_029143.1	Philesturnus carunculatus	0	0	no	no documented sites
+birds	NC_047279.1	Geopelia cuneata	1	1	no	nad3@4314 [record annotation]: counted
+birds	NC_051513.1	Sitta villosa	0	0	no	no documented sites
+birds	NC_029144.1	Prosthemadera novaeseelandiae	0	0	no	no documented sites
+birds	NC_029146.1	Zosterops lateralis	0	0	no	no documented sites
+birds	NC_029151.1	Locustella pryeri	0	0	no	no documented sites
+birds	NC_037486.1	Urocissa caerulea	0	0	no	no documented sites
+birds	NC_042233.1	Numenius tenuirostris	0	0	no	no documented sites
+birds	NC_029188.1	Aquila fasciata	1	1	no	nad3@9703 [record annotation]: counted
+birds	NC_029189.1	Buteo lagopus	0	0	no	no documented sites
+birds	NC_040858.1	Haliaeetus albicilla	1	1	no	nad3@9695 [record annotation]: counted
+birds	NC_036405.1	Lonchura nevermanni	0	0	no	no documented sites
+birds	NC_024280.1	Ceryle rudis	1	1	no	nad3@9705 [record annotation]: counted
+birds	NC_036406.1	Lonchura nigerrima	0	0	no	no documented sites
+birds	NC_051886.1	Myzornis pyrrhoura	0	0	no	no documented sites
+birds	NC_041251.1	Hydrobates castro	1	0	no	nad3@9708 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_036407.1	Lonchura spectabilis	0	0	no	no documented sites
+birds	NC_028273.1	Turdus eunomus	0	0	no	no documented sites
+birds	NC_032362.1	Butastur indicus	0	0	no	no documented sites
+birds	NC_026039.1	Aratinga solstitialis	1	1	no	nad3@9672 [record annotation]: counted
+birds	NC_041257.1	Psittacara leucophthalmus	1	1	no	nad3@9677 [record annotation]: counted
+birds	NC_060465.1	Dendronanthus indicus	0	0	no	no documented sites
+birds	NC_060467.1	Gallinago gallinago	1	0	no	nad3@9703 [record annotation]: homopolymer
+birds	NC_039814.1	Atlantisia rogersi	1	1	no	nad3@9675 [record annotation]: counted
+birds	NC_039818.1	Lanius tigrinus	0	0	no	no documented sites
+birds	NC_029319.1	Ara ararauna	1	0	no	nad3@9668 [record annotation]: homopolymer
+birds	NC_029321.1	Spizixos semitorques	0	0	no	no documented sites
+birds	NC_029322.1	Primolius maracana	1	1	no	nad3@9679 [record annotation]: counted
+birds	NC_024631.1	Anas acuta	1	1	no	nad3@9714 [record annotation]: counted
+birds	NC_039842.1	Falco amurensis	1	1	no	nad3@9762 [record annotation]: counted
+birds	NC_039843.1	Perdix perdix	1	1	no	nad3@10861 [record annotation]: counted
+birds	NC_068849.1	Pyrrhura cruentata	1	1	no	nad3@9672 [record annotation]: counted
+birds	NC_051526.1	Phylloscopus examinandus	0	0	no	no documented sites
+birds	NC_041118.1	Anarhynchus alexandrinus	1	1	no	nad3@9711 [record annotation]: counted
+birds	NC_036400.1	Lonchura forbesi	0	0	no	no documented sites
+birds	NC_022150.1	Emberiza aureola	0	0	no	no documented sites
+birds	NC_024726.1	Phylloscopus inornatus	0	0	no	no documented sites
+birds	NC_024730.1	Rubigula melanictera	0	0	no	no documented sites
+birds	NC_043948.1	Dicrurus hottentottus	0	0	no	no documented sites
+birds	NC_043949.1	Tetrao parvirostris parvirostris	1	1	no	nad3@9718 [record annotation]: counted
+birds	NC_043950.1	Tetrao parvirostris kamtschaticus	1	1	no	nad3@9716 [record annotation]: counted
+birds	NC_036401.1	Lonchura grandis	0	0	no	no documented sites
+birds	NC_053843.1	Zapornia pusilla	1	1	no	nad3@9670 [record annotation]: counted
+birds	NC_020594.1	Zanda baudinii	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_023832.1	Anser cygnoides	1	1	no	nad3@10900 [record annotation]: counted
+birds	NC_041197.1	Artamus cinereus	0	0	no	no documented sites
+birds	NC_041141.1	Trochalopteron milnei	0	0	no	no documented sites
+birds	NC_036402.1	Lonchura hunsteini	0	0	no	no documented sites
+birds	NC_027095.1	Cygnus cygnus	1	1	no	nad3@12775 [record annotation]: counted
+birds	NC_027096.1	Cygnus olor	1	1	no	nad3@12789 [record annotation]: counted
+birds	NC_053867.1	Anhinga melanogaster	1	1	no	nad3@9718 [record annotation]: counted
+birds	NC_035423.1	Himantopus himantopus	1	1	no	nad3@9693 [record annotation]: counted
+birds	NC_056775.1	Chroicocephalus saundersi	1	0	no	nad3@9704 [record annotation]: homopolymer
+birds	NC_036404.1	Lonchura melaena	0	0	no	no documented sites
+birds	NC_060466.1	Motacilla flava	0	0	no	no documented sites
+birds	NC_041121.1	Yungipicus canicapillus	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_060627.1	Calidris alba	1	1	no	nad3@9703 [record annotation]: counted
+birds	NC_052799.1	Todus mexicanus	1	0	no	nad3@9714 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052814.1	Pterocles burchelli	1	0	no	nad3@9711 [record annotation]: homopolymer
+birds	NC_052774.1	Crypturellus undulatus	1	1	no	nad3@9699 [record annotation]: counted
+birds	NC_053058.1	Oriolus oriolus	0	0	no	no documented sites
+birds	NC_053063.1	Pycnonotus jocosus	0	0	no	no documented sites
+birds	NC_053065.1	Vidua macroura	0	0	no	no documented sites
+birds	NC_053077.1	Buphagus erythrorhynchus	0	0	no	no documented sites
+birds	NC_041109.1	Anthus richardi	0	0	no	no documented sites
+birds	NC_041111.1	Cardellina canadensis	0	0	no	no documented sites
+birds	NC_029703.1	Motacilla lugens	0	0	no	no documented sites
+birds	NC_053088.1	Aleadryas rufinucha	0	0	no	no documented sites
+birds	NC_053105.1	Drymodes brunneopygia	0	0	no	no documented sites
+birds	NC_028082.1	Pterorhinus poecilorhynchus	0	0	no	no documented sites
+birds	NC_052784.1	Odontophorus gujanensis	1	1	no	nad3@9730 [record annotation]: counted
+birds	NC_056091.1	Jynx torquilla	1	0	no	nad3@9725 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_056095.1	Laterallus spilonota	1	1	no	nad3@6901 [record annotation]: counted
+birds	NC_036396.1	Lonchura leucosticta	0	0	no	no documented sites
+birds	NC_036397.1	Lonchura caniceps	0	0	no	no documented sites
+birds	NC_036050.1	Gyps fulvus	0	0	no	no documented sites
+birds	NC_036398.1	Lonchura castaneothorax	0	0	no	no documented sites
+birds	NC_052840.1	Crithagra tristriata	0	0	no	no documented sites
+birds	NC_029769.1	Pomatorhinus ruficollis	0	0	no	no documented sites
+birds	NC_054728.1	Falco naumanni	0	0	no	no documented sites
+birds	NC_043899.1	Daption capense	1	1	no	nad3@9722 [record annotation]: counted
+birds	NC_044674.1	Caracara creightoni	1	1	no	nad3@9772 [record annotation]: counted
+birds	NC_024257.1	Pericrocotus ethologus	0	0	no	no documented sites
+birds	NC_044743.1	Polyplectron malacense	1	1	no	nad3@10872 [record annotation]: counted
+birds	NC_022684.1	Arborophila brunneopectus	1	1	no	nad3@10893 [record annotation]: counted
+birds	NC_024266.1	Aegithalos fuliginosus	0	0	no	no documented sites
+birds	NC_024267.1	Aegithalos bonvaloti	0	0	no	no documented sites
+birds	NC_024268.1	Aegithalos glaucogularis	0	0	no	no documented sites
+birds	NC_041165.1	Gavia arctica	1	0	no	nad3@9727 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052816.1	Aegotheles bennettii	1	0	no	nad3@9696 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_052825.1	Crypturellus cinnamomeus	1	1	no	nad3@9699 [record annotation]: counted
+birds	NC_027496.1	Calidris pygmaea	1	0	no	nad3@9701 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_044184.1	Pionites leucogaster	1	1	no	nad3@9678 [record annotation]: counted
+birds	NC_027504.1	Eudocimus ruber	1	0	no	nad3@10837 [record annotation]: homopolymer
+birds	NC_060626.1	Calidris alpina	1	0	no	nad3@9701 [record annotation]: homopolymer
+birds	NC_037895.1	Ara tricolor	1	1	no	nad3@11155 [record annotation]: counted
+birds	NC_060628.1	Calidris subminuta	1	0	no	nad3@9704 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_032304.1	Emberiza siemsseni	0	0	no	no documented sites
+birds	NC_032363.1	Butastur liventer	0	0	no	no documented sites
+birds	NC_021368.1	Antigone vipio	1	0	no	nad3@9688 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_041094.1	Chloris sinica	0	0	no	no documented sites
+birds	NC_041095.1	Turdus kessleri	0	0	no	no documented sites
+birds	NC_068663.1	Aythya marila	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_019804.1	Neophema chrysogaster	0	0	no	no documented sites
+birds	NC_044651.1	Tringa nebularia	1	1	no	nad3@9704 [record annotation]: counted
+birds	NC_030771.1	Cyanoderma ruficeps	0	0	no	no documented sites
+birds	NC_060673.1	Pterorhinus chinensis	0	0	no	no documented sites
+birds	NC_027453.1	Chlorestes cyanus	1	1	no	nad3@9688 [record annotation]: counted
+birds	NC_027454.1	Oreotrochilus melanogaster	1	1	no	nad3@9688 [record annotation]: counted
+birds	NC_027455.1	Florisuga mellivora	1	0	no	nad3@9697 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_041578.1	Rallus aquaticus	1	0	no	nad3@9672 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_041659.1	Piranga rubra	0	0	no	no documented sites
+birds	NC_041422.1	Otus sunia	1	1	no	nad3@9727 [record annotation]: counted
+birds	NC_052013.1	Cinclosoma castanotum	0	0	no	no documented sites
+birds	NC_053083.1	Calcarius ornatus	0	0	no	no documented sites
+birds	NC_053087.1	Struthidea cinerea	0	0	no	no documented sites
+birds	NC_053097.1	Dasyornis broadbenti	0	0	no	no documented sites
+birds	NC_053053.1	Toxostoma redivivum	0	0	no	no documented sites
+birds	NC_053050.1	Leucopsar rothschildi	0	0	no	no documented sites
+birds	NC_034278.1	Campephilus imperialis	1	1	no	nad3@9719 [record annotation]: counted
+birds	NC_021771.1	Rhynchopsitta terrisi	1	1	no	nad3@9675 [record annotation]: counted
+birds	NC_062674.1	Treron sphenurus	1	1	no	nad3@9687 [record annotation]: counted
+birds	NC_037464.1	Pterorhinus albogularis	0	0	no	no documented sites
+birds	NC_034373.1	Trochalopteron elliotii	0	0	no	no documented sites
+birds	NC_034374.1	Numida meleagris	1	1	no	nad3@10421 [record annotation]: counted
+birds	NC_041658.1	Piranga roseogularis	0	0	no	no documented sites
+birds	NC_041660.1	Piranga lutea	0	0	no	no documented sites
+birds	NC_041661.1	Piranga flava	0	0	no	no documented sites
+birds	NC_041663.1	Piranga olivacea	0	0	no	no documented sites
+birds	NC_018809.1	Pseudoleistes guirahuro	0	0	no	no documented sites
+birds	NC_018812.1	Gymnomystax mexicanus	0	0	no	no documented sites
+birds	NC_018813.1	Agelasticus cyanopus	0	0	no	no documented sites
+birds	NC_041664.1	Piranga ludoviciana	0	0	no	no documented sites
+birds	NC_041665.1	Piranga bidentata	0	0	no	no documented sites
+birds	NC_041666.1	Piranga erythrocephala	0	0	no	no documented sites
+birds	NC_041667.1	Piranga rubriceps	0	0	no	no documented sites
+birds	NC_041668.1	Piranga leucoptera	0	0	no	no documented sites
+birds	NC_031447.1	Streptopelia orientalis	1	0	no	nad3@9695 [record annotation]: homopolymer
+birds	NC_038201.1	Buceros bicornis	1	0	no	nad3@11271 [record annotation]: clean_other_codon
+birds	NC_068687.1	Cyornis magnirostris	0	0	no	no documented sites
+birds	NC_018800.1	Dives dives	0	0	no	no documented sites
+birds	NC_070231.1	Anarhynchus leschenaultii	1	1	no	nad3@9710 [record annotation]: counted
+birds	NC_038218.1	Strix uralensis	1	1	no	nad3@9687 [record annotation]: counted
+birds	NC_038219.1	Bubo bubo	1	1	no	nad3@9703 [record annotation]: counted
+birds	NC_038220.1	Bubo scandiacus	1	1	no	nad3@9698 [record annotation]: counted
+birds	NC_056257.1	Pluvialis squatarola	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_026547.1	Crossoptilon harmani	1	0	no	nad3@10856 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_026548.1	Crossoptilon mantchuricum	1	0	no	nad3@10863 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_053917.1	Phoenicurus frontalis	0	0	no	no documented sites
+birds	NC_046417.1	Curruca curruca	0	0	no	no documented sites
+birds	NC_035746.1	Halcyon smyrnensis	1	0	no	nad3@9712 [record annotation]: homopolymer
+birds	NC_021445.1	Emberiza spodocephala	0	0	no	no documented sites
+birds	NC_024750.1	Tadorna tadorna	1	1	no	nad3@10763 [record annotation]: counted
+birds	NC_024869.1	Vireo olivaceus	0	0	no	no documented sites
+birds	NC_028545.1	Chaetura pelagica	0	0	no	no documented sites
+birds	NC_037406.1	Zapornia paykullii	1	1	no	nad3@9666 [record annotation]: counted
+birds	NC_035747.1	Prunella fulvescens	0	0	no	no documented sites
+birds	NC_026188.1	Phoebastria nigripes	1	1	no	nad3@9680 [record annotation]: counted
+birds	NC_031353.1	Psittirostra psittacea	0	0	no	no documented sites
+birds	NC_031358.1	Psephotellus pulcherrimus	1	0	no	nad3@9696 [record annotation]: clean_wide_window
+birds	NC_019666.1	Petroica boodang	0	0	no	no documented sites
+birds	NC_019667.1	Petroica goodenovii	0	0	no	no documented sites
+birds	NC_019668.1	Petroica phoenicea	0	0	no	no documented sites
+birds	NC_026223.1	Periparus ater	0	0	no	no documented sites
+birds	NC_031374.1	Eophona migratoria	0	0	no	no documented sites
+birds	NC_019665.1	Eopsaltria australis	0	0	no	no documented sites
+birds	NC_036016.1	Tringa semipalmata	0	0	no	no documented sites
+birds	NC_046419.1	Alaudala cheleensis	0	0	no	no documented sites
+birds	NC_036611.1	Trugon terrestris	1	0	no	nad3@9709 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_062819.1	Ailuroedus buccoides	0	0	no	no documented sites
+birds	NC_036612.1	Otidiphaps nobilis	1	1	no	nad3@9717 [record annotation]: counted
+birds	NC_036613.1	Goura victoria	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_031518.1	Corvus moriorum	0	0	no	no documented sites
+birds	NC_052011.1	Cinclosoma punctatum	0	0	no	no documented sites
+birds	NC_052012.1	Cinclosoma clarum	0	0	no	no documented sites
+birds	NC_019664.1	Epthianura albifrons	0	0	no	no documented sites
+birds	NC_045526.1	Phylloscopus borealis	0	0	no	no documented sites
+birds	NC_056389.1	Dicrurus macrocercus	0	0	no	no documented sites
+birds	NC_051004.1	Acanthisitta chloris	0	0	no	no documented sites
+birds	NC_020605.1	Progne chalybea	0	0	no	no documented sites
+birds	NC_034839.1	Corvus cryptoleucus	0	0	no	no documented sites
+birds	NC_023981.1	Egretta garzetta	1	0	no	nad3@9736 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_023982.1	Zapornia akool	0	0	no	no documented sites
+birds	NC_024048.1	Fringilla montifringilla	0	0	no	no documented sites
+birds	NC_051005.1	Tachuris rubrigastra	0	0	no	no documented sites
+birds	NC_051006.1	Ptilorrhoa leucosticta	0	0	no	no documented sites
+birds	NC_051008.1	Cephalopterus ornatus	0	0	no	no documented sites
+birds	NC_051010.1	Sclerurus mexicanus	0	0	no	no documented sites
+birds	NC_051011.1	Sakesphorus luctuosus	0	0	no	no documented sites
+birds	NC_051012.1	Campylorhamphus procurvoides	0	0	no	no documented sites
+birds	NC_051013.1	Catharus fuscescens	0	0	no	no documented sites
+birds	NC_051014.1	Regulus satrapa	0	0	no	no documented sites
+birds	NC_028414.1	Cuculus poliocephalus	1	1	no	nad3@9721 [record annotation]: counted
+birds	NC_034642.1	Merops viridis	0	0	no	no documented sites
+birds	NC_051015.1	Loxia leucoptera	0	0	no	no documented sites
+birds	NC_051016.1	Vireo altiloquus	0	0	no	no documented sites
+birds	NC_051017.1	Edolisoma coerulescens	0	0	no	no documented sites
+birds	NC_051018.1	Irena cyanogastra	0	0	no	no documented sites
+birds	NC_051019.1	Pachycephala philippinensis	0	0	no	no documented sites
+birds	NC_051020.1	Rhabdornis inornatus	0	0	no	no documented sites
+birds	NC_051021.1	Quiscalus mexicanus	0	0	no	no documented sites
+birds	NC_051022.1	Myiagra hebetior	0	0	no	no documented sites
+birds	NC_028437.1	Suthora nipalensis	0	0	no	no documented sites
+birds	NC_053923.1	Limosa haemastica	1	0	no	nad3@9754 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_051024.1	Leptocoma aspasia	0	0	no	no documented sites
+birds	NC_051026.1	Formicarius rufipectus	0	0	no	no documented sites
+birds	NC_051028.1	Dicrurus megarhynchus	0	0	no	no documented sites
+birds	NC_051029.1	Rhipidura dahli	0	0	no	no documented sites
+birds	NC_051030.1	Lanius ludovicianus	0	0	no	no documented sites
+birds	NC_051031.1	Polioptila caerulea	0	0	no	no documented sites
+birds	NC_051032.1	Thryothorus ludovicianus	0	0	no	no documented sites
+birds	NC_051034.1	Platysteira castanea	0	0	no	no documented sites
+birds	NC_028177.1	Halcyon coromanda	1	0	no	nad3@9712 [record annotation]: homopolymer
+birds	NC_028441.1	Lonchura oryzivora	0	0	no	no documented sites
+birds	NC_036264.1	Spheniscus magellanicus	1	0	no	nad3@9729 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_051035.1	Pachyramphus minor	0	0	no	no documented sites
+birds	NC_051036.1	Oenanthe oenanthe	0	0	no	no documented sites
+birds	NC_051037.1	Cinclus mexicanus	0	0	no	no documented sites
+birds	NC_051038.1	Ploceus nigricollis	0	0	no	no documented sites
+birds	NC_034679.1	Amazona ventralis	1	1	no	nad3@9665 [record annotation]: counted
+birds	NC_028174.1	Dendrocopos major	1	1	no	nad3@9732 [record annotation]: counted
+birds	NC_028194.1	Gorsachius goisagi	1	1	no	nad3@9730 [record annotation]: counted
+birds	NC_053523.1	Gallus gallus	0	0	no	no documented sites
+birds	NC_056273.1	Tringa stagnatilis	1	0	no	nad3@9695 [record annotation]: paired
+birds	NC_045282.1	Sterna paradisaea	1	1	no	nad3@9694 [record annotation]: counted
+birds	NC_028179.1	Turdus rufiventris	0	0	no	no documented sites
+birds	NC_027606.1	Asio flammeus	1	0	no	nad3@9711 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_051027.1	Setophaga kirtlandii	0	0	no	no documented sites
+birds	NC_025623.1	Loxia curvirostra	0	0	no	no documented sites
+birds	NC_024618.1	Crax rubra	1	0	no	nad3@10873 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_024619.1	Caloperdix oculeus	1	0	no	nad3@10701 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_024620.1	Colinus virginianus	1	0	no	nad3@10915 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_046877.1	Calidris pugnax	1	0	no	nad3@9673 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_051009.1	Grallaria varia	0	0	no	no documented sites
+birds	NC_051023.1	Dicaeum eximium	0	0	no	no documented sites
+birds	NC_051033.1	Hylia prasina	0	0	no	no documented sites
+birds	NC_024552.1	Turdus hortulorum	0	0	no	no documented sites
+birds	NC_024553.1	Garrulax cineraceus	0	0	no	no documented sites
+birds	NC_024870.1	Sitta carolinensis	0	0	no	no documented sites
+birds	NC_024871.1	Tregellasia leucops	0	0	no	no documented sites
+birds	NC_062960.1	Prosobonia parvirostris	1	0	no	nad3@9707 [record annotation]: flank_fail
+birds	NC_024872.1	Turdus migratorius	0	0	no	no documented sites
+birds	NC_024873.1	Malurus melanocephalus	0	0	no	no documented sites
+birds	NC_057048.1	Aythya baeri	1	1	no	nad3@10784 [record annotation]: counted
+birds	NC_027933.1	Motacilla cinerea	0	0	no	no documented sites
+birds	NC_027942.1	Zosterops erythropleurus	0	0	no	no documented sites
+birds	NC_034933.1	Cypseloides fumigatus	1	0	no	nad3@9724 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_024595.1	Aythya fuligula	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_024617.1	Crax daubentoni	1	0	no	nad3@10890 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_024821.1	Passer montanus	0	0	no	no documented sites
+birds	NC_040005.1	Indicator xanthonotus	1	0	no	nad3@10280 [record annotation]: homopolymer
+birds	NC_040006.1	Erythrogenys gravivox	0	0	no	no documented sites
+birds	NC_041662.1	Piranga hepatica	0	0	no	no documented sites
+birds	NC_060851.1	Phylloscopus trochilus	0	0	no	no documented sites
+birds	NC_060852.1	Phylloscopus collybita	0	0	no	no documented sites
+birds	NC_027947.1	Goura scheepmakeri	1	0	no	nad3@9777 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_050973.1	Mareca penelope	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_024533.1	Pavo cristatus	1	1	no	nad3@10857 [record annotation]: counted
+birds	NC_024539.1	Sinosuthora webbiana	0	0	no	no documented sites
+birds	NC_024593.1	Amaurornis phoenicurus	0	0	no	no documented sites
+birds	NC_024594.1	Tachybaptus ruficollis	1	1	no	nad3@9692 [record annotation]: counted
+birds	NC_024866.1	Regulus calendula	0	0	no	no documented sites
+birds	NC_024867.1	Poecile atricapillus	0	0	no	no documented sites
+birds	NC_024868.1	Hyliota flavigaster	0	0	no	no documented sites
+birds	NC_028162.1	Otus scops	1	1	no	nad3@9727 [record annotation]: counted
+birds	NC_028163.1	Otus bakkamoena	1	1	no	nad3@9692 [record annotation]: counted
+birds	NC_034838.1	Corvus corax	0	0	no	no documented sites
+birds	NC_057089.1	Falco subbuteo	1	1	no	nad3@9769 [record annotation]: counted
+birds	NC_046943.1	Paradoxornis heudei	0	0	no	no documented sites
+birds	NC_028186.1	Garrulax sannio	0	0	no	no documented sites
+birds	NC_028187.1	Parus monticolus	0	0	no	no documented sites
+birds	NC_028188.1	Turdus merula	0	0	no	no documented sites
+birds	NC_024607.1	Corvus splendens	0	0	no	no documented sites
+birds	NC_046948.1	Turdus cardis	0	0	no	no documented sites
+birds	NC_060520.1	Eudynamys scolopaceus	1	0	no	nad3@9717 [record annotation]: homopolymer
+birds	NC_033404.1	Amazilia rondoniae	1	1	no	nad3@9701 [record annotation]: counted
+birds	NC_033405.1	Amazilia millerii	1	1	no	nad3@9703 [record annotation]: counted
+birds	NC_033413.1	Glaucis hirsutus	1	1	no	nad3@9704 [record annotation]: counted
+birds	NC_033414.1	Lophornis magnificus	1	0	no	nad3@9742 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_026459.1	Spilopelia chinensis	1	0	no	nad3@9694 [record annotation]: homopolymer
+birds	NC_026461.1	Corvus brachyrhynchos	0	0	no	no documented sites
+birds	NC_050864.1	Chroicocephalus brunnicephalus	1	1	no	nad3@9682 [record annotation]: counted
+birds	NC_029383.1	Larus vegae	0	0	no	no documented sites
+birds	NC_039396.1	Ixos mcclellandii	0	0	no	no documented sites
+birds	NC_026793.1	Sylviparus modestus	0	0	no	no documented sites
+birds	NC_027420.1	Recurvirostra avosetta	1	1	no	nad3@9685 [record annotation]: counted
+birds	NC_028176.1	Sternula albifrons	1	1	no	nad3@4314 [record annotation]: counted
+birds	NC_028178.1	Upupa epops	1	0	no	nad3@9661 [record annotation]: homopolymer
+birds	NC_029161.1	Orthopsittaca manilatus	1	1	no	nad3@9667 [record annotation]: counted
+birds	NC_042502.1	Ectopistes migratorius	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_028193.1	Gorsachius magnificus	1	0	no	nad3@9735 [record annotation]: homopolymer
+birds	NC_028195.1	Gorsachius melanolophus	1	1	no	nad3@9734 [record annotation]: counted
+birds	NC_033338.1	Emberiza fucata	0	0	no	no documented sites
+birds	NC_033406.1	Chrysuronia brevirostris	1	1	no	nad3@9699 [record annotation]: counted
+birds	NC_029475.1	Lonchura striata	0	0	no	no documented sites
+birds	NC_042409.1	Psittacula derbiana	1	0	no	nad3@9683 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_037521.1	Serinus canaria	0	0	no	no documented sites
+birds	NC_018794.1	Nesopsar nigerrimus	0	0	no	no documented sites
+birds	NC_021764.1	Psittacara brevipes	1	0	no	nad3@9678 [record annotation]: clean_wide_window
+birds	NC_023264.1	Polyplectron germaini	1	0	no	nad3@10866 [record annotation]: clean_other_codon
+birds	NC_042414.1	Montifringilla henrici	0	0	no	no documented sites
+birds	NC_048989.1	Columba hodgsonii	1	1	no	nad3@9689 [record annotation]: counted
+birds	NC_033336.1	Amazona aestiva	1	1	no	nad3@9664 [record annotation]: counted
+birds	NC_046764.1	Calidris tenuirostris	1	0	no	nad3@9700 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_046765.1	Limosa lapponica	1	0	no	nad3@9708 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_024865.1	Oedistoma iliolophus	0	0	no	no documented sites
+birds	NC_028346.1	Spatula clypeata	1	1	no	nad3@9718 [record annotation]: counted
+birds	NC_068881.1	Pyrrhura frontalis	1	0	no	nad3@9667 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068882.1	Pyrrhura griseipectus	1	0	no	nad3@9667 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068883.1	Pyrrhura hoematotis	1	0	no	nad3@9671 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068887.1	Pyrrhura molinae	1	1	no	nad3@9668 [record annotation]: counted
+birds	NC_068889.1	Pyrrhura peruviana	1	1	no	nad3@9667 [record annotation]: counted
+birds	NC_068890.1	Pyrrhura picta	1	0	no	nad3@9665 [record annotation]: flank_fail
+birds	NC_024068.1	Jacana spinosa	1	1	no	nad3@9689 [record annotation]: counted
+birds	NC_024069.1	Jacana jacana	1	1	no	nad3@9690 [record annotation]: counted
+birds	NC_068902.1	Pyrrhura egregia	1	0	no	nad3@9671 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068903.1	Pyrrhura albipectus	1	0	no	nad3@9673 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068904.1	Pyrrhura perlata	1	0	no	nad3@9669 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_071761.1	Sporophila nigricollis	0	0	no	no documented sites
+birds	NC_023352.1	Mareca falcata	1	1	no	nad3@10761 [record annotation]: counted
+birds	NC_050835.1	Mesembrinibis cayennensis	1	0	no	nad3@9702 [record annotation]: homopolymer
+birds	NC_040142.1	Cacatua pastinator	1	1	no	nad3@9673 [record annotation]: counted
+birds	NC_050680.1	Chloebia gouldiae	0	0	no	no documented sites
+birds	NC_068884.1	Pyrrhura hoffmanni	1	0	no	nad3@9670 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068901.1	Pyrrhura amazonum	1	0	no	nad3@9665 [record annotation]: flank_fail
+birds	NC_046029.1	Corvus dauuricus	0	0	no	no documented sites
+birds	NC_050688.1	Ptilorrhoa caerulescens	0	0	no	no documented sites
+birds	NC_024524.1	Emberiza cioides	0	0	no	no documented sites
+birds	NC_045181.1	Muscicapa griseisticta	0	0	no	no documented sites
+birds	NC_050259.1	Erythrogenys gravivox dedekensi	0	0	no	no documented sites
+birds	NC_068741.1	Rallus indicus	1	0	no	nad3@9676 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_024554.1	Lyrurus tetrix	1	1	no	nad3@10867 [record annotation]: counted
+birds	NC_057247.1	Mycerobas carnipes	0	0	no	no documented sites
+birds	NC_057250.1	Turdus ruficollis	0	0	no	no documented sites
+birds	NC_035568.1	Lagopus lagopus	1	1	no	nad3@9711 [record annotation]: counted
+birds	NC_024575.1	Ixobrychus flavicollis	1	0	no	nad3@9718 [record annotation]: homopolymer
+birds	NC_063128.1	Coturnicops noveboracensis	0	0	no	no documented sites
+birds	NC_068688.1	Dicrurus paradiseus	0	0	no	no documented sites
+birds	NC_068692.1	Pellorneum malaccense	0	0	no	no documented sites
+birds	NC_068693.1	Philentoma pyrhoptera	0	0	no	no documented sites
+birds	NC_024602.1	Aythya ferina	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_068694.1	Cyornis umbratilis	0	0	no	no documented sites
+birds	NC_037513.1	Streptopelia decaocto	1	1	no	nad3@9694 [record annotation]: counted
+birds	NC_024615.1	Polyplectron napoleonis	1	0	no	nad3@10876 [record annotation]: clean_other_codon
+birds	NC_024616.1	Ptilopachus petrosus	1	0	no	nad3@10972 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_040154.1	Eolophus roseicapilla	1	1	no	nad3@9679 [record annotation]: counted
+birds	NC_029384.1	Ninox scutulata	1	1	no	nad3@9685 [record annotation]: counted
+birds	NC_053108.1	Pteruthius melanotis	0	0	no	no documented sites
+birds	NC_053109.1	Chloropsis hardwickii	0	0	no	no documented sites
+birds	NC_053110.1	Zonotrichia albicollis	0	0	no	no documented sites
+birds	NC_053111.1	Lepidothrix coronata	0	0	no	no documented sites
+birds	NC_053067.1	Dryoscopus gambensis	0	0	no	no documented sites
+birds	NC_053078.1	Picathartes gymnocephalus	0	0	no	no documented sites
+birds	NC_053090.1	Cnemophilus loriae	0	0	no	no documented sites
+birds	NC_053073.1	Hypocryptadius cinnamomeus	0	0	no	no documented sites
+birds	NC_036403.1	Lonchura grandis x Lonchura castaneothorax	0	0	no	no documented sites
+birds	NC_036408.1	Lonchura stygia	0	0	no	no documented sites
+birds	NC_053099.1	Pardalotus punctatus	0	0	no	no documented sites
+birds	NC_036399.1	Lonchura flaviprymna	0	0	no	no documented sites
+birds	NC_051007.1	Chaetorhynchus papuensis	0	0	no	no documented sites
+birds	NC_051025.1	Tyrannus savana	0	0	no	no documented sites
+birds	NC_071235.1	Stercorarius lonnbergi	1	0	no	nad3@4318 [record annotation]: flank_fail
+birds	NC_071236.1	Stercorarius skua	1	0	no	nad3@4318 [record annotation]: flank_fail
+birds	NC_071237.1	Stercorarius chilensis	1	0	no	nad3@4318 [record annotation]: flank_fail
+birds	NC_071238.1	Stercorarius longicaudus	1	0	no	nad3@4317 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_044083.1	Poicephalus senegalus	1	0	no	nad3@9690 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_069920.1	Corvus bennetti	0	0	no	no documented sites
+birds	NC_029340.1	Callipepla squamata	1	1	no	nad3@12764 [record annotation]: counted
+birds	NC_020423.1	Gracupica nigricollis	0	0	no	no documented sites
+birds	NC_020424.1	Oriolus chinensis	0	0	no	no documented sites
+birds	NC_020425.1	Alauda arvensis	0	0	no	no documented sites
+birds	NC_057295.1	Dicaeum agile	0	0	no	no documented sites
+birds	NC_020427.1	Leiothrix lutea	0	0	no	no documented sites
+birds	NC_020429.1	Garrulax canorus	0	0	no	no documented sites
+birds	NC_020426.1	Urocissa erythroryncha	0	0	no	no documented sites
+birds	NC_021105.1	Lanius tephronotus	0	0	no	no documented sites
+birds	NC_044672.1	Caracara plancus	1	1	no	nad3@9772 [record annotation]: counted
+birds	NC_044673.1	Caracara plancus cheriway	1	1	no	nad3@9772 [record annotation]: counted
+birds	NC_071234.1	Stercorarius pomarinus	1	0	no	nad3@4318 [record annotation]: flank_fail
+birds	NC_023939.1	Tetraogallus tibetanus	1	1	no	nad3@10862 [record annotation]: counted
+birds	NC_023940.1	Perdix hodgsoniae	0	0	no	no documented sites
+birds	NC_023946.1	Ciconia nigra	1	0	no	nad3@11928 [record annotation]: homopolymer
+birds	NC_044648.1	Tringa totanus	0	0	no	no documented sites
+birds	NC_024922.1	Netta rufina	1	1	no	nad3@9717 [record annotation]: counted
+birds	NC_024924.1	Emberiza rustica	0	0	no	no documented sites
+birds	NC_024925.1	Emberiza rutila	0	0	no	no documented sites
+birds	NC_028333.1	Lanius cristatus	0	0	no	no documented sites
+birds	NC_029344.1	Passer ammodendri	0	0	no	no documented sites
+birds	NC_030285.1	Heliodoxa aurescens	1	1	no	nad3@9705 [record annotation]: counted
+birds	NC_030286.1	Calliphlox amethystina	1	1	no	nad3@9695 [record annotation]: counted
+birds	NC_030287.1	Florisuga fusca	1	0	no	nad3@9698 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_030288.1	Phaethornis malaris	1	1	no	nad3@9707 [record annotation]: counted
+birds	NC_023969.1	Aix galericulata	1	1	no	nad3@9727 [record annotation]: counted
+birds	NC_018034.1	Tetraophasis obscurus	0	0	no	no documented sites
+birds	NC_025900.1	Ardea cinerea	1	1	no	nad3@9722 [record annotation]: counted
+birds	NC_039892.1	Prodotiscus insignis	1	0	no	nad3@9705 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068885.1	Pyrrhura lepida	1	0	no	nad3@9668 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_068886.1	Pyrrhura melanura	1	0	no	nad3@9670 [record annotation]: flank_fail
+birds	NC_029482.1	Campylorhynchus brunneicapillus	0	0	no	no documented sites
+birds	NC_022452.1	Anas crecca	1	1	no	nad3@9714 [record annotation]: counted
+birds	NC_025911.1	Montifringilla nivalis	0	0	no	no documented sites
+birds	NC_025912.1	Pyrgilauda blanfordi	0	0	no	no documented sites
+birds	NC_025914.1	Onychostruthus taczanowskii	0	0	no	no documented sites
+birds	NC_025915.1	Pyrgilauda davidiana	0	0	no	no documented sites
+birds	NC_025916.1	Ardea modesta	1	1	no	nad3@9714 [record annotation]: counted
+birds	NC_068833.1	Onychoprion fuscatus	1	1	no	nad3@9691 [record annotation]: counted
+birds	NC_068888.1	Pyrrhura orcesi	1	0	no	nad3@9667 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_025913.1	Montifringilla adamsi	0	0	no	no documented sites
+birds	NC_029328.1	Synthliboramphus wumizusume	1	0	no	nad3@9701 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_025917.1	Bubulcus ibis	1	1	no	nad3@9710 [record annotation]: counted
+birds	NC_025918.1	Ardea intermedia	1	1	no	nad3@9716 [record annotation]: counted
+birds	NC_025919.1	Ardea purpurea	1	1	no	nad3@9711 [record annotation]: counted
+birds	NC_025920.1	Egretta sacra	1	0	no	nad3@9739 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_039950.1	Rhyticeros undulatus	1	0	no	nad3@9752 [record annotation]: paired
+birds	NC_025921.1	Ardeola bacchus	1	0	no	nad3@9725 [record annotation]: homopolymer
+birds	NC_025922.1	Butorides striata	1	1	no	nad3@9734 [record annotation]: counted
+birds	NC_025923.1	Botaurus stellaris	1	1	no	nad3@9722 [record annotation]: counted
+birds	NC_025924.1	Ixobrychus eurhythmus	1	0	no	nad3@9717 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_025925.1	Botaurus sinensis	1	0	no	nad3@9711 [record annotation]: homopolymer
+birds	NC_025926.1	Pyrrhocorax pyrrhocorax	0	0	no	no documented sites
+birds	NC_025927.1	Pyrrhocorax graculus	0	0	no	no documented sites
+birds	NC_031157.1	Fringilla polatzeki	0	0	no	no documented sites
+birds	NC_022817.1	Spheniscus demersus	1	0	no	nad3@9727 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_027839.1	Ara militaris	1	1	no	nad3@11159 [record annotation]: counted
+birds	NC_029359.1	Falco rusticolus	1	1	no	nad3@9772 [record annotation]: counted
+birds	NC_029360.1	Sturnus vulgaris	0	0	no	no documented sites
+birds	NC_027841.1	Coracopsis vasa	1	0	no	nad3@11068 [record annotation]: homopolymer
+birds	NC_027842.1	Eclectus roratus	1	1	no	nad3@11003 [record annotation]: counted
+birds	NC_027844.1	Myiopsitta monachus	1	1	no	nad3@10935 [record annotation]: counted
+birds	NC_027845.1	Nestor notabilis	1	1	no	nad3@10980 [record annotation]: counted
+birds	NC_027847.1	Psittacus erithacus	1	0	no	nad3@10796 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_027848.1	Psittrichas fulgidus	1	1	no	nad3@10941 [record annotation]: counted
+birds	NC_029377.1	Buteo hemilasius	0	0	no	no documented sites
+birds	NC_029758.1	Phalacrocorax brasilianus	1	0	no	nad3@9699 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_027251.1	Emberiza jankowskii	0	0	no	no documented sites
+birds	NC_027260.1	Tinamus guttatus	1	1	no	nad3@9709 [record annotation]: counted
+birds	NC_029402.1	Trochalopteron affine	0	0	no	no documented sites
+birds	NC_039888.1	Anser albifrons frontalis	0	0	no	no documented sites
+birds	NC_039889.1	Indicator maculatus	1	1	no	nad3@9719 [record annotation]: counted
+birds	NC_039890.1	Jynx ruficollis	1	0	no	nad3@9709 [record annotation]: homopolymer
+birds	NC_039891.1	Psilopogon virens	0	0	no	no documented sites
+birds	NC_027267.1	Phalacrocorax carbo	0	0	no	no documented sites
+birds	NC_018799.1	Chrysomus icterocephalus	0	0	no	no documented sites
+birds	NC_022683.1	Arborophila ardens	1	1	no	nad3@10904 [record annotation]: counted
+birds	NC_039736.1	Asio otus	1	0	no	nad3@4321 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_027275.1	Phaethon lepturus	0	0	no	no documented sites
+birds	NC_027279.1	Tetraogallus himalayensis	1	1	no	nad3@10860 [record annotation]: counted
+birds	NC_027284.1	Prunella montanella	0	0	no	no documented sites
+birds	NC_027846.1	Prioniturus luconensis	1	1	no	nad3@10940 [record annotation]: counted
+birds	NC_027285.1	Acanthis flammea	0	0	no	no documented sites
+birds	NC_027231.1	Tregellasia capito	0	0	no	no documented sites
+birds	NC_027843.1	Forpus passerinus	1	1	no	nad3@11075 [record annotation]: counted
+birds	NC_032058.1	Zosterops abyssinicus	0	0	no	no documented sites
+birds	NC_039770.1	Geospiza magnirostris	0	0	no	no documented sites
+birds	NC_026031.1	Guaruba guarouba	1	1	no	nad3@9684 [record annotation]: counted
+birds	NC_029462.1	Yuhina diademata	0	0	no	no documented sites
+birds	NC_032059.1	Zosterops poliogastrus	0	0	no	no documented sites
+birds	NC_008132.1	Nipponia nippon	1	1	no	nad3@10876 [record annotation]: counted
+birds	NC_007007.1	Gavia stellata	1	1	no	nad3@9733 [record annotation]: counted
+birds	NC_007174.1	Aphrodroma brevirostris	1	1	no	nad3@9721 [record annotation]: counted
+birds	NC_015077.1	Botaurus cinnamomeus	1	0	no	nad3@9714 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_015824.1	Cyanopica cyanus	0	0	no	no documented sites
+birds	NC_011718.2	Aegotheles cristatus	1	0	no	nad3@9697 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_011196.1	Anser anser	1	1	no	nad3@9725 [record annotation]: counted
+birds	NC_015114.1	Leiothrix argentauris	0	0	no	no documented sites
+birds	NC_015530.1	Brotogeris cyanoptera	1	1	no	nad3@6910 [record annotation]: counted
+birds	NC_015613.1	Acridotheres cristatellus	0	0	no	no documented sites
+birds	NC_012140.1	Hypotaenidia okinawae	0	0	no	no documented sites
+birds	NC_012142.1	Rallina eurizonoides sepiaria	0	0	no	no documented sites
+birds	NC_012772.1	Platalea leucorodia	1	0	no	nad3@10859 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_015192.1	Nymphicus hollandicus	1	1	no	nad3@6952 [record annotation]: counted
+birds	NC_015526.1	Phasianus colchicus	1	0	no	nad3@10865 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_015802.1	Ficedula zanthopygia	0	0	no	no documented sites
+birds	NC_015074.1	Calliope calliope	0	0	no	no documented sites
+birds	NC_015087.1	Penelopides panini	1	1	no	nad3@9737 [record annotation]: counted
+birds	NC_002784.1	Dromaius novaehollandiae	1	0	no	nad3@9691 [record annotation]: flank_fail
+birds	NC_004575.1	Excalfactoria chinensis	1	1	no	nad3@10859 [record annotation]: counted
+birds	NC_015887.1	Spilornis cheela	0	0	no	no documented sites
+birds	NC_015898.1	Gracula religiosa	0	0	no	no documented sites
+birds	NC_010767.1	Syrmaticus soemmerringii ijimae	1	0	no	nad3@10863 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_010095.1	Tachybaptus novaehollandiae	2	2	+1AGT	nad1@2958 [record annotation]: counted; nad3@9698 [record annotation]: counted
+birds	NC_011307.1	Falco tinnunculus	1	0	no	nad3@9759 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_008550.1	Pandion haliaetus	1	1	no	nad3@9681 [record annotation]: counted
+birds	NC_007006.1	Larus dominicanus	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_007628.1	Cathartes aura	1	1	no	nad3@9728 [record annotation]: counted
+birds	NC_007883.1	Menura novaehollandiae	0	0	no	no documented sites
+birds	NC_008546.1	Dryocopus pileatus	1	0	no	nad3@9725 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_008548.1	Micrastur gilvicollis	1	0	no	nad3@9752 [record annotation]: clean_wide_window
+birds	NC_008547.1	Falco sparverius	1	1	no	nad3@9771 [record annotation]: counted
+birds	NC_007227.1	Alectura lathami	1	0	no	nad3@9743 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_007975.1	Cnemotriccus fuscatus	0	0	no	no documented sites
+birds	NC_008551.1	Egretta novaehollandiae	1	0	no	nad3@9735 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_008549.1	Pteroglossus azara flavirostris	1	0	no	nad3@9689 [record annotation]: homopolymer
+birds	NC_007172.2	Thalassarche melanophris	1	1	no	nad3@9698 [record annotation]: counted
+birds	NC_010962.1	Platalea minor	1	0	no	nad3@11059 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_015197.1	Eupsittula pertinax chrysogenys	1	1	no	nad3@6913 [record annotation]: counted
+birds	NC_011817.1	Francolinus pintadeanus	1	1	no	nad3@10868 [record annotation]: counted
+birds	NC_011818.1	Astur gentilis	0	0	no	no documented sites
+birds	NC_015234.1	Emberiza tristrami	0	0	no	no documented sites
+birds	NC_010094.1	Archilochus colubris	1	1	no	nad3@9694 [record annotation]: counted
+birds	NC_010092.1	Porphyrio hochstetteri	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_010089.1	Phoenicopterus roseus	1	0	no	nad3@9714 [record annotation]: homopolymer
+birds	NC_010228.1	Sylvia atricapilla	0	0	no	no documented sites
+birds	NC_007691.1	Cygnus columbianus	1	1	no	nad3@12779 [record annotation]: counted
+birds	NC_011708.1	Agapornis roseicollis	1	1	no	nad3@9676 [record annotation]: counted
+birds	NC_011709.1	Urodynamis taitensis	1	0	no	nad3@9711 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_011712.1	Todiramphus sanctus vagans	1	1	no	nad3@9678 [record annotation]: counted
+birds	NC_011714.1	Trogon viridis	1	1	no	nad3@9762 [record annotation]: counted
+birds	NC_011716.2	Eurystomus orientalis	1	1	no	nad3@9726 [record annotation]: counted
+birds	NC_015233.1	Emberiza chrysophrys	0	0	no	no documented sites
+birds	NC_005931.1	Strigops habroptila	1	1	no	nad3@9691 [record annotation]: counted
+birds	NC_000846.1	Rhea americana	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_002672.1	Dinornis giganteus	1	1	no	nad3@11208 [record annotation]: counted
+birds	NC_012844.1	Dendrocygna javanica	0	0	no	no documented sites
+birds	NC_012895.1	Lophura nycthemera	1	0	no	nad3@10857 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_012897.1	Pavo muticus	1	1	no	nad3@10869 [record annotation]: counted
+birds	NC_014576.1	Chrysolophus pictus	1	0	no	nad3@10852 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_012900.1	Polyplectron bicalcaratum	1	1	no	nad3@10875 [record annotation]: counted
+birds	NC_002197.1	Ciconia ciconia	0	0	no	no documented sites
+birds	NC_013483.2	Pycnonotus taivanus	0	0	no	no documented sites
+birds	NC_008138.1	Eudyptes chrysocome	1	0	no	nad3@9811 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_008139.1	Gavia pacifica	1	1	no	nad3@9710 [record annotation]: counted
+birds	NC_005933.1	Anseranas semipalmata	1	1	no	nad3@9706 [record annotation]: counted
+birds	NC_016679.1	Crossoptilon crossoptilon	1	0	no	nad3@10854 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_008140.1	Podiceps cristatus	1	1	+1AGT	nad3@9621 [record annotation]: counted
+birds	NC_012453.1	Arborophila rufipectus	0	0	no	no documented sites
+birds	NC_016723.1	Mergus squamatus	0	0	no	no documented sites
+birds	NC_015807.1	Nycticorax nycticorax	1	0	no	nad3@9727 [record annotation]: homopolymer
+birds	NC_015810.1	Garrulus glandarius	0	0	no	no documented sites
+birds	NC_013146.1	Threskiornis aethiopicus	1	0	no	nad3@11097 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_014341.1	Pseudopodoces humilis	0	0	no	no documented sites
+birds	NC_015203.1	Zenaida auriculata	1	1	no	nad3@6903 [record annotation]: counted
+birds	NC_015190.1	Leptotila verreauxi	1	1	no	nad3@6904 [record annotation]: counted
+birds	NC_015085.1	Rhabdotorrhinus waldeni	1	1	no	nad3@9739 [record annotation]: counted
+birds	NC_007598.1	Nisaetus nipalensis	0	0	no	no documented sites
+birds	NC_007599.1	Nisaetus alboniger	0	0	no	no documented sites
+birds	NC_002779.1	Anomalopteryx didiformis	1	1	no	nad3@9706 [record annotation]: counted
+birds	NC_002783.2	Rhea pennata	1	1	no	nad3@9688 [record annotation]: counted
+birds	NC_014455.1	Spodiopsar sericeus	0	0	no	no documented sites
+birds	NC_000878.1	Falco peregrinus	1	1	no	nad3@9768 [record annotation]: counted
+birds	NC_009684.1	Anas platyrhynchos	1	1	no	nad3@10763 [record annotation]: counted
+birds	NC_013838.1	Pycnonotus sinensis	0	0	no	no documented sites
+birds	NC_015897.1	Crossoptilon auritum	1	0	no	nad3@10860 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_012143.1	Coturnicops exquisitus	0	0	no	no documented sites
+birds	NC_010195.2	Meleagris gallopavo	1	0	no	nad3@9727 [record annotation]: homopolymer
+birds	NC_007897.1	Taeniopygia guttata	0	0	no	no documented sites
+birds	NC_007979.1	Phaethon rubricauda	0	0	no	no documented sites
+birds	NC_015207.1	Geotrygon violacea	1	1	no	nad3@6909 [record annotation]: counted
+birds	NC_010227.1	Acrocephalus scirpaceus	0	0	no	no documented sites
+birds	NC_010229.1	Curruca crassirostris	0	0	no	no documented sites
+birds	NC_003408.1	Coturnix japonica	1	1	no	nad3@10866 [record annotation]: counted
+birds	NC_015200.1	Pica pica	0	0	no	no documented sites
+birds	NC_015232.1	Cyanoptila cyanomelana	0	0	no	no documented sites
+birds	NC_014046.1	Otis tarda	1	1	no	nad3@10961 [record annotation]: counted
+birds	NC_005932.1	Ninox novaeseelandiae	1	0	no	nad3@9698 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_011711.1	Geococcyx californianus	0	0	no	no documented sites
+birds	NC_007011.1	Branta canadensis	1	0	no	nad3@9729 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_009134.1	Melopsittacus undulatus	1	1	no	nad3@9687 [record annotation]: counted
+birds	NC_002673.1	Emeus crassus	1	1	no	nad3@11200 [record annotation]: counted
+birds	NC_007978.1	Synthliboramphus antiquus	0	0	no	no documented sites
+birds	NC_002196.1	Ciconia boyciana	0	0	no	no documented sites
+birds	NC_000880.1	Vidua chalybeata	0	0	no	no documented sites
+birds	NC_002069.2	Corvus frugilegus	0	0	no	no documented sites
+birds	NC_008540.1	Apus apus	0	0	no	no documented sites
+birds	NC_002782.2	Apteryx haastii	1	1	no	nad3@9700 [record annotation]: counted
+birds	NC_002785.1	Struthio camelus	1	1	no	nad3@9672 [record annotation]: counted
+birds	NC_003128.3	Buteo buteo	0	0	no	no documented sites
+birds	NC_015236.1	Gallinula chloropus	1	0	no	nad3@13079 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_015237.1	Spodiopsar cineraceus	0	0	no	no documented sites
+birds	NC_021621.1	Ficedula albicollis	0	0	no	no documented sites
+birds	NC_002778.2	Casuarius casuarius	1	0	no	nad3@9690 [record annotation]: clean_other_codon
+birds	NC_013619.1	Tragopan caboti	1	0	no	nad3@10908 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_015195.1	Acridotheres tristis	0	0	no	no documented sites
+birds	NC_015198.1	Spinus spinus	0	0	no	no documented sites
+birds	NC_015199.1	Bucorvus leadbeateri	1	1	no	nad3@6913 [record annotation]: counted
+birds	NC_012843.1	Cygnus atratus	1	1	no	nad3@12799 [record annotation]: counted
+birds	NC_007239.1	Gallus lafayettii	1	1	no	nad3@11013 [record annotation]: counted
+birds	NC_010770.1	Syrmaticus reevesii	1	0	no	nad3@10854 [record annotation]: homopolymer
+birds	NC_011816.1	Bambusicola thoracicus	1	1	no	nad3@10898 [record annotation]: counted
+birds	NC_013978.1	Columba livia	1	1	no	nad3@9694 [record annotation]: counted
+birds	NC_000877.1	Aythya americana	1	1	no	nad3@10778 [record annotation]: counted
+birds	NC_013979.1	Lophophorus lhuysii	0	0	no	no documented sites
+birds	NC_010778.1	Phasianus versicolor	1	0	no	nad3@10865 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_010771.1	Syrmaticus ellioti	1	0	no	nad3@10864 [record annotation]: homopolymer
+birds	NC_010774.1	Syrmaticus humiae	1	0	no	nad3@10865 [record annotation]: homopolymer
+birds	NC_010781.1	Lophura ignita	1	1	no	nad3@10854 [record annotation]: counted
+birds	NC_014879.1	Podoces hendersoni	0	0	no	no documented sites
+birds	NC_002772.2	Eudromia elegans	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_010091.1	Rhynochetos jubatus	1	0	no	nad3@9676 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_007238.1	Gallus varius	1	1	no	nad3@10953 [record annotation]: counted
+birds	NC_015482.1	Sibirionetta formosa	0	0	no	no documented sites
+birds	NC_026783.1	Corvus hawaiiensis	0	0	no	no documented sites
+birds	NC_009736.1	Egretta eulophotes	1	0	no	nad3@11720 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_000879.1	Smithornis sharpei	0	0	no	no documented sites
+birds	NC_004538.1	Eudyptula minor	1	0	no	nad3@9715 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_004539.1	Anser albifrons	1	0	no	nad3@9724 [record annotation]: aligned_no_event
+birds	NC_002781.3	Tinamus major	1	0	no	nad3@9705 [record annotation]: homopolymer
+birds	NC_003713.2	Haematopus ater	1	1	no	nad3@9677 [record annotation]: counted
+birds	NC_013244.1	Hemiphaga novaeseelandiae	1	1	no	nad3@9715 [record annotation]: counted
+birds	NC_007240.1	Gallus sonneratii	1	1	no	nad3@11013 [record annotation]: counted
+birds	NC_017604.1	Cygnus bewickii	0	0	no	no documented sites
+birds	NC_014180.1	Acryllium vulturinum	1	1	no	nad3@10922 [record annotation]: counted
+birds	NC_010965.1	Cairina moschata	1	1	no	nad3@10770 [record annotation]: counted
+birds	NC_003712.2	Arenaria interpres	1	1	no	nad3@10875 [record annotation]: counted
+birds	NC_015201.1	Bycanistes brevis	1	1	no	nad3@6912 [record annotation]: counted
+birds	NC_013806.1	Apteryx owenii	1	1	no	nad3@9703 [record annotation]: counted
+birds	NC_072569.1	Strix aluco	1	1	no	nad3@9697 [record annotation]: counted
+birds	NC_066800.1	Haliastur indus	1	1	no	nad3@9705 [record annotation]: counted
+birds	NC_059712.1	Cacatua goffiniana	1	1	no	nad3@9672 [record annotation]: counted
+birds	NC_062087.1	Emberiza schoeniclus	0	0	no	no documented sites
+birds	NC_063526.1	Cathartes burrovianus	1	1	no	nad3@9722 [record annotation]: counted
+birds	NC_063525.1	Coragyps atratus	1	1	no	nad3@9726 [record annotation]: counted
+birds	NC_059932.1	Zosterops japonicus	0	0	no	no documented sites
+birds	NC_062944.1	Yungipicus kizuki	0	0	no	no documented sites
+birds	NC_063527.1	Sarcoramphus papa	1	1	no	nad3@9723 [record annotation]: counted
+birds	NC_062945.1	Sula dactylatra	0	0	no	no documented sites
+birds	NC_064505.1	Phylloscopus burkii	0	0	no	no documented sites
+birds	NC_072704.1	Pica nuttalli	0	0	no	no documented sites
+birds	NC_059853.1	Helopsaltes pleskei	0	0	no	no documented sites
+birds	NC_059711.1	Cacatua galerita	1	1	no	nad3@9675 [record annotation]: counted
+birds	NC_059710.1	Cacatua alba	1	1	no	nad3@9675 [record annotation]: counted
+birds	NC_063712.1	Amazona auropalliata	1	1	no	nad3@9668 [record annotation]: counted
+birds	NC_072703.1	Pica hudsonia	0	0	no	no documented sites
+birds	NC_059881.1	Anarhynchus mongolus	1	1	no	nad3@9714 [record annotation]: counted
+birds	NC_059854.1	Numenius madagascariensis	0	0	no	no documented sites
+birds	NC_064933.1	Trichoglossus haematodus	1	1	no	nad3@9685 [record annotation]: counted
+birds	NC_059796.1	Streptopelia tranquebarica	1	1	no	nad3@9693 [record annotation]: counted
+birds	NC_059801.1	Aythya nyroca	1	0	no	atp6@1139 [record annotation]: clean_other_codon
+birds	NC_061228.1	Thinornis dubius	1	0	no	nad3@9692 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_059916.1	Grallina cyanoleuca	0	0	no	no documented sites
+birds	NC_059848.1	Turnix tanki	1	0	no	nad3@9702 [record annotation]: homopolymer
+birds	NC_059847.1	Turdus dissimilis	0	0	no	no documented sites
+birds	NC_061764.1	Numenius minutus	0	0	no	no documented sites
+birds	NC_062466.1	Diglossa brunneiventris	0	0	no	no documented sites
+birds	NC_065197.1	Pterorhinus courtoisi	0	0	no	no documented sites
+birds	NC_062733.1	Lichenostomus cassidix	0	0	no	no documented sites
+birds	NC_061952.1	Dryobates minor	1	1	no	nad3@8838 [record annotation]: counted
+birds	NC_066152.1	Trichoglossus moluccanus	1	1	no	nad3@9685 [record annotation]: counted
+birds	NC_066151.1	Trichoglossus forsteni	1	0	no	nad3@9685 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_073152.1	Emberiza godlewskii yunnanensis	0	0	no	no documented sites
+birds	NC_072705.1	Pica serica	0	0	no	no documented sites
+birds	NC_061698.1	Motacilla tschutschensis taivana	0	0	no	no documented sites
+birds	NC_077264.1	Reinwardtoena reinwardtii	1	1	no	nad3@7213 [record annotation]: counted
+birds	NC_080910.1	Phylloscopus reguloides	0	0	no	no documented sites
+birds	NC_080911.1	Phylloscopus trochiloides	0	0	no	no documented sites
+birds	NC_080969.1	Macropygia nigrirostris	1	1	no	nad3@9978 [record annotation]: counted
+birds	NC_080983.1	Amazona vinacea	1	1	no	nad3@9671 [record annotation]: counted
+birds	NC_081048.1	Tauraco livingstonii	1	0	no	nad3@12106 [record annotation]: homopolymer
+birds	NC_082066.1	Rissa tridactyla	1	0	no	nad3@10864 [record annotation]: clean_other_codon
+birds	NC_082164.1	Amazona leucocephala	1	1	no	nad3@9666 [record annotation]: counted
+birds	NC_082165.1	Anodorhynchus hyacinthinus	1	1	no	nad3@9678 [record annotation]: counted
+birds	NC_082166.1	Ara ambiguus	1	1	no	nad3@9670 [record annotation]: counted
+birds	NC_082167.1	Aratinga maculata	1	1	no	nad3@9673 [record annotation]: counted
+birds	NC_082168.1	Psittacara holochlorus	1	0	no	nad3@9684 [record annotation]: clean_wide_window
+birds	NC_082169.1	Psittacara mitratus	1	1	no	nad3@9684 [record annotation]: counted
+birds	NC_082170.1	Pyrrhura chapmani	1	0	no	nad3@9671 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_082171.1	Rhynchopsitta pachyrhyncha	1	1	no	nad3@9674 [record annotation]: counted
+birds	NC_082172.1	Trichoglossus euteles	1	1	no	nad3@9685 [record annotation]: counted
+birds	NC_082321.1	Prunella collaris	0	0	no	no documented sites
+birds	NC_082322.1	Prunella modularis	0	0	no	no documented sites
+birds	NC_082148.1	Chloris chloris	0	0	no	no documented sites
+birds	NC_083117.1	Cinclus pallasii	0	0	no	no documented sites
+birds	NC_083265.1	Balaeniceps rex	1	1	no	nad3@9687 [record annotation]: counted
+birds	NC_083486.1	Psittacula echo	1	1	no	nad3@9680 [record annotation]: counted
+birds	NC_084792.1	Aburria aburri	1	1	no	nad3@10847 [record annotation]: counted
+birds	NC_084184.1	Turnix suscitator	1	1	no	nad3@9680 [record annotation]: counted
+birds	NC_084285.1	Hypsipetes amaurotis	0	0	no	no documented sites
+birds	NC_085213.1	Macronectes giganteus	1	0	no	nad3@9718 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_085313.1	Argusianus argus	1	0	no	nad4@15302 [record annotation]: clean_other_codon
+birds	NC_086745.1	Tarsiger indicus	0	0	no	no documented sites
+birds	NC_086816.1	Caprimulgus indicus	1	1	no	nad3@9721 [record annotation]: counted
+birds	NC_087724.1	Chrysococcyx russatus	1	0	no	nad3@9714 [record annotation]: flank_fail
+birds	NC_087725.1	Chrysococcyx minutillus	1	0	no	nad3@9714 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NC_087758.1	Anarhynchus montanus	1	1	no	nad3@9706 [record annotation]: counted
+birds	NC_088445.1	Arenaria melanocephala	1	1	no	nad3@10875 [record annotation]: counted
+birds	NC_088446.1	Clangula hyemalis	1	1	no	nad3@10803 [record annotation]: counted
+birds	NC_088447.1	Gallinago delicata	0	0	no	no documented sites
+birds	NC_088448.1	Histrionicus histrionicus	1	1	no	nad3@10800 [record annotation]: counted
+birds	NC_088449.1	Mareca americana	1	1	no	nad3@9713 [record annotation]: counted
+birds	NC_088450.1	Melanitta americana	1	1	no	nad3@10785 [record annotation]: counted
+birds	NC_088451.1	Numenius hudsonicus	0	0	no	no documented sites
+birds	NC_088452.1	Picoides tridactylus	1	1	no	nad3@9721 [record annotation]: counted
+birds	NC_088453.1	Somateria spectabilis	1	1	no	nad3@10786 [record annotation]: counted
+birds	NC_088454.1	Tringa brevipes	1	1	no	nad3@9704 [record annotation]: counted
+birds	NC_088455.1	Tringa incana	1	1	no	nad3@9704 [record annotation]: counted
+birds	NC_088456.1	Tringa melanoleuca	1	1	no	nad3@9704 [record annotation]: counted
+birds	NC_088495.1	Porphyrio mantelli	1	1	no	nad3@9686 [record annotation]: counted
+birds	NC_088568.1	Mergus australis	1	0	no	nad3@9841 [record annotation]: aligned_no_event
+birds	NC_088569.1	Mergus octosetaceus	1	0	no	nad3@10330 [record annotation]: misplaced (shift elsewhere in the gene)
+birds	NW_027639059.1	Tetrao urogallus	0	0	no	no documented sites
+birds	NW_027660046.1	Nesoenas mayeri	0	0	no	no documented sites
+birds	NW_027660339.1	Falco punctatus	0	0	no	no documented sites
+birds	NW_027664147.1	Anser brachyrhynchus	0	0	no	no documented sites
+birds	NW_027668489.1	Bucephala clangula	0	0	no	no documented sites
+birds	NW_028114356.1	Phaethon aethereus	0	0	no	no documented sites
+birds	NW_028117347.1	Larus argentatus	0	0	no	no documented sites
+birds	NW_028120144.1	Coloeus monedula	0	0	no	no documented sites
+turtles	NC_036346.1	Ranacephala hogei	0	0	no	no documented sites
+turtles	NC_025494.1	Lissemys scutata	1	0	no	nad3@9720 [record annotation]: homopolymer
+turtles	NC_039559.1	Nilssonia nigricans	1	1	no	nad3@9783 [record annotation]: counted
+turtles	NC_026024.1	Heosemys depressa	1	0	no	nad3@9695 [record annotation]: homopolymer
+turtles	NC_026027.1	Cyclemys pulchristriata	1	0	no	nad3@9704 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_026028.1	Chitra indica	1	1	no	nad3@9705 [record annotation]: counted
+turtles	NC_068236.1	Pelodiscus sinensis	0	0	no	no documented sites
+turtles	NC_037383.1	Chelodina expansa	0	0	no	no documented sites
+turtles	NC_037384.1	Chelodina mccordi	0	0	no	no documented sites
+turtles	NC_037385.1	Chelodina parkeri	0	0	no	no documented sites
+turtles	NC_037386.1	Chelodina pritchardi	0	0	no	no documented sites
+turtles	NC_037387.1	Chelodina oblonga	0	0	no	no documented sites
+turtles	NC_054232.1	Amyda cartilaginea	1	1	no	nad3@9708 [record annotation]: counted
+turtles	NC_026050.1	Platemys platycephala	0	0	no	no documented sites
+turtles	NC_026048.1	Emydura subglobosa	1	1	no	nad3@9692 [record annotation]: counted
+turtles	NC_051481.1	Chelonoidis vandenburghi	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_051478.1	Chelonoidis porteri	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_020665.1	Notochelys platynota	0	0	no	no documented sites
+turtles	NC_051480.1	Chelonoidis guntheri	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_026047.1	Elseya branderhorsti	1	1	no	nad3@9691 [record annotation]: counted
+turtles	NC_026049.1	Pelusios castaneus	3	1	no	nad3@9627 [record annotation]: clean_other_codon; nad4l@10012 [record annotation]: counted; nad4l@10175 [record annotation]: flank_fail
+turtles	NC_051472.1	Chelonoidis abingdonii	1	1	no	nad3@9706 [record annotation]: counted
+turtles	NC_051474.1	Chelonoidis darwini	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_051475.1	Chelonoidis donfaustoi	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_051476.1	Chelonoidis hoodensis	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_051477.1	Chelonoidis duncanensis	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_051479.1	Chelonoidis vicina	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_051482.1	Chelonoidis microphyes	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_018550.1	Natator depressus	1	0	no	nad3@9721 [record annotation]: homopolymer
+turtles	NC_042247.1	Rheodytes leukops	1	1	no	nad3@9688 [record annotation]: counted
+turtles	NC_029183.1	Mauremys rivulata	0	0	no	no documented sites
+turtles	NC_041282.1	Elseya irwini	1	1	no	nad3@9689 [record annotation]: counted
+turtles	NC_041283.1	Elseya lavarackorum	1	1	no	nad3@9693 [record annotation]: counted
+turtles	NC_041285.1	Chelodina burrungandjii	0	0	no	no documented sites
+turtles	NC_041286.1	Chelodina canni	0	0	no	no documented sites
+turtles	NC_041287.1	Elseya albagula	1	1	no	nad3@9698 [record annotation]: counted
+turtles	NC_041288.1	Elseya dentata	1	1	no	nad3@9690 [record annotation]: counted
+turtles	NC_041291.1	Chelodina colliei	0	0	no	no documented sites
+turtles	NC_041302.1	Emydura macquarii	1	1	no	nad3@9699 [record annotation]: counted
+turtles	NC_022857.1	Cuora trifasciata	0	0	no	no documented sites
+turtles	NC_051473.1	Chelonoidis becki	1	1	no	nad3@9199 [record annotation]: counted
+turtles	NC_032297.1	Heosemys grandis	1	0	no	nad3@9726 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_030217.1	Elusor macrurus	1	1	no	nad3@9698 [record annotation]: counted
+turtles	NC_041096.1	Geochelone elegans	1	0	no	nad3@9695 [record annotation]: homopolymer
+turtles	NC_028634.1	Lepidochelys olivacea	1	1	no	nad3@9701 [record annotation]: counted
+turtles	NC_044641.1	Geoemyda spengleri	1	1	no	nad3@9706 [record annotation]: counted
+turtles	NC_032300.1	Batagur trivittata	1	1	no	nad3@4310 [record annotation]: counted
+turtles	NC_035731.1	Pseudemydura umbrina	1	0	no	nad3@9668 [record annotation]: homopolymer
+turtles	NC_035748.1	Myuchelys bellii	1	1	no	nad3@9701 [record annotation]: counted
+turtles	NC_044186.1	Gopherus evgoodei	0	0	no	no documented sites
+turtles	NC_069867.1	Pelodiscus shipian	1	0	no	nad3@9732 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_031432.1	Mauremys leprosa	0	0	no	no documented sites
+turtles	NC_028438.1	Aldabrachelys gigantea	1	1	no	nad3@9705 [record annotation]: counted
+turtles	NC_069558.1	Batagur kachuga	1	0	no	nad3@9677 [record annotation]: clean_other_codon
+turtles	NC_069559.1	Batagur dhongoka	1	0	no	nad3@9686 [record annotation]: homopolymer
+turtles	NC_018793.1	Cyclemys dentata	0	0	no	no documented sites
+turtles	NC_053617.1	Chitra vandijki	0	0	no	no documented sites
+turtles	NC_071766.1	Graptemys ouachitensis	2	1	+1AGT	nad3@9687 [record annotation]: misplaced (shift elsewhere in the gene); nad4l@10195 [record annotation]: counted
+turtles	NC_042473.1	Emydura victoriae	1	1	no	nad3@9692 [record annotation]: counted
+turtles	NC_042474.1	Myuchelys georgesi	1	1	no	nad3@9706 [record annotation]: counted
+turtles	NC_042475.1	Myuchelys latisternum	1	1	no	nad3@9700 [record annotation]: counted
+turtles	NC_042476.1	Emydura tanybaraga	1	1	no	nad3@9692 [record annotation]: counted
+turtles	NC_069631.1	Terrapene carolina	1	1	no	nad3@9708 [record annotation]: counted
+turtles	NC_069866.1	Pelodiscus parviformis	1	0	no	nad3@9741 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_063095.1	Pseudemys concinna	1	0	no	nad3@9722 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_063096.1	Pseudemys peninsularis	1	0	no	nad3@9721 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_023221.1	Cyclemys tcheponensis	0	0	no	no documented sites
+turtles	NC_021371.1	Apalone spinifera	1	1	no	nad3@9725 [record annotation]: counted
+turtles	NC_023890.1	Chrysemys picta bellii	1	1	no	nad3@9712 [record annotation]: counted
+turtles	NC_029369.1	Mauremys nigricans	1	0	no	nad3@9699 [record annotation]: clean_wide_window
+turtles	NC_041284.1	Chelodina novaeguineae	0	0	no	no documented sites
+turtles	NC_024667.1	Chelodina longicollis	0	0	no	no documented sites
+turtles	NC_041292.1	Chelodina steindachneri	0	0	no	no documented sites
+turtles	NC_027826.1	Mauremys caspica	0	0	no	no documented sites
+turtles	NC_041289.1	Elseya novaeguineae	1	1	no	nad3@9693 [record annotation]: counted
+turtles	NC_041290.1	Elseya schultzei	1	1	no	nad3@9696 [record annotation]: counted
+turtles	NC_013841.1	Palea steindachneri	1	0	no	nad3@9741 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_015989.1	Chelus fimbriata	0	0	no	no documented sites
+turtles	NC_011198.1	Chelydra serpentina	1	1	no	nad3@9700 [record annotation]: counted
+turtles	NC_017885.1	Cuora bourreti	1	0	no	nad3@9702 [record annotation]: homopolymer
+turtles	NC_014577.1	Kinosternon leucostomum	0	0	no	no documented sites
+turtles	NC_016685.1	Mauremys sinensis	1	0	no	nad3@9737 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_010970.1	Cyclemys atripons	0	0	no	no documented sites
+turtles	NC_011815.1	Manouria impressa	1	0	no	nad3@9702 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_017901.1	Rafetus swinhoei	1	0	no	nad3@9738 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_011819.1	Sacalia quadriocellata	0	0	no	no documented sites
+turtles	NC_017875.1	Mauremys annamensis	1	0	no	nad3@9848 [record annotation]: clean_wide_window
+turtles	NC_017878.1	Cuora picturata	1	0	no	nad3@9684 [record annotation]: homopolymer
+turtles	NC_007695.1	Indotestudo elongata	1	1	no	nad3@9702 [record annotation]: counted
+turtles	NC_007697.1	Testudo horsfieldii	1	1	no	nad3@9713 [record annotation]: counted
+turtles	NC_007699.1	Testudo kleinmanni	1	0	no	nad3@9727 [record annotation]: clean_wide_window
+turtles	NC_015825.1	Pelochelys cantorii	1	0	no	nad3@9707 [record annotation]: homopolymer
+turtles	NC_014401.1	Cuora pani	0	0	no	no documented sites
+turtles	NC_000886.1	Chelonia mydas	1	0	no	nad3@9708 [record annotation]: flank_fail
+turtles	NC_012398.1	Eretmochelys imbricata	0	0	no	no documented sites
+turtles	NC_012414.1	Lissemys punctata	1	0	no	nad3@9723 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_016691.1	Sacalia bealei	0	0	no	no documented sites
+turtles	NC_012833.1	Trionyx triunguis	1	0	no	nad3@9723 [record annotation]: homopolymer
+turtles	NC_014054.1	Apalone ferox	1	0	no	nad3@9720 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_007970.1	Platysternon megacephalum	1	0	no	nad3@13629 [record annotation]: homopolymer
+turtles	NC_010973.1	Cuora mouhotii	1	1	no	nad3@9703 [record annotation]: counted
+turtles	NC_014048.1	Carettochelys insculpta	0	0	no	no documented sites
+turtles	NC_016951.1	Mauremys japonica	1	0	no	nad3@9706 [record annotation]: clean_wide_window
+turtles	NC_007692.1	Testudo graeca	1	0	no	nad3@9716 [record annotation]: clean_wide_window
+turtles	NC_007693.1	Manouria emys	1	0	no	nad3@9709 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_007694.1	Stigmochelys pardalis	1	1	no	nad3@9709 [record annotation]: counted
+turtles	NC_001947.1	Pelomedusa subrufa	3	0	no	nad3@9630 [Russell & Beckenbach 2008 (K23; nad3-135)]: detected clean at site (codon not checked); nad4l@10015 [Russell & Beckenbach 2008 (K23; 'near nt 99')]: detected clean at site (codon not checked); nad4l@10178 [Russell & Beckenbach 2008 (K23; 'near nt 262')]: flank_fail
+turtles	NC_002073.3	Chrysemys picta	1	1	no	nad3@9711 [record annotation]: counted
+turtles	NC_009260.1	Macrochelys temminckii	1	0	no	nad3@9698 [record annotation]: homopolymer
+turtles	NC_009330.1	Mauremys mutica	1	0	no	nad3@9698 [record annotation]: clean_wide_window
+turtles	NC_007698.1	Testudo marginata	1	0	no	nad3@9711 [record annotation]: clean_wide_window
+turtles	NC_007696.1	Indotestudo forstenii	1	1	no	nad3@9706 [record annotation]: counted
+turtles	NC_002780.1	Dogania subplana	0	0	no	no documented sites
+turtles	NC_011573.1	Trachemys scripta	2	1	no	nad3@9720 [record annotation]: paired; nad4l@10200 [record annotation]: counted
+turtles	NC_014769.1	Cuora amboinensis	1	1	no	nad3@9706 [record annotation]: counted
+turtles	NC_017607.1	Sternotherus carinatus	1	1	no	nad4@11285 [record annotation]: counted
+turtles	NC_014102.1	Cuora galbinifrons	1	0	no	nad3@9703 [record annotation]: homopolymer
+turtles	NC_031300.1	Malaclemys terrapin terrapin	2	2	+1AGT	nad3@4476 [record annotation]: counted; nad4l@4956 [record annotation]: counted
+turtles	NC_015101.1	Mauremys megalocephala	1	0	no	nad3@9740 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_020668.1	Heosemys annandalii	2	1	no	nad3@9693 [record annotation]: homopolymer; nad4@11036 [record annotation]: counted
+turtles	NC_062409.1	Cuora mccordi	1	0	no	nad3@9700 [record annotation]: homopolymer
+turtles	NC_065016.1	Geoclemys hamiltonii	0	0	no	no documented sites
+turtles	NC_080265.1	Chelonoidis carbonarius	1	1	no	nad3@9865 [record annotation]: counted
+turtles	NC_082187.1	Batagur borneoensis	1	1	no	nad3@4310 [record annotation]: counted
+turtles	NC_082188.1	Orlitia borneensis	1	1	no	nad3@4311 [record annotation]: counted
+turtles	NC_082232.1	Chrysemys dorsalis	1	1	no	nad3@9717 [record annotation]: counted
+turtles	NC_085344.1	Pelodiscus axenaria	1	0	no	nad3@9724 [record annotation]: misplaced (shift elsewhere in the gene)
+turtles	NC_088426.1	Pelodiscus maackii	0	0	no	no documented sites
+turtles	NC_007700.1	Malacochersus tornieri	2	1	no	nad3@11720 [record annotation]: homopolymer; nad4@12428 [record annotation]: counted
+oysters	NC_036478.1	Saccostrea echinata	0	0	no	no documented sites
+oysters	NC_018763.1	Crassostrea sp. DB1	0	0	no	no documented sites
+oysters	NC_036479.1	Saccostrea mytiloides	0	0	no	no documented sites
+oysters	NC_036483.1	Saccostrea glomerata	0	0	no	no documented sites
+oysters	NC_056354.1	Alectryonella plicatula	0	0	no	no documented sites
+oysters	NC_027724.1	Saccostrea cuccullata	0	0	no	no documented sites
+oysters	NC_030533.1	Saccostrea kegaki	0	0	no	no documented sites
+oysters	NC_022688.1	Ostrea lurida	0	0	no	no documented sites
+oysters	NC_016180.1	Ostrea edulis	0	0	no	no documented sites
+oysters	NC_027653.1	Crassostrea tulipa	0	0	no	no documented sites
+oysters	NC_011518.2	Magallana hongkongensis	0	0	no	no documented sites
+oysters	NC_001276.1	Magallana gigas	0	0	no	no documented sites
+oysters	NC_012648.1	Magallana angulata	0	0	no	no documented sites
+oysters	NC_012649.1	Magallana sikamea	0	0	no	no documented sites
+oysters	NC_012650.1	Magallana ariakensis	0	0	no	no documented sites
+oysters	NC_015248.1	Magallana nippona	0	0	no	no documented sites
+oysters	NC_015231.1	Ostrea denselamellosa	0	0	no	no documented sites
+oysters	NC_013997.1	Magallana bilineata	0	0	no	no documented sites
+oysters	NC_013998.1	Saccostrea mordax	0	0	no	no documented sites
+oysters	NC_065027.1	Saccostrea malabonensis	0	0	no	no documented sites
+oysters	NC_077458.1	Talonostrea talonata	0	0	no	no documented sites
+oysters	NC_077459.1	Nanostrea pinnicola	0	0	no	no documented sites
+oysters	NC_077460.1	Planostrea pestigris	0	0	no	no documented sites
+venerid clams	NC_068244.1	Cryptonema producta	0	0	no	no documented sites
+venerid clams	NC_068245.1	Marcia hiantina	0	0	no	no documented sites
+venerid clams	NC_068246.1	Marcia japonica	0	0	no	no documented sites
+venerid clams	NC_068247.1	Marcia recens	0	0	no	no documented sites
+venerid clams	NC_038063.1	Dosinia japonica	0	0	no	no documented sites
+venerid clams	NC_022924.1	Meretrix lyrata	0	0	no	no documented sites
+venerid clams	NC_026728.1	Saxidomus purpurata	0	0	no	no documented sites
+venerid clams	NC_031332.1	Ruditapes philippinarum	0	0	no	no documented sites
+venerid clams	NC_048487.1	Mercenaria mercenaria	0	0	no	no documented sites
+venerid clams	NC_068248.1	Tapes conspersus	0	0	no	no documented sites
+venerid clams	NC_060435.1	Macridiscus semicancellata	0	0	no	no documented sites
+venerid clams	NC_045870.1	Macridiscus melanaegis	0	0	no	no documented sites
+venerid clams	NC_037916.1	Dosinia altior	0	0	no	no documented sites
+venerid clams	NC_037917.1	Dosinia troscheli	0	0	no	no documented sites
+venerid clams	NC_056193.1	Callista chinensis	0	0	no	no documented sites
+venerid clams	NC_035757.1	Ruditapes decussatus	0	0	no	no documented sites
+venerid clams	NC_060434.1	Venerupis aspera	0	0	no	no documented sites
+venerid clams	NC_045888.1	Macridiscus multifarius	0	0	no	no documented sites
+venerid clams	NC_013188.1	Meretrix meretrix	0	0	no	no documented sites
+venerid clams	NC_012767.1	Meretrix petechialis	0	0	no	no documented sites
+venerid clams	NC_014579.1	Paphia euglypta	0	0	no	no documented sites
+venerid clams	NC_016891.1	Paratapes undulatus	0	0	no	no documented sites
+venerid clams	NC_016174.1	Meretrix lamarckii	0	0	no	no documented sites
+venerid clams	NC_016889.1	Paphia amabilis	0	0	no	no documented sites
+venerid clams	NC_016890.1	Paratapes textilis	0	0	no	no documented sites
+venerid clams	NC_014809.1	Meretrix lusoria	0	0	no	no documented sites
+venerid clams	NC_065674.1	Ruditapes variegatus	0	0	no	no documented sites
+venerid clams	NC_064209.1	Tapes dorsatus	0	0	no	no documented sites
+Polyrhachis ants	NC_030790.1	Polyrhachis dives	0	0	no	no documented sites
+Arctica	NC_022709.1	Arctica islandica	1	0	no	cob@13189 [record annotation]: flank_fail
+Phaeodactylum	NC_016739.1	Phaeodactylum tricornutum	1	0	no	cox1 [Oudot-Le Secq & Green 2011 (K29)]: homopolymer
+Dipterophagus	NC_058598.1	Dipterophagus daci	1	0	no	nad5@7189 [Towett-Kirui 2022 (K31)]: misplaced (shift elsewhere in the gene)
+chytrids (Rhizophydium, Spizellomyces)	NC_042879.1	Spizellomyces sp. 'palustris'	0	0	no	no documented sites
+chytrids (Rhizophydium, Spizellomyces)	NC_003052.1	Spizellomyces punctatus	1	0	no	cob [record note (K33)]: no shift found in the gene
+chytrids (Rhizophydium, Spizellomyces)	NC_003053.1	Rhizophydium sp. 136	1	0	no	cob@21596 [record annotation]: not_aligned
+chytrids (Rhizophydium, Spizellomyces)	NC_003061.1	Spizellomyces punctatus	0	0	no	no documented sites
+other RefSeq single annotations	NC_020309.1	Hackeriella veitchi	1	0	no	nad5@6938 [record annotation]: clean_other_codon
+other RefSeq single annotations	NC_026914.1	Daphnia magna	1	0	no	cob@10515 [record annotation]: clean_other_codon

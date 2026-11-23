@@ -1,0 +1,11 @@
+RefSeq release 238 mitochondrion: 18220 records; scan set (minus 572 land-plant records): 17648
+scan-set records with any frameshift written in: 643
+  CDS join with 1-2 nt gap or overlap: 632 records, 685 junctions
+  /ribosomal_slippage qualifier: 6  (Daphnia magna, Perkinsus marinus, Perkinsus olseni, Aphrocallistes vastus, Rhizophydium sp. 136, Sternotherus carinatus)
+  /note mentioning frameshift: 567
+  intron feature <= 10 nt: 2  (Glarea lozoyensis, Pyramimonas parkeae)
+  note only (no join, no slippage): 9  (Falco naumanni, Gallus gallus, Perdix hodgsoniae, Ilyanassa obsoleta, Nakaseomyces glabratus CBS 138, Argulus americanus, Spizellomyces punctatus, Sibirionetta formosa, Allomyces macrogynus)
+  join only (no note, no slippage): 69
+  /exception='RNA editing' in scan set: 16
+  records without sequence in the gbff (CON/NW): 205 (all groups)
+fungal TPA BK072095-BK074789: 2695 records, CDS features 0, intron features 0 -> no frameshift can be written in them

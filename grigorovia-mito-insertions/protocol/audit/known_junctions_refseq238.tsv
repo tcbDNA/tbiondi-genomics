@@ -1,0 +1,686 @@
+accession	organism	group	family	gene	strand	genome_pos	cds_pos	shift	bases	old_frame_codons	slippage	note
+NC_036297.1	Spheniscus mendiculus	Metazoa	Spheniscidae	ND3	1	9728	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028404.1	Pyrrhura rupicola	Metazoa	Psittacidae	ND3	1	9670	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_052776.1	Ceuthmochares aereus	Metazoa	Cuculidae	ND3	1	9719	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052777.1	Oceanites oceanicus	Metazoa	Hydrobatidae	ND3	1	9708	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052779.1	Bucco capensis	Metazoa	Bucconidae	ND3	1	9734	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052780.1	Stercorarius parasiticus	Metazoa	Stercorariidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_050049.1	Centropus bengalensis	Metazoa	Centropidae	ND3	1	11424	175	+1	A	CTC [AGT] AGC	0	
+NC_052782.1	Oceanodroma tethys	Metazoa	Hydrobatidae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052783.1	Amazona guildingii	Metazoa	Psittacidae	ND3	1	9661	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_052785.1	Psophia crepitans	Metazoa	Psophiidae	ND3	1	9741	174	+1	T	TTC [CTT] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052793.1	Chloroceryle aenea	Metazoa	Cerylidae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052794.1	Burhinus bistriatus	Metazoa	Burhinidae	ND3	1	9710	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052795.1	Aramus guarauna	Metazoa	Aramidae	ND3	1	9718	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052801.1	Herpetotheres cachinnans	Metazoa	Falconidae	ND3	1	9746	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052802.1	Trogon melanurus	Metazoa	Trogonidae	ND3	1	9760	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052803.1	Spizaetus tyrannus	Metazoa	Accipitridae	ND3	1	9696	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052804.1	Piaya cayana	Metazoa	Coccyzidae	ND3	1	9725	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052805.1	Circaetus pectoralis	Metazoa	Accipitridae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052806.1	Corythaixoides concolor	Metazoa	Musophagidae	ND3	1	9731	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052807.1	Chauna torquata	Metazoa	Anhimidae	ND3	1	9707	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_003058.1	Pagurus longicarpus	Metazoa	Paguridae	COX1	1	4030	4	+1	A	ATC [AAC] GAA	0	mechanism underlying reading frame shift after first codon uncertain
+NC_037702.1	Pygoscelis papua	Metazoa	Spheniscidae	ND3	1	9726	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_038152.1	Anthracoceros coronatus	Metazoa	Bucerotidae	ND3	1	11374	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052778.1	Penelope pileata	Metazoa	Cracidae	ND3	1	9708	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052800.1	Crotophaga sulcirostris	Metazoa	Crotophagidae	ND3	1	9739	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052808.1	Zapornia atra	Metazoa	Rallidae	ND3	1	9673	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025580.1	Accipiter nisus	Metazoa	Accipitridae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_023777.1	Ichthyaetus relictus	Metazoa	Laridae	ND3	1	9687	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_023787.1	Phodilus badius	Metazoa	Tytonidae	NADH dehydrogenase subunit 3	1	9697	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_023788.1	Sagittarius serpentarius	Metazoa	Sagittariidae	NADH dehydrogenase subunit 3	1	9784	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_034296.1	Glaucidium cuculoides	Metazoa	Strigidae	ND3	1	9686	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_042765.1	Psittacula eupatria	Metazoa	Psittacidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_025637.1	Vanellus vanellus	Metazoa	Charadriidae	ND3	1	9705	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025500.1	Fulica atra	Metazoa	Rallidae	ND3	1	9678	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_023779.1	Lophura swinhoii	Metazoa	Phasianidae	ND3	1	10867	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_058600.1	Vultur gryphus	Metazoa	Cathartidae	ND3	1	10933	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15:1568-1571) at 10933. First aminoacid is M instead
+NC_025501.1	Eulabeornis castaneoventris	Metazoa	Rallidae	ND3	1	9688	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_021137.1	Pygoscelis adeliae	Metazoa	Spheniscidae	ND3	1	9716	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_036344.1	Gelochelidon nilotica	Metazoa	Laridae	ND3	1	9689	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025654.1	Anser indicus	Metazoa	Anatidae	ND3	1	9724	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025502.1	Lewinia muelleri	Metazoa	Rallidae	ND3	1	9683	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025508.1	Porphyrio porphyrio	Metazoa	Rallidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_026715.1	Falco cherrug	Metazoa	Falconidae	ND3	1	9767	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_034001.1	Haematortyx sanguiniceps	Metazoa	Phasianidae	ND3	1	10862	174	+1	C	TTC [CTC] AGT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol.)
+NC_034002.1	Lagopus muta	Metazoa	Phasianidae	ND3	1	10853	174	+1	C	TTC [CTC] AGT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol.)
+NC_025494.1	Lissemys scutata	Metazoa	Trionychidae	ND3	1	9720	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol.,15:1568-1571); TAA stop codon is completed by the add
+NC_025499.1	Heliornis fulica	Metazoa	Heliornithidae	ND3	1	9667	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025514.1	Vanellus cinereus	Metazoa	Charadriidae	ND3	1	9705	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025556.1	Larus crassirostris	Metazoa	Laridae	ND3	1	9687	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_054153.1	Psittacula cyanocephala	Metazoa	Psittacidae	ND3	1	9687	174	+1	C	TTC [CTC] TGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_035868.1	Alcedo atthis	Metazoa	Alcedinidae	ND3	1	9697	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_039537.1	Picumnus innominatus	Metazoa	Picidae	ND3	1	9742	205	+1	A	CCT [AGA] AAT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_031897.1	Phalcoboenus australis	Metazoa	Falconidae	ND3	1	9769	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020587.1	Pucrasia macrolopha	Metazoa	Phasianidae	ND3	1	10870	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020588.1	Perdix dauurica	Metazoa	Phasianidae	ND3	1	10861	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020589.1	Lophophorus sclateri	Metazoa	Phasianidae	ND3	1	10882	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020591.1	Tetrastes bonasia	Metazoa	Phasianidae	ND3	1	10847	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_031867.1	Columba rupestris	Metazoa	Columbidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_039559.1	Nilssonia nigricans	Metazoa	Trionychidae	ND3	1	9783	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_026024.1	Heosemys depressa	Metazoa	Geoemydidae	ND3	1	9695	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol.Biol.Evol.,15:1568-1571); TAA stop codon is completed by the addi
+NC_026027.1	Cyclemys pulchristriata	Metazoa	Geoemydidae	ND3	1	9704	186	+1	G	CAG [TAG] CAT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_026028.1	Chitra indica	Metazoa	Trionychidae	ND3	1	9705	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998, Mol. Biol. Evol.,15:1568-1571); TAA stop codon is completed by the ad
+NC_026029.1	Ara glaucogularis	Metazoa	Psittacidae	ND3	1	9668	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_031871.1	Pampusana salamonis	Metazoa	Columbidae	ND3	1	9707	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_033966.1	Pluvialis fulva	Metazoa	Charadriidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_033967.1	Ninox strenua	Metazoa	Strigidae	ND3	1	9697	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_047199.1	Ara chloropterus	Metazoa	Psittacidae	ND3	1	9674	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_033973.1	Xenus cinereus	Metazoa	Scolopacidae	ND3	1	9706	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_033974.1	Tringa ochropus	Metazoa	Scolopacidae	ND3	1	9698	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020578.1	Grus monacha	Metazoa	Gruidae	ND3	1	9688	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020569.1	Balearica regulorum	Metazoa	Gruidae	ND3	1	9693	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020570.1	Balearica pavonina	Metazoa	Gruidae	ND3	1	9694	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020571.1	Grus carunculatus	Metazoa	Gruidae	ND3	1	9686	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020572.1	Anthropoides paradiseus	Metazoa	Gruidae	ND3	1	9684	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020573.1	Anthropoides virgo	Metazoa	Gruidae	ND3	1	9685	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020576.1	Grus americana	Metazoa	Gruidae	ND3	1	9687	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020577.1	Grus grus	Metazoa	Gruidae	ND3	1	9688	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020579.1	Grus nigricollis	Metazoa	Gruidae	ND3	1	9685	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020580.1	Antigone rubicunda	Metazoa	Gruidae	ND3	1	9682	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020581.1	Antigone antigone	Metazoa	Gruidae	ND3	1	9687	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020582.1	Antigone canadensis	Metazoa	Gruidae	ND3	1	9691	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020583.1	Bambusicola fytchii	Metazoa	Phasianidae	ND3	1	10897	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020584.1	Arborophila rufogularis	Metazoa	Phasianidae	ND3	1	10901	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020585.1	Alectoris chukar	Metazoa	Phasianidae	ND3	1	10860	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020586.1	Tragopan temminckii	Metazoa	Phasianidae	ND3	1	10909	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020592.1	Cacatua moluccensis	Metazoa	Cacatuidae	ND3	1	9723	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020593.1	Calyptorhynchus lathami	Metazoa	Cacatuidae	ND3	1	9723	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_026042.1	Psittacara rubritorquis	Metazoa	Psittacidae	ND3	1	9680	174	+1	T	TTT [CTT] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_036337.1	Spheniscus humboldti	Metazoa	Spheniscidae	ND3	1	9731	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028020.1	Campephilus guatemalensis	Metazoa	Picidae	ND3	1	9723	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_045367.1	Agapornis nigrigenis	Metazoa	Psittacidae	ND3	1	9668	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the ad
+NC_028019.1	Sasia ochracea	Metazoa	Picidae	ND3	1	9713	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_031863.1	Zenaida macroura	Metazoa	Columbidae	ND3	1	9694	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_031864.1	Raphus cucullatus	Metazoa	Raphidae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_031865.1	Goura cristata	Metazoa	Columbidae	ND3	1	9712	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_045379.1	Psittacula roseata	Metazoa	Psittacidae	ND3	1	9687	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027934.1	Phoenicopterus ruber	Metazoa	Phoenicopteridae	ND3	1	9715	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,; 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_027936.1	Dryobates pubescens	Metazoa	Picidae	ND3	1	9721	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_031866.1	Didunculus strigirostris	Metazoa	Columbidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_031868.1	Columba jouyi	Metazoa	Columbidae	ND3	1	9694	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_031869.1	Caloenas nicobarica	Metazoa	Columbidae	ND3	1	9705	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_031870.1	Caloenas maculata	Metazoa	Columbidae	ND3	1	9700	174	+1	T	TTT [CTT] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_034741.1	Gallinago stenura	Metazoa	Scolopacidae	ND3	1	9700	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052711.1	Diopsittaca nobilis	Metazoa	Psittacidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020309.1	Hackeriella veitchi	Metazoa	Peloridiidae	ND5	-1	6938	949	+1	T	GGT [TAT] GAA	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; putative +1 ribosomal frameshift
+NC_045365.1	Dromaius baudinianus	Metazoa	Dromaiidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	
+NC_045368.1	Agapornis pullarius	Metazoa	Psittacidae	ND3	1	9672	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the ad
+NC_045369.1	Agapornis lilianae	Metazoa	Psittacidae	ND3	1	9670	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the ad
+NC_045371.1	Aratinga nenday	Metazoa	Psittacidae	ND3	1	9673	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_045372.1	Picus canus	Metazoa	Picidae	ND3	1	9728	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_045373.1	Mareca strepera	Metazoa	Anatidae	ND3	1	10760	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_045377.1	Aptenodytes patagonicus	Metazoa	Spheniscidae	ND3	1	9713	182	+1	A	AGC [AAT] CTT	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_045378.1	Psittacula alexandri	Metazoa	Psittacidae	ND3	1	9677	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041577.1	Lewinia striata	Metazoa	Rallidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_045517.1	Aethia cristatella	Metazoa	Alcidae	ND3	1	9721	175	+1	A	CTC [AGT] AGC	0	
+NC_054210.1	Nesotrochis steganinos	Metazoa	Rallidae	ND3	1	9721	174	+1	C	TTC [CTC] AGT	0	
+NC_040990.1	Calidris ruficollis	Metazoa	Scolopacidae	ND3	1	9676	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_050393.1	Pagodroma nivea	Metazoa	Procellariidae	ND3	1	9715	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025507.1	Hypotaenidia philippensis	Metazoa	Rallidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_054232.1	Amyda cartilaginea	Metazoa	Trionychidae	ND3	1	9708	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_038195.1	Milvus migrans	Metazoa	Accipitridae	ND3	1	4315	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025318.1	Tetrastes sewerzowi	Metazoa	Phasianidae	ND3	1	10832	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_034237.1	Haematopus ostralegus	Metazoa	Haematopodidae	ND3	1	9677	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_059795.1	Treron curvirostra	Metazoa	Columbidae	ND3	1	9823	174	+1	C	TTC [CTC] AGT	0	
+NC_045076.1	Ara macao	Metazoa	Psittacidae	ND3	1	9671	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_040986.1	Mergus merganser	Metazoa	Anatidae	ND3	1	9725	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_031347.1	Pinguinus impennis	Metazoa	Laridae	ND3	1	9706	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052771.1	Charadrius vociferus	Metazoa	Charadriidae	ND3	1	9697	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052772.1	Colius striatus	Metazoa	Coliidae	ND3	1	9681	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052773.1	Crypturellus soui	Metazoa	Tinamidae	ND3	1	9705	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024198.1	Halcyon pileata	Metazoa	Alcedinidae	NADH dehydrogenase subunit 3	1	9717	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the ad
+NC_025786.1	Chrysolampis mosquitus	Metazoa	Trochilidae	ND3	1	9710	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_052775.1	Ardeotis kori	Metazoa	Otididae	ND3	1	9722	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052797.1	Fregata magnificens	Metazoa	Fregatidae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052798.1	Eurystomus gularis	Metazoa	Coraciidae	ND3	1	9735	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_026914.1	Daphnia magna	Metazoa	Daphniidae	CYTB	1	10515	323	-1	T	TAC [TGT] ACA	1	
+NC_036748.1	Huiozyma sinensis	Fungi	Saccharomycetaceae	Cox3p	-1	16878	367	+1	C	GCA [CTG] TTG	0	cytochrome c oxidase subunit 3; +1C frameshift
+NC_036748.1	Huiozyma sinensis	Fungi	Saccharomycetaceae	Atp6p	1	29007	574	+1	C	AAT [CTG] TGC	0	ATP synthase FO subunit a; +1C frameshift
+NC_036748.1	Huiozyma sinensis	Fungi	Saccharomycetaceae	Cobp	1	34612	1024	+1	C	CAA [CTG] CCA	0	apocytochrome b; +1C frameshift (in cob-E4)
+NC_052809.1	Pelecanoides urinatrix	Metazoa	Procellariidae	ND3	1	9704	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052810.1	Brachypteracias leptosomus	Metazoa	Brachypteraciidae	ND3	1	9708	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052811.1	Centropus unirufus	Metazoa	Centropidae	ND3	1	9707	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052812.1	Chroicocephalus maculipennis	Metazoa	Laridae	ND3	1	9683	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052813.1	Halcyon senegalensis	Metazoa	Alcedinidae	ND3	1	9706	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052815.1	Turnix velox	Metazoa	Turnicidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_052817.1	Urocolius indicus	Metazoa	Coliidae	ND3	1	9706	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052818.1	Nothocercus julius	Metazoa	Tinamidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052819.1	Nothocercus nigrocapillus	Metazoa	Tinamidae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052822.1	Phalacrocorax auritus	Metazoa	Phalacrocoracidae	ND3	1	9701	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052823.1	Steatornis caripensis	Metazoa	Steatornithidae	ND3	1	9700	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052824.1	Apteryx rowi	Metazoa	Apterygidae	ND3	1	9705	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052827.1	Asarcornis scutulata	Metazoa	Anatidae	ND3	1	9716	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024156.1	Chrysuronia versicolor	Metazoa	Trochilidae	ND3	1	9701	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_021474.1	Pygoscelis antarcticus	Metazoa	Spheniscidae	ND3	1	9701	168	+1	C	CGA [TTC] TTC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020325.1	Thectocercus acuticaudatus acuticaudatus	Metazoa	Psittacidae	ND3	1	9686	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_022418.1	Anas poecilorhyncha	Metazoa	Anatidae	ND3	1	9716	176	+1	G	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_025742.1	Primolius couloni	Metazoa	Psittacidae	ND3	1	9675	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_035658.1	Megaceryle lugubris	Metazoa	Cerylidae	ND3	1	9702	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_040902.1	Gallus gallus spadiceus	Metazoa	Phasianidae	ND3	1	10957	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024640.1	Tadorna ferruginea	Metazoa	Anatidae	ND3	1	10785	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_054275.1	Eudyptes chrysolophus	Metazoa	Spheniscidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025579.1	Falco columbarius	Metazoa	Falconidae	ND3	1	9757	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_040004.1	Ardea insignis	Metazoa	Ardeidae	ND3	1	9718	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_029862.1	Dendrocopos leucotos	Metazoa	Picidae	ND3	1	9557	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_020574.1	Leucogeranus leucogeranus	Metazoa	Gruidae	ND3	1	9685	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_020590.1	Chrysolophus amherstiae	Metazoa	Phasianidae	ND3	1	10852	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_026189.1	Phoebastria immutabilis	Metazoa	Diomedeidae	ND3	1	9681	164	+1	T	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_036345.1	Sterna hirundo	Metazoa	Laridae	ND3	1	9693	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_026048.1	Emydura subglobosa	Metazoa	Chelidae	ND3	1	9692	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the a
+NC_026125.1	Stercorarius maccormicki	Metazoa	Stercorariidae	ND3	1	4319	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_036378.1	Monosporozyma unispora	Fungi	Saccharomycetaceae	atp6	1	7780	574	+1	T	CTG [TGC] TGG	0	
+NC_036378.1	Monosporozyma unispora	Fungi	Saccharomycetaceae	cox2	1	14542	655	+1	C	TTA [CTG] CGG	0	
+NC_036378.1	Monosporozyma unispora	Fungi	Saccharomycetaceae	rps3	1	26764	448	+1	T	TGC [TGT] GGG	0	
+NC_020595.1	Zanda latirostris	Metazoa	Cacatuidae	ND3	1	9723	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027840.1	Amazona ochrocephala	Metazoa	Psittacidae	ND3	1	11359	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051481.1	Chelonoidis vandenburghi	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051478.1	Chelonoidis porteri	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020575.1	Grus japonensis	Metazoa	Gruidae	ND3	1	9688	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_026190.1	Phoebastria albatrus	Metazoa	Diomedeidae	ND3	1	9683	164	+1	T	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_051480.1	Chelonoidis guntheri	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020613.1	Tetraophasis szechenyii	Metazoa	Phasianidae	ND3	1	10881	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_042683.1	Dendrocopos darjellensis	Metazoa	Picidae	ND3	1	9741	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_026047.1	Elseya branderhorsti	Metazoa	Chelidae	ND3	1	9691	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the a
+NC_026049.1	Pelusios castaneus	Metazoa	Pelomedusidae	ND3	1	9627	91	+1	A	CTT [AGA] ACC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the a
+NC_026049.1	Pelusios castaneus	Metazoa	Pelomedusidae	ND4L	1	10012	100	+1	A	CTT [AGA] AGG	0	frameshift mechanism unknown (J Mol Evol (2008) 67:682-695)
+NC_026049.1	Pelusios castaneus	Metazoa	Pelomedusidae	ND4L	1	10175	262	+1	A	CTT [AGA] TAT	0	frameshift mechanism unknown (J Mol Evol (2008) 67:682-695)
+NC_027938.1	Aptenodytes forsteri	Metazoa	Spheniscidae	ND3	1	9716	182	+1	A	AGC [AAT] CTT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_051472.1	Chelonoidis abingdonii	Metazoa	Testudinidae	ND3	1	9706	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051474.1	Chelonoidis darwini	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051475.1	Chelonoidis donfaustoi	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051476.1	Chelonoidis hoodensis	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051477.1	Chelonoidis duncanensis	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051479.1	Chelonoidis vicina	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_051482.1	Chelonoidis microphyes	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_047279.1	Geopelia cuneata	Metazoa	Columbidae	ND3	1	4314	175	+1	A	CTC [AGT] AGC	0	
+NC_018550.1	Natator depressus	Metazoa	Cheloniidae	ND3	1	9721	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_042247.1	Rheodytes leukops	Metazoa	Chelidae	ND3	1	9688	175	+1	A	CTC [AGT] AGC	0	extra one base at position 9688: reading frame presumably maintained by translational frameshift or RNA editing; TAA sto
+NC_029188.1	Aquila fasciata	Metazoa	Accipitridae	NADH dehydrogenase subunit 3	1	9703	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_040858.1	Haliaeetus albicilla	Metazoa	Accipitridae	ND3	1	9695	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024280.1	Ceryle rudis	Metazoa	Cerylidae	ND3	1	9705	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_041251.1	Hydrobates castro	Metazoa	Hydrobatidae	ND3	1	9708	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_026039.1	Aratinga solstitialis	Metazoa	Psittacidae	ND3	1	9672	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041257.1	Psittacara leucophthalmus	Metazoa	Psittacidae	ND3	1	9677	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_060467.1	Gallinago gallinago	Metazoa	Scolopacidae	ND3	1	9703	174	+1	C	TTC [CTC] AGT	0	
+NC_039814.1	Atlantisia rogersi	Metazoa	Rallidae	ND3	1	9675	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_029319.1	Ara ararauna	Metazoa	Psittacidae	ND3	1	9668	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_029322.1	Primolius maracana	Metazoa	Psittacidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041282.1	Elseya irwini	Metazoa	Chelidae	ND3	1	9689	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041283.1	Elseya lavarackorum	Metazoa	Chelidae	ND3	1	9693	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041287.1	Elseya albagula	Metazoa	Chelidae	ND3	1	9698	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041288.1	Elseya dentata	Metazoa	Chelidae	ND3	1	9690	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_024631.1	Anas acuta	Metazoa	Anatidae	ND3	1	9714	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_039842.1	Falco amurensis	Metazoa	Falconidae	ND3	1	9762	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_039843.1	Perdix perdix	Metazoa	Phasianidae	ND3	1	10861	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_068849.1	Pyrrhura cruentata	Metazoa	Psittacidae	ND3	1	9672	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041302.1	Emydura macquarii	Metazoa	Chelidae	ND3	1	9699	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_051473.1	Chelonoidis becki	Metazoa	Testudinidae	ND3	1	9199	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041118.1	Anarhynchus alexandrinus	Metazoa	Charadriidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_043949.1	Tetrao parvirostris parvirostris	Metazoa	Phasianidae	ND3	1	9718	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown(Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_043950.1	Tetrao parvirostris kamtschaticus	Metazoa	Phasianidae	ND3	1	9716	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown(Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_053843.1	Zapornia pusilla	Metazoa	Rallidae	ND3	1	9670	174	+1	C	TTC [CTC] AGT	0	
+NC_020594.1	Zanda baudinii	Metazoa	Cacatuidae	ND3	1	9723	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_023832.1	Anser cygnoides	Metazoa	Anatidae	ND3	1	10900	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_022709.1	Arctica islandica	Metazoa	Arcticidae	CYTB	1	13189	231	+1	T	TCA [TTT] TTT	0	frameshift mechanism unknown
+NC_027095.1	Cygnus cygnus	Metazoa	Anatidae	ND3	1	12775	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_027096.1	Cygnus olor	Metazoa	Anatidae	ND3	1	12789	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_053867.1	Anhinga melanogaster	Metazoa	Anhingidae	ND3	1	9718	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown
+NC_035423.1	Himantopus himantopus	Metazoa	Recurvirostridae	ND3	1	9693	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_056775.1	Chroicocephalus saundersi	Metazoa	Laridae	ND3	1	9704	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Russell and Beckenbach 2008, J Mol Evol 67:682-695
+NC_041121.1	Yungipicus canicapillus	Metazoa	Picidae	ND3	1	9723	176	+1	G	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_060627.1	Calidris alba	Metazoa	Scolopacidae	ND3	1	9703	174	+1	C	TTC [CTC] AGT	0	
+NC_052799.1	Todus mexicanus	Metazoa	Todidae	ND3	1	9714	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052814.1	Pterocles burchelli	Metazoa	Pteroclidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052774.1	Crypturellus undulatus	Metazoa	Tinamidae	ND3	1	9699	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052784.1	Odontophorus gujanensis	Metazoa	Odontophoridae	ND3	1	9730	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_056091.1	Jynx torquilla	Metazoa	Picidae	ND3	1	9725	174	+1	C	TTC [CTC] AGT	0	
+NC_056095.1	Laterallus spilonota	Metazoa	Rallidae	ND3	1	6901	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_043899.1	Daption capense	Metazoa	Procellariidae	ND3	1	9722	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_044674.1	Caracara creightoni	Metazoa	Falconidae	ND3	1	9772	175	+1	A	CTC [AGT] AGC	0	
+NC_032297.1	Heosemys grandis	Metazoa	Geoemydidae	ND3	1	9726	205	+1	A	CCT [AGA] AAT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_044743.1	Polyplectron malacense	Metazoa	Phasianidae	ND3	1	10872	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_030217.1	Elusor macrurus	Metazoa	Chelidae	ND3	1	9698	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_022684.1	Arborophila brunneopectus	Metazoa	Phasianidae	ND3	1	10893	172	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_041165.1	Gavia arctica	Metazoa	Gaviidae	NADH dehydrogenase subunit 3	1	9727	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15: 1568-1571).
+NC_052816.1	Aegotheles bennettii	Metazoa	Aegothelidae	ND3	1	9696	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_052825.1	Crypturellus cinnamomeus	Metazoa	Tinamidae	ND3	1	9699	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_027496.1	Calidris pygmaea	Metazoa	Scolopacidae	ND3	1	9701	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_044184.1	Pionites leucogaster	Metazoa	Psittacidae	ND3	1	9678	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027504.1	Eudocimus ruber	Metazoa	Threskiornithidae	ND3	1	10837	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol.15:1568-1571)
+NC_060626.1	Calidris alpina	Metazoa	Scolopacidae	ND3	1	9701	174	+1	C	TTC [CTC] AGT	0	
+NC_037895.1	Ara tricolor	Metazoa	Psittacidae	ND3	1	11155	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_060628.1	Calidris subminuta	Metazoa	Scolopacidae	ND3	1	9704	174	+1	C	TTC [CTC] AGT	0	
+NC_021368.1	Antigone vipio	Metazoa	Gruidae	ND3	1	9688	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_068663.1	Aythya marila	Metazoa	Anatidae	ND3	1	9713	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_041096.1	Geochelone elegans	Metazoa	Testudinidae	ND3	1	9695	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_044651.1	Tringa nebularia	Metazoa	Scolopacidae	ND3	1	9704	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_027453.1	Chlorestes cyanus	Metazoa	Trochilidae	ND3	1	9688	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_027454.1	Oreotrochilus melanogaster	Metazoa	Trochilidae	ND3	1	9688	169	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_027455.1	Florisuga mellivora	Metazoa	Trochilidae	ND3	1	9697	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_041578.1	Rallus aquaticus	Metazoa	Rallidae	ND3	1	9672	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_028634.1	Lepidochelys olivacea	Metazoa	Cheloniidae	ND3	1	9701	175	+1	A	CTT [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_041422.1	Otus sunia	Metazoa	Strigidae	ND3	1	9727	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_034278.1	Campephilus imperialis	Metazoa	Picidae	ND3	1	9719	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_021771.1	Rhynchopsitta terrisi	Metazoa	Psittacidae	ND3	1	9675	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_062674.1	Treron sphenurus	Metazoa	Columbidae	ND3	1	9687	175	+1	A	CTC [AGT] AGC	0	
+NC_034374.1	Numida meleagris	Metazoa	Numididae	ND3	1	10421	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindelll et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_044641.1	Geoemyda spengleri	Metazoa	Geoemydidae	ND3	1	9706	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_031447.1	Streptopelia orientalis	Metazoa	Columbidae	ND3	1	9695	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_038201.1	Buceros bicornis	Metazoa	Bucerotidae	ND3	1	11271	175	-2	TT	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_070231.1	Anarhynchus leschenaultii	Metazoa	Charadriidae	ND3	1	9710	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_038218.1	Strix uralensis	Metazoa	Strigidae	ND3	1	9687	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_038219.1	Bubo bubo	Metazoa	Strigidae	ND3	1	9703	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_038220.1	Bubo scandiacus	Metazoa	Strigidae	ND3	1	9698	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_056257.1	Pluvialis squatarola	Metazoa	Charadriidae	ND3	1	9686	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_026547.1	Crossoptilon harmani	Metazoa	Phasianidae	ND3	1	10856	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_026548.1	Crossoptilon mantchuricum	Metazoa	Phasianidae	ND3	1	10863	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_032300.1	Batagur trivittata	Metazoa	Geoemydidae	ND3	1	4310	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_035731.1	Pseudemydura umbrina	Metazoa	Chelidae	ND3	1	9668	175	+1	A	CTT [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_035746.1	Halcyon smyrnensis	Metazoa	Alcedinidae	ND3	1	9712	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_035748.1	Myuchelys bellii	Metazoa	Chelidae	ND3	1	9701	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the a
+NC_024750.1	Tadorna tadorna	Metazoa	Anatidae	ND3	1	10763	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al.,1998, Mol. Biol. Evol., 15:1568-1571)
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	1589	220	+1	A	CCT [AGG] TTT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	1608	238	+2	CC	ATA [CCC] CTA	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	1748	376	+1	A	ACT [AGG] CTG	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	1827	454	+1	A	ATT [AGG] CAT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	2404	1030	+1	A	GGT [AGG] TAT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	2447	1072	+1	A	ATT [AGG] TTT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	2526	1150	+1	A	GCT [AGG] TAT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	2593	1216	+1	A	TTT [AGG] TTT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	2648	1270	+1	A	ATT [AGG] TTT	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox1	1	2664	1285	+2	CC	ATG [CCC] CTA	1	
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cox3	1	15034	52	+1	A	ATT [AGG] TAT	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27089	79	+1	A	ATA [AGG] TTA	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27132	121	+2	TA	ACT [TAG] GCA	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27212	199	+1	A	TAT [AGG] TTA	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27414	400	+1	A	TGG [AGG] TAT	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27445	430	+1	A	TCT [AGG] CAT	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27476	460	+1	A	TCT [AGG] TAA	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27669	652	+1	A	AAT [AGG] TAT	1	no RNA editing was detected
+NC_068742.1	Perkinsus marinus	Sar	Perkinsidae	cob	1	27925	907	+1	T	AAA [TAA] CTA	1	no RNA editing was detected
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	8483	220	+1	A	CCT [AGG] TTT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	8502	238	+2	CC	ATA [CCC] CTA	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	8642	376	+1	A	ACT [AGG] CTG	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	8721	454	+1	A	ATT [AGG] TAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	9298	1030	+1	A	GGT [AGG] CAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	9341	1072	+1	A	ATT [AGG] TTT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	9420	1150	+1	A	GCT [AGG] TAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	9487	1216	+1	A	TTT [AGG] TTT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	9542	1270	+1	A	ATT [AGG] TTT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox1	1	9558	1285	+2	CC	ATG [CCC] CTA	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cox3	1	19548	49	+1	A	ATT [AGG] TAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61789	82	+1	A	ATA [AGG] TTA	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61746	124	+2	TA	ACT [TAG] GCA	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61666	202	+1	A	TAT [AGG] TTA	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61464	403	+1	A	TGG [AGG] TAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61433	433	+1	A	TCT [AGG] TAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61402	463	+1	A	TCT [AGG] TAA	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	61209	655	+1	A	AAT [AGG] CAT	1	
+NC_068743.1	Perkinsus olseni	Sar	Perkinsidae	cob	-1	60953	910	+1	T	AAA [TAA] CTA	1	
+NC_037406.1	Zapornia paykullii	Metazoa	Rallidae	ND3	1	9666	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_026188.1	Phoebastria nigripes	Metazoa	Diomedeidae	ND3	1	9680	164	+1	T	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_031358.1	Psephotellus pulcherrimus	Metazoa	Psittaculidae	ND3	1	9696	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_036611.1	Trugon terrestris	Metazoa	Columbidae	ND3	1	9709	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_069867.1	Pelodiscus shipian	Metazoa	Trionychidae	ND3	1	9732	190	+1	T	ATT [TCT] ACT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_036612.1	Otidiphaps nobilis	Metazoa	Columbidae	ND3	1	9717	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_036613.1	Goura victoria	Metazoa	Columbidae	ND3	1	9713	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_023981.1	Egretta garzetta	Metazoa	Ardeidae	ND3	1	9736	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_028414.1	Cuculus poliocephalus	Metazoa	Cuculidae	ND3	1	9721	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028438.1	Aldabrachelys gigantea	Metazoa	Testudinidae	ND3	1	9705	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_053923.1	Limosa haemastica	Metazoa	Scolopacidae	ND3	1	9754	174	+1	C	TTC [CTC] AGT	0	
+NC_028177.1	Halcyon coromanda	Metazoa	Alcedinidae	ND3	1	9712	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_036264.1	Spheniscus magellanicus	Metazoa	Spheniscidae	ND3	1	9729	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_034679.1	Amazona ventralis	Metazoa	Psittacidae	ND3	1	9665	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_028174.1	Dendrocopos major	Metazoa	Picidae	ND3	1	9732	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028194.1	Gorsachius goisagi	Metazoa	Ardeidae	NADH dehydrogenase subunit 3	1	9730	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_056273.1	Tringa stagnatilis	Metazoa	Scolopacidae	ND3	1	9695	174	+1	C	TTC [CTC] AGT	0	
+NC_045282.1	Sterna paradisaea	Metazoa	Laridae	ND3	1	9694	175	+1	A	CTC [AGT] AGC	0	
+NC_027606.1	Asio flammeus	Metazoa	Strigidae	ND3	1	9711	147	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024618.1	Crax rubra	Metazoa	Cracidae	ND3	1	10873	206	+1	G	CCT [AGA] AAT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol., 15:1568-1571)
+NC_024619.1	Caloperdix oculeus	Metazoa	Phasianidae	ND3	1	10701	206	+1	G	CCT [AGA] AAT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the addition of 3' A re
+NC_024620.1	Colinus virginianus	Metazoa	Odontophoridae	ND3	1	10915	206	+1	G	CCT [AGA] AAT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol., 15:1568-1571)
+NC_046877.1	Calidris pugnax	Metazoa	Scolopacidae	ND3	1	9673	136	+1	G	CTA [GGA] TCC	0	
+NC_062960.1	Prosobonia parvirostris	Metazoa	Scolopacidae	ND3	1	9707	174	+1	C	TTC [CTC] AGT	0	
+NC_057048.1	Aythya baeri	Metazoa	Anatidae	ND3	1	10784	175	+1	A	CTC [AGT] AGC	0	
+NC_034933.1	Cypseloides fumigatus	Metazoa	Apodidae	ND3	1	9724	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024595.1	Aythya fuligula	Metazoa	Anatidae	ND3	1	9713	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024617.1	Crax daubentoni	Metazoa	Cracidae	ND3	1	10890	206	+1	G	CCT [AGA] AAT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol., 15:1568-1571)
+NC_040005.1	Indicator xanthonotus	Metazoa	Indicatoridae	ND3	1	10280	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_027947.1	Goura scheepmakeri	Metazoa	Columbidae	ND3	1	9777	152	+1	C	CTT [CCT] TTC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571
+NC_050973.1	Mareca penelope	Metazoa	Anatidae	ND3	1	9713	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024533.1	Pavo cristatus	Metazoa	Phasianidae	ND3	1	10857	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024594.1	Tachybaptus ruficollis	Metazoa	Podicipedidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_028162.1	Otus scops	Metazoa	Strigidae	ND3	1	9727	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028163.1	Otus bakkamoena	Metazoa	Strigidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_057089.1	Falco subbuteo	Metazoa	Falconidae	ND3	1	9769	175	+1	A	CTC [AGT] AGC	0	
+NC_060520.1	Eudynamys scolopaceus	Metazoa	Cuculidae	ND3	1	9717	175	+1	A	CTC [AGT] AGC	0	
+NC_033404.1	Amazilia rondoniae	Metazoa	Trochilidae	ND3	1	9701	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_033405.1	Amazilia millerii	Metazoa	Trochilidae	ND3	1	9703	169	+1	A	CTC [AGT] AGC	0	
+NC_033413.1	Glaucis hirsutus	Metazoa	Trochilidae	ND3	1	9704	169	+1	A	CTC [AGT] AGC	0	
+NC_033414.1	Lophornis magnificus	Metazoa	Trochilidae	ND3	1	9742	169	+1	A	CTC [AGT] AGC	0	
+NC_026459.1	Spilopelia chinensis	Metazoa	Columbidae	ND3	1	9694	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_050864.1	Chroicocephalus brunnicephalus	Metazoa	Laridae	ND3	1	9682	174	+1	C	TTC [CTC] AGT	0	NAD3
+NC_027420.1	Recurvirostra avosetta	Metazoa	Recurvirostridae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028176.1	Sternula albifrons	Metazoa	Laridae	ND3	1	4314	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028178.1	Upupa epops	Metazoa	Upupidae	ND3	1	9661	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_029161.1	Orthopsittaca manilatus	Metazoa	Psittacidae	ND3	1	9667	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_042502.1	Ectopistes migratorius	Metazoa	Columbidae	ND3	1	9723	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_028193.1	Gorsachius magnificus	Metazoa	Ardeidae	NADH dehydrogenase subunit 3	1	9735	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_028195.1	Gorsachius melanolophus	Metazoa	Ardeidae	NADH dehydrogenase subunit 3	1	9734	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_033406.1	Chrysuronia brevirostris	Metazoa	Trochilidae	ND3	1	9699	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_042409.1	Psittacula derbiana	Metazoa	Psittacidae	ND3	1	9683	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_069558.1	Batagur kachuga	Metazoa	Geoemydidae	ND3	1	9677	169	+1	T	TTC [TTC] CTC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_069559.1	Batagur dhongoka	Metazoa	Geoemydidae	ND3	1	9686	169	+1	T	TTT [TTC] CTC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_021764.1	Psittacara brevipes	Metazoa	Psittacidae	ND3	1	9678	174	+1	T	TTT [CTT] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_023264.1	Polyplectron germaini	Metazoa	Phasianidae	ND3	1	10866	174	-2	CT	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_048989.1	Columba hodgsonii	Metazoa	Columbidae	ND3	1	9689	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_033336.1	Amazona aestiva	Metazoa	Psittacidae	ND3	1	9664	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_046764.1	Calidris tenuirostris	Metazoa	Scolopacidae	ND3	1	9700	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_046765.1	Limosa lapponica	Metazoa	Scolopacidae	ND3	1	9708	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_028346.1	Spatula clypeata	Metazoa	Anatidae	ND3	1	9718	176	+1	G	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_068881.1	Pyrrhura frontalis	Metazoa	Psittacidae	ND3	1	9667	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_068882.1	Pyrrhura griseipectus	Metazoa	Psittacidae	ND3	1	9667	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068883.1	Pyrrhura hoematotis	Metazoa	Psittacidae	ND3	1	9671	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068887.1	Pyrrhura molinae	Metazoa	Psittacidae	ND3	1	9668	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068889.1	Pyrrhura peruviana	Metazoa	Psittacidae	ND3	1	9667	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068890.1	Pyrrhura picta	Metazoa	Psittacidae	ND3	1	9665	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_024068.1	Jacana spinosa	Metazoa	Jacanidae	ND3	1	9689	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024069.1	Jacana jacana	Metazoa	Jacanidae	ND3	1	9690	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_068902.1	Pyrrhura egregia	Metazoa	Psittacidae	ND3	1	9671	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068903.1	Pyrrhura albipectus	Metazoa	Psittacidae	ND3	1	9673	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068904.1	Pyrrhura perlata	Metazoa	Psittacidae	ND3	1	9669	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_071766.1	Graptemys ouachitensis	Metazoa	Emydidae	ND3	1	9687	147	+1	C	GCT [CGC] CTA	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571; TAA stop codon is completed by the ad
+NC_071766.1	Graptemys ouachitensis	Metazoa	Emydidae	ND4L	1	10195	235	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_023352.1	Mareca falcata	Metazoa	Anatidae	ND3	1	10761	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_042473.1	Emydura victoriae	Metazoa	Chelidae	ND3	1	9692	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_042474.1	Myuchelys georgesi	Metazoa	Chelidae	ND3	1	9706	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_042475.1	Myuchelys latisternum	Metazoa	Chelidae	ND3	1	9700	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_042476.1	Emydura tanybaraga	Metazoa	Chelidae	ND3	1	9692	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_050835.1	Mesembrinibis cayennensis	Metazoa	Threskiornithidae	ND3	1	9702	174	+1	C	TTC [CTC] AGT	0	
+NC_069631.1	Terrapene carolina	Metazoa	Emydidae	ND3	1	9708	173	+1	T	TTT [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_040142.1	Cacatua pastinator	Metazoa	Cacatuidae	ND3	1	9673	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_068884.1	Pyrrhura hoffmanni	Metazoa	Psittacidae	ND3	1	9670	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068901.1	Pyrrhura amazonum	Metazoa	Psittacidae	ND3	1	9665	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_069866.1	Pelodiscus parviformis	Metazoa	Trionychidae	ND3	1	9741	190	+1	T	ATT [TCT] ACT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_063095.1	Pseudemys concinna	Metazoa	Emydidae	ND3	1	9722	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_063096.1	Pseudemys peninsularis	Metazoa	Emydidae	ND3	1	9721	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068741.1	Rallus indicus	Metazoa	Rallidae	ND3	1	9676	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024554.1	Lyrurus tetrix	Metazoa	Phasianidae	ND3	1	10867	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown(Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_035568.1	Lagopus lagopus	Metazoa	Phasianidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024575.1	Ixobrychus flavicollis	Metazoa	Ardeidae	ND3	1	9718	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024602.1	Aythya ferina	Metazoa	Anatidae	ND3	1	9713	176	+1	G	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al.,1998,Mol. Biol. Evol., 15:1568-1571)
+NC_021371.1	Apalone spinifera	Metazoa	Trionychidae	ND3	1	9725	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_037513.1	Streptopelia decaocto	Metazoa	Columbidae	ND3	1	9694	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024615.1	Polyplectron napoleonis	Metazoa	Phasianidae	ND3	1	10876	174	-2	CT	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_024616.1	Ptilopachus petrosus	Metazoa	Phasianidae	ND3	1	10972	206	+1	G	TTT [AGA] AAT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol., 15:1568-1571)
+NC_040154.1	Eolophus roseicapilla	Metazoa	Cacatuidae	ND3	1	9679	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_029384.1	Ninox scutulata	Metazoa	Strigidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_071235.1	Stercorarius lonnbergi	Metazoa	Stercorariidae	ND3	1	4318	174	+1	C	TTC [CTC] AGT	0	CDS contains a frameshift, with one basepair skipped during translation
+NC_071236.1	Stercorarius skua	Metazoa	Stercorariidae	ND3	1	4318	174	+1	C	TTC [CTC] AGT	0	CDS contains a frameshift, with one basepair skipped during translation
+NC_071237.1	Stercorarius chilensis	Metazoa	Stercorariidae	ND3	1	4318	174	+1	C	TTC [CTC] AGT	0	CDS contains a frameshift, with one basepair skipped during translation
+NC_071238.1	Stercorarius longicaudus	Metazoa	Stercorariidae	ND3	1	4317	174	+1	C	TTC [CTC] AGT	0	CDS contains a frameshift, with one basepair skipped during translation
+NC_044083.1	Poicephalus senegalus	Metazoa	Psittacidae	ND3	1	9690	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_029340.1	Callipepla squamata	Metazoa	Odontophoridae	ND3	1	12764	174	+1	C	TTC [CTC] AGT	0	frameshift (Mindell et al., 1998 Mol. Biol. Evol., 15:1568-1571)
+NC_044672.1	Caracara plancus	Metazoa	Falconidae	ND3	1	9772	175	+1	A	CTC [AGT] AGC	0	
+NC_044673.1	Caracara plancus cheriway	Metazoa	Falconidae	ND3	1	9772	175	+1	A	CTC [AGT] AGC	0	
+NC_071234.1	Stercorarius pomarinus	Metazoa	Stercorariidae	ND3	1	4318	174	+1	C	TTC [CTC] AGT	0	CDS contains a frameshift, with one basepair skipped during translation
+NC_023939.1	Tetraogallus tibetanus	Metazoa	Phasianidae	ND3	1	10862	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_023946.1	Ciconia nigra	Metazoa	Ciconiidae	ND3	1	11928	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_024922.1	Netta rufina	Metazoa	Anatidae	ND3	1	9717	174	+1	C	TTC [CTC] AGT	0	
+NC_030285.1	Heliodoxa aurescens	Metazoa	Trochilidae	ND3	1	9705	157	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_030286.1	Calliphlox amethystina	Metazoa	Trochilidae	ND3	1	9695	169	+1	A	CTG [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_030287.1	Florisuga fusca	Metazoa	Trochilidae	ND3	1	9698	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_030288.1	Phaethornis malaris	Metazoa	Trochilidae	ND3	1	9707	169	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_023969.1	Aix galericulata	Metazoa	Anatidae	ND3	1	9727	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025900.1	Ardea cinerea	Metazoa	Ardeidae	ND3	1	9722	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_039892.1	Prodotiscus insignis	Metazoa	Indicatoridae	ND3	1	9705	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_068885.1	Pyrrhura lepida	Metazoa	Psittacidae	ND3	1	9668	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_068886.1	Pyrrhura melanura	Metazoa	Psittacidae	ND3	1	9670	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_022452.1	Anas crecca	Metazoa	Anatidae	ND3	1	9714	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_025916.1	Ardea modesta	Metazoa	Ardeidae	ND3	1	9714	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_068833.1	Onychoprion fuscatus	Metazoa	Laridae	ND3	1	9691	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_068888.1	Pyrrhura orcesi	Metazoa	Psittacidae	ND3	1	9667	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_029328.1	Synthliboramphus wumizusume	Metazoa	Alcidae	ND3	1	9701	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025917.1	Bubulcus ibis	Metazoa	Ardeidae	ND3	1	9710	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025918.1	Ardea intermedia	Metazoa	Ardeidae	ND3	1	9716	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025919.1	Ardea purpurea	Metazoa	Ardeidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025920.1	Egretta sacra	Metazoa	Ardeidae	ND3	1	9739	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_023890.1	Chrysemys picta bellii	Metazoa	Emydidae	ND3	1	9712	175	+1	A	CTG [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_039950.1	Rhyticeros undulatus	Metazoa	Bucerotidae	ND3	1	9752	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_025921.1	Ardeola bacchus	Metazoa	Ardeidae	ND3	1	9725	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025922.1	Butorides striata	Metazoa	Ardeidae	ND3	1	9734	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025923.1	Botaurus stellaris	Metazoa	Ardeidae	ND3	1	9722	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025924.1	Ixobrychus eurhythmus	Metazoa	Ardeidae	ND3	1	9717	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_025925.1	Botaurus sinensis	Metazoa	Ardeidae	ND3	1	9711	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_022817.1	Spheniscus demersus	Metazoa	Spheniscidae	ND3	1	9727	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_027839.1	Ara militaris	Metazoa	Psittacidae	ND3	1	11159	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_029359.1	Falco rusticolus	Metazoa	Falconidae	ND3	1	9772	174	+1	C	TTC [CTC] AGT	0	Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_029369.1	Mauremys nigricans	Metazoa	Geoemydidae	ND3	1	9699	168	+1	C	CGA [TTC] TTT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027841.1	Coracopsis vasa	Metazoa	Psittacidae	ND3	1	11068	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027842.1	Eclectus roratus	Metazoa	Psittacidae	ND3	1	11003	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027844.1	Myiopsitta monachus	Metazoa	Psittacidae	ND3	1	10935	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027845.1	Nestor notabilis	Metazoa	Psittacidae	ND3	1	10980	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027847.1	Psittacus erithacus	Metazoa	Psittacidae	ND3	1	10796	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027848.1	Psittrichas fulgidus	Metazoa	Psittacidae	ND3	1	10941	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_029758.1	Phalacrocorax brasilianus	Metazoa	Phalacrocoracidae	NADH dehydrogenase subunit 3	1	9699	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_027260.1	Tinamus guttatus	Metazoa	Tinamidae	NADH dehydrogenase subunit 3	1	9709	174	+1	C	TTC [CTC] AGT	0	
+NC_039889.1	Indicator maculatus	Metazoa	Indicatoridae	ND3	1	9719	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_039890.1	Jynx ruficollis	Metazoa	Picidae	ND3	1	9709	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_022683.1	Arborophila ardens	Metazoa	Phasianidae	ND3	1	10904	174	+1	C	TTC [CTC] AGT	0	
+NC_039736.1	Asio otus	Metazoa	Strigidae	ND3	1	4321	148	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_027279.1	Tetraogallus himalayensis	Metazoa	Phasianidae	ND3	1	10860	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_027846.1	Prioniturus luconensis	Metazoa	Psittacidae	ND3	1	10940	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_027843.1	Forpus passerinus	Metazoa	Psittacidae	ND3	1	11075	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_026031.1	Guaruba guarouba	Metazoa	Psittacidae	ND3	1	9684	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041289.1	Elseya novaeguineae	Metazoa	Chelidae	ND3	1	9693	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_041290.1	Elseya schultzei	Metazoa	Chelidae	ND3	1	9696	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_008132.1	Nipponia nippon	Metazoa	Threskiornithidae	ND3	1	10876	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_013841.1	Palea steindachneri	Metazoa	Trionychidae	ND3	1	9741	205	+1	A	CCT [AGA] AAT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_007007.1	Gavia stellata	Metazoa	Gaviidae	ND3	1	9733	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15: 1568-1571).
+NC_007174.1	Aphrodroma brevirostris	Metazoa	Procellariidae	ND3	1	9721	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_015077.1	Botaurus cinnamomeus	Metazoa	Ardeidae	ND3	1	9714	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_011718.2	Aegotheles cristatus	Metazoa	Aegothelidae	ND3	1	9697	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_011196.1	Anser anser	Metazoa	Anatidae	ND3	1	9725	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_011198.1	Chelydra serpentina	Metazoa	Chelydridae	ND3	1	9700	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_017885.1	Cuora bourreti	Metazoa	Geoemydidae	ND3	1	9702	174	+1	T	TTT [CTT] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_015530.1	Brotogeris cyanoptera	Metazoa	Psittacidae	ND3	1	6910	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_012772.1	Platalea leucorodia	Metazoa	Threskiornithidae	ND3	1	10859	173	+1	T	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol.15:1568-1571)
+NC_015192.1	Nymphicus hollandicus	Metazoa	Cacatuidae	ND3	1	6952	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_015526.1	Phasianus colchicus	Metazoa	Phasianidae	ND3	1	10865	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_015087.1	Penelopides panini	Metazoa	Bucerotidae	ND3	1	9737	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_016685.1	Mauremys sinensis	Metazoa	Geoemydidae	ND3	1	9737	205	+1	A	CTT [AGA] GAT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_002784.1	Dromaius novaehollandiae	Metazoa	Dromaiidae	ND3	1	9691	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_004575.1	Excalfactoria chinensis	Metazoa	Phasianidae	ND3	1	10859	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010769.1	Aphrocallistes vastus	Metazoa	Aphrocallistidae	COX3	1	3513	417	+1	C	AGA [TCC] TGG	1	
+NC_010769.1	Aphrocallistes vastus	Metazoa	Aphrocallistidae	ND6	1	11256	171	+1	A	TAT [GTA] TGG	1	NAD6
+NC_010767.1	Syrmaticus soemmerringii ijimae	Metazoa	Phasianidae	ND3	1	10863	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010095.1	Tachybaptus novaehollandiae	Metazoa	Podicipedidae	ND1	1	2958	166	+1	A	CCG [AGT] AGC	0	
+NC_010095.1	Tachybaptus novaehollandiae	Metazoa	Podicipedidae	ND3	1	9698	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_011307.1	Falco tinnunculus	Metazoa	Falconidae	ND3	1	9759	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_008550.1	Pandion haliaetus	Metazoa	Pandionidae	ND3	1	9681	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_007006.1	Larus dominicanus	Metazoa	Laridae	ND3	1	9686	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al. 1998, Mol. Biol. Evol. 15:1568-1571)
+NC_007628.1	Cathartes aura	Metazoa	Cathartidae	ND3	1	9728	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15:1568-1571)
+NC_008546.1	Dryocopus pileatus	Metazoa	Picidae	ND3	1	9725	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_008548.1	Micrastur gilvicollis	Metazoa	Falconidae	ND3	1	9752	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_008547.1	Falco sparverius	Metazoa	Falconidae	ND3	1	9771	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_007227.1	Alectura lathami	Metazoa	Megapodiidae	ND3	1	9743	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_008551.1	Egretta novaehollandiae	Metazoa	Ardeidae	ND3	1	9735	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_008549.1	Pteroglossus azara flavirostris	Metazoa	Ramphastidae	ND3	1	9689	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_007172.2	Thalassarche melanophris	Metazoa	Diomedeidae	ND3	1	9698	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010962.1	Platalea minor	Metazoa	Threskiornithidae	ND3	1	11059	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_015197.1	Eupsittula pertinax chrysogenys	Metazoa	Psittacidae	ND3	1	6913	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_011815.1	Manouria impressa	Metazoa	Testudinidae	ND3	1	9702	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_011817.1	Francolinus pintadeanus	Metazoa	Phasianidae	ND3	1	10868	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_017901.1	Rafetus swinhoei	Metazoa	Trionychidae	ND3	1	9738	205	+1	A	CCT [AGA] AAT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_010094.1	Archilochus colubris	Metazoa	Trochilidae	ND3	1	9694	175	+1	A	CTG [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_010092.1	Porphyrio hochstetteri	Metazoa	Rallidae	ND3	1	9686	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_010089.1	Phoenicopterus roseus	Metazoa	Phoenicopteridae	ND3	1	9714	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_017875.1	Mauremys annamensis	Metazoa	Geoemydidae	ND3	1	9848	175	+1	A	CTT [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_017878.1	Cuora picturata	Metazoa	Geoemydidae	ND3	1	9684	174	+1	T	TTT [CTT] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_007691.1	Cygnus columbianus	Metazoa	Anatidae	ND3	1	12779	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007695.1	Indotestudo elongata	Metazoa	Testudinidae	ND3	1	9702	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007697.1	Testudo horsfieldii	Metazoa	Testudinidae	ND3	1	9713	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007699.1	Testudo kleinmanni	Metazoa	Testudinidae	ND3	1	9727	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_015825.1	Pelochelys cantorii	Metazoa	Trionychidae	ND3	1	9707	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the a
+NC_011708.1	Agapornis roseicollis	Metazoa	Psittacidae	ND3	1	9676	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the ad
+NC_011709.1	Urodynamis taitensis	Metazoa	Cuculidae	ND3	1	9711	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_011712.1	Todiramphus sanctus vagans	Metazoa	Alcedinidae	ND3	1	9678	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_011714.1	Trogon viridis	Metazoa	Trogonidae	ND3	1	9762	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_011716.2	Eurystomus orientalis	Metazoa	Coraciidae	ND3	1	9726	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_005931.1	Strigops habroptila	Metazoa	Psittacidae	ND3	1	9691	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by addi
+NC_000846.1	Rhea americana	Metazoa	Rheidae	ND3	1	9686	175	+1	A	CTC [AGT] AGC	0	
+NC_002672.1	Dinornis giganteus	Metazoa	Dinornithidae	ND3	1	11208	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_012895.1	Lophura nycthemera	Metazoa	Phasianidae	ND3	1	10857	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_012897.1	Pavo muticus	Metazoa	Phasianidae	ND3	1	10869	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_014576.1	Chrysolophus pictus	Metazoa	Phasianidae	ND3	1	10852	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al.,1998,Mol.Biol.Evol.,15:1568-1571
+NC_012900.1	Polyplectron bicalcaratum	Metazoa	Phasianidae	ND3	1	10875	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_000886.1	Chelonia mydas	Metazoa	Cheloniidae	ND3	1	9708	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addtion of 3' A residues to the mRNA; frameshift mechanism unknown
+NC_008138.1	Eudyptes chrysocome	Metazoa	Spheniscidae	ND3	1	9811	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15:1568-1571)
+NC_008139.1	Gavia pacifica	Metazoa	Gaviidae	ND3	1	9710	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15:1568-1571)
+NC_005933.1	Anseranas semipalmata	Metazoa	Anseranatidae	ND3	1	9706	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_016679.1	Crossoptilon crossoptilon	Metazoa	Phasianidae	ND3	1	10854	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_008140.1	Podiceps cristatus	Metazoa	Podicipedidae	ND3	1	9621	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al. 1998. Mol. Biol. Evol. 15:1568-1571)
+NC_012414.1	Lissemys punctata	Metazoa	Trionychidae	ND3	1	9723	205	+1	A	CTT [AGA] AAT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_015807.1	Nycticorax nycticorax	Metazoa	Ardeidae	ND3	1	9727	174	+1	C	TTC [CTC] AGT	0	
+NC_012833.1	Trionyx triunguis	Metazoa	Trionychidae	ND3	1	9723	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_014054.1	Apalone ferox	Metazoa	Trionychidae	ND3	1	9720	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_013146.1	Threskiornis aethiopicus	Metazoa	Threskiornithidae	ND3	1	11097	172	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol.15:1568-1571)
+NC_015203.1	Zenaida auriculata	Metazoa	Columbidae	ND3	1	6903	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_015190.1	Leptotila verreauxi	Metazoa	Columbidae	ND3	1	6904	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571; TAA stop codon is completed by the a
+NC_015085.1	Rhabdotorrhinus waldeni	Metazoa	Bucerotidae	ND3	1	9739	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002779.1	Anomalopteryx didiformis	Metazoa	Emeidae	ND3	1	9706	176	+1	G	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_000844.1	Daphnia pulex	Metazoa	Daphniidae	COX1	1	1400	4	+1	A	ATT [ATT] GCG	0	mechanism underlying reading frame shift after first codon uncertain; TAA stop codon is completed by the addition of 3' 
+NC_002783.2	Rhea pennata	Metazoa	Rheidae	ND3	1	9688	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_000878.1	Falco peregrinus	Metazoa	Falconidae	ND3	1	9768	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007970.1	Platysternon megacephalum	Metazoa	Platysternidae	ND3	1	13629	175	+1	A	CTC [AGT] AGC	0	may undergo translational frameshift or RNA editing
+NC_010973.1	Cuora mouhotii	Metazoa	Geoemydidae	ND3	1	9703	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_009684.1	Anas platyrhynchos	Metazoa	Anatidae	ND3	1	10763	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_015897.1	Crossoptilon auritum	Metazoa	Phasianidae	ND3	1	10860	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_010195.2	Meleagris gallopavo	Metazoa	Phasianidae	ND3	1	9727	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_015207.1	Geotrygon violacea	Metazoa	Columbidae	ND3	1	6909	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571; TAA stop codon is completed by the a
+NC_003408.1	Coturnix japonica	Metazoa	Phasianidae	ND3	1	10866	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_016951.1	Mauremys japonica	Metazoa	Geoemydidae	ND3	1	9706	172	+1	C	TTT [CTT] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_014046.1	Otis tarda	Metazoa	Otididae	ND3	1	10961	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_005932.1	Ninox novaeseelandiae	Metazoa	Strigidae	ND3	1	9698	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007692.1	Testudo graeca	Metazoa	Testudinidae	ND3	1	9716	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007693.1	Manouria emys	Metazoa	Testudinidae	ND3	1	9709	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007694.1	Stigmochelys pardalis	Metazoa	Testudinidae	ND3	1	9709	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_007011.1	Branta canadensis	Metazoa	Anatidae	ND3	1	9729	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_009134.1	Melopsittacus undulatus	Metazoa	Psittaculidae	ND3	1	9687	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002673.1	Emeus crassus	Metazoa	Emeidae	ND3	1	11200	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002073.3	Chrysemys picta	Metazoa	Emydidae	ND3	1	9711	175	+1	A	CTG [AGT] AGC	0	reading frame presumably maintained by translational frameshifting or RNA editing; TAA stop codon is completed by the ad
+NC_002782.2	Apteryx haastii	Metazoa	Apterygidae	ND3	1	9700	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002785.1	Struthio camelus	Metazoa	Struthionidae	ND3	1	9672	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_003053.1	Rhizophydium sp. 136	Fungi	Rhizophydiaceae	cob	1	21596	622	+1	C	AGG [CAA] TCC	1	+1 ribosomal frameshift
+NC_009260.1	Macrochelys temminckii	Metazoa	Chelydridae	ND3	1	9698	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_009330.1	Mauremys mutica	Metazoa	Geoemydidae	ND3	1	9698	172	+1	C	TTT [CTT] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA; frameshift mechanism unknown (Mindell et al., 
+NC_015236.1	Gallinula chloropus	Metazoa	Rallidae	ND3	1	13079	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_007698.1	Testudo marginata	Metazoa	Testudinidae	ND3	1	9711	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002778.2	Casuarius casuarius	Metazoa	Casuariidae	ND3	1	9690	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_013619.1	Tragopan caboti	Metazoa	Phasianidae	ND3	1	10908	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_015199.1	Bucorvus leadbeateri	Metazoa	Bucorvidae	ND3	1	6913	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_012843.1	Cygnus atratus	Metazoa	Anatidae	ND3	1	12799	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007239.1	Gallus lafayettii	Metazoa	Phasianidae	ND3	1	11013	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)'
+NC_010770.1	Syrmaticus reevesii	Metazoa	Phasianidae	ND3	1	10854	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_011816.1	Bambusicola thoracicus	Metazoa	Phasianidae	ND3	1	10898	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_013978.1	Columba livia	Metazoa	Columbidae	ND3	1	9694	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_000877.1	Aythya americana	Metazoa	Anatidae	ND3	1	10778	175	+1	A	CTC [AGT] AGC	0	extra base at position 10778: reading frame presumably maintained by translational frameshifting or RNA editing
+NC_010778.1	Phasianus versicolor	Metazoa	Phasianidae	ND3	1	10865	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010771.1	Syrmaticus ellioti	Metazoa	Phasianidae	ND3	1	10864	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010774.1	Syrmaticus humiae	Metazoa	Phasianidae	ND3	1	10865	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010781.1	Lophura ignita	Metazoa	Phasianidae	ND3	1	10854	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002772.2	Eudromia elegans	Metazoa	Tinamidae	ND3	1	9686	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010091.1	Rhynochetos jubatus	Metazoa	Rhynochetidae	ND3	1	9676	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_007238.1	Gallus varius	Metazoa	Phasianidae	ND3	1	10953	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_009736.1	Egretta eulophotes	Metazoa	Ardeidae	ND3	1	11720	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_007696.1	Indotestudo forstenii	Metazoa	Testudinidae	ND3	1	9706	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_004538.1	Eudyptula minor	Metazoa	Spheniscidae	ND3	1	9715	174	+1	C	TTT [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_004539.1	Anser albifrons	Metazoa	Anatidae	ND3	1	9724	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_002781.3	Tinamus major	Metazoa	Tinamidae	ND3	1	9705	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_003713.2	Haematopus ater	Metazoa	Haematopodidae	ND3	1	9677	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_013244.1	Hemiphaga novaeseelandiae	Metazoa	Columbidae	ND3	1	9715	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_011573.1	Trachemys scripta	Metazoa	Emydidae	ND3	1	9720	175	+1	A	CTG [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_011573.1	Trachemys scripta	Metazoa	Emydidae	ND4L	1	10200	235	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_004918.1	Monosporozyma servazzii	Fungi	Saccharomycetaceae	COX2	1	4697	656	+1	T	GGA [ATA] CTG	0	ribosomal slippage
+NC_004918.1	Monosporozyma servazzii	Fungi	Saccharomycetaceae	COB	1	8588	223	+1	T	CTG [TGG] GTG	0	ribosomal slippage
+NC_004918.1	Monosporozyma servazzii	Fungi	Saccharomycetaceae	COB	1	8610	244	+1	T	CTG [TCA] TGC	0	ribosomal slippage
+NC_004918.1	Monosporozyma servazzii	Fungi	Saccharomycetaceae	COX3	1	18298	748	+1	C	TAT [CTG] CCA	0	ribosomal slippage
+NC_004918.1	Monosporozyma servazzii	Fungi	Saccharomycetaceae	ATP6	1	28460	574	+1	T	CTG [TGC] TGG	0	ribosomal slippage
+NC_014769.1	Cuora amboinensis	Metazoa	Geoemydidae	ND3	1	9706	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571;TAA stop codon is completed by the ad
+NC_007240.1	Gallus sonneratii	Metazoa	Phasianidae	ND3	1	11013	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998,; Mol. Biol. Evol., 15:1568-1571)
+NC_017607.1	Sternotherus carinatus	Metazoa	Kinosternidae	ND4	1	11285	1012	+1	A	CGA [AAC] CCA	1	
+NC_014180.1	Acryllium vulturinum	Metazoa	Numididae	ND3	1	10922	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_010965.1	Cairina moschata	Metazoa	Anatidae	ND3	1	10770	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_014102.1	Cuora galbinifrons	Metazoa	Geoemydidae	ND3	1	9703	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_003712.2	Arenaria interpres	Metazoa	Scolopacidae	ND3	1	10875	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_031300.1	Malaclemys terrapin terrapin	Metazoa	Emydidae	ND3	1	4476	175	+1	A	CTG [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_031300.1	Malaclemys terrapin terrapin	Metazoa	Emydidae	ND4L	1	4956	235	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)'
+NC_015201.1	Bycanistes brevis	Metazoa	Bucerotidae	ND3	1	6912	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_013806.1	Apteryx owenii	Metazoa	Apterygidae	NADH dehydrogenase subunit 3	1	9703	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571)
+NC_015101.1	Mauremys megalocephala	Metazoa	Geoemydidae	NADH dehydrogenase subunit 3	1	9740	205	+1	A	TTT [AGA] AAT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_020668.1	Heosemys annandalii	Metazoa	Geoemydidae	NADH dehydrogenase subunit 3	1	9693	175	+1	A	CTC [AGT] AGC	0	ND3; frameshift mechanism unknown (Mindell et al., 1998,Mol.Biol.Evol.,15:1568-1571); TAA stop codon is completed by the
+NC_020668.1	Heosemys annandalii	Metazoa	Geoemydidae	NADH dehydrogenase subunit 4	1	11036	805	+1	A	ATG [AGG] AAT	0	ND4; reading frame possibly maintained by translational frameshift or RNA editing (Parham et al. Mol. Phylogenet. Evol. 
+NC_072569.1	Strix aluco	Metazoa	Strigidae	ND3	1	9697	174	+1	C	TTC [CTC] AGT	0	
+NC_066800.1	Haliastur indus	Metazoa	Accipitridae	ND3	1	9705	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_059712.1	Cacatua goffiniana	Metazoa	Cacatuidae	ND3	1	9672	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_063526.1	Cathartes burrovianus	Metazoa	Cathartidae	ND3	1	9722	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_063525.1	Coragyps atratus	Metazoa	Cathartidae	ND3	1	9726	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_063527.1	Sarcoramphus papa	Metazoa	Cathartidae	ND3	1	9723	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_059711.1	Cacatua galerita	Metazoa	Cacatuidae	ND3	1	9675	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_059710.1	Cacatua alba	Metazoa	Cacatuidae	ND3	1	9675	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_063712.1	Amazona auropalliata	Metazoa	Psittacidae	ND3	1	9668	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_059881.1	Anarhynchus mongolus	Metazoa	Charadriidae	ND3	1	9714	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_064933.1	Trichoglossus haematodus	Metazoa	Psittaculidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_059796.1	Streptopelia tranquebarica	Metazoa	Columbidae	ND3	1	9693	174	+1	C	TTC [CTC] AGT	0	
+NC_059801.1	Aythya nyroca	Metazoa	Anatidae	ND3	1	1139	175	+1	A	CTC [AGT] AGC	0	
+NC_061228.1	Thinornis dubius	Metazoa	Charadriidae	ND3	1	9692	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_062409.1	Cuora mccordi	Metazoa	Geoemydidae	ND3	1	9700	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998,Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the ad
+NC_059848.1	Turnix tanki	Metazoa	Turnicidae	ND3	1	9702	175	+1	A	CTC [AGT] AGC	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_061952.1	Dryobates minor	Metazoa	Picidae	ND3	1	8838	175	+1	A	CTC [AGT] AGC	0	
+NC_066152.1	Trichoglossus moluccanus	Metazoa	Psittaculidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_066151.1	Trichoglossus forsteni	Metazoa	Psittaculidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_077264.1	Reinwardtoena reinwardtii	Metazoa	Columbidae	ND3	-1	7213	174	+1	C	TTC [CTC] AGT	0	
+NC_080265.1	Chelonoidis carbonarius	Metazoa	Testudinidae	ND3	1	9865	175	+1	A	CTC [AGT] AGC	0	
+NC_080969.1	Macropygia nigrirostris	Metazoa	Columbidae	ND3	1	9978	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571
+NC_080983.1	Amazona vinacea	Metazoa	Psittacidae	ND3	1	9671	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_081048.1	Tauraco livingstonii	Metazoa	Musophagidae	ND3	1	12106	175	+1	A	CTC [AGT] AGC	0	
+NC_082066.1	Rissa tridactyla	Metazoa	Laridae	ND3	1	10864	178	+1	A	AGT [AGC] AAT	0	
+NC_082164.1	Amazona leucocephala	Metazoa	Psittacidae	ND3	1	9666	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082165.1	Anodorhynchus hyacinthinus	Metazoa	Psittacidae	ND3	1	9678	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082166.1	Ara ambiguus	Metazoa	Psittacidae	ND3	1	9670	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082167.1	Aratinga maculata	Metazoa	Psittacidae	ND3	1	9673	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082168.1	Psittacara holochlorus	Metazoa	Psittacidae	ND3	1	9684	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082169.1	Psittacara mitratus	Metazoa	Psittacidae	ND3	1	9684	175	+1	A	CTT [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082170.1	Pyrrhura chapmani	Metazoa	Psittacidae	ND3	1	9671	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082171.1	Rhynchopsitta pachyrhyncha	Metazoa	Psittacidae	ND3	1	9674	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082172.1	Trichoglossus euteles	Metazoa	Psittaculidae	ND3	1	9685	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_082187.1	Batagur borneoensis	Metazoa	Geoemydidae	ND3	1	4310	174	+1	T	TTC [CTT] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_082188.1	Orlitia borneensis	Metazoa	Geoemydidae	ND3	1	4311	174	+1	C	TTC [CTC] AGT	0	TAA stop codon is completed by the addition of 3' A residues to the mRNA
+NC_082232.1	Chrysemys dorsalis	Metazoa	Emydidae	ND3	1	9717	175	+1	A	CTG [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_083265.1	Balaeniceps rex	Metazoa	Balaenicipitidae	ND3	1	9687	174	+1	C	TTC [CTC] AGT	0	
+NC_083486.1	Psittacula echo	Metazoa	Psittacidae	ND3	1	9680	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_084792.1	Aburria aburri	Metazoa	Cracidae	ND3	1	10847	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_084184.1	Turnix suscitator	Metazoa	Turnicidae	ND3	1	9680	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571); TAA stop codon is completed by the 
+NC_085213.1	Macronectes giganteus	Metazoa	Procellariidae	ND3	1	9718	174	+1	C	TTC [CTC] AGT	0	U-to-G editing, start-ATT
+NC_085313.1	Argusianus argus	Metazoa	Phasianidae	ND3	1	15302	174	+1	C	TTC [CTC] AGT	0	
+NC_085344.1	Pelodiscus axenaria	Metazoa	Trionychidae	ND3	1	9724	190	+1	T	ATT [TCT] ACT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571);TAA stop codon is completed by the a
+NC_086816.1	Caprimulgus indicus	Metazoa	Caprimulgidae	ND3	1	9721	174	+1	C	TTC [CTC] AGT	0	
+NC_087724.1	Chrysococcyx russatus	Metazoa	Cuculidae	ND3	1	9714	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_087725.1	Chrysococcyx minutillus	Metazoa	Cuculidae	ND3	1	9714	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_087758.1	Anarhynchus montanus	Metazoa	Charadriidae	ND3	1	9706	175	+1	A	CTC [AGT] AGC	0	frameshift duplication
+NC_088445.1	Arenaria melanocephala	Metazoa	Scolopacidae	ND3	1	10875	174	+1	C	TTC [CTC] AGT	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_088446.1	Clangula hyemalis	Metazoa	Anatidae	ND3	1	10803	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown
+NC_088448.1	Histrionicus histrionicus	Metazoa	Anatidae	ND3	1	10800	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown
+NC_088449.1	Mareca americana	Metazoa	Anatidae	ND3	1	9713	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_088450.1	Melanitta americana	Metazoa	Anatidae	ND3	1	10785	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown
+NC_088452.1	Picoides tridactylus	Metazoa	Picidae	ND3	1	9721	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_088453.1	Somateria spectabilis	Metazoa	Anatidae	ND3	1	10786	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown
+NC_088454.1	Tringa brevipes	Metazoa	Scolopacidae	ND3	1	9704	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_088455.1	Tringa incana	Metazoa	Scolopacidae	ND3	1	9704	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_088456.1	Tringa melanoleuca	Metazoa	Scolopacidae	ND3	1	9704	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_088495.1	Porphyrio mantelli	Metazoa	Rallidae	NADH dehydrogenase subunit 3	1	9686	175	+1	A	CTC [AGT] AGC	0	
+NC_088568.1	Mergus australis	Metazoa	Anatidae	ND3	1	9841	175	+1	A	CTC [AGT] AGC	0	
+NC_088569.1	Mergus octosetaceus	Metazoa	Anatidae	ND3	1	10330	175	+1	A	CTC [AGT] AGC	0	
+NC_007700.1	Malacochersus tornieri	Metazoa	Testudinidae	ND3	1	11720	175	+1	A	CTC [AGT] AGC	0	frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571)
+NC_007700.1	Malacochersus tornieri	Metazoa	Testudinidae	ND4	1	12428	172	+1	A	GGC [AGT] AGA	0	reading frame possibly maintained by translational frameshift or RNA editing. See Parham et al. Mol. Phylogenet. Evol. 2

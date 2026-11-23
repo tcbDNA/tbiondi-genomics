@@ -1,0 +1,5 @@
+site	fwd_0based	gj_codons_base_removed	congener_codons	gj_codon_after_skip	gj_residue	congener_codon	congener_residue	distant_references	best_placements	best_score	best_mismatches	scan_placement_score	scan_placement_mismatches	scan_placement_residue_matches_congener
+cox1 24711	24710	GCA TTA ATT GGA GGC TTT GGT AAT TAT	GCT TTA ATT GGT AGT TTT GGT AAT TAC	GGC	G	AGT	S	{'G': 8, 'F': 1, 'A': 1}	G at +1; G at +2; C at +3	85.0	7	80.0	8	no (congener S)
+cob 26496	26495	TGT TGT GTA TAT GGC CAA ATG TCA CAT	TGT TGC GTA TAC GGG CAA ATA AGC CAT	GGC	G	GGG	G	{'G': 10}	T at -1; A at +0; C at +3	41.0	7	41.0	7	yes
+cob 26477	26476	ATG TCA CAT TGA GGC GCA CTA GTT ATT	not comparable	GGC	G	-	-	{'G': 10}	C at +3	51.0	1	49.0	1	not comparable
+cob 26266	26265	CCA TTA GGA ATT CTA GGC AAT TTA GAT	CCT TTA GGT ATC CTT GGT AAT TTA GAT	CTA	T	CTT	T	{'T': 9, 'N': 1}	T at -2; T at -1; A at +0	75.0	9	75.0	9	yes

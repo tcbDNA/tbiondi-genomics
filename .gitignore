@@ -1,0 +1,15 @@
+# Same rules as grigorovia-mito-insertions/.gitignore, applied in any project folder
+.venv/
+__pycache__/
+**/data/raw/
+**/data/work/
+**/data/reads/
+**/results/
+**/tools/
+*.dmnd
+**/data/nuclear/
+**/data/assembly/
+**/data/busco_lineages/
+**/data/busco_lineages_sc/
+**/data/explore_tmp/
+**/data/rfam/

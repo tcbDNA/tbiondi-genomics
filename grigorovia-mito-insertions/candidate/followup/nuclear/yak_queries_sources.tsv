@@ -1,0 +1,46 @@
+gene	source	length
+CYC1	miniprot	104
+QCR6	miniprot	132
+QCR7	miniprot	127
+COX5A	miniprot	156
+TUF1	miniprot	424
+COX4	miniprot	153
+COX8	miniprot	75
+CYT1	miniprot	310
+COX9	miniprot	57
+COR1	miniprot	489
+QCR2	miniprot	374
+RIP1	miniprot	212
+QCR8	miniprot	94
+COX7	miniprot	61
+CBP3	miniprot	269
+COX10	miniprot	360
+QCR9	miniprot	67
+MSS51	miniprot	429
+COX13	miniprot	128
+QCR10	miniprot	75
+COX15	miniprot	471
+COX12	miniprot	81
+CYC7	miniprot	112
+COX5B	miniprot	145
+COX6	miniprot	128
+CYC3	miniprot	272
+CBP6	miniprot	153
+MEF1	miniprot	759
+MRPS5	miniprot	260
+MRPL3	miniprot	351
+MRPL7	miniprot	273
+MRPL10	miniprot	283
+MRPL15	miniprot	215
+MRPL16	miniprot	223
+MRP4	miniprot	360
+MRPS9	miniprot	250
+MRPS17	miniprot	241
+PET494	open frame under DIAMOND hit PPOC02000448.1:32000-33310	487
+CBS2	open frame under DIAMOND hit PPOC02000470.1:138039-136891	423
+PET309	open frame under DIAMOND hit PPOC02000521.1:264078-261754	954
+CBP1	open frame under DIAMOND hit PPOC02000525.1:517233-515365	668
+PET122	open frame under DIAMOND hit PPOC02000477.1:113703-113122	260
+MRPL4	open frame under DIAMOND hit PPOC02000490.1:28431-29261	165
+ATP22	open frame under DIAMOND hit PPOC02000520.1:47985-46096	886
+PET111	open frame under DIAMOND hit PPOC02000525.1:82774-84276	816

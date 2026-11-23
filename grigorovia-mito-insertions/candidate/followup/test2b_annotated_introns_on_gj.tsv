@@ -1,0 +1,262 @@
+site	accession	organism	group	source	distance_nt	side	intron_len	note
+cob 26266	NC_024095.1	Magnusiomyces capitatus	other Saccharomycotina	RefSeq annotation	6	downstream	41	
+cob 26477	NC_020043.1	Magnusiomyces magnusii	other Saccharomycotina	RefSeq annotation	3	downstream	1028	
+cob 26477	NC_050376.1	Metschnikowia borealis	other Saccharomycotina	RefSeq annotation	3	downstream	1853	
+cob 26477	NC_050378.1	Metschnikowia shivogae	other Saccharomycotina	RefSeq annotation	3	downstream	1564	
+cob 26477	NC_050379.1	Metschnikowia santaceciliae	other Saccharomycotina	RefSeq annotation	3	downstream	1606	
+cob 26477	NC_050380.1	[Candida] ipomoeae	other Saccharomycotina	RefSeq annotation	3	downstream	1348	
+cob 26477	NC_050381.1	Metschnikowia matae var. maris	other Saccharomycotina	RefSeq annotation	3	downstream	1360	
+cob 26477	NC_063596.1	Lodderomyces margitis	other Saccharomycotina	RefSeq annotation	3	downstream	1221	
+cob 26477	NC_050301.1	Metschnikowia hamakuensis	other Saccharomycotina	RefSeq annotation	3	downstream	1234	
+cob 26477	NC_050303.1	Metschnikowia mauinuiana	other Saccharomycotina	RefSeq annotation	3	downstream	1257	
+cob 26477	NC_050338.1	Metschnikowia drakensbergensis	other Saccharomycotina	RefSeq annotation	3	downstream	1470	
+cob 26477	NC_050339.1	Metschnikowia proteae	other Saccharomycotina	RefSeq annotation	3	downstream	1470	
+cob 26477	NC_050340.1	Metschnikowia hawaiiensis	other Saccharomycotina	RefSeq annotation	3	downstream	1257	
+cob 26477	NC_050341.1	Metschnikowia continentalis	other Saccharomycotina	RefSeq annotation	3	downstream	1361	
+cob 26477	NC_050342.1	Metschnikowia dekortorum	other Saccharomycotina	RefSeq annotation	3	downstream	1921	
+cob 26477	NC_050344.1	Metschnikowia cerradonensis	other Saccharomycotina	RefSeq annotation	3	downstream	1766	
+cob 26477	NC_050377.1	Metschnikowia aberdeeniae	other Saccharomycotina	RefSeq annotation	3	downstream	1914	
+cob 26477	NC_050172.1	Metschnikowia kamakouana	other Saccharomycotina	RefSeq annotation	3	downstream	1478	
+cob 26477	NC_018046.1	Candida albicans	other Saccharomycotina	RefSeq annotation	3	downstream	342	
+cob 26477	NC_058213.1	Magnusiomyces suaveolens	other Saccharomycotina	RefSeq annotation	3	downstream	1024	
+cob 26477	NC_036375.1	Torulaspora quercuum	Saccharomycetaceae	RefSeq annotation	3	downstream	1235	
+cob 26477	NC_050382.1	Metschnikowia matae	other Saccharomycotina	RefSeq annotation	3	downstream	1829	
+cob 26477	NC_018044.1	Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	3	downstream	1409	
+cob 26477	NC_022171.1	Waltiozyma mucosa	other Saccharomycotina	RefSeq annotation	3	downstream	1164	
+cob 26477	NC_022154.1	Meyerozyma guilliermondii	other Saccharomycotina	RefSeq annotation	3	downstream	1419	
+cob 26477	NC_022156.1	Lodderomyces pseudojiufengensis	other Saccharomycotina	RefSeq annotation	3	downstream	1140	
+cob 26477	NC_022159.1	Barnettozyma californica	other Saccharomycotina	RefSeq annotation	3	downstream	1810	
+cob 26477	NC_022163.1	Williopsis jadinii	other Saccharomycotina	RefSeq annotation	3	downstream	1264	
+cob 26477	NC_027264.1	Saccharomyces cerevisiae	Saccharomycetaceae	RefSeq annotation	3	downstream	1507	
+cob 26477	NC_024094.1	Magnusiomyces tetraspermus	other Saccharomycotina	RefSeq annotation	3	downstream	1029	
+cob 26477	NC_022167.1	Williopsis suaveolens	other Saccharomycotina	RefSeq annotation	3	downstream	1080	
+cob 26477	NC_022169.1	Lodderomyces theae	other Saccharomycotina	RefSeq annotation	3	downstream	1196	
+cob 26477	NC_022172.1	Insectozyma corydali	other Saccharomycotina	RefSeq annotation	3	downstream	1250	
+cob 26477	NC_050845.1	Metschnikowia similis	other Saccharomycotina	RefSeq annotation	3	downstream	1850	
+cob 26477	NC_050846.1	Metschnikowia hibisci	other Saccharomycotina	RefSeq annotation	3	downstream	1765	
+cob 26477	NC_050838.1	Metschnikowia amazonensis	other Saccharomycotina	RefSeq annotation	3	downstream	1712	
+cob 26477	NC_050374.1	Metschnikowia lochheadii	other Saccharomycotina	RefSeq annotation	3	downstream	1359	
+cob 26477	NC_050839.1	Metschnikowia torresii	other Saccharomycotina	RefSeq annotation	3	downstream	1734	
+cob 26477	NC_059893.1	Saccharomyces cerevisiae x Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	3	downstream	1467	
+cob 26477	NC_050844.1	Metschnikowia bowlesiae	other Saccharomycotina	RefSeq annotation	3	downstream	1842	
+cob 26477	NC_031184.1	Saccharomyces kudriavzevii	Saccharomycetaceae	RefSeq annotation	3	downstream	1269	
+cob 26477	NC_031185.1	Saccharomyces mikatae	Saccharomycetaceae	RefSeq annotation	3	downstream	1269	
+cob 26477	NC_036103.1	Debaryomyces psychrophilus	other Saccharomycotina	RefSeq annotation	3	downstream	1395	
+cob 26477	NC_013145.2	Brettanomyces custersianus	other Saccharomycotina	RefSeq annotation	3	downstream	1078	
+cob 26477	NC_016124.1	Yarrowia alimentaria	other Saccharomycotina	RefSeq annotation	3	downstream	1339	
+cob 26477	NC_001224.1	Saccharomyces cerevisiae S288C	Saccharomycetaceae	RefSeq annotation	3	downstream	1404	
+cob 26477	NC_010166.1	Debaryomyces hansenii	other Saccharomycotina	RefSeq annotation	3	downstream	1367	
+cob 26477	NC_005253.2	Lodderomyces parapsilosis	other Saccharomycotina	RefSeq annotation	3	downstream	1215	
+cob 26477	NC_015384.1	Komagataella phaffii CBS 7435	other Saccharomycotina	RefSeq annotation	3	downstream	1401	
+cob 26477	NC_006972.1	Lodderomyces orthopsilosis	other Saccharomycotina	RefSeq annotation	3	downstream	1193	
+cob 26477	NC_002659.1	Yarrowia lipolytica	other Saccharomycotina	RefSeq annotation	3	downstream	1381	
+cob 26477	NC_016116.1	Yarrowia galli	other Saccharomycotina	RefSeq annotation	3	downstream	674	
+cob 26477	NC_013255.1	Millerozyma farinosa	other Saccharomycotina	RefSeq annotation	3	downstream	1137	
+cob 26477	NC_067076.1	Insectozyma verbasci	other Saccharomycotina	RefSeq annotation	3	downstream	1128	
+cob 26477	NC_084443.1	Saccharomycopsis fibuligera	other Saccharomycotina	RefSeq annotation	3	downstream	1219	
+cob 26477	NC_018044.1	Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	11	upstream	785	
+cob 26477	NC_027264.1	Saccharomyces cerevisiae	Saccharomycetaceae	RefSeq annotation	11	upstream	763	
+cob 26477	NC_059893.1	Saccharomyces cerevisiae x Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	11	upstream	762	
+cob 26477	NC_031184.1	Saccharomyces kudriavzevii	Saccharomycetaceae	RefSeq annotation	11	upstream	863	
+cob 26477	NC_031185.1	Saccharomyces mikatae	Saccharomycetaceae	RefSeq annotation	11	upstream	782	
+cob 26477	NC_001224.1	Saccharomyces cerevisiae S288C	Saccharomycetaceae	RefSeq annotation	11	upstream	768	
+cob 26477	NC_018056.1	Lachancea kluyveri	Saccharomycetaceae	RefSeq annotation	30	upstream	1443	
+cob 26477	NC_015384.1	Komagataella phaffii CBS 7435	other Saccharomycotina	RefSeq annotation	30	upstream	1620	
+cob 26496	NC_018044.1	Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	7	downstream	785	
+cob 26496	NC_027264.1	Saccharomyces cerevisiae	Saccharomycetaceae	RefSeq annotation	7	downstream	763	
+cob 26496	NC_059893.1	Saccharomyces cerevisiae x Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	7	downstream	762	
+cob 26496	NC_031184.1	Saccharomyces kudriavzevii	Saccharomycetaceae	RefSeq annotation	7	downstream	863	
+cob 26496	NC_031185.1	Saccharomyces mikatae	Saccharomycetaceae	RefSeq annotation	7	downstream	782	
+cob 26496	NC_001224.1	Saccharomyces cerevisiae S288C	Saccharomycetaceae	RefSeq annotation	7	downstream	768	
+cob 26496	NC_018056.1	Lachancea kluyveri	Saccharomycetaceae	RefSeq annotation	12	upstream	1443	
+cob 26496	NC_015384.1	Komagataella phaffii CBS 7435	other Saccharomycotina	RefSeq annotation	12	upstream	1620	
+cob 26496	NW_017264706.1	Saccharomyces eubayanus	Saccharomycetaceae	RefSeq annotation	14	upstream	1518	
+cob 26496	NC_020043.1	Magnusiomyces magnusii	other Saccharomycotina	RefSeq annotation	15	upstream	1408	
+cob 26496	NC_053321.1	Candidozyma auris	other Saccharomycotina	RefSeq annotation	15	upstream	1416	
+cob 26496	NC_050375.1	Metschnikowia sp. 13-106.1	other Saccharomycotina	RefSeq annotation	15	upstream	1437	
+cob 26496	NC_050379.1	Metschnikowia santaceciliae	other Saccharomycotina	RefSeq annotation	15	upstream	1833	
+cob 26496	NC_050380.1	[Candida] ipomoeae	other Saccharomycotina	RefSeq annotation	15	upstream	1247	
+cob 26496	NC_050381.1	Metschnikowia matae var. maris	other Saccharomycotina	RefSeq annotation	15	upstream	1942	
+cob 26496	NC_050304.1	Metschnikowia arizonensis	other Saccharomycotina	RefSeq annotation	15	upstream	1401	
+cob 26496	NC_050305.1	Metschnikowia cubensis	other Saccharomycotina	RefSeq annotation	15	upstream	1461	
+cob 26496	NC_050338.1	Metschnikowia drakensbergensis	other Saccharomycotina	RefSeq annotation	15	upstream	1981	
+cob 26496	NC_050339.1	Metschnikowia proteae	other Saccharomycotina	RefSeq annotation	15	upstream	1980	
+cob 26496	NC_050340.1	Metschnikowia hawaiiensis	other Saccharomycotina	RefSeq annotation	15	upstream	1382	
+cob 26496	NC_050341.1	Metschnikowia continentalis	other Saccharomycotina	RefSeq annotation	15	upstream	1828	
+cob 26496	NC_050342.1	Metschnikowia dekortorum	other Saccharomycotina	RefSeq annotation	15	upstream	2541	
+cob 26496	NC_050343.1	Metschnikowia agaves	other Saccharomycotina	RefSeq annotation	15	upstream	1779	
+cob 26496	NC_050344.1	Metschnikowia cerradonensis	other Saccharomycotina	RefSeq annotation	15	upstream	1827	
+cob 26496	NC_025768.1	Geotrichum candidum	other Saccharomycotina	RefSeq annotation	15	upstream	1379	
+cob 26496	NC_050172.1	Metschnikowia kamakouana	other Saccharomycotina	RefSeq annotation	15	upstream	1825	
+cob 26496	NC_018046.1	Candida albicans	other Saccharomycotina	RefSeq annotation	15	upstream	1305	
+cob 26496	NC_058213.1	Magnusiomyces suaveolens	other Saccharomycotina	RefSeq annotation	15	upstream	1420	
+cob 26496	NC_036375.1	Torulaspora quercuum	Saccharomycetaceae	RefSeq annotation	15	upstream	1409	
+cob 26496	NC_050382.1	Metschnikowia matae	other Saccharomycotina	RefSeq annotation	15	upstream	1949	
+cob 26496	NC_036376.1	Torulaspora microellipsoides	Saccharomycetaceae	RefSeq annotation	15	upstream	1451	
+cob 26496	NC_018044.1	Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	15	upstream	1310	
+cob 26496	NC_022155.1	Diddensiella santjacobensis	other Saccharomycotina	RefSeq annotation	15	upstream	975	
+cob 26496	NC_022156.1	Lodderomyces pseudojiufengensis	other Saccharomycotina	RefSeq annotation	15	upstream	1407	
+cob 26496	NC_022163.1	Williopsis jadinii	other Saccharomycotina	RefSeq annotation	15	upstream	1345	
+cob 26496	NC_022175.1	Komagataea norvegica	other Saccharomycotina	RefSeq annotation	15	upstream	1373	
+cob 26496	NC_036374.1	Zygosaccharomyces mellis	Saccharomycetaceae	RefSeq annotation	15	upstream	1482	
+cob 26496	NC_027458.1	Torulaspora franciscae	Saccharomycetaceae	RefSeq annotation	15	upstream	1809	
+cob 26496	NC_027457.1	Torulaspora pretoriensis	Saccharomycetaceae	RefSeq annotation	15	upstream	1638	
+cob 26496	NC_024094.1	Magnusiomyces tetraspermus	other Saccharomycotina	RefSeq annotation	15	upstream	1333	
+cob 26496	NC_022167.1	Williopsis suaveolens	other Saccharomycotina	RefSeq annotation	15	upstream	1567	
+cob 26496	NC_022168.1	Fermentozyma sake	other Saccharomycotina	RefSeq annotation	15	upstream	1418	
+cob 26496	NC_022170.1	Candida labiduridarum	other Saccharomycotina	RefSeq annotation	15	upstream	372	
+cob 26496	NC_022172.1	Insectozyma corydali	other Saccharomycotina	RefSeq annotation	15	upstream	1584	
+cob 26496	NC_050842.1	Metschnikowia orientalis	other Saccharomycotina	RefSeq annotation	15	upstream	2002	
+cob 26496	NC_050845.1	Metschnikowia similis	other Saccharomycotina	RefSeq annotation	15	upstream	2955	
+cob 26496	NC_050846.1	Metschnikowia hibisci	other Saccharomycotina	RefSeq annotation	15	upstream	1738	
+cob 26496	NC_027459.1	Torulaspora globosa	Saccharomycetaceae	RefSeq annotation	15	upstream	1625	
+cob 26496	NC_050838.1	Metschnikowia amazonensis	other Saccharomycotina	RefSeq annotation	15	upstream	3162	
+cob 26496	NC_050840.1	Metschnikowia drosophilae	other Saccharomycotina	RefSeq annotation	15	upstream	1727	
+cob 26496	NC_050374.1	Metschnikowia lochheadii	other Saccharomycotina	RefSeq annotation	15	upstream	2116	
+cob 26496	NC_050844.1	Metschnikowia bowlesiae	other Saccharomycotina	RefSeq annotation	15	upstream	2672	
+cob 26496	NC_031184.1	Saccharomyces kudriavzevii	Saccharomycetaceae	RefSeq annotation	15	upstream	643	
+cob 26496	NC_031185.1	Saccharomyces mikatae	Saccharomycetaceae	RefSeq annotation	15	upstream	1352	
+cob 26496	NC_036103.1	Debaryomyces psychrophilus	other Saccharomycotina	RefSeq annotation	15	upstream	1604	
+cob 26496	NC_012145.1	Saccharomyces pastorianus Weihenstephan 34/70	Saccharomycetaceae	RefSeq annotation	15	upstream	1526	
+cob 26496	NC_015814.1	Candida frijolesensis	other Saccharomycotina	RefSeq annotation	15	upstream	369	
+cob 26496	NC_010166.1	Debaryomyces hansenii	other Saccharomycotina	RefSeq annotation	15	upstream	1602	
+cob 26496	NC_005253.2	Lodderomyces parapsilosis	other Saccharomycotina	RefSeq annotation	15	upstream	1415	
+cob 26496	NC_013147.1	Brettanomyces bruxellensis	other Saccharomycotina	RefSeq annotation	15	upstream	2506	
+cob 26496	NC_013830.1	Candida maltosa	other Saccharomycotina	RefSeq annotation	15	upstream	1361	
+cob 26496	NC_006971.1	Lodderomyces metapsilosis	other Saccharomycotina	RefSeq annotation	15	upstream	1424	
+cob 26496	NC_014613.1	Groenewaldozyma salmanticensis	other Saccharomycotina	RefSeq annotation	15	upstream	1332	
+cob 26496	NC_011133.1	Candida neerlandica	other Saccharomycotina	RefSeq annotation	15	upstream	586	
+cob 26496	NC_013255.1	Millerozyma farinosa	other Saccharomycotina	RefSeq annotation	15	upstream	1257	
+cob 26496	NC_063703.1	Dujonia railenensis	other Saccharomycotina	RefSeq annotation	15	upstream	1167	
+cob 26496	NC_014693.1	Lodderomyces jiufengensis	other Saccharomycotina	RefSeq annotation	15	upstream	1460	
+cob 26496	NC_067076.1	Insectozyma verbasci	other Saccharomycotina	RefSeq annotation	15	upstream	1450	
+cob 26496	NC_057617.1	Metschnikowia bicuspidata	other Saccharomycotina	RefSeq annotation	16	upstream	2409	
+cob 26496	NC_020043.1	Magnusiomyces magnusii	other Saccharomycotina	RefSeq annotation	21	downstream	1028	
+cob 26496	NC_050376.1	Metschnikowia borealis	other Saccharomycotina	RefSeq annotation	21	downstream	1853	
+cob 26496	NC_050378.1	Metschnikowia shivogae	other Saccharomycotina	RefSeq annotation	21	downstream	1564	
+cob 26496	NC_050379.1	Metschnikowia santaceciliae	other Saccharomycotina	RefSeq annotation	21	downstream	1606	
+cob 26496	NC_050380.1	[Candida] ipomoeae	other Saccharomycotina	RefSeq annotation	21	downstream	1348	
+cob 26496	NC_050381.1	Metschnikowia matae var. maris	other Saccharomycotina	RefSeq annotation	21	downstream	1360	
+cob 26496	NC_063596.1	Lodderomyces margitis	other Saccharomycotina	RefSeq annotation	21	downstream	1221	
+cob 26496	NC_050301.1	Metschnikowia hamakuensis	other Saccharomycotina	RefSeq annotation	21	downstream	1234	
+cob 26496	NC_050303.1	Metschnikowia mauinuiana	other Saccharomycotina	RefSeq annotation	21	downstream	1257	
+cob 26496	NC_050338.1	Metschnikowia drakensbergensis	other Saccharomycotina	RefSeq annotation	21	downstream	1470	
+cob 26496	NC_050339.1	Metschnikowia proteae	other Saccharomycotina	RefSeq annotation	21	downstream	1470	
+cob 26496	NC_050340.1	Metschnikowia hawaiiensis	other Saccharomycotina	RefSeq annotation	21	downstream	1257	
+cob 26496	NC_050341.1	Metschnikowia continentalis	other Saccharomycotina	RefSeq annotation	21	downstream	1361	
+cob 26496	NC_050342.1	Metschnikowia dekortorum	other Saccharomycotina	RefSeq annotation	21	downstream	1921	
+cob 26496	NC_050344.1	Metschnikowia cerradonensis	other Saccharomycotina	RefSeq annotation	21	downstream	1766	
+cob 26496	NC_050377.1	Metschnikowia aberdeeniae	other Saccharomycotina	RefSeq annotation	21	downstream	1914	
+cob 26496	NC_050172.1	Metschnikowia kamakouana	other Saccharomycotina	RefSeq annotation	21	downstream	1478	
+cob 26496	NC_018046.1	Candida albicans	other Saccharomycotina	RefSeq annotation	21	downstream	342	
+cob 26496	NC_058213.1	Magnusiomyces suaveolens	other Saccharomycotina	RefSeq annotation	21	downstream	1024	
+cob 26496	NC_036375.1	Torulaspora quercuum	Saccharomycetaceae	RefSeq annotation	21	downstream	1235	
+cob 26496	NC_050382.1	Metschnikowia matae	other Saccharomycotina	RefSeq annotation	21	downstream	1829	
+cob 26496	NC_018044.1	Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	21	downstream	1409	
+cob 26496	NC_022171.1	Waltiozyma mucosa	other Saccharomycotina	RefSeq annotation	21	downstream	1164	
+cob 26496	NC_022154.1	Meyerozyma guilliermondii	other Saccharomycotina	RefSeq annotation	21	downstream	1419	
+cob 26496	NC_022156.1	Lodderomyces pseudojiufengensis	other Saccharomycotina	RefSeq annotation	21	downstream	1140	
+cob 26496	NC_022159.1	Barnettozyma californica	other Saccharomycotina	RefSeq annotation	21	downstream	1810	
+cob 26496	NC_022163.1	Williopsis jadinii	other Saccharomycotina	RefSeq annotation	21	downstream	1264	
+cob 26496	NC_027264.1	Saccharomyces cerevisiae	Saccharomycetaceae	RefSeq annotation	21	downstream	1507	
+cob 26496	NC_024094.1	Magnusiomyces tetraspermus	other Saccharomycotina	RefSeq annotation	21	downstream	1029	
+cob 26496	NC_022167.1	Williopsis suaveolens	other Saccharomycotina	RefSeq annotation	21	downstream	1080	
+cob 26496	NC_022169.1	Lodderomyces theae	other Saccharomycotina	RefSeq annotation	21	downstream	1196	
+cob 26496	NC_022172.1	Insectozyma corydali	other Saccharomycotina	RefSeq annotation	21	downstream	1250	
+cob 26496	NC_050845.1	Metschnikowia similis	other Saccharomycotina	RefSeq annotation	21	downstream	1850	
+cob 26496	NC_050846.1	Metschnikowia hibisci	other Saccharomycotina	RefSeq annotation	21	downstream	1765	
+cob 26496	NC_050838.1	Metschnikowia amazonensis	other Saccharomycotina	RefSeq annotation	21	downstream	1712	
+cob 26496	NC_050374.1	Metschnikowia lochheadii	other Saccharomycotina	RefSeq annotation	21	downstream	1359	
+cob 26496	NC_050839.1	Metschnikowia torresii	other Saccharomycotina	RefSeq annotation	21	downstream	1734	
+cob 26496	NC_059893.1	Saccharomyces cerevisiae x Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	21	downstream	1467	
+cob 26496	NC_050844.1	Metschnikowia bowlesiae	other Saccharomycotina	RefSeq annotation	21	downstream	1842	
+cob 26496	NC_031184.1	Saccharomyces kudriavzevii	Saccharomycetaceae	RefSeq annotation	21	downstream	1269	
+cob 26496	NC_031185.1	Saccharomyces mikatae	Saccharomycetaceae	RefSeq annotation	21	downstream	1269	
+cob 26496	NC_036103.1	Debaryomyces psychrophilus	other Saccharomycotina	RefSeq annotation	21	downstream	1395	
+cob 26496	NC_013145.2	Brettanomyces custersianus	other Saccharomycotina	RefSeq annotation	21	downstream	1078	
+cob 26496	NC_016124.1	Yarrowia alimentaria	other Saccharomycotina	RefSeq annotation	21	downstream	1339	
+cob 26496	NC_001224.1	Saccharomyces cerevisiae S288C	Saccharomycetaceae	RefSeq annotation	21	downstream	1404	
+cob 26496	NC_010166.1	Debaryomyces hansenii	other Saccharomycotina	RefSeq annotation	21	downstream	1367	
+cob 26496	NC_005253.2	Lodderomyces parapsilosis	other Saccharomycotina	RefSeq annotation	21	downstream	1215	
+cob 26496	NC_015384.1	Komagataella phaffii CBS 7435	other Saccharomycotina	RefSeq annotation	21	downstream	1401	
+cob 26496	NC_006972.1	Lodderomyces orthopsilosis	other Saccharomycotina	RefSeq annotation	21	downstream	1193	
+cob 26496	NC_002659.1	Yarrowia lipolytica	other Saccharomycotina	RefSeq annotation	21	downstream	1381	
+cob 26496	NC_016116.1	Yarrowia galli	other Saccharomycotina	RefSeq annotation	21	downstream	674	
+cob 26496	NC_013255.1	Millerozyma farinosa	other Saccharomycotina	RefSeq annotation	21	downstream	1137	
+cob 26496	NC_067076.1	Insectozyma verbasci	other Saccharomycotina	RefSeq annotation	21	downstream	1128	
+cob 26496	NC_084443.1	Saccharomycopsis fibuligera	other Saccharomycotina	RefSeq annotation	21	downstream	1219	
+cox1 24711	NC_050375.1	Metschnikowia sp. 13-106.1	other Saccharomycotina	RefSeq annotation	6	downstream	5225	
+cox1 24711	NC_050376.1	Metschnikowia borealis	other Saccharomycotina	RefSeq annotation	6	downstream	5146	
+cox1 24711	NC_050378.1	Metschnikowia shivogae	other Saccharomycotina	RefSeq annotation	6	downstream	2979	
+cox1 24711	NC_050379.1	Metschnikowia santaceciliae	other Saccharomycotina	RefSeq annotation	6	downstream	4184	
+cox1 24711	NC_050380.1	[Candida] ipomoeae	other Saccharomycotina	RefSeq annotation	6	downstream	4127	
+cox1 24711	NC_050381.1	Metschnikowia matae var. maris	other Saccharomycotina	RefSeq annotation	6	downstream	4344	
+cox1 24711	NC_050304.1	Metschnikowia arizonensis	other Saccharomycotina	RefSeq annotation	6	downstream	5090	
+cox1 24711	NC_050305.1	Metschnikowia cubensis	other Saccharomycotina	RefSeq annotation	6	downstream	5164	
+cox1 24711	NC_050338.1	Metschnikowia drakensbergensis	other Saccharomycotina	RefSeq annotation	6	downstream	2585	
+cox1 24711	NC_050339.1	Metschnikowia proteae	other Saccharomycotina	RefSeq annotation	6	downstream	2585	
+cox1 24711	NC_050341.1	Metschnikowia continentalis	other Saccharomycotina	RefSeq annotation	6	downstream	4280	
+cox1 24711	NC_050342.1	Metschnikowia dekortorum	other Saccharomycotina	RefSeq annotation	6	downstream	1611	
+cox1 24711	NC_050344.1	Metschnikowia cerradonensis	other Saccharomycotina	RefSeq annotation	6	downstream	4327	
+cox1 24711	NC_050377.1	Metschnikowia aberdeeniae	other Saccharomycotina	RefSeq annotation	6	downstream	3001	
+cox1 24711	NC_050172.1	Metschnikowia kamakouana	other Saccharomycotina	RefSeq annotation	6	downstream	2897	
+cox1 24711	NC_050382.1	Metschnikowia matae	other Saccharomycotina	RefSeq annotation	6	downstream	4361	
+cox1 24711	NC_022170.1	Candida labiduridarum	other Saccharomycotina	RefSeq annotation	6	downstream	2946	
+cox1 24711	NC_050841.1	Metschnikowia caudata	other Saccharomycotina	RefSeq annotation	6	downstream	1797	
+cox1 24711	NC_050842.1	Metschnikowia orientalis	other Saccharomycotina	RefSeq annotation	6	downstream	2289	
+cox1 24711	NC_050845.1	Metschnikowia similis	other Saccharomycotina	RefSeq annotation	6	downstream	1870	
+cox1 24711	NC_050846.1	Metschnikowia hibisci	other Saccharomycotina	RefSeq annotation	6	downstream	2163	
+cox1 24711	NC_050838.1	Metschnikowia amazonensis	other Saccharomycotina	RefSeq annotation	6	downstream	4599	
+cox1 24711	NC_050374.1	Metschnikowia lochheadii	other Saccharomycotina	RefSeq annotation	6	downstream	4196	
+cox1 24711	NC_050302.1	Metschnikowia colocasiae	other Saccharomycotina	RefSeq annotation	6	downstream	4960	
+cox1 24711	NC_050844.1	Metschnikowia bowlesiae	other Saccharomycotina	RefSeq annotation	6	downstream	1869	
+cox1 24711	NC_015814.1	Candida frijolesensis	other Saccharomycotina	RefSeq annotation	6	downstream	2942	
+cox1 24711	NC_005253.2	Lodderomyces parapsilosis	other Saccharomycotina	RefSeq annotation	6	downstream	2916	
+cox1 24711	NC_020043.1	Magnusiomyces magnusii	other Saccharomycotina	RefSeq annotation	9	downstream	1262	
+cox1 24711	NC_058213.1	Magnusiomyces suaveolens	other Saccharomycotina	RefSeq annotation	9	downstream	1262	
+cox1 24711	NC_058229.1	Magnusiomyces paraingens	other Saccharomycotina	RefSeq annotation	9	downstream	1339	
+cox1 24711	NC_036375.1	Torulaspora quercuum	Saccharomycetaceae	RefSeq annotation	9	downstream	1428	
+cox1 24711	NC_036376.1	Torulaspora microellipsoides	Saccharomycetaceae	RefSeq annotation	9	downstream	514	
+cox1 24711	NC_036377.1	Naumovozyma dairenensis	Saccharomycetaceae	RefSeq annotation	9	downstream	354	
+cox1 24711	NC_036380.1	Nakaseomyces bracarensis	Saccharomycetaceae	RefSeq annotation	9	downstream	1940	
+cox1 24711	NC_022171.1	Waltiozyma mucosa	other Saccharomycotina	RefSeq annotation	9	downstream	1412	
+cox1 24711	NC_022154.1	Meyerozyma guilliermondii	other Saccharomycotina	RefSeq annotation	9	downstream	1448	
+cox1 24711	NC_022155.1	Diddensiella santjacobensis	other Saccharomycotina	RefSeq annotation	9	downstream	897	
+cox1 24711	NC_022156.1	Lodderomyces pseudojiufengensis	other Saccharomycotina	RefSeq annotation	9	downstream	490	
+cox1 24711	NC_022159.1	Barnettozyma californica	other Saccharomycotina	RefSeq annotation	9	downstream	1482	
+cox1 24711	NC_022175.1	Komagataea norvegica	other Saccharomycotina	RefSeq annotation	9	downstream	1580	
+cox1 24711	NC_022176.1	Insectozyma chauliodis	other Saccharomycotina	RefSeq annotation	9	downstream	280	
+cox1 24711	NC_024094.1	Magnusiomyces tetraspermus	other Saccharomycotina	RefSeq annotation	9	downstream	193	
+cox1 24711	NC_024095.1	Magnusiomyces capitatus	other Saccharomycotina	RefSeq annotation	9	downstream	1533	
+cox1 24711	NC_022172.1	Insectozyma corydali	other Saccharomycotina	RefSeq annotation	9	downstream	536	
+cox1 24711	NC_031184.1	Saccharomyces kudriavzevii	Saccharomycetaceae	RefSeq annotation	9	downstream	1564	
+cox1 24711	NC_031185.1	Saccharomyces mikatae	Saccharomycetaceae	RefSeq annotation	9	downstream	1617	
+cox1 24711	NC_018056.1	Lachancea kluyveri	Saccharomycetaceae	RefSeq annotation	9	downstream	1651	
+cox1 24711	NC_004691.1	Nakaseomyces glabratus CBS 138	Saccharomycetaceae	RefSeq annotation	9	downstream	1460	
+cox1 24711	NC_016130.1	Yarrowia deformans	other Saccharomycotina	RefSeq annotation	9	downstream	1376	
+cox1 24711	NC_006626.1	Lachancea thermotolerans	Saccharomycetaceae	RefSeq annotation	9	downstream	1528	
+cox1 24711	NC_002659.1	Yarrowia lipolytica	other Saccharomycotina	RefSeq annotation	9	downstream	1363	
+cox1 24711	NC_012619.1	Nakaseomyces delphensis	Saccharomycetaceae	RefSeq annotation	9	downstream	1665	
+cox1 24711	NC_012620.1	Oligophagozyma castellii	Saccharomycetaceae	RefSeq annotation	9	downstream	2037	
+cox1 24711	NC_016116.1	Yarrowia galli	other Saccharomycotina	RefSeq annotation	9	downstream	310	
+cox1 24711	NC_014805.1	Ogataea polymorpha	other Saccharomycotina	RefSeq annotation	9	downstream	1333	
+cox1 24711	NC_003920.1	Naumovozyma castellii	Saccharomycetaceae	RefSeq annotation	9	downstream	487	
+cox1 24711	NC_013255.1	Millerozyma farinosa	other Saccharomycotina	RefSeq annotation	9	downstream	1328	
+cox1 24711	NC_004918.1	Monosporozyma servazzii	Saccharomycetaceae	RefSeq annotation	9	downstream	475	
+cox1 24711	NC_084443.1	Saccharomycopsis fibuligera	other Saccharomycotina	RefSeq annotation	9	downstream	1333	
+cox1 24711	NC_013145.2	Brettanomyces custersianus	other Saccharomycotina	RefSeq annotation	11	downstream	1387	
+cox1 24711	NW_017264706.1	Saccharomyces eubayanus	Saccharomycetaceae	RefSeq annotation	11	downstream	1079	
+cox1 24711	NC_027458.1	Torulaspora franciscae	Saccharomycetaceae	RefSeq annotation	12	downstream	822	
+cox1 24711	NC_027264.1	Saccharomyces cerevisiae	Saccharomycetaceae	RefSeq annotation	12	downstream	1643	
+cox1 24711	NC_027457.1	Torulaspora pretoriensis	Saccharomycetaceae	RefSeq annotation	12	downstream	1553	
+cox1 24711	NC_027433.1	Torulaspora delbrueckii	Saccharomycetaceae	RefSeq annotation	12	downstream	1592	
+cox1 24711	NC_027459.1	Torulaspora globosa	Saccharomycetaceae	RefSeq annotation	12	downstream	558	
+cox1 24711	NC_001224.1	Saccharomyces cerevisiae S288C	Saccharomycetaceae	RefSeq annotation	12	downstream	1516	
+cox1 24711	NC_016130.1	Yarrowia deformans	other Saccharomycotina	RefSeq annotation	19	upstream	1309	
+cox1 24711	NC_002659.1	Yarrowia lipolytica	other Saccharomycotina	RefSeq annotation	19	upstream	1302	
+cox1 24711	NC_016116.1	Yarrowia galli	other Saccharomycotina	RefSeq annotation	19	upstream	278	
+cox1 24711	NC_018044.1	Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	26	upstream	2484	
+cox1 24711	NC_027264.1	Saccharomyces cerevisiae	Saccharomycetaceae	RefSeq annotation	26	upstream	2483	
+cox1 24711	NC_059893.1	Saccharomyces cerevisiae x Saccharomyces paradoxus	Saccharomycetaceae	RefSeq annotation	26	upstream	2484	
+cox1 24711	NC_012145.1	Saccharomyces pastorianus Weihenstephan 34/70	Saccharomycetaceae	RefSeq annotation	26	upstream	2484	
+cox1 24711	NC_001224.1	Saccharomyces cerevisiae S288C	Saccharomycetaceae	RefSeq annotation	26	upstream	2483	

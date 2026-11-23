@@ -1,0 +1,13 @@
+alpha     | B5 sense all  | B5 sense cond | B5 stop all | B5 stop cond | null flags | A.vastus | Perk.m | Huioz | M.serv
+1.0e-06   |         0.000 |  0.000 (n=66) |       0.000 | 0.000 (n=42) |          0 | - | - | - | -
+3.2e-06   |         0.000 |  0.000 (n=66) |       0.000 | 0.000 (n=42) |          0 | - | - | - | -
+1.0e-05   |         0.025 |  0.091 (n=66) |       0.000 | 0.000 (n=42) |          0 | - | AGG(4/7) | CTG(2/3) | CTG(2/3)
+3.2e-05   |         0.046 |  0.167 (n=66) |       0.017 | 0.048 (n=42) |          0 | - | AGG(4/7) | CTG(2/3) | CTG(2/3)
+1.0e-04   |         0.163 |  0.561 (n=66) |       0.025 | 0.071 (n=42) |          0 | - | AGG(4/7) | CTG(2/3) | CTG(2/3)
+3.2e-04   |         0.233 |  0.773 (n=66) |       0.058 | 0.167 (n=42) |          0 | - | AGG(4/7) | CTG(2/3) | CTG(2/3)
+1.0e-03   |         0.279 |  0.939 (n=66) |       0.300 | 0.857 (n=42) |          0 | TGG(2/2) | AGG(4/7) | CTG(2/3) | CTG(2/3)
+3.2e-03   |         0.296 |  1.000 (n=66) |       0.350 | 1.000 (n=42) |          0 | TGG(2/2) | AGG(4/7) | CTG(2/3) | CTG(2/3)
+1.0e-02   |         0.296 |  1.000 (n=66) |       0.350 | 1.000 (n=42) |          0 | TGG(2/2) | AGG(4/7) | CTG(2/3) | CTG(2/3)
+clean core shifts per genome-direction (real genomes, n=1504): {0: 1040, 1: 450, 2: 7, 3: 3, 4: 1, 6: 3}
+alpha 1.0e-03: P(chance flag | genome-direction with n>=2) = 0.0150; per genome-direction overall 0.00014; expected chance flags over ~20,300 genomes x 2 directions = 6
+alpha 3.2e-03: P(chance flag | genome-direction with n>=2) = 0.0443; per genome-direction overall 0.00041; expected chance flags over ~20,300 genomes x 2 directions = 17

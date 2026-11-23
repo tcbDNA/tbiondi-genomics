@@ -1,0 +1,9 @@
+# compleasm version is: 0.2.10
+# The lineage dataset is: saccharomycetes_odb12 (Creation date: 2026-05-22, number of genomes: 75, number of BUSCOs: 2319)
+## lineage: saccharomycetes_odb12
+S:87.11%, 2020
+D:0.82%, 19
+F:1.42%, 33
+I:0.00%, 0
+M:10.65%, 247
+N:2319

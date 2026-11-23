@@ -1,0 +1,5 @@
+accession	strand	gene	left	right	len	case	class	within_hsp
+OR703946.1	1	cob	21737	22763	1026	2	intron	0
+OR703946.1	-1	cox1	11713	11803	90	0	bypass_like	1
+OR703946.1	-1	cox1	11923	11962	39	0	bypass_like	1
+OR703946.1	-1	other:orf146	5079	5115	36	0	bypass_like	1

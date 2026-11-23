@@ -1,0 +1,32 @@
+  code 1: 8 genomes, 0.5 Mb, 8s
+  code 3: 174 genomes, 10.1 Mb, 89s
+  code 4: 1134 genomes, 84.0 Mb, 690s
+  code 16: 10 genomes, 1.1 Mb, 16s
+introns: 685 genomes, 8871 annotated core-gene introns, 2101 near-edge plants
+{
+ "B9a": 0.6374704091985121,
+ "n_introns": 8871,
+ "B9b": 0.0019163566677939353,
+ "n_edges": 17742,
+ "B9b_split": 0,
+ "B9c": 0.2836744407425036,
+ "n_plants": 2101,
+ "near_edge_covered": 0.4393146120894812,
+ "near_edge_outcomes": {
+  "not_aligned": 1178,
+  "clean": 596,
+  "flank_fail": 159,
+  "homopolymer": 87,
+  "paired": 35,
+  "aligned_no_event": 30,
+  "masked_insert_edge": 15,
+  "gene_end": 1
+ },
+ "core_cov_median": 0.800642349162652,
+ "core_cov_p10": 0.6449782338308457,
+ "n_genomes": 663,
+ "masked_median": 0.03,
+ "masked_p90": 0.06,
+ "masked_max": 0.2891
+}
+exit 0

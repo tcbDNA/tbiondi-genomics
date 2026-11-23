@@ -1,0 +1,39 @@
+{
+ "window_cap": 4,
+ "alpha_sense": 0.001,
+ "alpha_stop": 0.0032,
+ "split_votes": false,
+ "probation": "split events: {'plant_null': 0, 'null_genomes': 0, 'sites': 0}; planted shifts recovered clean only via a split event: 0 (planted null) + 0 (same-codon sites); null sequences that flag only with split events voting: 0 []. Decision: split-hit shifts do NOT vote (exploratory tally only).",
+ "rule_sense": 0.001,
+ "rule_stop": 0.0032,
+ "expected_chance_flags_est": 0.0,
+ "gate_ok": true,
+ "bars_ok": false,
+ "intron": {
+  "B9a": 0.6190959305602525,
+  "n_introns": 8871,
+  "B9b": 0.0018036298049825274,
+  "n_edges": 17742,
+  "B9b_split": 0,
+  "B9c": 0.2793907663017611,
+  "n_plants": 2101,
+  "near_edge_covered": 0.4383626844359829,
+  "near_edge_outcomes": {
+   "not_aligned": 1180,
+   "clean": 587,
+   "flank_fail": 161,
+   "homopolymer": 90,
+   "paired": 36,
+   "aligned_no_event": 31,
+   "masked_insert_edge": 15,
+   "gene_end": 1
+  },
+  "core_cov_median": 0.7947876799708402,
+  "core_cov_p10": 0.6468008255933952,
+  "n_genomes": 663,
+  "masked_median": 0.0298,
+  "masked_p90": 0.0609,
+  "masked_max": 0.2881
+ },
+ "pool_site_residues": 50
+}

@@ -1,0 +1,5 @@
+accession	gene	subject	strand	pos_oriented	pos_fwd	shift	raw	spos	slen	codon	codon_left	window	is_stop_trigger	class	homopolymer_base	left_id	right_id	detour_around_stop	bits	via
+OR703946.1	other:orf146	NC_036422.1|YP_009445635.1	-1	4900	44973	1	1	59	146	TGC	GGT	1	0	flank_fail		0.5	0.6	0	55.5	hsp
+OR703946.1	other:orf146	NC_036422.1|YP_009445635.1	-1	4997	44876	1	1	91	146	TTA	GAC	5	0	flank_fail	T	0.67	0.12	0	55.5	hsp
+OR703946.1	other:orf146	NC_036422.1|YP_009445635.1	-1	5169	44704	-1	-1	138	146	AAA	AAA	2	0	gene_end		0.4	0.22	0	55.5	hsp
+OR703946.1	other:rps5	NC_030600.1|YP_009266670.1	1	25473	25473	-1	-1	215	418	ATT	AAA	3	0	flank_fail	A	0.25	0.4	0	55.1	hsp

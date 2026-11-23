@@ -1,0 +1,38 @@
+accession	organism	family	phylum	known_lineage	first_break	pairs	genes	total_pairs_in_genome	total_paired_breaks	sites	mean_alignment_identity
+NC_088077.1	Synergus nanlingensis	Cynipidae	Arthropoda	0	+1 ATT	3	2	4	8	nad5@9536; nad5@8405; nad2@1708	0.585
+NC_002508.1	Badhamia polycephala	Physaraceae	Evosea	1	-1 GTT	2	2	12	66	cox1@26874; cox2@29419	0.515
+NC_085549.1	Bostrychia tenuissima	Rhodomelaceae	Rhodophyta	0	+1 TTA	2	2	2	4	cox1@7010; nad2@16338	0.575
+NC_068742.1	Perkinsus marinus	Perkinsidae	Perkinsozoa	1	+1 AGG	2	2	2	6	cox1@1588; cob@27088	0.35
+NC_068743.1	Perkinsus olseni	Perkinsidae	Perkinsozoa	1	+1 AGG	2	2	3	9	cox1@8482; cob@61788	0.424
+NC_016117.1	Mnemiopsis leidyi	Bolinopsidae	Ctenophora	0	+1 TTA	2	2	4	9	nad5@7555; nad1@8391	0.452
+NC_086769.1	Thelohanellus kitauei	Myxobolidae	Cnidaria	0	+1 ATT	2	2	4	8	nad1@1428; nad2@17599	0.309
+NC_024680.1	Tetranychus pueraricola	Tetranychidae	Arthropoda	0	+1 AAT	2	2	2	4	nad1@6959; cox3@4231	0.446
+NC_048882.1	Allorhynchium sp. YN	Vespidae	Arthropoda	0	+1 TTA	2	2	2	4	nad4@12268; nad2@4198	0.475
+NC_060544.1	Haltichella nipponensis	Chalcididae	Arthropoda	0	-1 AAT	2	2	3	6	nad4@12373; nad2@4963	0.544
+NC_052914.1	Spondylis buprestoides	Cerambycidae	Arthropoda	0	-1 TTA	2	2	2	4	nad1@11972; nad4l@9555	0.713
+NC_020094.1	Paracymoriza prodigalis	Crambidae	Arthropoda	0	-1 TTT	2	2	4	8	nad2@1054; nad6@10230	0.769
+NC_018547.1	Leucoptera malifoliella	Lyonetiidae	Arthropoda	0	-1 ATT	2	2	2	4	nad4@9223; nad1@12181	0.68
+NC_019809.1	Dictyocaulus eckerti	Metastrongylidae	Nematoda	0	-1 AAT	2	2	2	4	nad4@12442; cox2@2220	0.65
+NC_036953.1	Potamyia flava	Hydropsychidae	Arthropoda	0	-1 ATA	2	2	2	4	nad4@9400; nad4l@9642	0.55
+NC_050976.1	Anax parthenope	Aeshnidae	Arthropoda	0	-1 TTA	2	2	2	4	nad4@9165; nad6@10151	0.774
+NC_029511.1	Bematistes alcinoe	Nymphalidae	Arthropoda	0	-1 ATA	2	2	2	4	nad4@8416; nad4l@8907	0.712
+NC_014347.1	Panonychus citri	Tetranychidae	Arthropoda	0	+1 AAT	2	2	3	6	nad5@11030; nad2@12078	0.444
+NC_013817.1	Oesophagostomum dentatum	Strongylidae	Nematoda	0	+1 ATA	2	2	3	6	nad4@12566; nad4l@6507	0.848
+NC_010526.1	Tetranychus urticae	Tetranychidae	Arthropoda	0	+1 AAT	2	2	3	6	nad5@11039; nad1@6976	0.44
+NC_008234.1	Campodea lubbockii	Campodeidae	Arthropoda	0	+1 TTA	2	2	4	8	nad4@8811; nad3@5792	0.584
+NC_062071.1	Amblyomma testudinarium	Ixodidae	Arthropoda	0	+1 ATT	2	2	2	4	nad5@9755; nad2@1009	0.54
+NC_079640.1	Byasa polyeuctes	Papilionidae	Arthropoda	0	+1 ATT	2	2	3	7	nad6@10211; nad4l@9741	0.795
+NC_085282.1	Pyrocoelia pectoralis	Lampyridae	Arthropoda	0	-1 ATT	2	2	2	4	nad5@8615; nad4@10034	0.652
+NC_087873.1	Amblyomma albolimbatum	Ixodidae	Arthropoda	0	-1 ATT	2	2	2	4	nad5@9648; nad4l@12555	0.514
+NC_088077.1	Synergus nanlingensis	Cynipidae	Arthropoda	0	+1 TTA	2	2	4	8	nad5@9536; nad2@1708	0.585
+NC_038214.1	Cichlidarus nyanzae	Gyrodactylidae	Platyhelminthes	0	+1 ATA	2	2	2	4	nad4@2165; nad5@14290	0.526
+NC_038214.1	Cichlidarus nyanzae	Gyrodactylidae	Platyhelminthes	0	+1 ATT	2	2	2	4	nad4@2165; nad5@14290	0.526
+BK072398.1	Barnettozyma sucrosica	Phaffomycetaceae	Ascomycota	0	-1 TTA	2	2	3	6	nad2@8474; cox1@25841	0.605
+NC_002508.1	Badhamia polycephala	Physaraceae	Evosea	1	-1 ATG	2	1	12	66	nad5@17958; nad5@18146	0.515
+NC_020148.1	Phlebia radiata	Meruliaceae	Basidiomycota	0	+1 AGA	2	1	3	6	nad4l@65265; nad4l@65481	0.645
+NC_018790.1	Paraminabea aldersladei	Coralliidae	Cnidaria	0	-1 CCA	2	1	2	4	cox1@1638; cox1@1700	0.926
+NC_016117.1	Mnemiopsis leidyi	Bolinopsidae	Ctenophora	0	+1 ATT	2	1	4	9	nad1@8142; nad1@8391	0.452
+NC_073546.1	Tilletia controversa	Tilletiaceae	Basidiomycota	0	+1 ATT	2	1	2	4	cox1@67840; cox1@68690	0.551
+NC_024413.1	Bhagadatta austenia	Nymphalidae	Arthropoda	0	+1 ATT	2	1	2	4	nad2@858; nad2@1041	0.748
+NC_022134.1	Sasakia funebris	Nymphalidae	Arthropoda	0	-1 AAT	2	1	3	6	nad2@1094; nad2@1226	0.771
+NC_035250.1	Caenorhabditis nouraguensis	Rhabditidae	Nematoda	0	-1 TTA	2	1	2	4	nad6@360; nad6@434	0.811
