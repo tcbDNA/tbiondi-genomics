@@ -1,0 +1,360 @@
+{"panel_id": "LIN_Placuna_ephippium", "aragorn": [[7865, "+", "Tyr"], [11797, "+", "Tyr"]], "trnascan": [[11766, 11833, 23.9]]}
+{"panel_id": "LIN_Placuna_quadrangula", "aragorn": [[11792, "+", "Tyr"]], "trnascan": [[11761, 11828, 20.7]]}
+{"panel_id": "LIN_Enigmonia_aenigmatica_S_yellow", "aragorn": [[11956, "+", "Tyr"], [14596, "-", "Tyr"]], "trnascan": [[11925, 11988, 19.3]]}
+{"panel_id": "LIN_Enigmonia_aenigmatica_S_purple", "aragorn": [[11959, "+", "Tyr"], [14596, "-", "Tyr"]], "trnascan": [[11928, 11992, 18.2]]}
+{"panel_id": "LIN_Anomia_trigonopsis_Mauritania", "aragorn": [[17031, "+", "Tyr"]], "trnascan": [[17000, 17067, 21.8]]}
+{"panel_id": "LIN_Anomia_chinensis", "aragorn": [[12459, "+", "Tyr"]], "trnascan": [[12428, 12493, 33.1]]}
+{"panel_id": "LIN_Anomia_trigonopsis_NZ", "aragorn": [[17092, "+", "Tyr"]], "trnascan": [[17061, 17128, 21.8]]}
+{"panel_id": "LIN_Anomia_ephippium_S_France", "aragorn": [[11688, "+", "Tyr"]], "trnascan": [[11659, 11729, 15.8]]}
+{"panel_id": "LIN_Plicatuala_australis", "aragorn": [[6727, "+", "Tyr"]], "trnascan": [[6697, 6760, 16.5]]}
+{"panel_id": "LIN_Plicatula_muricata", "aragorn": [[7059, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "LIN_Placuna_vitream", "aragorn": [[11786, "+", "Tyr"]], "trnascan": [[11755, 11820, 21.3]]}
+{"panel_id": "LIN_Pododesmus_glaucus", "aragorn": [[16545, "+", "Tyr"]], "trnascan": [[16516, 16583, 34.9]]}
+{"panel_id": "LIN_Pododesmus_macrochisma", "aragorn": [[3966, "+", "Tyr"]], "trnascan": [[3937, 4002, 22.9]]}
+{"panel_id": "LIN_Heteranomia_aculeata_F_type", "aragorn": [[18038, "+", "Tyr"]], "trnascan": [[18006, 18073, 26.0]]}
+{"panel_id": "LIN_Heteranomia_aculeata_M_type", "aragorn": [[18694, "+", "Tyr"]], "trnascan": [[18662, 18729, 22.0]]}
+{"panel_id": "LIN_Pododesmus_patelliformis", "aragorn": [[16797, "+", "Tyr"]], "trnascan": [[16768, 16835, 38.8]]}
+{"panel_id": "ZHAO_ERR15194044_Pseudotanais_sp_a", "aragorn": [[9137, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "LIN_Heteranomia_squamula_S_Russia", "aragorn": [[17184, "+", "Tyr"]], "trnascan": [[17152, 17219, 20.7]]}
+{"panel_id": "LIN_Heteranomia_squamula_S_USA", "aragorn": [[5052, "+", "Tyr"]], "trnascan": [[5020, 5087, 20.7]]}
+{"panel_id": "FN313571.1", "aragorn": [], "trnascan": []}
+{"panel_id": "ZHAO_SRR35647597__Anomia_chinensis", "aragorn": [[12670, "+", "Tyr"]], "trnascan": [[12639, 12704, 33.1]]}
+{"panel_id": "ZHAO_SRR35651820_Placuna_placenta", "aragorn": [[12225, "+", "Tyr"]], "trnascan": [[12194, 12259, 21.3]]}
+{"panel_id": "MF374802.1", "aragorn": [[4537, "-", "Tyr"]], "trnascan": [[4571, 4498, 28.1]]}
+{"panel_id": "LIN_Heteranomia_squamula_UK", "aragorn": [[23763, "+", "Tyr"]], "trnascan": [[23731, 23798, 20.7]]}
+{"panel_id": "OZ281197.1", "aragorn": [], "trnascan": []}
+{"panel_id": "OZ281198.1", "aragorn": [], "trnascan": []}
+{"panel_id": "OZ281200.1", "aragorn": [], "trnascan": []}
+{"panel_id": "OZ281199.1", "aragorn": [[9137, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "ON600796.1", "aragorn": [[1212, "-", "Tyr"]], "trnascan": [[1242, 1176, 31.0]]}
+{"panel_id": "FN908482.1", "aragorn": [[7370, "-", "Tyr"]], "trnascan": [[7399, 7335, 37.7]]}
+{"panel_id": "LC597489.1", "aragorn": [[9278, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "ON600795.1", "aragorn": [[7911, "-", "Tyr"]], "trnascan": [[7940, 7874, 37.0]]}
+{"panel_id": "LC923626.1", "aragorn": [[10045, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "LC923627.1", "aragorn": [[2648, "-", "Tyr"]], "trnascan": [[2676, 2617, 21.9]]}
+{"panel_id": "LC923628.1", "aragorn": [], "trnascan": []}
+{"panel_id": "LC923625.1", "aragorn": [[8513, "-", "Tyr"]], "trnascan": [[8543, 8483, 20.1]]}
+{"panel_id": "NC_023208.1", "aragorn": [[7144, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_021120.1", "aragorn": [[7142, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_056772.1", "aragorn": [[2209, "+", "Tyr"], [6851, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "LC923624.1", "aragorn": [[8507, "-", "Tyr"]], "trnascan": [[8537, 8477, 24.5]]}
+{"panel_id": "NC_024097.1", "aragorn": [[2287, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_026556.1", "aragorn": [[2287, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_025291.1", "aragorn": [[7094, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_061210.1", "aragorn": [[168, "+", "Tyr"], [271, "+", "Tyr"], [374, "+", "Tyr"], [477, "+", "Tyr"], [580, "+", "Tyr"], [683, "+", "Tyr"], [786, "+", "Tyr"], [8051, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_001328.1", "aragorn": [[1738, "+", "Tyr"]], "trnascan": [[1707, 1772, 18.8]]}
+{"panel_id": "NC_039446.1", "aragorn": [[11264, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_049868.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_071830.1", "aragorn": [[10786, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_042169.1", "aragorn": [[7104, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_069984.1", "aragorn": [[12137, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_052802.1", "aragorn": [[5411, "-", "Tyr"]], "trnascan": [[5445, 5373, 48.5]]}
+{"panel_id": "NC_058588.1", "aragorn": [[11677, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_026666.1", "aragorn": [[1769, "-", "Tyr"]], "trnascan": [[1798, 1737, 26.3]]}
+{"panel_id": "NC_039399.1", "aragorn": [[2613, "-", "Tyr"]], "trnascan": [[2642, 2582, 25.9]]}
+{"panel_id": "NC_042792.1", "aragorn": [[1046, "-", "Tyr"]], "trnascan": [[1077, 1014, 25.3]]}
+{"panel_id": "NC_033868.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_021406.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_036666.1", "aragorn": [[8183, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_053946.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_030337.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_068221.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_033867.1", "aragorn": [[1513, "-", "Tyr"], [12647, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_072213.1", "aragorn": [[15196, "-", "Tyr"]], "trnascan": [[15225, 15165, 19.2]]}
+{"panel_id": "NC_033869.1", "aragorn": [[290, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_034800.1", "aragorn": [[11690, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_068205.1", "aragorn": [[1418, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_048529.1", "aragorn": [[4551, "+", "Tyr"]], "trnascan": [[4519, 4586, 31.4]]}
+{"panel_id": "NC_025752.1", "aragorn": [[12496, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_036679.1", "aragorn": [[17359, "+", "Tyr"]], "trnascan": [[17331, 17397, 44.1]]}
+{"panel_id": "NC_025755.1", "aragorn": [[12659, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_025753.1", "aragorn": [[13696, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_025749.1", "aragorn": [[16079, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_031872.1", "aragorn": [[13051, "+", "Tyr"]], "trnascan": [[13023, 13082, 18.5]]}
+{"panel_id": "NC_022921.1", "aragorn": [[1646, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_046386.1", "aragorn": [[4611, "+", "Tyr"]], "trnascan": [[4579, 4644, 15.3]]}
+{"panel_id": "NC_057634.1", "aragorn": [[16873, "+", "Tyr"]], "trnascan": [[16843, 16909, 48.3]]}
+{"panel_id": "NC_057980.1", "aragorn": [[10318, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_044092.1", "aragorn": [[2616, "+", "Tyr"]], "trnascan": [[2587, 2651, 34.9]]}
+{"panel_id": "NC_018761.1", "aragorn": [[14812, "-", "Tyr"]], "trnascan": [[14842, 14779, 17.9]]}
+{"panel_id": "NC_070077.1", "aragorn": [[2550, "+", "Tyr"]], "trnascan": [[2519, 2582, 33.1]]}
+{"panel_id": "NC_045069.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_038192.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_072278.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_018545.1", "aragorn": [[1434, "-", "Tyr"]], "trnascan": [[1463, 1400, 28.0]]}
+{"panel_id": "NC_025751.1", "aragorn": [[14933, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_025754.1", "aragorn": [[15740, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_040987.1", "aragorn": [[1110, "-", "Tyr"], [6507, "-", "Tyr"], [15647, "-", "Tyr"]], "trnascan": [[1142, 1076, 35.2]]}
+{"panel_id": "NC_036763.1", "aragorn": [[15219, "-", "Tyr"]], "trnascan": [[15247, 15184, 29.2]]}
+{"panel_id": "NC_026918.1", "aragorn": [[5437, "-", "Tyr"]], "trnascan": [[5468, 5399, 50.0]]}
+{"panel_id": "NC_026859.1", "aragorn": [[11413, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_052824.1", "aragorn": [[5355, "-", "Tyr"]], "trnascan": [[5387, 5317, 53.2]]}
+{"panel_id": "NC_071371.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_035635.1", "aragorn": [[1110, "-", "Tyr"], [12139, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_070164.1", "aragorn": [[9158, "-", "Tyr"]], "trnascan": [[9187, 9127, 18.1]]}
+{"panel_id": "NC_026724.1", "aragorn": [[10432, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_047423.1", "aragorn": [[12325, "-", "Tyr"]], "trnascan": [[12355, 12291, 22.0]]}
+{"panel_id": "NC_029870.1", "aragorn": [[2551, "+", "Tyr"]], "trnascan": [[2521, 2583, 18.4]]}
+{"panel_id": "NC_024640.1", "aragorn": [[6450, "-", "Tyr"]], "trnascan": [[6482, 6412, 55.1]]}
+{"panel_id": "NC_029869.1", "aragorn": [[2564, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_067925.1", "aragorn": [[1176, "-", "Tyr"]], "trnascan": [[1206, 1142, 21.2]]}
+{"panel_id": "NC_028201.1", "aragorn": [[10019, "+", "Tyr"]], "trnascan": [[9989, 10052, 16.8]]}
+{"panel_id": "NC_026077.1", "aragorn": [[1292, "-", "Tyr"]], "trnascan": [[1322, 1260, 17.9]]}
+{"panel_id": "NC_027419.1", "aragorn": [[13747, "+", "Tyr"]], "trnascan": [[13716, 13782, 20.0]]}
+{"panel_id": "NC_071821.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_030530.1", "aragorn": [[11417, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_058285.1", "aragorn": [[2551, "+", "Tyr"]], "trnascan": [[2520, 2585, 23.3]]}
+{"panel_id": "NC_029219.1", "aragorn": [[15247, "-", "Tyr"]], "trnascan": [[15276, 15213, 25.2]]}
+{"panel_id": "NC_068520.1", "aragorn": [[6273, "-", "Tyr"]], "trnascan": [[6301, 6240, 23.0]]}
+{"panel_id": "NC_030537.1", "aragorn": [[5980, "+", "Tyr"]], "trnascan": [[5949, 6012, 15.3]]}
+{"panel_id": "NC_067498.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_039780.1", "aragorn": [[11404, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_024638.1", "aragorn": [[1627, "+", "Tyr"], [7664, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_060553.1", "aragorn": [[386, "-", "Tyr"], [671, "-", "Tyr"], [14609, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_024636.1", "aragorn": [[10468, "+", "Tyr"]], "trnascan": [[10438, 10501, 34.7]]}
+{"panel_id": "NC_035256.1", "aragorn": [[7893, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_056769.1", "aragorn": [[12975, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_044766.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_029766.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_038182.1", "aragorn": [[3434, "-", "Tyr"]], "trnascan": [[3466, 3399, 31.6]]}
+{"panel_id": "NC_018537.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_022734.1", "aragorn": [[5434, "-", "Tyr"]], "trnascan": [[5465, 5396, 41.8]]}
+{"panel_id": "NC_019656.1", "aragorn": [[1900, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_027488.1", "aragorn": [[13630, "-", "Tyr"]], "trnascan": [[13660, 13596, 20.5]]}
+{"panel_id": "NC_044095.1", "aragorn": [[9704, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_037876.1", "aragorn": [[10244, "-", "Tyr"]], "trnascan": [[10273, 10215, 18.5]]}
+{"panel_id": "NC_027493.1", "aragorn": [[14080, "+", "Tyr"]], "trnascan": [[14049, 14110, 16.8]]}
+{"panel_id": "NC_044749.1", "aragorn": [[1430, "-", "Tyr"]], "trnascan": [[1461, 1396, 30.5]]}
+{"panel_id": "NC_060708.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_022674.1", "aragorn": [[1363, "-", "Tyr"]], "trnascan": [[1393, 1332, 18.4]]}
+{"panel_id": "NC_056899.1", "aragorn": [[6745, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_044703.1", "aragorn": [[11484, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_062681.1", "aragorn": [[8270, "-", "Tyr"]], "trnascan": [[8301, 8236, 20.3]]}
+{"panel_id": "NC_056908.1", "aragorn": [[1361, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_031648.1", "aragorn": [[13988, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_027727.1", "aragorn": [[16880, "+", "Tyr"]], "trnascan": [[1, 66, 25.2]]}
+{"panel_id": "NC_035252.1", "aragorn": [[1746, "+", "Tyr"]], "trnascan": [[1713, 1770, 17.4]]}
+{"panel_id": "NC_023834.1", "aragorn": [[2980, "+", "Tyr"], [6047, "-", "Tyr"]], "trnascan": [[2948, 3018, 57.3]]}
+{"panel_id": "NC_035255.1", "aragorn": [[13849, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_035251.1", "aragorn": [[1746, "+", "Tyr"]], "trnascan": [[1714, 1770, 15.0]]}
+{"panel_id": "NC_022675.1", "aragorn": [[1153, "-", "Tyr"]], "trnascan": [[1185, 1123, 27.8]]}
+{"panel_id": "NC_034304.1", "aragorn": [[5498, "+", "Tyr"]], "trnascan": [[5465, 5532, 23.3]]}
+{"panel_id": "NC_034344.1", "aragorn": [[5465, "-", "Tyr"]], "trnascan": [[5493, 5427, 44.6]]}
+{"panel_id": "NC_026516.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_044101.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_062613.1", "aragorn": [[14720, "-", "Tyr"]], "trnascan": [[14751, 14684, 22.0]]}
+{"panel_id": "NC_018597.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_034715.1", "aragorn": [[11555, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_026983.1", "aragorn": [[9028, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_022448.1", "aragorn": [[22451, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_042147.1", "aragorn": [[1329, "-", "Tyr"]], "trnascan": [[1359, 1298, 18.2]]}
+{"panel_id": "NC_024110.1", "aragorn": [[5433, "-", "Tyr"]], "trnascan": [[5464, 5395, 45.4]]}
+{"panel_id": "NC_026985.1", "aragorn": [[126, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_054289.1", "aragorn": [[5401, "-", "Tyr"]], "trnascan": [[5432, 5363, 54.9]]}
+{"panel_id": "NC_031358.1", "aragorn": [[5343, "-", "Tyr"]], "trnascan": [[5375, 5305, 49.0]]}
+{"panel_id": "NC_031516.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_056333.1", "aragorn": [[5323, "-", "Tyr"]], "trnascan": [[5354, 5286, 52.7]]}
+{"panel_id": "NC_026557.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_025317.1", "aragorn": [[1583, "-", "Tyr"], [5443, "-", "Tyr"]], "trnascan": [[5474, 5405, 50.1]]}
+{"panel_id": "NC_035983.1", "aragorn": [[3755, "+", "Tyr"]], "trnascan": [[3722, 3804, 69.6]]}
+{"panel_id": "NC_044134.1", "aragorn": [[1374, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_060816.1", "aragorn": [[3488, "+", "Tyr"]], "trnascan": [[3457, 3522, 28.4]]}
+{"panel_id": "NC_031412.1", "aragorn": [[2493, "+", "Tyr"]], "trnascan": [[2459, 2526, 31.8]]}
+{"panel_id": "NC_026987.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_035715.1", "aragorn": [[5118, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_034656.1", "aragorn": [[7675, "-", "Tyr"]], "trnascan": [[7704, 7643, 23.3]]}
+{"panel_id": "NC_028407.1", "aragorn": [[14632, "+", "Tyr"], [-30, "-", "Tyr"]], "trnascan": [[16783, 16720, 24.3]]}
+{"panel_id": "NC_034682.1", "aragorn": [[14733, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_028174.1", "aragorn": [[5384, "-", "Tyr"]], "trnascan": [[5416, 5346, 53.1]]}
+{"panel_id": "NC_069646.1", "aragorn": [[62, "+", "Tyr"]], "trnascan": [[30, 101, 63.1]]}
+{"panel_id": "NC_049136.1", "aragorn": [[2649, "+", "Tyr"]], "trnascan": [[2618, 2681, 20.7]]}
+{"panel_id": "NC_034906.1", "aragorn": [[12232, "-", "Tyr"]], "trnascan": [[12264, 12197, 44.3]]}
+{"panel_id": "NC_034946.1", "aragorn": [[9557, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_027653.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_023452.1", "aragorn": [[-24, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_034947.1", "aragorn": [[6922, "-", "Tyr"]], "trnascan": [[6953, 6888, 20.6]]}
+{"panel_id": "NC_049873.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_034843.1", "aragorn": [[6487, "+", "Tyr"]], "trnascan": [[6454, 6519, 18.6]]}
+{"panel_id": "NC_034846.1", "aragorn": [[5899, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_046843.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_067944.1", "aragorn": [[6004, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_046775.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_028199.1", "aragorn": [[11143, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_042504.1", "aragorn": [[5426, "-", "Tyr"]], "trnascan": [[5455, 5387, 47.4]]}
+{"panel_id": "NC_071191.1", "aragorn": [[1457, "-", "Tyr"]], "trnascan": [[1487, 1422, 27.2]]}
+{"panel_id": "NC_025335.1", "aragorn": [[13441, "+", "Tyr"]], "trnascan": [[13409, 13481, 56.2]]}
+{"panel_id": "NC_033379.1", "aragorn": [[8458, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_040168.1", "aragorn": [[14335, "+", "Tyr"]], "trnascan": [[14303, 14374, 54.5]]}
+{"panel_id": "NC_035578.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_071184.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_027101.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_060483.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_050683.1", "aragorn": [[3254, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_035587.1", "aragorn": [[3732, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_021933.1", "aragorn": [[6684, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_038065.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_044654.1", "aragorn": [[1363, "-", "Tyr"]], "trnascan": [[1392, 1327, 43.1]]}
+{"panel_id": "NC_030269.1", "aragorn": [[11826, "+", "Tyr"]], "trnascan": [[11795, 11859, 19.9]]}
+{"panel_id": "NC_038081.1", "aragorn": [[10549, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_039929.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_024932.1", "aragorn": [[3318, "-", "Tyr"]], "trnascan": [[3350, 3283, 30.2]]}
+{"panel_id": "NC_031192.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_032075.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_024939.1", "aragorn": [[5438, "-", "Tyr"]], "trnascan": [[5470, 5400, 59.1]]}
+{"panel_id": "NC_045864.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_028050.1", "aragorn": [[2553, "+", "Tyr"]], "trnascan": [[2522, 2587, 29.3]]}
+{"panel_id": "NC_024927.1", "aragorn": [[36061, "+", "Tyr"]], "trnascan": [[25445, 25508, 15.6]]}
+{"panel_id": "NC_067751.1", "aragorn": [[11506, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_057068.1", "aragorn": [[6856, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_041307.1", "aragorn": [[15548, "-", "Tyr"]], "trnascan": [[15578, 15512, 32.9]]}
+{"panel_id": "NC_008192.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_057120.1", "aragorn": [[5449, "-", "Tyr"]], "trnascan": [[5478, 5411, 41.7]]}
+{"panel_id": "NC_039685.1", "aragorn": [[12718, "+", "Tyr"]], "trnascan": [[12687, 12745, 19.7]]}
+{"panel_id": "NC_025923.1", "aragorn": [[5377, "-", "Tyr"]], "trnascan": [[5410, 5339, 47.3]]}
+{"panel_id": "NC_070262.1", "aragorn": [[1392, "-", "Tyr"]], "trnascan": [[1422, 1358, 26.7]]}
+{"panel_id": "NC_013568.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_016129.1", "aragorn": [[4081, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_006991.1", "aragorn": [[3310, "+", "Tyr"]], "trnascan": [[3278, 3349, 55.6]]}
+{"panel_id": "NC_007007.1", "aragorn": [[5379, "-", "Tyr"]], "trnascan": [[5411, 5341, 49.5]]}
+{"panel_id": "NC_011197.1", "aragorn": [[1410, "-", "Tyr"]], "trnascan": [[1439, 1377, 15.1]]}
+{"panel_id": "NC_015091.1", "aragorn": [[6969, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_016722.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_011293.1", "aragorn": [[-23, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_010769.1", "aragorn": [[8273, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_015646.1", "aragorn": [[1913, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_010095.1", "aragorn": [[5353, "-", "Tyr"]], "trnascan": [[5385, 5315, 49.6]]}
+{"panel_id": "NC_007006.1", "aragorn": [[5341, "-", "Tyr"]], "trnascan": [[5373, 5303, 54.0]]}
+{"panel_id": "NC_012768.1", "aragorn": [[5467, "+", "Tyr"]], "trnascan": [[5436, 5499, 21.3]]}
+{"panel_id": "NC_007934.1", "aragorn": [[13891, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_007701.1", "aragorn": [[1409, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_010171.1", "aragorn": [[2723, "+", "Tyr"]], "trnascan": [[2692, 2762, 40.6]]}
+{"panel_id": "NC_007933.1", "aragorn": [[2592, "+", "Tyr"]], "trnascan": [[2561, 2626, 36.8]]}
+{"panel_id": "NC_014181.1", "aragorn": [[1771, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_012574.1", "aragorn": [[1385, "-", "Tyr"]], "trnascan": [[1415, 1352, 23.9]]}
+{"panel_id": "NC_006379.1", "aragorn": [[5466, "+", "Tyr"]], "trnascan": [[5435, 5498, 22.9]]}
+{"panel_id": "NC_004826.2", "aragorn": [[11515, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_017874.1", "aragorn": [[15396, "+", "Tyr"]], "trnascan": [[1, 62, 15.3]]}
+{"panel_id": "NC_006354.1", "aragorn": [[19447, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_016431.1", "aragorn": [[18622, "+", "Tyr"]], "trnascan": [[18590, 18673, 59.4]]}
+{"panel_id": "NC_017902.2", "aragorn": [[5441, "-", "Tyr"]], "trnascan": [[5469, 5403, 47.8]]}
+{"panel_id": "NC_017877.1", "aragorn": [[15545, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_012383.1", "aragorn": [[7887, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_009689.1", "aragorn": [[14557, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_010431.1", "aragorn": [[10581, "-", "Tyr"]], "trnascan": [[10612, 10547, 17.9]]}
+{"panel_id": "NC_002544.1", "aragorn": [[13705, "+", "Tyr"]], "trnascan": [[13671, 13737, 15.1]]}
+{"panel_id": "NC_016754.1", "aragorn": [[1687, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_005826.1", "aragorn": [[5311, "-", "Tyr"], [8078, "-", "Tyr"]], "trnascan": [[5340, 5273, 46.5]]}
+{"panel_id": "NC_012434.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_008640.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_008693.1", "aragorn": [[18060, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_015118.1", "aragorn": [[1386, "-", "Tyr"]], "trnascan": [[1417, 1351, 39.0]]}
+{"panel_id": "NC_005928.1", "aragorn": [[4329, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_012821.1", "aragorn": [[32, "+", "Tyr"]], "trnascan": [[1, 67, 17.2]]}
+{"panel_id": "NC_008828.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_000844.1", "aragorn": [[1360, "-", "Tyr"]], "trnascan": [[1391, 1328, 29.5]]}
+{"panel_id": "NC_003165.1", "aragorn": [[5465, "-", "Tyr"]], "trnascan": [[5494, 5427, 38.0]]}
+{"panel_id": "NC_001276.1", "aragorn": [[7056, "+", "Tyr"]], "trnascan": [[7025, 7089, 17.7]]}
+{"panel_id": "NC_008944.1", "aragorn": [[6325, "+", "Tyr"]], "trnascan": [[6292, 6373, 55.8]]}
+{"panel_id": "NC_013724.1", "aragorn": [[5488, "-", "Tyr"]], "trnascan": [[5516, 5450, 44.2]]}
+{"panel_id": "NC_014700.1", "aragorn": [[-22, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_007234.1", "aragorn": [[12469, "+", "Tyr"]], "trnascan": [[12438, 12503, 22.5]]}
+{"panel_id": "NC_008046.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_016952.1", "aragorn": [[7608, "+", "Tyr"]], "trnascan": [[7577, 7639, 25.9]]}
+{"panel_id": "NC_008047.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_016949.1", "aragorn": [[7815, "-", "Tyr"]], "trnascan": [[7848, 7768, 72.6]]}
+{"panel_id": "NC_014046.1", "aragorn": [[6614, "-", "Tyr"]], "trnascan": [[6646, 6576, 50.4]]}
+{"panel_id": "NC_002333.2", "aragorn": [[6391, "-", "Tyr"]], "trnascan": [[6423, 6353, 54.0]]}
+{"panel_id": "NC_003086.1", "aragorn": [[10242, "+", "Tyr"]], "trnascan": [[10207, 10269, 15.3]]}
+{"panel_id": "NC_016181.1", "aragorn": [[8075, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_008692.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_028621.1", "aragorn": [[14069, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_014273.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_014282.1", "aragorn": [[8239, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_014865.1", "aragorn": [[31, "+", "Tyr"]], "trnascan": [[1, 62, 15.9]]}
+{"panel_id": "NC_017750.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_014869.1", "aragorn": [[15473, "+", "Tyr"]], "trnascan": [[15442, 15508, 20.0]]}
+{"panel_id": "NC_017748.1", "aragorn": [[1378, "-", "Tyr"]], "trnascan": [[1411, 1344, 20.0]]}
+{"panel_id": "NC_006321.1", "aragorn": [[2545, "+", "Tyr"]], "trnascan": [[2514, 2575, 23.3]]}
+{"panel_id": "NC_011572.1", "aragorn": [[8767, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_010091.1", "aragorn": [[5328, "-", "Tyr"]], "trnascan": [[5361, 5290, 50.6]]}
+{"panel_id": "NC_016870.1", "aragorn": [[5470, "-", "Tyr"]], "trnascan": [[5501, 5432, 50.2]]}
+{"panel_id": "NC_010213.1", "aragorn": [[15121, "+", "Tyr"]], "trnascan": [[15089, 15160, 44.2]]}
+{"panel_id": "NC_003178.1", "aragorn": [[2755, "-", "Tyr"], [5451, "-", "Tyr"]], "trnascan": [[5483, 5413, 60.0]]}
+{"panel_id": "NC_009082.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_004031.1", "aragorn": [[5310, "-", "Tyr"]], "trnascan": [[5338, 5274, 42.3]]}
+{"panel_id": "NC_003188.1", "aragorn": [[5447, "-", "Tyr"]], "trnascan": [[5476, 5409, 48.4]]}
+{"panel_id": "NC_003193.1", "aragorn": [[5420, "-", "Tyr"], [9337, "-", "Tyr"]], "trnascan": [[5448, 5382, 50.1]]}
+{"panel_id": "NC_006539.1", "aragorn": [[5470, "-", "Tyr"]], "trnascan": [[5502, 5432, 58.4]]}
+{"panel_id": "NC_006364.1", "aragorn": [[5358, "-", "Tyr"]], "trnascan": [[5386, 5323, 42.3]]}
+{"panel_id": "NC_010302.1", "aragorn": [[5305, "-", "Tyr"]], "trnascan": [[5334, 5268, 53.2]]}
+{"panel_id": "NC_015309.1", "aragorn": [[1251, "-", "Tyr"], [18533, "+", "Tyr"], [30493, "+", "Tyr"], [34783, "-", "Tyr"]], "trnascan": [[1284, 1205, 56.9]]}
+{"panel_id": "NC_009626.1", "aragorn": [[1430, "-", "Tyr"]], "trnascan": [[1461, 1396, 37.6]]}
+{"panel_id": "NC_069202.1", "aragorn": [[11682, "+", "Tyr"]], "trnascan": [[11650, 11714, 26.1]]}
+{"panel_id": "NC_024511.2", "aragorn": [[1437, "-", "Tyr"]], "trnascan": [[1468, 1403, 36.9]]}
+{"panel_id": "NC_069204.1", "aragorn": [[2225, "+", "Tyr"], [2889, "+", "Tyr"]], "trnascan": [[2195, 2258, 20.8], [2858, 2927, 18.8]]}
+{"panel_id": "NC_031407.1", "aragorn": [[14396, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_069205.1", "aragorn": [[11944, "+", "Tyr"]], "trnascan": [[11913, 11977, 18.6]]}
+{"panel_id": "NC_066051.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_061275.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_064503.1", "aragorn": [[6969, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_065643.1", "aragorn": [[14129, "-", "Tyr"]], "trnascan": [[14159, 14095, 17.8]]}
+{"panel_id": "NC_063475.1", "aragorn": [[11288, "+", "Tyr"]], "trnascan": [[11257, 11321, 20.0]]}
+{"panel_id": "NC_066682.1", "aragorn": [[1753, "-", "Tyr"]], "trnascan": [[1784, 1719, 32.6]]}
+{"panel_id": "NC_073001.1", "aragorn": [[4515, "+", "Tyr"]], "trnascan": [[4483, 4549, 24.9]]}
+{"panel_id": "NC_061193.1", "aragorn": [[495, "+", "Tyr"]], "trnascan": [[464, 526, 16.5]]}
+{"panel_id": "NC_065836.1", "aragorn": [[13534, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_066810.1", "aragorn": [[4577, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_063544.1", "aragorn": [[15410, "-", "Tyr"]], "trnascan": [[15444, 15376, 26.0]]}
+{"panel_id": "NC_062035.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_060873.1", "aragorn": [[17373, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_066677.1", "aragorn": [[3122, "-", "Tyr"], [3237, "-", "Tyr"]], "trnascan": [[3154, 3088, 30.4]]}
+{"panel_id": "NC_063666.1", "aragorn": [[13831, "+", "Tyr"], [17846, "-", "Tyr"], [21883, "+", "Tyr"]], "trnascan": [[21854, 21914, 23.1]]}
+{"panel_id": "NC_061659.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_061998.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_065161.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_063762.1", "aragorn": [[16094, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_063582.1", "aragorn": [[10137, "-", "Tyr"]], "trnascan": [[10167, 10102, 37.2]]}
+{"panel_id": "NC_062024.1", "aragorn": [[7285, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_061377.1", "aragorn": [[1371, "+", "Tyr"]], "trnascan": [[1341, 1404, 26.9]]}
+{"panel_id": "NC_064606.1", "aragorn": [[1404, "-", "Tyr"]], "trnascan": [[1435, 1370, 31.2]]}
+{"panel_id": "NC_063768.1", "aragorn": [[5891, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_065765.1", "aragorn": [[4011, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_066806.1", "aragorn": [[270, "+", "Tyr"]], "trnascan": [[238, 305, 43.7]]}
+{"panel_id": "NC_065392.1", "aragorn": [[11106, "+", "Tyr"]], "trnascan": [[11074, 11139, 25.2]]}
+{"panel_id": "NC_065837.1", "aragorn": [[9792, "-", "Tyr"]], "trnascan": [[9823, 9763, 15.7]]}
+{"panel_id": "NC_065799.1", "aragorn": [[1433, "-", "Tyr"]], "trnascan": [[1463, 1398, 31.9]]}
+{"panel_id": "NC_066676.1", "aragorn": [[1733, "-", "Tyr"]], "trnascan": [[1766, 1702, 19.5]]}
+{"panel_id": "NC_079698.1", "aragorn": [[11652, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_079938.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_066681.1", "aragorn": [[1927, "-", "Tyr"]], "trnascan": [[1959, 1895, 29.3]]}
+{"panel_id": "NC_072692.1", "aragorn": [[1948, "-", "Tyr"]], "trnascan": [[1980, 1916, 36.6]]}
+{"panel_id": "NC_082308.1", "aragorn": [[12324, "+", "Tyr"]], "trnascan": [[12290, 12357, 18.0]]}
+{"panel_id": "NC_082193.1", "aragorn": [[11562, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_081048.1", "aragorn": [[7759, "-", "Tyr"]], "trnascan": [[7791, 7721, 47.3]]}
+{"panel_id": "NC_082525.1", "aragorn": [[1459, "-", "Tyr"]], "trnascan": [[1491, 1424, 31.4]]}
+{"panel_id": "NC_030327.1", "aragorn": [[5471, "-", "Tyr"]], "trnascan": [[5503, 5433, 52.3]]}
+{"panel_id": "NC_081991.1", "aragorn": [[1546, "-", "Tyr"]], "trnascan": [[1578, 1512, 37.6]]}
+{"panel_id": "NC_082142.1", "aragorn": [[1381, "-", "Tyr"]], "trnascan": [[1410, 1348, 29.5]]}
+{"panel_id": "NC_082282.1", "aragorn": [[4231, "-", "Tyr"]], "trnascan": [[4262, 4196, 15.7]]}
+{"panel_id": "NC_082493.1", "aragorn": [[1397, "-", "Tyr"]], "trnascan": [[1429, 1365, 30.5]]}
+{"panel_id": "NC_081951.1", "aragorn": [[3522, "+", "Tyr"], [17753, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_082850.1", "aragorn": [[5462, "-", "Tyr"]], "trnascan": [[5493, 5424, 49.1]]}
+{"panel_id": "NC_082931.1", "aragorn": [[11820, "-", "Tyr"]], "trnascan": [[11849, 11783, 22.0]]}
+{"panel_id": "NC_082909.1", "aragorn": [[1841, "-", "Tyr"]], "trnascan": [[1872, 1807, 34.4]]}
+{"panel_id": "NC_083976.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_084193.1", "aragorn": [], "trnascan": []}
+{"panel_id": "NC_082992.1", "aragorn": [[5456, "-", "Tyr"]], "trnascan": [[5488, 5418, 51.8]]}
+{"panel_id": "NC_083122.1", "aragorn": [[7580, "+", "Tyr"]], "trnascan": [[7550, 7615, 19.7]]}
+{"panel_id": "NC_085486.1", "aragorn": [[14635, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_085569.1", "aragorn": [[8906, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_085232.1", "aragorn": [[10038, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_084310.1", "aragorn": [[3345, "-", "Tyr"]], "trnascan": [[3375, 3312, 35.3]]}
+{"panel_id": "NC_085812.1", "aragorn": [[654, "+", "Tyr"]], "trnascan": [[624, 691, 22.7]]}
+{"panel_id": "NC_085563.1", "aragorn": [[7480, "+", "Tyr"]], "trnascan": [[7452, 7519, 34.6]]}
+{"panel_id": "NC_038214.1", "aragorn": [[12901, "+", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_086537.1", "aragorn": [[1348, "-", "Tyr"], [13361, "-", "Tyr"]], "trnascan": []}
+{"panel_id": "NC_086821.1", "aragorn": [[1392, "-", "Tyr"]], "trnascan": [[1420, 1355, 34.8]]}
+{"panel_id": "NC_088557.1", "aragorn": [[14887, "-", "Tyr"]], "trnascan": [[14916, 14856, 27.7]]}
+{"panel_id": "NC_060781.1", "aragorn": [[13481, "+", "Tyr"]], "trnascan": [[13450, 13518, 20.1]]}
+{"panel_id": "NC_006522.1", "aragorn": [[5246, "-", "Tyr"]], "trnascan": [[5276, 5210, 48.3]]}
+{"panel_id": "NC_010197.1", "aragorn": [[6966, "+", "Tyr"]], "trnascan": []}

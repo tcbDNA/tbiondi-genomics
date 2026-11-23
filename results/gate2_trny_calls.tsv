@@ -1,0 +1,361 @@
+panel_id	species	lineage	role	final	reason	n_agree	N33	score
+LIN_Anomia_ephippium_S_France	Anomia ephippium S-France	Anomia	pos	called	std	2	C	45.9
+LIN_Anomia_trigonopsis_NZ	Anomia trigonopsis NZ	Anomia	pos	called	std	2	C	57.4
+LIN_Anomia_trigonopsis_Mauritania	Anomia trigonopsis Mauritania	Anomia	pos	called	std	2	C	57.4
+LIN_Anomia_chinensis	Anomia chinensis	Anomia	pos	called	std	2	C	61.3
+LIN_Placuna_ephippium	Placuna ephippium	Placunidae	pos	called	std	2	C	61.6
+LIN_Placuna_quadrangula	Placuna quadrangula	Placunidae	pos	called	std	2	C	59.2
+LIN_Enigmonia_aenigmatica_S_yellow	Enigmonia aenigmatica S-yellow	Enigmonia	pos	called	std	2	C	51.7
+LIN_Enigmonia_aenigmatica_S_purple	Enigmonia aenigmatica S-purple	Enigmonia	pos	called	std	2	C	54.2
+LIN_Placuna_vitream	Placuna vitream	Placunidae	pos	called	std	2	C	54.6
+LIN_Plicatuala_australis	Plicatuala australis	Plicatulidae	pos	called	std	2	C	40.5
+LIN_Pododesmus_glaucus	Pododesmus glaucus	Pododesmus	neg_matched	called	std	2	U	62.2
+LIN_Plicatula_muricata	Plicatula muricata	Plicatulidae	pos	no_confident_call	nonU33_uncorroborated	1	C	30.9
+LIN_Pododesmus_patelliformis	Pododesmus patelliformis	Pododesmus	neg_matched	called	std	2	U	60.2
+LIN_Pododesmus_macrochisma	Pododesmus macrochisma	Pododesmus	neg_matched	called	std	2	U	52.2
+LIN_Heteranomia_aculeata_M_type	Heteranomia aculeata M-type	Heteranomia	neg_matched	called	std	2	U	54.2
+LIN_Heteranomia_squamula_S_USA	Heteranomia squamula	Heteranomia	neg_matched	called	std	2	U	50.6
+LIN_Heteranomia_aculeata_F_type	Heteranomia aculeata F-type	Heteranomia	neg_matched	called	std	2	U	53.3
+LIN_Heteranomia_squamula_S_Russia	Heteranomia squamula	Heteranomia	neg_matched	called	std	2	U	50.6
+LIN_Heteranomia_squamula_UK	Heteranomia squamula	Heteranomia	neg_matched	called	std	2	U	50.6
+ZHAO_SRR35651820_Placuna_placenta	SRR35651820_Placuna_placenta_complete_mitochondrial_genome	Placunidae	pos	called	std	2	C	54.6
+ZHAO_SRR35647597__Anomia_chinensis	SRR35647597__Anomia_chinensis_complete_mitochondrial_genome	Anomia	pos	called	std	2	C	61.3
+FN313571.1	Radopholus similis	Radopholus	pos	no_confident_call	score_below_gate_no_corroboration	0	U	16.5
+MF374802.1	Cephalodiscus hodgsoni	Cephalodiscidae	pos	called	std	2	C	30.0
+OZ281197.1	Pseudotanais sp.	Pseudotanais	pos	called	std	0	U	21.4
+OZ281200.1	Pseudotanais sp.	Pseudotanais	pos	no_confident_call	score_below_gate_no_corroboration	0	U	16.1
+FN908482.1	Rhabdopleura compacta	Rhabdopleura	neg_matched	called	std	2	U	57.8
+ZHAO_ERR15194044_Pseudotanais_sp_a	ERR15194044_Pseudotanais_sp_a	Pseudotanais	pos	called	std	1	U	20.6
+ON600796.1	Rhabdopleura sp. NHMO H2137	Rhabdopleura	neg_matched	called	std	2	U	55.0
+OZ281198.1	Pseudotanais sp.	Pseudotanais	pos	no_confident_call	score_below_gate_no_corroboration	0	U	14.2
+OZ281199.1	Pseudotanais sp.	Pseudotanais	pos	called	std	1	U	20.6
+ON600795.1	Rhabdopleura sp. NHMO H2136	Rhabdopleura	neg_matched	called	std	2	U	66.1
+LC597489.1	Arctotanais alascensis	Tanaidacea	neg_matched	called	std	1	U	34.8
+LC923627.1	Neotanais sp.	Tanaidacea	neg_matched	called	std	2	U	53.1
+LC923628.1	Sinelobus kisui	Tanaidacea	neg_matched	called	std	0	U	26.9
+LC923625.1	Apseudes ranma	Tanaidacea	neg_matched	called	std	2	U	48.3
+LC923626.1	Carpoapseudes spinigena	Tanaidacea	neg_matched	called	std	1	U	46.3
+LC923624.1	Apseudes nipponicus	Tanaidacea	neg_matched	called	std	2	U	48.3
+NC_023208.1	Bursaphelenchus xylophilus	Nematoda	neg_matched	called	std	1	U	26.6
+NC_021120.1	Bursaphelenchus mucronatus	Nematoda	neg_matched	called	sens	1	U	23.4
+NC_025291.1	Aphelenchoides besseyi	Nematoda	neg_matched	called	std	1	U	16.8
+NC_061210.1	Aphelenchoides medicagus	Nematoda	neg_matched	called	std	1	U	20.5
+NC_001328.1	Caenorhabditis elegans	Nematoda	neg_matched	called	std	2	U	35.7
+NC_039446.1	Digramma interrupta	Platyhelminthes	neg_broad	called	std	1	U	36.9
+NC_052802.1	Trogon melanurus	Chordata	neg_broad	called	std	2	U	66.0
+NC_024097.1	Meloidogyne incognita	Nematoda	neg_matched	called	sens	1	U	13.8
+NC_042169.1	Bullacta caurina	Mollusca	neg_broad	called	std	1	U	47.3
+NC_026556.1	Meloidogyne javanica	Nematoda	neg_matched	called	sens	1	U	13.8
+NC_069984.1	Opisthoteuthis californiana	Mollusca	neg_broad	called	std	1	U	58.5
+NC_058588.1	Diopatra cuprea	Annelida	neg_broad	called	std	1	U	57.2
+NC_042792.1	Cypridina dentata	Arthropoda	neg_broad	called	std	2	U	58.6
+NC_026666.1	Acerentomon microrhinus	Arthropoda	neg_broad	called	std	2	U	60.4
+NC_039399.1	Linguatula serrata	Arthropoda	neg_broad	called	std	2	U	51.4
+NC_056772.1	Meloidogyne graminicola	Nematoda	neg_matched	called	sens	1	U	11.4
+NC_071830.1	Brueelia nebulosa	Arthropoda	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_036666.1	Ascaris ovis	Nematoda	neg_broad	called	std	1	U	29.8
+NC_072213.1	Scorpiops jendeki	Arthropoda	neg_broad	called	std	2	U	50.9
+NC_036679.1	Lingula anatina	Brachiopoda	neg_broad	called	std	2	U	61.8
+NC_033868.1	Paralongidorus litoralis	Nematoda	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_049868.1	Spirocodon saltatrix	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	8.8
+NC_068205.1	Parapsyche elsis	Arthropoda	neg_broad	called	std	1	U	43.4
+NC_021406.1	Hydra sinensis	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	8.4
+NC_053946.1	Blackfordia virginica	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	9.1
+NC_034800.1	Khawia sinensis	Platyhelminthes	neg_broad	called	std	1	U	25.9
+NC_030337.1	Haliclystus antarcticus	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	G	7.9
+NC_048529.1	Enterogyrus malmbergi	Platyhelminthes	neg_broad	called	std	2	U	33.7
+NC_025749.1	Trichinella pseudospiralis	Nematoda	neg_broad	called	std	1	U	12.1
+NC_025752.1	Trichinella nativa	Nematoda	neg_broad	called	std	1	U	12.3
+NC_025753.1	Trichinella nelsoni	Nematoda	neg_broad	called	std	1	U	12.1
+NC_025755.1	Trichinella zimbabwensis	Nematoda	neg_broad	called	std	1	U	14.4
+NC_031872.1	Setaphyes kielensis	Kinorhyncha	neg_broad	called	std	2	U	50.5
+NC_057634.1	Dasycercus cristicauda	Chordata	neg_broad	called	std	2	U	72.7
+NC_046386.1	Gangesia oligonchis	Platyhelminthes	neg_broad	called	std	2	U	40.6
+NC_018761.1	Phoronopsis harmeri	Phoronida	neg_broad	called	std	2	U	51.3
+NC_057980.1	Amaga expatria	Platyhelminthes	neg_broad	called	std	1	U	20.6
+NC_070077.1	Enchytraeus irregularis	Annelida	neg_broad	called	std	2	U	72.8
+NC_033867.1	Longidorus vineacola	Nematoda	neg_broad	called	sens	1	U	22.1
+NC_068221.1	Crispatotrochus rugosus	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	8.1
+NC_044092.1	Timarete posteria	Annelida	neg_broad	called	std	2	U	60.6
+NC_072278.1	Panopea japonica	Mollusca	neg_broad	called	std	0	U	43.9
+NC_045069.1	Semnoderes armiger	Kinorhyncha	neg_broad	called	std	0	U	25.9
+NC_018545.1	Mengenilla moldrzyki	Arthropoda	neg_broad	called	std	2	U	55.8
+NC_040987.1	Euphausia superba	Arthropoda	neg_broad	called	std	2	U	63.6
+NC_025751.1	Trichinella murrelli	Nematoda	neg_broad	called	std	1	U	12.1
+NC_025754.1	Trichinella papuae	Nematoda	neg_broad	called	std	1	U	16.8
+NC_026918.1	Parachromis managuensis	Chordata	neg_broad	called	std	2	U	74.4
+NC_036763.1	Xenoturbella japonica	Xenacoelomorpha	neg_broad	called	std	2	U	54.8
+NC_052824.1	Apteryx rowi	Chordata	neg_broad	called	std	2	U	72.3
+NC_026859.1	Oasisia alvinae	Annelida	neg_broad	called	std	1	U	52.2
+NC_033869.1	Xiphinema rivesi	Nematoda	neg_broad	no_confident_call	loop_not_7nt	0		
+NC_026724.1	Loligo uyii	Mollusca	neg_broad	called	std	1	U	47.9
+NC_070164.1	Thereuonema tuberculata	Arthropoda	neg_broad	called	std	2	U	61.1
+NC_035635.1	Atractolytocestus huronensis	Platyhelminthes	neg_broad	called	std	1	U	16.5
+NC_024640.1	Tadorna ferruginea	Chordata	neg_broad	called	std	2	U	69.6
+NC_047423.1	Hanleyella oldroydi	Mollusca	neg_broad	called	std	2	U	55.6
+NC_029870.1	Amynthas pectiniferus	Annelida	neg_broad	called	std	2	U	55.8
+NC_029869.1	Metaphire guillelmi	Annelida	neg_broad	called	std	1	U	54.1
+NC_067925.1	Ornithodoros asperus	Arthropoda	neg_broad	called	std	2	U	59.3
+NC_028201.1	Prosthiostomum siphunculus	Platyhelminthes	neg_broad	called	std	2	U	45.9
+NC_027419.1	Oopsacas minuta	Porifera	neg_broad	called	std	2	U	39.6
+NC_026077.1	Zorotypus medoensis	Arthropoda	neg_broad	called	std	2	U	58.9
+NC_058285.1	Drawida gisti	Annelida	neg_broad	called	std	2	U	57.4
+NC_029219.1	Xenoturbella monstrosa	Xenacoelomorpha	neg_broad	called	std	2	U	58.2
+NC_030530.1	Homalogaster paloniae	Platyhelminthes	neg_broad	called	std	1	U	23.9
+NC_030537.1	Elysia ornata	Mollusca	neg_broad	called	std	2	U	51.0
+NC_022921.1	Pallisentis celatus	Acanthocephala	neg_broad	called	sens	1	U	14.7
+NC_068520.1	Austropallene cornigera	Arthropoda	neg_broad	called	std	2	U	52.5
+NC_039780.1	Cyathocotyle prussica	Platyhelminthes	neg_broad	called	std	1	U	26.7
+NC_067498.1	Chortoglyphus arcuatus	Arthropoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	17.8
+NC_035256.1	Stenostomum sthenum	Platyhelminthes	neg_broad	called	std	1	U	35.9
+NC_024636.1	Megabalanus ajax	Arthropoda	neg_broad	called	std	2	U	62.7
+NC_024638.1	Nematodirus spathiger	Nematoda	neg_broad	called	std	1	U	15.7
+NC_044766.1	Archivesica marissinica	Mollusca	neg_broad	called	std	0	U	42.7
+NC_071371.1	Aonchotheca putorii	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	14.8
+NC_056769.1	Lepeophtheirus salmonis	Arthropoda	neg_broad	called	std	1	U	36.1
+NC_038182.1	Bathytoma punicea	Mollusca	neg_broad	called	std	2	U	55.4
+NC_022734.1	Somniosus pacificus	Chordata	neg_broad	called	std	2	U	68.6
+NC_038192.1	Pectinatella magnifica	Bryozoa	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_071821.1	Myriopathes ulex	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	15.5
+NC_019656.1	Metacrangonyx ilvanus	Arthropoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	19.2
+NC_027488.1	Haplothrips aculeatus	Arthropoda	neg_broad	called	std	2	U	62.9
+NC_060553.1	Intoshia linei	Orthonectida	neg_broad	called	sens	1	U	20.0
+NC_044749.1	Amphinemura yao	Arthropoda	neg_broad	called	std	2	U	70.9
+NC_037876.1	Falcidens acutargatus	Mollusca	neg_broad	called	std	2	U	48.1
+NC_027493.1	Dolicheulota formosensis	Mollusca	neg_broad	called	std	2	U	40.1
+NC_022674.1	Occasjapyx japonicus	Arthropoda	neg_broad	called	std	2	U	52.4
+NC_056899.1	Spirobolus bungii	Arthropoda	neg_broad	called	std	1	U	52.1
+NC_056908.1	Tullbergia mixta	Arthropoda	neg_broad	called	std	1	U	54.8
+NC_062681.1	Pseudotibiozus cerasopus	Arthropoda	neg_broad	called	std	2	U	60.5
+NC_044703.1	Rhinebothrium reydai	Platyhelminthes	neg_broad	called	std	1	U	39.0
+NC_029766.1	Polyacanthorhynchus caballeroi	Acanthocephala	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	8.2
+NC_027727.1	Micrura bella	Nemertea	neg_broad	called	std	1	U	57.3
+NC_023834.1	Polymastia littoralis	Porifera	neg_broad	called	std	2	U	68.6
+NC_031648.1	Contracaecum ogmorhini sensu lato South Africa	Nematoda	neg_broad	called	std	1	U	25.2
+NC_034344.1	Acanthaphritis unoorum	Chordata	neg_broad	called	std	2	U	67.7
+NC_034304.1	Tropidomya abbreviata	Mollusca	neg_broad	called	std	2	U	52.4
+NC_022675.1	Lepidocampa weberi	Arthropoda	neg_broad	called	std	2	U	62.8
+NC_035251.1	Caenorhabditis macrosperma	Nematoda	neg_broad	called	std	2	U	36.7
+NC_035252.1	Caenorhabditis afra	Nematoda	neg_broad	called	std	2	U	35.5
+NC_035255.1	Macrostomum lignano	Platyhelminthes	neg_broad	called	std	1	U	30.9
+NC_062613.1	Clithon squarrosum	Mollusca	neg_broad	called	std	2	U	59.7
+NC_018597.1	Trichuris ovis	Nematoda	neg_broad	called	std	0	U	24.1
+NC_044101.1	Neoscona scylla	Arthropoda	neg_broad	called	std	0	U	21.5
+NC_034715.1	Senga ophiocephalina	Platyhelminthes	neg_broad	called	std	1	U	44.6
+NC_018537.1	Craspedacusta sowerbii	Cnidaria	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_022448.1	Schmidtea mediterranea	Platyhelminthes	neg_broad	called	std	1	U	25.1
+NC_042147.1	Artemia sinica	Arthropoda	neg_broad	called	std	2	U	64.9
+NC_024110.1	Pristiophorus japonicus	Chordata	neg_broad	called	std	2	U	71.5
+NC_026983.1	Gnathostomula armata	Gnathostomulida	neg_broad	called	std	1	U	18.0
+NC_026985.1	Lepidodermella squamata	Gastrotricha	neg_broad	called	std	1	U	47.6
+NC_054289.1	Esox niger	Chordata	neg_broad	called	std	2	U	77.3
+NC_031358.1	Psephotellus pulcherrimus	Chordata	neg_broad	called	std	2	U	69.5
+NC_056333.1	Episoriculus leucops	Chordata	neg_broad	called	std	2	U	73.1
+NC_025317.1	Siniperca chuatsi x Siniperca knerii	Chordata	neg_broad	called	std	2	U	76.7
+NC_035983.1	Oscarella pearsei	Porifera	neg_broad	called	std	2	U	59.5
+NC_031516.1	Triodontophorus serratus	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	17.7
+NC_044134.1	Dicyrtomina saundersi	Arthropoda	neg_broad	called	std	1	U	48.8
+NC_060816.1	Chrysopetalum debile	Annelida	neg_broad	called	std	2	U	63.6
+NC_031412.1	Phascolosoma pacificum	Annelida	neg_broad	called	std	2	U	56.2
+NC_026557.1	Strigamia maritima	Arthropoda	neg_broad	called	std	0	U	21.3
+NC_026987.1	Melibe leonina	Mollusca	neg_broad	called	std	0	U	39.2
+NC_035715.1	Nautilus pompilius	Mollusca	neg_broad	called	std	1	U	56.5
+NC_034656.1	Anaulaciulus koreanus	Arthropoda	neg_broad	called	std	2	U	52.4
+NC_028407.1	Cypridopsis vidua	Arthropoda	neg_broad	called	std	1	U	65.3
+NC_028174.1	Dendrocopos major	Chordata	neg_broad	called	std	2	U	72.5
+NC_034682.1	Spirula spirula	Mollusca	neg_broad	called	std	1	U	46.8
+NC_069646.1	Cliona patera	Porifera	neg_broad	called	std	2	U	68.0
+NC_034906.1	Solemya velesiana	Mollusca	neg_broad	called	std	2	U	66.2
+NC_049136.1	Siphonosoma cumanense	Annelida	neg_broad	called	std	2	U	65.1
+NC_060708.1	Pomphorhynchus laevis	Acanthocephala	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	10.3
+NC_044095.1	Gordionus alpestris	Nematomorpha	neg_broad	called	sens	1	U	32.9
+NC_034947.1	Baltalimania ylvae	Xenacoelomorpha	neg_broad	called	std	2	U	41.7
+NC_023452.1	Ricinoides karschii	Arthropoda	neg_broad	called	std	0	U	41.0
+NC_034843.1	Neotrigonia margaritacea	Mollusca	neg_broad	called	std	2	U	51.8
+NC_034846.1	Cumberlandia monodonta	Mollusca	neg_broad	called	std	1	U	49.3
+NC_026516.1	Southwellina hispida	Acanthocephala	neg_broad	no_confident_call	loop_not_7nt	0		
+NC_067944.1	Hexostoma thynni	Platyhelminthes	neg_broad	called	std	1	U	30.2
+NC_027653.1	Crassostrea tulipa	Mollusca	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	13.4
+NC_042504.1	Scoliodon laticaudus	Chordata	neg_broad	called	std	2	U	68.1
+NC_071191.1	Layahima yangi	Arthropoda	neg_broad	called	std	2	U	65.9
+NC_028199.1	Enchiridium sp. MTA_2015	Platyhelminthes	neg_broad	called	std	1	U	43.3
+NC_025335.1	Poecillastra laminaris	Porifera	neg_broad	called	std	2	U	61.9
+NC_049873.1	Azygia hwangtsiyui	Platyhelminthes	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_034946.1	Paratomella rubra	Xenacoelomorpha	neg_broad	called	sens	1	U	20.7
+NC_040168.1	Halichondria panicea	Porifera	neg_broad	called	std	2	U	58.2
+NC_033379.1	Vema ewingi	Mollusca	neg_broad	called	std	1	U	39.4
+NC_071184.1	Pillucina pisidium (Dunker, 1860)	Mollusca	neg_broad	called	std	0	U	28.3
+NC_050683.1	Tridacna gigas	Mollusca	neg_broad	called	std	1	U	39.5
+NC_035587.1	Margarya melanioides	Mollusca	neg_broad	called	std	1	U	35.6
+NC_046843.1	Tanacetipathes thamnea	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	15.5
+NC_021933.1	Appalachioria falcifera	Arthropoda	neg_broad	called	std	1	U	41.6
+NC_044654.1	Lepidurus arcticus	Arthropoda	neg_broad	called	std	2	U	65.5
+NC_046775.1	Chrysaora pacifica	Cnidaria	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_024927.1	Anadara kagoshimensis	Mollusca	neg_broad	called	std	1	U	40.8
+NC_030269.1	Placobdella lamothei	Annelida	neg_broad	called	std	2	U	54.3
+NC_060483.1	Pomphorhynchus bulbocolli	Acanthocephala	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	8.7
+NC_024932.1	Aliger gigas	Mollusca	neg_broad	called	std	2	U	59.1
+NC_024939.1	Prochilodus lineatus	Chordata	neg_broad	called	std	2	U	77.9
+NC_038081.1	Scutopus robustus	Mollusca	neg_broad	called	std	0	U	36.9
+NC_027101.1	Amplexidiscus fenestrafer	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	10.9
+NC_035578.1	Zoanthus sansibaricus	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	8.2
+NC_038065.1	Beroe forskalii	Ctenophora	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_028050.1	Drawida japonica	Annelida	neg_broad	called	std	2	U	59.5
+NC_032075.1	Euborellia arcanum	Arthropoda	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_025923.1	Botaurus stellaris	Chordata	neg_broad	called	std	2	U	67.2
+NC_057068.1	Yininemertes pratensis	Nemertea	neg_broad	called	std	1	U	50.5
+NC_057120.1	Channichthys rhinoceratus	Chordata	neg_broad	called	std	2	U	63.1
+NC_031192.1	Cacospongia mycofijiensis	Porifera	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_041307.1	Umbonium thomasi	Mollusca	neg_broad	called	std	2	U	66.5
+NC_070262.1	Inocellia digitiformis	Arthropoda	neg_broad	called	std	2	U	66.5
+NC_039685.1	Laqueus japonicus	Brachiopoda	neg_broad	called	std	2	U	46.7
+NC_006991.1	Tethya actinia	Porifera	neg_broad	called	std	2	U	52.0
+NC_008192.1	Flustrellidra hispida	Bryozoa	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	13.2
+NC_007007.1	Gavia stellata	Chordata	neg_broad	called	std	2	U	71.5
+NC_011197.1	Atelura formicaria	Arthropoda	neg_broad	called	std	2	U	49.4
+NC_039929.1	Actinia equina	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	11.6
+NC_067751.1	Echinoparyphium aconiatum	Platyhelminthes	neg_broad	called	sens	1	U	15.7
+NC_016722.1	Flustra foliacea	Bryozoa	neg_broad	called	std	0	U	22.2
+NC_015091.1	Berthellina sp. TLT-2006	Mollusca	neg_broad	called	std	1	U	40.2
+NC_045864.1	Hormiphora californensis	Ctenophora	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_011293.1	Damon diadema	Arthropoda	neg_broad	called	std	0	U	39.4
+NC_010095.1	Tachybaptus novaehollandiae	Chordata	neg_broad	called	std	2	U	70.0
+NC_007006.1	Larus dominicanus	Chordata	neg_broad	called	std	2	U	70.5
+NC_007701.1	Sclerophasma paresisense	Arthropoda	neg_broad	called	std	1	U	60.8
+NC_015646.1	Tubulipora flabellaris	Bryozoa	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	14.6
+NC_010171.1	Negombata magnifica	Porifera	neg_broad	called	std	2	U	60.3
+NC_012768.1	Urechis unicinctus	Annelida	neg_broad	called	std	2	U	63.8
+NC_007933.1	Orbinia latreillii	Annelida	neg_broad	called	std	2	U	63.7
+NC_007934.1	Anisakis simplex	Nematoda	neg_broad	called	std	1	U	22.4
+NC_012574.1	Tachypleus tridentatus	Arthropoda	neg_broad	called	std	2	U	68.5
+NC_014181.1	Oesophagostomum quadrispinulatum	Nematoda	neg_broad	called	std	1	U	24.3
+NC_006379.1	Urechis caupo	Annelida	neg_broad	called	std	2	U	65.5
+NC_016431.1	Eunapius subterraneus	Porifera	neg_broad	called	std	2	U	54.9
+NC_004826.2	Taenia asiatica	Platyhelminthes	neg_broad	called	std	1	U	41.3
+NC_006354.1	Todarodes pacificus	Mollusca	neg_broad	called	std	1	U	53.3
+NC_017902.2	Moolgarda cunnesius	Chordata	neg_broad	called	std	2	U	70.9
+NC_017874.1	Nectonemertes cf. mirabilis HC-2011	Nemertea	neg_broad	called	std	1	U	54.3
+NC_017877.1	Zygeupolia rubens	Nemertea	neg_broad	called	std	0	U	53.3
+NC_010431.1	Loxocorone allax	Entoprocta	neg_broad	called	std	2	U	51.6
+NC_012383.1	Siphonaria pectinata	Mollusca	neg_broad	called	std	1	U	46.5
+NC_009689.1	Vampyroteuthis infernalis	Mollusca	neg_broad	called	std	1	U	49.6
+NC_002544.1	Schistosoma japonicum	Platyhelminthes	neg_broad	called	std	2	U	34.3
+NC_005826.1	Dromiciops gliroides	Chordata	neg_broad	called	std	2	U	71.9
+NC_015118.1	Bittacus pilicornis	Arthropoda	neg_broad	called	std	2	U	69.0
+NC_016754.1	Oncicola luehei	Acanthocephala	neg_broad	called	std	1	U	35.9
+NC_013568.1	Rotaria rotatoria	Rotifera	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	10.2
+NC_012434.1	Myosotella myosotis	Mollusca	neg_broad	called	std	0	U	34.0
+NC_016129.1	Wellcomia siamensis	Nematoda	neg_broad	called	sens	1	U	13.4
+NC_012821.1	Cephalothrix simula	Nemertea	neg_broad	called	std	2	U	56.3
+NC_010769.1	Aphrocallistes vastus	Porifera	neg_broad	called	sens	1	U	31.6
+NC_005928.1	Xiphinema americanum	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	18.3
+NC_000844.1	Daphnia pulex	Arthropoda	neg_broad	called	std	2	U	61.2
+NC_001276.1	Magallana gigas	Mollusca	neg_broad	called	std	2	U	30.5
+NC_003165.1	Lampris guttatus	Chordata	neg_broad	called	std	2	U	64.8
+NC_007234.1	Placopecten magellanicus	Mollusca	neg_broad	called	std	2	U	60.0
+NC_008944.1	Amphimedon queenslandica	Porifera	neg_broad	called	std	2	U	48.6
+NC_013724.1	Scomber colias	Chordata	neg_broad	called	std	2	U	70.6
+NC_014700.1	Opilio parietinus	Arthropoda	neg_broad	called	std	0	U	36.6
+NC_016949.1	Aplysina cauliformis	Porifera	neg_broad	called	std	2	U	62.1
+NC_016952.1	Emplectonema gracile	Nemertea	neg_broad	called	std	2	U	58.7
+NC_014046.1	Otis tarda	Chordata	neg_broad	called	std	2	U	70.7
+NC_002333.2	Danio rerio	Chordata	neg_broad	called	std	2	U	68.4
+NC_008046.1	Thaumamermis cosgrovei	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	14.4
+NC_008693.1	Romanomermis iyengari	Nematoda	neg_broad	called	sens	1	U	13.7
+NC_003086.1	Terebratalia transversa	Brachiopoda	neg_broad	called	std	2	U	35.1
+NC_016181.1	Peronia peronii	Mollusca	neg_broad	called	std	1	U	43.0
+NC_028621.1	Trichuris muris	Nematoda	neg_broad	called	std	1	U	16.5
+NC_008640.1	Romanomermis culicivorax	Nematoda	neg_broad	no_confident_call	loop_not_7nt	0		
+NC_014865.1	Paranemertes cf. peregrina SCS-2010	Nemertea	neg_broad	called	std	2	U	54.3
+NC_014869.1	Cephalothrix sp. SCS-2010	Nemertea	neg_broad	called	std	2	U	59.1
+NC_014273.1	Opisthopatus cinctipes	Onychophora	neg_broad	called	std	0	U	32.8
+NC_014282.1	Setaria digitata	Nematoda	neg_broad	called	std	1	U	16.1
+NC_017748.1	Extatosoma tiaratum	Arthropoda	neg_broad	called	std	2	U	59.6
+NC_017750.1	Trichuris trichiura	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	17.6
+NC_006321.1	Clymenella torquata	Annelida	neg_broad	called	std	2	U	59.6
+NC_010091.1	Rhynochetos jubatus	Chordata	neg_broad	called	std	2	U	67.6
+NC_016870.1	Seriola dumerili	Chordata	neg_broad	called	std	2	U	75.7
+NC_010213.1	Agelas schmidtii	Porifera	neg_broad	called	std	2	U	51.7
+NC_011572.1	Symphylella sp. YG-2006	Arthropoda	neg_broad	called	std	1	U	26.3
+NC_003178.1	Ateleopus japonicus	Chordata	neg_broad	called	std	2	U	75.0
+NC_004031.1	Galeopterus variegatus	Chordata	neg_broad	called	std	2	U	66.0
+NC_003188.1	Beryx splendens	Chordata	neg_broad	called	std	2	U	70.6
+NC_003193.1	Mastacembelus favus	Chordata	neg_broad	called	std	2	U	73.4
+NC_006539.1	Anguilla interioris	Chordata	neg_broad	called	std	2	U	76.2
+NC_008828.1	Hexamermis agrotis	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	A	11.2
+NC_006364.1	Zaglossus bruijni	Chordata	neg_broad	called	std	2	U	64.5
+NC_009082.1	Epiperipatus biolleyi	Onychophora	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	15.9
+NC_010302.1	Trichechus manatus	Chordata	neg_broad	called	std	2	U	72.7
+NC_015309.1	Placozoan sp. 'Shirahama'	Placozoa	neg_broad	called	std	2	U	49.2
+NC_024511.2	Drosophila melanogaster	Arthropoda	neg_broad	called	std	2	U	72.1
+NC_069202.1	Glossiphonia complanata	Annelida	neg_broad	called	std	2	U	59.3
+NC_009626.1	Penaeus vannamei	Arthropoda	neg_broad	called	std	2	U	76.3
+NC_069204.1	Lumbriculus variegatus	Annelida	neg_broad	called	std	2	U	49.0
+NC_069205.1	Paracanthobdella livanowi	Annelida	neg_broad	called	std	2	U	58.3
+NC_031407.1	Ramazzottius varieornatus	Tardigrada	neg_broad	called	std	1	U	59.6
+NC_008047.1	Diximermis spiculatus	Nematoda	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_064503.1	Paralvinella palmiformis	Annelida	neg_broad	called	std	1	U	56.3
+NC_066682.1	Ibla cumingi	Arthropoda	neg_broad	called	std	2	U	65.9
+NC_063475.1	Acanthobdella peledina	Annelida	neg_broad	called	std	2	U	57.3
+NC_065643.1	Sepiola affinis	Mollusca	neg_broad	called	std	2	U	56.2
+NC_008692.1	Romanomermis nielseni	Nematoda	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	11.4
+NC_073001.1	Tristoma integrum	Platyhelminthes	neg_broad	called	std	2	U	41.4
+NC_061193.1	Eudiplozoon nipponicum	Platyhelminthes	neg_broad	called	std	2	U	42.2
+NC_066810.1	Nippotaenia mogurndae	Platyhelminthes	neg_broad	called	std	1	U	36.3
+NC_063666.1	Calanus simillimus	Arthropoda	neg_broad	called	std	2	U	52.7
+NC_063544.1	Perotrochus quoyanus	Mollusca	neg_broad	called	std	2	U	58.2
+NC_065836.1	Lophogaster typicus	Arthropoda	neg_broad	called	std	1	U	38.8
+NC_066677.1	Leucolepas longa	Arthropoda	neg_broad	called	std	2	U	61.9
+NC_060873.1	Formica sinae	Arthropoda	neg_broad	called	std	1	U	29.4
+NC_066051.1	Anthopleura xanthogrammica	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	A	9.7
+NC_063582.1	Odontodactylus havanensis	Arthropoda	neg_broad	called	std	2	U	68.7
+NC_063762.1	Kuphus polythalamius	Mollusca	neg_broad	called	std	1	U	41.2
+NC_061275.1	Coelogorgia palmosa	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	C	8.9
+NC_062035.1	Virgularia schultzei	Cnidaria	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_061377.1	Polydora hoplura	Annelida	neg_broad	called	std	2	U	54.7
+NC_064606.1	Anopheles maculipalpis	Arthropoda	neg_broad	called	std	2	U	72.5
+NC_061659.1	Thysanostoma flagellatum	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	A	14.6
+NC_066806.1	Lamellomphalus manusensis	Mollusca	neg_broad	called	std	2	U	59.8
+NC_063768.1	Aplysia argus	Mollusca	neg_broad	called	std	1	U	43.6
+NC_065765.1	Ramisyllis kingghidorahi	Annelida	neg_broad	called	std	1	U	48.2
+NC_065392.1	Codonobdella sp. B45A	Annelida	neg_broad	called	std	2	U	55.6
+NC_065799.1	Epeorus gibbus	Arthropoda	neg_broad	called	std	2	U	69.3
+NC_065837.1	Spelaeomysis bottazzii	Arthropoda	neg_broad	called	std	2	U	40.0
+NC_066676.1	Calantica studeri	Arthropoda	neg_broad	called	std	2	U	54.7
+NC_066681.1	Gibbosaverruca weijiai	Arthropoda	neg_broad	called	std	2	U	64.4
+NC_072692.1	Ctenophthalmus quadratus	Arthropoda	neg_broad	called	std	2	U	68.8
+NC_061998.1	Arula petunia	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	9.7
+NC_062024.1	Primnoella chilensis	Cnidaria	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_081048.1	Tauraco livingstonii	Chordata	neg_broad	called	std	2	U	69.1
+NC_082193.1	Arcovestia ivanovi	Annelida	neg_broad	called	std	1	U	52.9
+NC_082308.1	Cardita variegata	Mollusca	neg_broad	called	std	2	U	51.2
+NC_082525.1	Comparmustilia semiravida	Arthropoda	neg_broad	called	std	2	U	64.0
+NC_030327.1	Scaphirhynchus albus x Scaphirhynchus platorynchus	Chordata	neg_broad	called	std	2	U	74.5
+NC_081951.1	Lamproglena orientalis	Arthropoda	neg_broad	called	std	1	U	43.6
+NC_081991.1	Latreutes anoplonyx	Arthropoda	neg_broad	called	std	2	U	64.8
+NC_082142.1	Sophrops peronosporus	Arthropoda	neg_broad	called	std	2	U	58.6
+NC_082282.1	Ennucula tenuis	Mollusca	neg_broad	called	std	2	U	64.2
+NC_082493.1	Sigmella digitalis	Arthropoda	neg_broad	called	std	2	U	66.5
+NC_082850.1	Naso brevirostris	Chordata	neg_broad	called	std	2	U	76.0
+NC_082909.1	Archichauliodes diversus	Arthropoda	neg_broad	called	std	2	U	72.0
+NC_082931.1	Tropilaelaps mercedesae	Arthropoda	neg_broad	called	std	2	U	58.1
+NC_082992.1	Albula vulpes	Chordata	neg_broad	called	std	2	C	65.4
+NC_079698.1	Metorchis bilis	Platyhelminthes	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	12.7
+NC_079938.1	Epizoanthus ramosus	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	11.0
+NC_083976.1	Monoserius pennarius	Cnidaria	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_084310.1	Anaspides jarmani	Arthropoda	neg_broad	called	std	2	U	69.1
+NC_085232.1	Ergasilus anchoratus	Arthropoda	neg_broad	called	std	1	U	41.5
+NC_083122.1	Lima vulgaris	Mollusca	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_085563.1	Lingula reevei	Brachiopoda	neg_broad	called	std	2	U	37.6
+NC_085569.1	Parachordodes pustulosus	Nematomorpha	neg_broad	called	std	1	U	24.2
+NC_085812.1	Plaxiphora tricolor	Mollusca	neg_broad	called	std	2	U	62.9
+NC_086537.1	Limassolla uncata	Arthropoda	neg_broad	called	std	1	U	52.3
+NC_086821.1	Pseudempusa pinnapavonis	Arthropoda	neg_broad	called	std	2	U	59.5
+NC_088557.1	Argulus japonicus	Arthropoda	neg_broad	called	std	2	U	66.7
+NC_084193.1	Phyllorhiza punctata	Cnidaria	neg_broad	no_confident_call	anticodon_not_GUA	0		
+NC_006522.1	Notoryctes typhlops	Chordata	neg_broad	called	std	2	U	71.7
+NC_060781.1	Pinna rudis	Mollusca	neg_broad	called	std	2	U	53.0
+NC_085486.1	Membranipora villosa	Bryozoa	neg_broad	called	sens	1	U	21.3
+NC_038214.1	Cichlidarus nyanzae	Platyhelminthes	neg_broad	called	sens	1	U	29.1
+NC_065161.1	Polypodium hydriforme	Cnidaria	neg_broad	no_confident_call	score_below_gate_no_corroboration	0	U	11.8
+NC_010197.1	Bugula neritina	Bryozoa	neg_broad	called	sens	1	U	19.0
