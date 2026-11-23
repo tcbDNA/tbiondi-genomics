@@ -86,7 +86,7 @@ def fetch():
 
 def _nodes():
     nodes = {}
-    for line in open(ROOT / "data/raw/taxdump/nodes.dmp"):
+    for line in open((ROOT / "protocol/taxonomy_extract/nodes.dmp" if (ROOT / "protocol/taxonomy_extract/nodes.dmp").exists() else ROOT / "data/raw/taxdump/nodes.dmp")):
         f = [x.strip() for x in line.split("|")]
         nodes[f[0]] = f[1]
     return nodes

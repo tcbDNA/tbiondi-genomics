@@ -26,8 +26,12 @@ branch, and nothing else is broken.
 - a bypass (a translational skip, as CTG-skipping relatives show in the same genes, or RNA editing);
 - a loss within the last few percent of the branch (including in culture).
 
-These predict the same results for tests 3, 5 and 6. The lean toward a bypass rests on the pattern of the insertions
-(an extra A or T beside the only four GGC codons, with the only tRNA-Gly being GCC), noticed after the case was chosen.
+These predict the same results for tests 3, 5 and 6. **The cause is unresolved** (as in the README since 2026-11-23,
+after an outside review). An earlier version leaned toward a bypass on the pattern of the insertions; part of that
+pattern follows from how the sites were found, and the GCC tRNA-Gly raises a separate question, how GGA is decoded.
+Checks added after the review: `funnel/trna_gly_tcc.md` (no TCC tRNA-Gly), `funnel/step_f_reads_dedup.md` (reads with
+duplicates removed), `followup/genus/codon_positions.md`, `followup/trna_gly_relatives.md` and
+`followup/genus/genes_per_gene.md`; every change is listed in `protocol/corrections.md`.
 
 **What would settle it:**
 - RNA across the four sites;

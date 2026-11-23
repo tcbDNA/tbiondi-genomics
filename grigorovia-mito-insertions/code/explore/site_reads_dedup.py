@@ -1,6 +1,6 @@
 """Read support at the four G. jiainica sites with PCR duplicates removed.
 
-Same exact-match counts as step f (`grigorovia.py step_f`) and `grigorovia_h1h2.py reads_strand`: 20 nt + extra base +
+Same exact-match counts as step f (`code/explore/grigorovia.py f`) and `grigorovia_h1h2.py reads_strand`: 20 nt + extra base +
 20 nt (or the 40 nt without it), either strand; and for the two close cob sites, the window 26462-26511 with both, one
 or neither base. Counted twice: over all reads, and over reads not flagged as duplicates by samtools markdup in
 `data/work/trna_gly_tcc/dedup.bam` (made by `trna_gly_tcc.py`; a read pair is a duplicate when another pair has the same
@@ -9,7 +9,7 @@ mapped start positions). The raw counts must equal the published ones (checked b
 Writes results/explore/grigorovia/step_f_reads_dedup.md and adds the duplicate-removed numbers to step_f_reads.md,
 sites_for_lab.md and h1h2/reads_strand.md.
 
-    uv run python src/explore/site_reads_dedup.py      (run trna_gly_tcc.py first)
+    uv run python code/explore/site_reads_dedup.py      (run trna_gly_tcc.py first)
 """
 import gzip
 import re

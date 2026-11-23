@@ -8,8 +8,8 @@
          alignments, tree and settings as `grigorovia_genus.py dnds`: F3x4, yeast mitochondrial code, cleandata = 1).
          VAR1 is too divergent to align (test 5); its open frame is counted only.
 
-    uv run python src/explore/quick_checks.py trna    -> results/explore/grigorovia/h1h2/trna_gly_relatives.md
-    uv run python src/explore/quick_checks.py genes   -> results/explore/grigorovia/h1h2/genus/genes_per_gene.md
+    uv run python code/explore/quick_checks.py trna    -> results/explore/grigorovia/h1h2/trna_gly_relatives.md
+    uv run python code/explore/quick_checks.py genes   -> results/explore/grigorovia/h1h2/genus/genes_per_gene.md
 """
 import re
 import subprocess
@@ -20,8 +20,8 @@ from math import erfc, sqrt
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(ROOT / "src/explore"))
-sys.path.insert(0, str(ROOT / "src"))
+sys.path.insert(0, str(ROOT / "code/explore"))
+sys.path.insert(0, str(ROOT / "code"))
 import grigorovia_genus as GG  # noqa: E402
 
 H = ROOT / "results/explore/grigorovia/h1h2"

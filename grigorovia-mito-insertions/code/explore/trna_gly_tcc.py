@@ -12,7 +12,7 @@ Steps (reads SRR16974510; mitogenome BK073075.1; nuclear assembly GCA_030571715.
 5. ARAGORN 1.2.41 at a relaxed threshold (-ps) on the mitogenome; minimap2 -x asm5 of the mitogenome against the nuclear
    assembly, to look for a nuclear copy of the mitochondrial tRNA-Gly.
 
-    uv run python src/explore/trna_gly_tcc.py    -> results/explore/grigorovia/trna_gly_tcc.md
+    uv run python code/explore/trna_gly_tcc.py    -> results/explore/grigorovia/trna_gly_tcc.md
 """
 import collections as C
 import re

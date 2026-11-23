@@ -551,7 +551,7 @@ def species_taxid(taxid: str) -> str:
     nodes = getattr(species_taxid, "_nodes", None)
     if nodes is None:
         nodes = {}
-        with open(ROOT / "data/raw/taxdump/nodes.dmp") as fh:
+        with open((ROOT / "protocol/taxonomy_extract/nodes.dmp" if (ROOT / "protocol/taxonomy_extract/nodes.dmp").exists() else ROOT / "data/raw/taxdump/nodes.dmp")) as fh:
             for line in fh:
                 f = [x.strip() for x in line.split("|")]
                 nodes[f[0]] = (f[1], f[2])

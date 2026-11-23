@@ -1,7 +1,7 @@
 """Codon counts per gene in G. jiainica's seven core mitochondrial genes (extra bases removed), from the codon alignments
 used for dN/dS: codons, GGC codons, glycine codons by type, and the base at the third codon position.
 
-    uv run python src/explore/codon_positions.py   -> results/explore/grigorovia/h1h2/genus/codon_positions.md
+    uv run python code/explore/codon_positions.py   -> results/explore/grigorovia/h1h2/genus/codon_positions.md
 """
 import collections as C
 from pathlib import Path

@@ -16,6 +16,7 @@ from __future__ import annotations
 import csv
 import gzip
 import re
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -115,7 +116,16 @@ def parts_of(loc) -> list[tuple[int, int, int]]:
 def main() -> None:
     WORK.mkdir(parents=True, exist_ok=True)
     (WORK / "queries").mkdir(exist_ok=True)
-    tax = Taxonomy(RAW / "taxdump")
+    # NCBI taxonomy: the rows the published run used (protocol/taxonomy_extract/, cut from the 2026-11-21 dump) when
+    # present; --taxonomy DIR runs from another dump (e.g. the dated archive fetched by setup_data.sh)
+    if "--taxonomy" in sys.argv:
+        taxdir = Path(sys.argv[sys.argv.index("--taxonomy") + 1])
+    elif (ROOT / "protocol/taxonomy_extract/nodes.dmp").exists():
+        taxdir = ROOT / "protocol/taxonomy_extract"
+    else:
+        taxdir = RAW / "taxdump"
+    print("taxonomy from", taxdir, flush=True)
+    tax = Taxonomy(taxdir)
     print("taxonomy loaded", flush=True)
 
     # sequences of all RefSeq records come from the .fna (205 gbff records lack sequence)
@@ -185,6 +195,32 @@ def main() -> None:
         g.update(p)
         for k in ("family_pool", "order_pool", "class", "phylum", "kingdom", "superkingdom"):
             g[k + "_name"] = tax.names.get(p[k], "")
+
+    # Taxonomy pin. The published run used the NCBI dump of 2026-11-21 (taxdump.tar.gz md5
+    # 6d18d6c9d60bbc20759869f6b3592eff); its per-genome assignments are archived in protocol/taxonomy_assignments.tsv.
+    # Any difference stops the run, unless --use-archived-taxonomy is given: then the archived values are used.
+    arch = ROOT / "protocol/taxonomy_assignments.tsv"
+    if arch.exists():
+        A = {r["accession"]: r for r in csv.DictReader(open(arch), delimiter="\t")}
+        keys = ("code", "family_pool", "order_pool", "class", "phylum", "kingdom", "superkingdom")
+        if "--use-archived-taxonomy" in sys.argv:
+            for g in genomes:
+                a = A.get(g["accession"])
+                if a:
+                    for k in keys + ("code_source", "family_pool_name", "order_pool_name"):
+                        g[k] = int(a[k]) if k in keys else a[k]
+            print("taxonomy: archived assignments used for", sum(g["accession"] in A for g in genomes), "genomes")
+        else:
+            diff = [(g["accession"], k, g[k], A[g["accession"]][k]) for g in genomes if g["accession"] in A
+                    for k in keys if str(g[k]) != A[g["accession"]][k]]
+            missing = [g["accession"] for g in genomes if g["accession"] not in A]
+            if diff or missing:
+                for d in diff[:20]:
+                    print("taxonomy differs:", *d, file=sys.stderr)
+                sys.exit(f"STOP: {len(diff)} taxonomy assignments differ from protocol/taxonomy_assignments.tsv and "
+                         f"{len(missing)} genomes are not in it. This NCBI dump is not the one used (2026-11-21). Rerun "
+                         f"with --use-archived-taxonomy to reproduce the published values.")
+            print("taxonomy: all assignments match protocol/taxonomy_assignments.tsv")
     cols = list(genomes[0].keys())
     with open(WORK / "genomes.tsv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=cols, delimiter="\t")

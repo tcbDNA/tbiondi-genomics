@@ -158,7 +158,7 @@ SITE_SC = {"cob 26496": ("cob", 408), "cob 26477": ("cob", 426), "cox1 24711": (
 
 def _taxonomy():
     nodes = {}
-    with open(ROOT / "data/raw/taxdump/nodes.dmp") as fh:
+    with open((ROOT / "protocol/taxonomy_extract/nodes.dmp" if (ROOT / "protocol/taxonomy_extract/nodes.dmp").exists() else ROOT / "data/raw/taxdump/nodes.dmp")) as fh:
         for line in fh:
             f = [x.strip() for x in line.split("|")]
             nodes[f[0]] = f[1]

@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
-# Rerun everything, in the order it was run. Outputs go to data/work/ and results/; the curated copies in data/ are
-# what this run produced. Times are from a 12-core laptop.
+# Rerun everything, in the order it was run. Outputs go to data/work/ and results/; the curated copies in protocol/
+# and candidate/ are what this run produced. Times are from a 12-core laptop.
 #
-#   bash scripts/setup_tools.sh && bash scripts/setup_data.sh --reads && bash scripts/run_all.sh
+#   bash scripts/setup_tools.sh && bash scripts/setup_data.sh --reads --genus && bash scripts/run_all.sh
+#
+# prep.py checks its taxonomy assignments against protocol/taxonomy_assignments.tsv and stops on any difference;
+# add --use-archived-taxonomy to prep.py to take the published assignments instead.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 export PATH="$PWD/tools/local/bin:$PATH"
@@ -59,3 +62,11 @@ done
 # 8. Figure
 uv run python code/explore/grigorovia_followup.py figure
 uv run python code/plots/site_figure.py --data results/explore/grigorovia/figure_site.json --out plots
+
+# 9. Added after an outside review (2026-11-23; needs setup_data.sh --reads --genus): tRNA-Gly reads, read counts with
+#    duplicates removed, codon positions, tRNA-Gly in relatives, and every mitochondrial protein gene
+uv run python code/explore/trna_gly_tcc.py
+uv run python code/explore/site_reads_dedup.py    # uses the duplicate flags written by trna_gly_tcc.py
+uv run python code/explore/codon_positions.py
+uv run python code/explore/quick_checks.py trna
+uv run python code/explore/quick_checks.py genes

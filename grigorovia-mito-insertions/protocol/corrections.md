@@ -268,3 +268,33 @@ Two outside reviews (by other AI models) and the replies to them led to these ch
    tobacco mitochondria with a GCC-only tRNA-Gly import cytosolic UCC/CCC tRNA-Gly (Brubacher-Kauffmann et al. 1999;
    Salinas et al. 2005); yeast mitochondria import tRNA-Lys and tRNA-Gln (Martin et al. 1979; Rinehart et al. 2005). These
    are cited. The searches were not designed to show absence, so no "not known in yeast" claim is made.
+
+## Editorial and reproducibility changes (2026-11-23 09:03 EST, user request)
+
+12. **Wording.** "GGA must then have been decoded somehow" replaced by: "The continued purifying selection on
+    GGA-containing genes suggests that mitochondrial GGA decoding was functional through much of the lineage's history.
+    Whether decoding remains functional in the sequenced strain is unresolved." The bullet heading now reads
+    "Mitochondrial translation looks to have worked through much of the branch". "A decaying gene would lose pairs, not
+    keep them" replaced by "Compensatory changes are consistent with structural constraint on the tRNA; they do not show
+    that it works today." The conclusion bullet was reworded to match.
+13. **Summary and notebook.** `candidate/grigorovia_jiainica.md` now states the cause as unresolved and lists the checks
+    added after the review. In `notebook.md` the earlier lean toward a bypass is kept and marked as superseded, with a
+    pointer here.
+14. **run_all.sh.** Its header now says `setup_data.sh --reads --genus`, and names protocol/ and candidate/ (not data/)
+    as the curated copies. A new step 9 reruns the tables added after the review (`trna_gly_tcc.py`,
+    `site_reads_dedup.py`, `codon_positions.py`, `quick_checks.py trna` and `genes`). The usage lines in those
+    scripts said `src/explore/`, and `quick_checks.py` imported from `src/`, which does not exist in this release; both
+    now use `code/`.
+15. **Taxonomy pinned.** The analysis used the NCBI dump downloaded on 2026-11-21 (md5 6d18d6c9d60bbc20759869f6b3592eff),
+    which NCBI does not archive; the closest dated archive, `taxdump_archive/taxdmp_2026-11-01.zip` (md5
+    42a27451954fd10ddcb50f0549ab7869), differs for 4 of 20,915 genomes (one taxon added later, three family or order
+    changes). So:
+    - `protocol/taxonomy_extract/` (5.9 MB) holds the rows the analysis uses, cut from the 2026-11-21 dump by
+      `code/release/make_taxonomy_extract.py`: 39,029 nodes on the lineages of the 20,915 genomes and the BUSCO
+      reference species, their scientific names, and the merged-id rows. `prep.py`, `flag_context.py`,
+      `explore/nuclear_genes.py` and `explore/grigorovia_h1h2.py` read it when present. Checked: it reproduces every
+      genome's code, family/order pools and family name (0 of 20,915 differ; the 2026-11-01 archive: 4).
+    - `setup_data.sh` downloads the 2026-11-01 archive instead of the current dump and stops if its md5 differs.
+    - `prep.py` compares its assignments with `protocol/taxonomy_assignments.tsv` (new; the published per-genome code
+      and pools) and stops on any difference, unless `--use-archived-taxonomy` is given; `--taxonomy DIR` runs it from
+      another dump. The 80 MB dump itself is not published.

@@ -411,7 +411,9 @@ made while running are logged there too, as are the checks added after the refer
 - These tests cannot tell a bypass (a translational skip, or RNA editing) from a loss within roughly the last 1–5% of
   the branch, the range of the bound: both predict the same results. A loss in the last fraction of a percent, or in
   culture, would leave too few changes to detect at all.
-- The lean toward a bypass rests on the pattern of the insertions:
+- *Superseded on 2026-11-23: the cause is now stated as unresolved (see `protocol/corrections.md`, "Changes after
+  an outside review"). The original reading follows.* The lean toward a bypass rests on the pattern of the
+  insertions:
   - each is an extra A or T beside a new GGC;
   - the four GGCs are the only GGC codons in the core genes;
   - the only tRNA-Gly is GCC.

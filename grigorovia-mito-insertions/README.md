@@ -176,7 +176,7 @@ even in culture.**
   detect at all.
 - The pattern of the insertions (below) is the main argument for a bypass, but part of it follows from how the sites
   were found. The glycine tRNA raises a decoding problem, yet every mitochondrial gene and the tRNA itself look
-  maintained over the branch, so GGA must be read somehow (below).
+  maintained through much of the branch, which suggests GGA was decoded over that time (below).
 
 **The pattern of the insertions (noticed after the fact).**
 - **GGC.** *G. jiainica*'s seven core mitochondrial genes (*cox1*, *cob*, *cox2*, *cox3*, *atp6*, *atp8*, *atp9*; the
@@ -209,16 +209,17 @@ even in culture.**
   same DNA molecule (the mate, or PCR copies), which reads GCC; the fourth has 8 mismatches. No copy of the
   mitochondrial tRNA-Gly was found in the nuclear assembly
   ([`candidate/funnel/trna_gly_tcc.md`](candidate/funnel/trna_gly_tcc.md)).
-- **The tRNA-Gly has been remodeled, not just given a new anticodon.** It differs from all seven relatives compared
-  at nine positions, and from all three congeners at ten; the congeners differ from one another at only 2–5. Two of
-  the changes are compensatory pairs, in the acceptor stem (C-G where every relative has T-A) and in the anticodon
-  stem (A-T where they have G-C); a third completes a pair that is mismatched in the relatives
-  ([`candidate/followup/trna_gly_relatives.md`](candidate/followup/trna_gly_relatives.md)). A decaying gene would lose
-  pairs, not keep them.
-- **So mitochondrial translation looks functional over the branch.** None of the seven mitochondrial protein genes
-  that can be aligned, including the five that use GGA, shows relaxed selection (Selection, above), and the tRNA-Gly
-  kept its stems paired while it changed. GGA must then have been decoded somehow: by a tRNA imported from the
-  cytoplasm or by non-standard pairing; which one is unknown. These are averages over the whole branch, so they cannot
+- **The tRNA-Gly has been remodeled, not just given a new anticodon.** It differs from all seven relatives compared at
+  nine positions, and from all three congeners at ten; the congeners differ from one another at only 2–5. Two of the
+  changes are compensatory pairs, in the acceptor stem (C-G where every relative has T-A) and in the anticodon stem
+  (A-T where they have G-C); a third completes a pair that is mismatched in the relatives
+  ([`candidate/followup/trna_gly_relatives.md`](candidate/followup/trna_gly_relatives.md)). Compensatory changes are
+  consistent with structural constraint on the tRNA; they do not show that it works today.
+- **Mitochondrial translation looks to have worked through much of the branch.** None of the seven mitochondrial
+  protein genes that can be aligned, including the five that use GGA, shows relaxed selection (Selection, above), and
+  the tRNA-Gly kept its stems paired while it changed. The continued purifying selection on GGA-containing genes
+  suggests that mitochondrial GGA decoding was functional through much of the lineage's history. Whether decoding
+  remains functional in the sequenced strain is unresolved. These are averages over the whole branch, so they cannot
   exclude a failure in its last few percent, or in culture. The growth records cannot settle it either: two congeners
   with intact genes and a UCC tRNA-Gly also fail to grow on non-fermentable carbon (Caveats).
 - **A precedent for import.** Potato mitochondria encode only a GCC tRNA-Gly, which the authors judge likely to be
