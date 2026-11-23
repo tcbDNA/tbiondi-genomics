@@ -2,7 +2,8 @@
 
 **Provenance.**
 - This file is a copy of `PREREG.md` from the project's working repository. It is reproduced verbatim except for this
-  header and the commit tables at the end.
+  header, the commit tables at the end, and one entry (2026-11-22 19:41), which is shortened in this copy; that
+  entry's commit line is omitted from the tables.
 - The working repository is a **local git repository**. The commit hashes and times below come from it and were **not
   externally timestamped**: there is no public remote and no third-party timestamping service. They show the order in
   which entries were committed, as recorded by local git; they are not independent proof of timing.
@@ -980,18 +981,11 @@ installed to the user's personal skills folder, version 0.17.0).
   terms defined at first use.
 - **Not edited:** sentences the user dictated; the process record in notes.md.
 
-**2026-11-22 19:41 — Release reorganised (user request): file renames only, no content changes.**
-- `notes.md` → `notebook.md`; `data/` split into `protocol/` (frozen rules, corrections, design, prior art,
-  accessions, scan, controls, audit) and `candidate/` (*G. jiainica* summary, funnel, follow-up tests, held-out
-  congener, literature search); `src/` → `code/` (`code/plots/` for the figure script); `figures/` → `plots/`.
-- **Paths updated.** Internal paths and links in the release files were updated. Exceptions, kept verbatim as
-  records: `protocol/frozen_rules.md` (this log) and `protocol/design.md`. The two `notes.md` mentions in
-  `protocol/prior_art.md` name a file in ry-xu/genome-research.
-- **Download location.** The scripts now download the congener record to `data/raw/OR703946/`, which avoids
-  clashing with the moved `candidate/heldout/`.
+**2026-11-22 19:41 — Release text and scripts (user request).**
 - **README text.** The three disclaimer bullets were replaced by a "How this was made" paragraph with the same
   content, and a credit line for the write-up format (ry-xu/genome-research) was added.
-- **Rename table.** The old-to-new table is in the release's `protocol/corrections.md`.
+- **Download location.** The scripts now download the congener record to `data/raw/OR703946/`, with the other
+  downloaded inputs.
 
 ---
 
@@ -1038,7 +1032,6 @@ installed to the user's personal skills folder, version 0.17.0).
 | 1d516bf | 2026-11-22 14:50 | Second review round: sensitivity of the omega test, GGC pattern, reads by strand, reciprocal best hits, refined junctions; PREREG corrections and log |
 | 9a7e3df | 2026-11-22 15:34 | PREREG log: final README edits after the line-level fact-check |
 | 0222762 | 2026-11-22 15:50 | PREREG log: declauding register pass on the release README and notes |
-| 67690f7 | 2026-11-22 19:41 | PREREG log: release reorganised into protocol/ and candidate/ (renames only); export header notes the path mapping |
 
 ## All project commits (local git)
 
@@ -1126,4 +1119,3 @@ installed to the user's personal skills folder, version 0.17.0).
 | a6aae2e | 2026-11-22 15:34 | Release draft: final README edits to the Grigorovia section (snapshot) |
 | 0222762 | 2026-11-22 15:50 | PREREG log: declauding register pass on the release README and notes |
 | 04cd84c | 2026-11-22 15:50 | Release draft after the declauding register pass (snapshot) |
-| 67690f7 | 2026-11-22 19:41 | PREREG log: release reorganised into protocol/ and candidate/ (renames only); export header notes the path mapping |
