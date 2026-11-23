@@ -1,4 +1,4 @@
-"""Write the release copy of PREREG.md (protocol/frozen_rules.md in the release): a provenance header, PREREG.md verbatim, and commit tables from local git.
+"""Write the release copy of PREREG.md (protocol/frozen_rules.md in the release): a provenance header, PREREG.md verbatim (one entry shortened), and commit tables from local git.
 
     uv run python code/release/export_prereg.py OUT_PATH
 """
@@ -12,7 +12,8 @@ HEADER = """# Pre-registered rules, predictions and changes
 
 **Provenance.**
 - This file is a copy of `PREREG.md` from the project's working repository. It is reproduced verbatim except for this
-  header and the commit tables at the end.
+  header, the commit tables at the end, and one entry (2026-11-22 19:41), which is shortened in this copy; that
+  entry's commit line is omitted from the tables.
 - The working repository is a **local git repository**. The commit hashes and times below come from it and were **not
   externally timestamped**: there is no public remote and no third-party timestamping service. They show the order in
   which entries were committed, as recorded by local git; they are not independent proof of timing.
@@ -26,6 +27,15 @@ HEADER = """# Pre-registered rules, predictions and changes
 ---
 
 """
+# The 2026-11-22 19:41 entry is shortened in the release copy, and its commit line is omitted (user request).
+SHORT_START = "**2026-11-22 19:41 — Release reorganised (user request)"
+SHORT_ENTRY = """**2026-11-22 19:41 — Release text and scripts (user request).**
+- **README text.** The three disclaimer bullets were replaced by a "How this was made" paragraph with the same
+  content, and a credit line for the write-up format (ry-xu/genome-research) was added.
+- **Download location.** The scripts now download the congener record to `data/raw/OR703946/`, with the other
+  downloaded inputs.
+"""
+OMIT_COMMITS = {"67690f7"}
 
 
 def git(*args):
@@ -38,6 +48,8 @@ def table(paths=()):
     rows = ["| commit | time | message |", "|---|---|---|"]
     for line in out.splitlines():
         h, t, m = line.split("\t", 2)
+        if h in OMIT_COMMITS:
+            continue
         rows.append(f"| {h} | {t} | {m.replace('|', '/')} |")
     return "\n".join(rows)
 
@@ -47,6 +59,9 @@ def main(out):
     bad = re.findall(r"/Users/[^/\s]+|/home/[^/\s]+|/private/tmp|/opt/homebrew", body)
     if bad:
         sys.exit(f"local paths in PREREG.md: {set(bad)}")
+    i = body.index(SHORT_START)
+    j = body.find("\n---\n", i)  # the entry runs to the next separator, or to the end of the log
+    body = body[:i] + SHORT_ENTRY + (body[j:] if j != -1 else "")
     text = (HEADER + body.rstrip() + "\n\n---\n\n## Commits touching PREREG.md or DESIGN.md (local git; hash, commit time EST, message)\n\n"
             + table(("PREREG.md", "DESIGN.md")) + "\n\n## All project commits (local git)\n\n" + table() + "\n")
     Path(out).write_text(text)
