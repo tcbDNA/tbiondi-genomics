@@ -1,6 +1,7 @@
 """Download annotated protein sets for panel species (one per genus) via NCBI datasets. Logs failures."""
 import json,subprocess,os,zipfile,glob
-C=json.load(open("results/work/mtrf_bg_candidates.json")); seen=set(); sel=[]
+import sys; sys.path.insert(0,"src"); import panel_guard
+C=json.load(open("results/work/mtrf_bg_candidates.json")); panel_guard.check([c[0] for c in C]); seen=set(); sel=[]
 for pid,sp,lin,acc,lv in C:
     g=sp.split()[0]
     if g in seen: continue

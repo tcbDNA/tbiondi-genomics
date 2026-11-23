@@ -1,6 +1,8 @@
 """Strict loop consensus from reads: E<=1e-8, aligned >=25 aa, read spans human 200-222 (loop), translated in the aligned frame.
 Reports read count and residue counts at human 203 and 216 plus distinct loop peptides."""
 import sys,re,collections,json
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check(sys.argv[1:])
 A={};cur=None
 for l in open("data/mtrf/loop.aln"):
     if l[0]==">": cur=int(l[1:]); A[cur]=""

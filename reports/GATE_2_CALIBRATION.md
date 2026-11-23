@@ -1,5 +1,7 @@
 # Gate 2: Control benchmark and calibration
 
+> **Read the Addendum (sections A1–A9, at the end) first.** It supersedes §2–§3 trnY numbers, the mtRF1a guard note in §0 and the terminal-stop plans. The text above the Addendum is the state committed as `c8f9f5c`.
+
 Date: 2026-11-23. **Status: partially met — one criterion (trnY extraction failure) is not cleanly met; see §3. Nothing was run on any non-control genome.** `PREREG.md` is drafted but **not committed** (this file will record its hash only once it is locked).
 
 ## 0. Control panel (frozen before any caller ran)
@@ -110,3 +112,79 @@ Failures logged: two bugs above; tRNAscan-SE prompt hang (`-o /dev/stdout`; the 
 | trnY G34–U35–A36 anchoring, <10% failure | **not cleanly met** (17.7% / 10.3%) |
 | mtRF1a paralog separation | **met** for proteome/assembly controls (tree placement; FastTree support values not evaluated); *Pseudotanais*, *Placuna placenta* and *Pododesmus* other species untested |
 | Controls only used | **met**; enforced in code for trnY/UAA/Codetta, by species list only for mtRF1a (§0) |
+
+
+---
+# Addendum, 2026-11-23 (after the Gate 2 decisions)
+
+## A1. trnY diagnostic pass (bounded; 15:44–16:15, 31 min of the 2 h allowed)
+| Variant | Known-gene failure | Accepted non-U33 on negatives | Verdict |
+|---|---|---|---|
+| baseline (checkpoint) | 28/273 = 10.3% | 1 (*Albula*) | — |
+| **A: loop-check bug fix** | 26/273 = 9.5% | 1 (*Albula*) | **adopted** |
+| B: A + glocal search | 28/273 | 1 (*Albula*) | rejected: loses one nematode, 14 raw non-U33 hits against 6 |
+| C: armless nematode models (leave-one-order-out; 34 panel nematodes) | — | 0 at score ≥20 | **rejected**: on the 11 nematodes failing A it recovers 0 at the right locus and 8 at a wrong locus (score ≥20); 18–46 wrong-locus calls on negatives per model |
+- The bug: gap columns created by *other* hits' insertions made a valid 7-nt loop look broken. The patched extractor gives results identical to variant A on all 360 genomes.
+- C passes the literal rule (no added false non-U33) and was still rejected, because wrong-locus U33 calls are not recoveries. Only one armless construction was tried.
+- **A adds a wrong call:** of the two "recovered" genomes, *Lima* is at the annotated locus and `NC_071830` is 7 kb from its annotated gene (score 20.2).
+- **The 10.3% accepted as a borderline pass omitted accepted calls at the wrong locus.** Counting failed or wrong-locus: baseline 34/273 = 12.5%; with A 33/273 = **12.1% (95% CI 8.7–16.5)**. Wrong-locus means no overlap with the RefSeq-annotated trnY; some annotations may themselves be wrong.
+- Nematode failure is unchanged at 11/38 (29%); 10 of the 11 are Enoplea; their annotated trnY are 51–62 nt.
+
+Per-phylum failure with the adopted extractor (negatives with an annotated/known gene): `results/gate2/trny_phylum_failure.tsv`, reproduced in `PREREG.md`.
+
+## A2. Auxiliary modules (built and tested on the panel)
+| Module | Test | Result | Use in PREREG |
+|---|---|---|---|
+| Origin counter (`src/origins.py`) | 6 hand cases; 400 random trees by exhaustive enumeration | 0 mismatches for minimum changes and hard-polytomy gains; `gains_min` checked on hand cases only | locked |
+| Terminal stops (`src/aux_checks.py`) | against annotation, negatives | "first in-frame stop" rule: 567/567 TAG and 1595/1596 TAA right. **TAG-first rule calls 43.3% (409/944) of annotated TAA stops TAG** | "first" locked, conservative; TAG-first is an upper bound only |
+| – incomplete T/TA stops | against annotation, broad panel | 161/443 (36%) recognised | not testable; exploratory |
+| – coverage | | 41% (matched) and 64% (broad) of annotated genes called; the rest not found or not aligned to the 3' end | reported with every result |
+| Codon O/E | *A. chinensis* vs Zhao Table S4 | TAA/TAT/TAC 0.31/0.18/0.51 (83 codons, aligned regions) vs 0.34/0.22/0.44 (whole CDS) | descriptive |
+| Extra tRNA (`src/extra_trna.py`) | Zhao's two claims; false positives | finds *Radopholus* UUA and *Pseudotanais* AUA **with ARAGORN only**; same class of hit in 12/315 (UUA) and 38/315 (AUA) broad negatives. Two-caller hits: 0/20 positives, 1/25 matched (*Heteranomia aculeata* M, UUA), 1/315 broad (AUA) | exploratory |
+
+**A circularity was found and removed.** The first terminal-stop version looked for TAG first in Tyr genomes; it agreed with annotation in 69/69 genes only because both assume the code. Both rules used now treat every genome identically.
+
+**Seen on the panel, therefore not confirmatory:** TAG share under the "first" rule — Anomioidea (Tyr) 36/57, Plicatulidae 8/12, Pseudotanais 15/16, Cephalodiscidae 1/4, Radopholus 1/5; canonical sisters *Pododesmus* 9/15, *Rhabdopleura* 5/8, *Heteranomia* 1/17, Tanaidacea 13/35, nematodes 10/39. *Pododesmus* and *Rhabdopleura* are TAG-rich without reassignment.
+
+## A3. mtRF1a firewall
+`src/mtrf_guard.py` is now called by every `mtRF1a` script that reads data (`mtrf_bg_fetch.py` uses `panel_guard`); tested: `SRR11101525` and an unknown run are refused, panel sources run. miniprot was run from the command line in Gate 2 and must go through a guarded script from now on.
+
+## A4. Deviation log: data used that is not in the frozen panel
+| Data | Taxon | When | Why it is out of panel |
+|---|---|---|---|
+| SRR11101525 (mtRF1a) | *Rhabdopleura annulata* | Gate 2 | genus is a control; species/run not a panel id |
+| SRR11101524 (mtRF1a) | *Cephalodiscus* sp. | Gate 2 | same |
+| GCA_990049579.1 (mtRF1a) | *Anomia ephippium* | Gate 2 | panel species, different specimen and assembly from the panel mitogenome |
+| OZ576062.1 (trnY only; tRNAscan-SE, ARAGORN) | *Anomia ephippium* | Gate 0 | scanned before the panel was frozen; excluded from it afterwards |
+| Figshare *Isomonia*, *Idas*, *Lima*, *Spondylus*, *Ctenoides*, *Planostrea*, *Terua*, *Leptopecten* | bivalves | Gate 2 | record lengths, topology and gene counts listed; no caller run |
+The first two were mtRF1a-caller runs outside the frozen panel without the guard. They are closed to reuse in code and their results are descriptive only.
+
+## A5. *Plicatula muricata* mtRF1a (UAA=Tyr with T216 retained)
+- **Loop** (human 196–222): `EGGVHRVQRKPVTDRNNKRQTSTITVA`; human `EGGVHRVQRVPKTEKQGRVHTSTMTVA`. No indels, 63% identity. Q203 = `CAG`; **T216 = `ACA`**. Changed: V205K, K207V, E209D, K210R, Q211N, G212N, R213K, V214R, **H215Q**, M219I, so both the `PxTE` and the `HTS` motifs are altered although T216 is kept.
+- **Gene model:** `PMU02G001039`, chr02:78305761–78334157 (−), 5 exons. CDS rebuilt from genomic DNA matches the deposited protein exactly (276 codons, no internal stop); the loop lies inside one exon. The model has 276 residues against 380 in human, so the N-terminus looks incomplete. GGQ motif intact (`GAGGQH`).
+- **Paralog audit:** best human hit MTRF1L (292 bits) over MTRF1 (235); the proteome's other RF-like genes are MRPL58 (`PMU03G000913`) and MTRFR (`PMU06G002011`). In the FastTree tree it groups with the two *Heteranomia* copies (support 0.917), in a clade of RF1-type proteins (0.612). `tblastn` against the assembly (E≤1e-3): 17 HSPs, all at this locus; one covers the loop; several are partial tandem copies of the exon at residues 129–174.
+- **Limits:** one individual, one assembly; no transcript evidence read; *P. australis* has no nuclear data. *P. plicata* RNA-seq (SRR3350473) is out of panel and is a pre-registered Gate 4 target.
+
+## A6. Leave-one-lineage-out (`results/gate2/lolo.tsv`)
+Every lineage is fully recovered by every procedure except *Pseudotanais*: fixed rule 5/5, negatives-only thresholds 5/5, midpoint thresholds 3/5, 0.8×min 2/5. Holding out whole origins gives the same. 0 false positives among 340 negatives in every fold. *Cephalodiscidae* and *Radopholus* rest on one genome each. The fixed rule was hand-set after seeing all lineages, so its 5/5 is in-sample.
+
+## A7. Weak tier (panel)
+On negatives: 1/340 (*Acanthobdella*). Planted series (65 genomes, replicate 0; primary / weak / neither): 5% 0/59/6; 10% 16/48/1; 25% 59/6/0; 50% 63/2/0; 100% 63/2/0; 0% 0/0/65.
+
+## A8. *Albula vulpes* (calibration observation)
+`NC_082992.1` (from OR546140): trnY 5488–5418 (−), loop `CCGUAGC`, N33 = **C**, stem 5/5, CM score 65.4; ARAGORN (G34 at 5456) and tRNAscan-SE (51.8) agree; overlaps the annotated gene. UAA = Stop: 0 internal TAA over 3,376 aligned codons, 13 genes, 72 conserved-Tyr columns; table 2. A candidate sufficiency counterexample seen during calibration, not a discovery. Follow-up is pre-registered (T6). OR546140 is the only *A. vulpes* mitogenome in the INSDC list, so no conspecific mitogenome is available there; two *A. glossodonta* records exist (CM165726.1, AP002973.1).
+
+## A9. Resources
+Resource rule of 2026-11-23 applies (≥30 GB free; ledger). **No ledger was kept during Gates 0–2.** `data/manifests/download_ledger.tsv` was reconstructed from files on disk and session logs; 5 SRA/ENA rows have no checksum because the files were deleted, and NCBI/ENA API responses were never metered. Cumulative: **11.33 GB** in 277 rows (5 without checksum), including the *Plicatula* genome and GFF fetched for A5. Earlier totals in this file (≈10.6 GB) were estimates.
+
+## A10. Why 1 of 340 negatives is in the weak tier
+*Acanthobdella peledina* `NC_063475.1` (leech; mitogenome "complete", full length). All four in-frame TAA codons lie in repeated, degraded ATP6-like copies downstream of the annotated gene (annotated ATP6 ends at 14,592; copies between about 14,660 and 18,330, 10 partial profile domains in several frames). Three sit at an Arg column (p(Arg) = 0.79) and one at a Tyr column (p(Tyr) = 0.74). The full-length ATP6 (13,893–14,592) has none. The genome is annotated table 5 and calls Stop. Because all TAAs are in one gene, it fails the primary rule (≥3 genes) and never enters the primary tests. It is a pseudogene/duplicate-copy artefact, and it explains Codetta's Arg call for that genome. The caller does not distinguish duplicate gene copies; this class is the kind the weak-tier audit must reject.
+
+## A11. Threshold method for the primary UAA caller
+Definition: every count threshold is the maximum over the 340 negative controls plus a margin, set without any positive or non-panel genome: internal TAA ≥ 4+1 = 5; genes with TAA ≥ 1+2 = 3; conserved-Tyr-column TAA ≥ 1+2 = 3; Tyr log-likelihood ≥ 3 (no negative exceeds 0). Codetta thresholds are Lin's published ones; the Codetta setting was preferred over the default after seeing 17/20 vs 20/20 positives, so that choice did use positives. The margin values were chosen while the positives were visible and the formula was written afterwards to describe them; it reproduces the fixed rule exactly. The choice of the "most conservative on negatives" principle is the author's.
+- Specificity check, leave-one-phylum-out over the negatives (thresholds from the other phyla, both with and without the margin): **0 false Tyr** in every held-out phylum.
+- Sensitivity, leave-one-lineage-out: thresholds of this method do not use positives, so recall equals the in-sample 20/20 (every lineage in A6). Two other procedures that do use positives give *Pseudotanais* 3/5 (midpoint) and 2/5 (0.8×min); other lineages full. The in-sample figures are not held-out estimates for a new lineage.
+- Because 0/340 has a 95% upper limit of 1.1% (Wilson), a sweep of about 33,000 genomes could still hold up to ~370 false Tyr calls from the error rate alone. The clade rule and the locus/alignment audits, not the caller, carry the specificity at sweep scale.
+
+## A12. Locus-identity audit (`src/locus_audit.py`; panel test)
+Rules: verified GUA in a 7-nt loop with stem ≥4/5; overlap ≤10 nt with any annotated CDS or other tRNA (if no annotation, with profile PCG domains and non-GUA tRNA calls); if a trnY is annotated, >50% overlap on the same strand. Of 305 confident calls on the panel, 261 pass. Failures: stem <4/5 18, disagreement with the annotated trnY 6, overlaps the rest. *Albula* passes. The 10-nt tolerance and the stem cut-off are author choices; with tolerance 0 the pass count is 188/305, 5 nt 254, 10 nt 261, 20 nt 264; 73 calls pass only because of the 10-nt tolerance, because neighbouring mitochondrial genes normally overlap by a few nucleotides. Two *Enigmonia* calls fail because ARAGORN reports an overlapping UUG tRNA, a caller artefact rather than a wrong locus.

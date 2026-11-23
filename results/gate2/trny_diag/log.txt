@@ -1,0 +1,24 @@
+2026-11-23 15:44:24 diagnostic pass START (limit 2 h)
+15:46:01 A start
+15:46:34 calibrate nem_all
+A done 360
+15:48:48 B start
+15:49:28 calibrate nem_minus_Mermithida
+15:52:36 calibrate nem_minus_Dorylaimida
+B done 360
+15:52:45 A/B end
+15:54:51 calibrate nem_minus_Trichinellida
+15:57:05 calibrate nem_minus_Rhabditida
+15:59:16 calibration done
+15:59:18 C nem_minus_Mermithida cols (31,32,range(25,30),range(37,42),range(30,37))
+C done 360
+16:02:13 C nem_minus_Dorylaimida cols (31,32,range(25,30),range(37,42),range(30,37))
+C done 360
+16:05:36 C nem_minus_Trichinellida cols (31,32,range(25,30),range(37,42),range(30,37))
+C done 360
+16:08:56 C nem_minus_Rhabditida cols (25,26,range(19,24),range(31,36),range(24,31))
+C done 360
+16:12:36 C nem_all cols (31,32,range(25,30),range(37,42),range(30,37))
+C done 360
+16:15:11 C end
+2026-11-23 16:15:13 diagnostic pass END (variant A adopted; B and C rejected)

@@ -1,6 +1,8 @@
 """Align RF1-type candidates (best human hit MTRF1L/MTRF1, genome models minus bacterial contaminants) and genotype human NP_061914.3 positions 203 and 216,
 plus codon-recognition-loop indels and divergence. Anchors are columns of human MTRF1L motif residues: HRVQRVPKTE (200-209) and GRVHTST (212-218)."""
 import csv,subprocess,sys,re,json,collections
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check([l[1:].split("|")[0].strip() for fn in ("data/mtrf/candidates.faa","data/mtrf/genome_models.faa") for l in open(fn) if l[0]==">"])
 B="env/prefix/bin/"
 L={r["protein"]:r for r in csv.DictReader(open("results/work/mtrf_labels.tsv"),delimiter="\t")}
 S={};cur=None

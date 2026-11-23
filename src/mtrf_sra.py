@@ -1,5 +1,7 @@
 """Fetch SRA files from the NCBI open-data bucket, stream FASTA through diamond, keep hits only. usage: mtrf_sra.py RUN..."""
 import sys,subprocess,os,shlex,time
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check(sys.argv[1:])
 B="env/prefix/bin/"; R="data/mtrf/reads/"; DB="results/work/rf1_diamond"
 for run in sys.argv[1:]:
     out=R+run+".hits.tsv"

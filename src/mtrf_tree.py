@@ -1,4 +1,6 @@
 import csv
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check([l[1:].split("|")[0].strip() for fn in ("data/mtrf/candidates.faa","data/mtrf/genome_models.faa") for l in open(fn) if l[0]==">"])
 L={r["protein"]:r for r in csv.DictReader(open("results/work/mtrf_labels.tsv"),delimiter="\t")}
 S={};cur=None
 for l in open("data/mtrf/candidates.faa"):

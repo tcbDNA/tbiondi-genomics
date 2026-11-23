@@ -1,5 +1,7 @@
 """Map read hits to human NP_061914.3 columns via loop.aln; list reads covering human 196-222, with their translated loop segment."""
 import sys,json,re
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check(sys.argv[1:])
 A={};cur=None
 for l in open("data/mtrf/loop.aln"):
     if l[0]==">": cur=int(l[1:]); A[cur]=""

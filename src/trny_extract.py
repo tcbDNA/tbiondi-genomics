@@ -36,8 +36,8 @@ def run(fa,maxsens=False):
             key=nm if nm in tbl else next((k for k in tbl if k.split("/")[-1]==nm.split("/")[-1] and k.split("/")[0]==nm.split("/")[0]),None)
             s,e,strand,score,ev=tbl[key] if key else (0,0,"?",0,0)
             g=lambda c: al[cm[c]].upper().replace("T","U") if c in cm else "-"
-            idx=[cm[c] for c in LOOP]; ins=any(al[i].islower() or False for i in range(idx[0],idx[-1]+1))
-            contig=idx[-1]-idx[0]==6 and all(al[i] not in "-." for i in idx)
+            idx=[cm[c] for c in LOOP]
+            own=[al[i] for i in range(idx[0],idx[-1]+1) if i not in idx and al[i] not in ".-~"]; contig=not own and all(al[i] not in "-.~" for i in idx)   # only THIS sequence's insertions count (fixed 2026-11-23: other hits' insert columns used to fail the check)
             anti="".join(g(c) for c in (C34,C35,C36)); stem=sum((g(a),g(b)) in PAIR for a,b in zip(S5,reversed(list(S3))))
             pre=sum(1 for ch in al[:cm[C34]] if ch not in "-.~"); g34=(s+pre if strand!="-" else s-pre) if cm.get(C34) is not None and al[cm[C34]] not in "-." else 0
             out.append(dict(hit=nm,start=s,end=e,strand=strand,score=score,evalue=ev,g34_pos=g34,anticodon=anti,N33=g(C33),loop="".join(g(c) for c in LOOP),stem_pairs=stem,loop_ok=contig,g37=g(35)))

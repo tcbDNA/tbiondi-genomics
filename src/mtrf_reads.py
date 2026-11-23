@@ -1,6 +1,8 @@
 """Resumable read retrieval + diamond blastx against RF1-type proteins. usage: mtrf_reads.py RUN...
 Downloads to data/mtrf/reads (verified by byte count), keeps only diamond hits, then deletes FASTQ if --purge."""
 import sys,subprocess,os,urllib.request,json
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check(sys.argv[1:])
 RUNS={"SRR1695471":"Cephalodiscus hodgsoni RNA-Seq","SRR11101524":"Cephalodiscus sp. RNA-Seq","SRR11101525":"Rhabdopleura annulata RNA-Seq","ERR15194044":"Pseudotanais sp. a WGS"}
 B="env/prefix/bin/"; R="data/mtrf/reads/"; os.makedirs(R,exist_ok=True); DB="results/work/rf1_diamond"
 if not os.path.exists(DB+".dmnd"): subprocess.run([B+"diamond","makedb","--in","data/mtrf/loop_in.faa","-d",DB],check=True,capture_output=True)

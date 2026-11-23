@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+#=GF AU Infernal 1.1.5
+
+NC_033868.1         GACUUAUUU----..........--AUU-..................--AAU.CCUGUUUGUAAAACAAG.....AUCAGGC------..---g......ua--GCCAAGAGUC.A
+NC_036666.1         AAAAGAUUAGUUU..........AUUACU.................aAAAUG.UUAGAUUGUAAAUCUAA.....AGAA---------..-UU.........UU---UUCUUUU.G
+NC_021120.1         GAGAGUUUAUUUU..........AAAAUU................uaAAAUA.AAAGAUUGUAAAUCUUU.....AGAU---------..---.........UU---AAUUCUU.A
+NC_033867.1         GACUAAUUU----..........------..................---UC.CCUAUCUGUAAAAUAGG.....GUAAAGGUU----..---.........AUCCUAUUAGUC.A
+NC_033869.1         GAGUAAUUA--UG..........ACUAUA..................AAACC.CUUGUCUGUAAAAUAAG.....GCAUAGCU-----..---.........UAGCUAAUAGUC.G
+NC_025752.1         UUU-AGAUAA--U..........AGCUUU.................aGAUUU.UCAAACUGUAAAUUUGA.....AAUAUAAAGGU--..-AA.........UUUUGUC--GGA.A
+NC_025753.1         -----CAUAAUUUuaga..uaauAGCUUU.................aGAUUU.UCAAACUGUAAAUUUGA....aAUAUAAAGG-U--..-AA.........UUUUGU------.C
+NC_025751.1         CAUAAUUUAGAU-a.......auAGCUUU.................aGAUUU.UCAAACUGUAAAUUUGA.....AAUA-------UA..AAG.........GU---AAUUUUGuC
+NC_025754.1         --GCGAUUAGAUAa........uAGCUUU.................aGAUUU.UCAAACUGUAAAUUUGA....aAUAUAAAGGUA--..---.........AUUUUAUCGG--.-
+NC_071371.1         UUGACAACA---U..........AUUA--..................AUUUA.UAAAACUGUAAAUUUUAaaaauUAAU---AAUUA-uaAAG.........UUGU-------U.A
+NC_024638.1         AAGAAUUUAGUUU..........AUUAAA..................AAAUU.UUAAAUUGUAAAUUUAA.....AGAA---------..--U.........AU---UAUUCUU.G
+NC_056772.1         GGAUUUUUAUUUU..........AAUAA-..................AAAUA.UUAAUUUGUAAAAUUAA.....AGAU---------..--U.........-----AUGAUCU.U
+NC_031648.1         GAAAACUUAGUUU..........AUUUUU.................aAAAUA.UUAGAUUGUAAAUCUAA.....AGAU---------..--U.........UU---UGUUUUU.G
+NC_026556.1         GGACUUUUAUUUU..........AUAAA-..................AAAUA.UUAAUUUGUAAAAUUAA.....AGAA---------..---........a-----AAUGUCU.A
+NC_035251.1         AAGAGUUUAGUUU..........AAUUUU.................aAAACG.UUAGAUUGUAAAUCUAA.....AGAU---------..--U.........CU---UGCUCUU.G
+NC_035252.1         AAGAGUUUAGUUU..........AAUUUU................uaAAACG.UUAGAUUGUAAAUCUAA.....AGAU---------..--U.........CU---UACUCUU.G
+NC_024097.1         GGACUUUUAUUUU..........AUAAA-..................AAAUA.UUAAUUUGUAAAAUUAA.....AGAA---------..---........a-----AAUGUCU.A
+NC_031516.1         AAGAAUGUAGUUU..........AAAUAA..................AAAUA.UUAAAUUGUAAAUCUAA.....AGUU---------..---a.......a-----GAUUCUU.G
+NC_023208.1         GAGAAUUUAUUUU..........AAAAUU.................uAAAUA.AAAGAUUGUAAAUCUUU.....AGAU---------..---.........UU---AAUUCUU.A
+NC_025291.1         GAGGUUUUAUUUU..........AAUUAA..................AAAUU.UUAAACUGUAGAUUUAG.....AGAU---------..---.........UA---UUGCCUU.G
+NC_016129.1         GAAAAUUUAGUUU..........AUUUGU..................GAAUG.UAUAAUUGUAAAUUAUA.....AG-----------..---gaa...aua-----AAAUUUU.U
+NC_007934.1         AAAAGAUUAGUUU..........AUUUUU................uaAAAUA.UUAGAUUGUAAAUCUAA.....AGAA---------..-UU.........UU---UUCUUUU.G
+NC_014181.1         AAGAAUUUAGUUU..........AAAUUA.................aAAAUA.UUAGAUUGUAAAUCUAA.....AGUU---------..---.........GU---UAUUCUU.G
+NC_001328.1         AAGAGUUUAGUUU..........AAGUUA..................AAACG.UUAGAUUGUAAAUCUAA.....AGAU---------..--U.........AU---UGCUCUU.G
+NC_008640.1         UAAAAUUUAUUUCca......auAUUCAU..................AAAAU.CAUAAAUGUAAGUUAUA.....AUGU-----U---..--U.........UA---AACUUUG.A
+NC_008693.1         GCUA--------UacaaguauucA-----a..............u..AUAAA.UAUAAGUGUAAAUUAUA.....AAGUAAA------..---.........-----UUACAUU.G
+NC_008828.1         UGUUUUAAA-AUG..........G-----u..............uuaUAAAU.UUAAUUUGUAAAAUUUA.....AAUU----GUUAU..AAU.........-----AAAAACU.G
+NC_005928.1         GACUAUAAA----..........--A---..................--AAA.CUUGUCUGUAAAACAAG.....GUUCAGC------..---c......ua--GCUAAUAGUC.G
+NC_008047.1         CUUUAAA---CUU..........AAUAUU................uaUAGUGuUAUAAGUGUAAAUUAUA.....AUG----------..---u.......u-----UUUAAAA.C
+NC_028621.1         UGAUAACUA----..........------cuug........gauu..----A.UAAAACUGUAAAUUUUA.....UUAAAU-----CA..AGA.........AAUAUGUUAUCA.U
+NC_008692.1         UUAAAUUUAUUU-..........------ccaaua....ucucuu..-AAGU.UAUAAGUGUAAAUUAUA.....AUGU---------..AUU.........AA---ACUUUGG.A
+NC_014282.1         AAAGUCUUAGUUU..........AUUUUU.................aGAAUU.UAGAAUUGUAAAUUCUG.....GG-----------..---ga.....uu-----AGA---U.U
+NC_017750.1         U-UAAAGAA----..........------ggcaauuucugaguaa..----G.UAAGACUGUAAAUUUUA.....UU-----------..---gugcucagg-----CUGUAAG.G
+NC_061210.1         GAGGACUUAGUUU..........AAGAA-..................AAAUU.UUAAAUUGUAAAUUUAA.....AGAU---------..---.........UA---UGUUCUU.G
+#=GC SS_cons        (((((((,,<<<<..........______~~~~~~~~~~~~~~~~..>>>>,.<<<<<_______>>>>>.....,,,,.....____..___~~~~~~~~~.....))))))).:
+//

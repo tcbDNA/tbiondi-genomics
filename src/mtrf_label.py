@@ -1,5 +1,7 @@
 """Label candidates by best human paralog (blastp vs 4 human refs); output results/work/mtrf_labels.tsv and per-class FASTA."""
 import subprocess,csv,collections,sys
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
+mtrf_guard.check([l[1:].split("|")[0].strip() for l in open(sys.argv[1]) if l[0]==">"])
 B="env/prefix/bin/"
 FA=sys.argv[1]; OUT=sys.argv[2]
 subprocess.run([B+"makeblastdb","-in","data/mtrf/human_refs.faa","-dbtype","prot","-out","results/work/db_hs"],capture_output=True)

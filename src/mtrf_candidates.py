@@ -1,11 +1,13 @@
 """Collect MTRF1L-like candidates: (a) proteomes by blastp against the human refs, (b) unannotated assemblies by miniprot with bivalve/nematode refs.
 Writes data/mtrf/candidates.faa and results/work/mtrf_candidates.tsv. Control-panel species only (names come from the panel-linked files)."""
 import sys,os,subprocess,glob,csv,re,zipfile,io
+import sys as _s; _s.path.insert(0,"src"); import mtrf_guard
 B="env/prefix/bin/"; REF="data/mtrf/human_refs.faa"; OUT=[]; FA=open("data/mtrf/candidates.faa","w"); seen=set()
 def emit(src,sp,pid,s,ev): 
     if (src,pid) in seen: return
     seen.add((src,pid)); FA.write(f">{src}|{pid}\n{s}\n"); OUT.append([src,sp,pid,len(s),ev])
 def proteome(src,sp,faa):
+    mtrf_guard.check([src])
     db="results/work/db_x"; subprocess.run([B+"makeblastdb","-in",faa,"-dbtype","prot","-out",db],capture_output=True)
     r=subprocess.run([B+"blastp","-query",REF,"-db",db,"-evalue","1e-8","-max_target_seqs","20","-outfmt","6 qseqid sseqid evalue bitscore sseq","-num_threads","4"],capture_output=True,text=True)
     # full sequences

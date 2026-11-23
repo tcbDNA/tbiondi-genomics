@@ -1,0 +1,278 @@
+gate	source_url_or_accession	file	bytes	sha256	status
+0/2	https://www.biorxiv.org/content/10.64898/2026.08.14.744788v1.full.pdf (web-fetch tool)	data/sources/fulltext/lin2026.pdf	1741302	0fba599258ff671c0dc240721849b7e611b95da360f407d22014c263602000f1	on_disk
+0/2	user browser download (10.1186/s12915-026-02767-5)	data/sources/fulltext/zhao2026.pdf	8340606	a5c2dcbc23c563497d16b319d5aa1bf0b101a17dc854c18c7744630dd2c7b27a	on_disk
+0/2	user browser download	data/sources/fulltext/zhao2026_MOESM1.docx	34554	0ea3406cdcc357e7b3019a31643dba1f0f3682569930bed64ce827d490def7b6	on_disk
+0/2	user browser download	data/sources/fulltext/zhao2026_MOESM4.docx	32639	2e5cc4e0e4ffd8b7d353493be2f4dae17ee75bf6302d2d579d1b19759d593fc8	on_disk
+0/2	static-content.springer.com MOESM9	data/sources/fulltext/zhao2026_MOESM9.pdf	1756310	81d1abc5113674d267da1c135a01955f0bba08dcb65e234999b9e9094d70f843	on_disk
+0/2	Europe PMC	data/sources/fulltext/PMC6319601.xml	130383	57952048022eda0f3db8489bad5fca6ee502caac8b58c0cdacdcc94161a27ee9	on_disk
+0/2	Europe PMC	data/sources/fulltext/PMC2761399.xml	94606	6ac87cc1bd5981a6bb7769456f1cae9c244c4be2752ebde01d1c770df752cdfa	on_disk
+0/2	Europe PMC	data/sources/fulltext/PMC3121625.xml	128767	a711df94c40bf5934cc8102c96edb8c6bee1f1398f53718c1eaef3ae5f3555e6	on_disk
+0/2	arphahub 192470 xml	data/sources/fulltext/matsushima2026.xml	129869	02a9effcb7fb82273dc2f5b4a4779e192b6185673b794c7e3205f37e593213b6	on_disk
+0	http://eddylab.org/publications/Shulgina21/Pfam-A_enone.tar.gz	data/pfam/Pfam-A_enone.tar.gz	1160236151	6cce99a144323840301625fc981d80cd4987fec6881e8c6fa7c90d1b0304112e	on_disk
+1	ftp.ncbi refseq/release/mitochondrion r238	data/ncbi/refseq_mito/mitochondrion.1.genomic.gbff.gz	403081513	746e340bc7dd1c2a16600b91f017b68a4c1665a15dd56e2ac46b66a421dd4cf8	on_disk
+1	ftp.ncbi pub/taxonomy/new_taxdump	data/ncbi/taxonomy/new_taxdump.tar.gz	163507645	79d1dd4dffefeeb38d68fcba2019d46d637164601626e11c0afe95d4bff20e1b	on_disk
+1	data.orthodb.org odb13v0_species	data/orthodb/odb13v0_species.tab.gz	827322	0ff54ac25451be575962833bf118f8b53b8b3f17a17ad28149f6c18772bcb388	on_disk
+1	ENA portal read_run RNA-Seq taxids	data/ena/invert_rnaseq.tsv	16446896	2acb42f100b87f1818a8d3fbaa3bc154eaba103b6e086089cbd7adaff5dab8d8	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00000.fna	5532282	b01bbbf738b657518f8fd50dff0525852ce9879046b771d8a5082e2b865cd5ae	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00300.fna	5801816	4c59fc35c07aa937a93ee8fa3e3563f3f3185b56eb710c29f347610cdd3785b2	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00600.fna	5596346	eddf63c1b7f8f020c5ea1e1819642d81f2976b2669d40ef06db6e090ae626d55	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00900.fna	5423261	e6c2c284a3cee1f0ca18555ac77b01a50ea3cda897f2d99dcc6221deb77f52ca	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b01200.fna	5220850	1387d76eb395b8958ba56ca28d918d149bac54f1ad7cec2553d0ed987f062661	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b01500.fna	5354301	6236a9b5b5354d4401cf31ecd22b2d2b13cfd3facd40a588788272ec1e56bd09	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b01800.fna	5206446	885506aa406984a571214e3c9501433fbd741381d1b54ae04fff7dc9196b39c1	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b02100.fna	5141613	7ea7e07bb40ae72acacb4f6e01f3236ae80065ef316dccea66bb0ae2fa623ec5	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b02400.fna	5723489	c007a1607694055f0d484cfa6d9c445b516de6c42adc5c19b8de2a400c1d5bff	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b02700.fna	5588843	2e423fa1a2d96bd27c986e1fa14f560cfd8e1b9323c36216b024816d07031394	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03000.fna	5338998	ee235894d2bd35d2f5b23f0b3990a5c69e4b8d8b16a82e76b6ed8e31e0c9a056	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03300.fna	5239127	f0c46bb95d3a1c6ba50b9a193d96187b675aad1022e056fea5a10bcc4c53e922	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03600.fna	5122163	707cf798330de29ac0827a082f59cc000a8606f3ed7141b1d83dfde993ed568a	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03900.fna	6658879	140f288f65368c4e8bcb6082f18ed67fea85da4d69e31fee70d96fd32f4d7a5a	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b04200.fna	5103419	807931522fdb3a4ecef19d9016bac0d3775b580e2da353fc8d0d277fd402893c	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b04500.fna	5196355	c5ecf6b3005a3514cd8a46fbaf9b8f7fa2f5335ff59dc3f662fffd092f02e0c6	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b04800.fna	5048563	457e39ada43a970de4f0390b23ff3b2e0fa11bdfb960b79ee906dc722c452edf	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b05100.fna	5146807	312df911a85b3b54a838839d988c8c87ad64b0656cf13bc233d7b72be89e0ac2	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b05400.fna	5683130	2c51cc52b0f27da7434544bed4d9d10ea58221a9924aeda184e96126041214d2	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b05700.fna	4949310	f90ab0bf5d26fa45792316eafa91ee31de9a8886b42df3ce4cf679f85e1470d8	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b06000.fna	4956399	47e8b036bff97fbcd7c0327198133c615aaf46a962046e6562efdf0e5fea93d1	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b06300.fna	3810937	35800a22e8e5ed2260dd90583970f9b87a75d0a904b44aa8ee7b53fe561f9322	on_disk
+2	https://ndownloader.figshare.com/files/68295238 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/mitogenomes.zip	341015	ca16c27165cac11be55100416ca79c02169ef2c308e98e55dbafcfa782358da8	on_disk
+2	https://ndownloader.figshare.com/files/68294806 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Hsq.chr.pep	8042839	a4c36e7b3e4f8ecc12a022af0b8b3cbc506d15c4105aa54e218e322dfcb54b39	on_disk
+2	https://ndownloader.figshare.com/files/68294893 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Pmu.chr.pep	12307739	840c5f94672071f7dbbf3830b2a9a5518fd6cf5907d3a3ec914835ace6008ce1	on_disk
+2	https://ndownloader.figshare.com/files/68294896 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Ach.chr.pep	10569073	12ba14ed80b75141c8a1b6d17064bee6611ea36089fc339a3584c729b9e04bf1	on_disk
+2	https://ndownloader.figshare.com/files/68294980 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Pvi.chr.pep	10413359	bd7ddda2294396cac79f3ec6274bc445f4d2b987cb1b8744450c69953646c5f0	on_disk
+2	https://zenodo.org/records/4284483 refseq89m (CC BY 4.0)	data/mitos_ref/refseq89m.tar.bz2	19629319	899c8b571d6290f6dac252959b691779a81258c54ca70982cf91af5ba996df53	on_disk
+2	NCBI datasets GCA_062075034.1	data/nuclear/AnoChi.zip	173728286	8ee56210c03e9eeb4fc094a6c252ad637864ac0a05c4cfb28ccfd7d92d33a5ca	on_disk
+2	NCBI datasets GCA_990049579.1	data/nuclear/AnoEph.zip	184049394	8efabfab5f05a37831f11eca324e9751e4c01710213933aa8509d9f16f36e56c	on_disk
+2	NCBI datasets GCA_056601665.1	data/nuclear/EniAen.zip	141266750	310fe0817515d58256735de981aa5a4497bf794d3dac8916babbffbba4351498	on_disk
+2	NCBI datasets GCA_964263325.1	data/nuclear/HetSqu.zip	220024676	b3fb831b57ee139d427502f3042a9e8a175fbb853a3622f9dbffc3eface4ed65	on_disk
+2	NCBI datasets GCA_032359645.1	data/nuclear/PodMac.zip	246500041	3a3ee097010f7cacd3e6e21361716fe29aa579374549357b0bb593ad06ab79d7	on_disk
+2	NCBI datasets GCA_013357305.1	data/nuclear/RadSim.zip	16337854	a9fd8b07f4a46d9aa8c18504c3b382c00d7ce499684c795f1ebb1ebc3765b189	on_disk
+2	NCBI datasets protein GCA_000613005.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_000613005.1.faa	4922362	0c9c3441b510a6a633e87a2210b44f265523cb882cf3cb4c1f0bf9c2d564a72f	on_disk
+2	NCBI datasets protein GCA_001642005.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_001642005.1.faa	3914205	dd7fccf67ae2e9b0f35b38aee5ec9626449e33d5a6c0c314f95f44ad27ab2fbe	on_disk
+2	NCBI datasets protein GCA_001949185.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_001949185.1.faa	9881437	6897f01e436c2e37e0036be210b36180b69ecbc0889b8179e0d6fcf85e9190eb	on_disk
+2	NCBI datasets protein GCA_002081605.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_002081605.1.faa	6565090	75a6299e8bc495bcab1345ff171ea77cccafaa77056f31350ed81fa3df0be82f	on_disk
+2	NCBI datasets protein GCA_002269645.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_002269645.1.faa	29415352	a0b0effd97f87eaf555d1d5d41f7fe7bfbb4fdcb2344c04f9635f3227d4892cd	on_disk
+2	NCBI datasets protein GCA_010799875.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_010799875.2.faa	10119881	d49d635671008dc2823f84752afc56fa14b60999fe7099e8e111f7179024893a	on_disk
+2	NCBI datasets protein GCA_012934845.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_012934845.2.faa	5672063	38c22207298caf41e678d492f21f2af126b86be1b0498fd429f1271f706baa68	on_disk
+2	NCBI datasets protein GCA_013399275.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_013399275.1.faa	7302487	65f27212a508bf84d48d315577e1b64cdab04ae70fb52676f52ee2a223c52e8e	on_disk
+2	NCBI datasets protein GCA_014773135.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_014773135.2.faa	6074833	379afa758e326e0bdc4475f404291651cbd3df11aca591d44da83cc6a28fa846	on_disk
+2	NCBI datasets protein GCA_021461655.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_021461655.1.faa	18806362	a4bd4d135b3dd7257708e8a604190ea159e4e325ec8c985075b6703fc085d4a3	on_disk
+2	NCBI datasets protein GCA_024699835.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_024699835.1.faa	6053964	3e9ef63d083aedb0c14aa9284a5d0efa58348c477736b103474a7760c54b361e	on_disk
+2	NCBI datasets protein GCA_024704765.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_024704765.1.faa	8169548	09bece62bc955e63479c2b4b4b4fe8b3c4341668b58f7c9ce5570d2b72547b8f	on_disk
+2	NCBI datasets protein GCA_025642065.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_025642065.1.faa	12668197	e5ae5406defe05a1d8035551319836426ea88fb0e9d0d3c4feedda55bac31997	on_disk
+2	NCBI datasets protein GCA_027574665.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_027574665.1.faa	15886402	9f35b0fb5288585967a038a0b312b0366ae25ef648cc1b54c140a8b219399d49	on_disk
+2	NCBI datasets protein GCA_056869575.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_056869575.1.faa	6543828	2ca393f14a5ece641e1b1d61e66970c0eab775f8b109a8e8c37ee28b9a9fc522	on_disk
+2	NCBI datasets protein GCA_900617985.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_900617985.1.faa	6918415	5aa9d046badfc20a02492b6b1ac9c47842a96e4d511954c95b6d65e6c749b087	on_disk
+2	NCBI datasets protein GCA_900618005.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_900618005.1.faa	5569466	8457e16360871fa79292b08cbc640b338eccb4b1ad7a75e1b1b29d02f556b9d9	on_disk
+2	NCBI datasets protein GCA_904066235.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_904066235.2.faa	8038534	57331e9bc4c4520a96ba715c874072700cfe40efad438c969367c05134a48f2b	on_disk
+2	NCBI datasets protein GCA_949281245.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_949281245.1.faa	7263552	c6cc2c77da704bcf7b6938f430358971ad26eb4dcd613bf05056644a4b219ac2	on_disk
+2	NCBI datasets protein GCF_000001215.4 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000001215.4.faa	22970738	89abbd45d03fab01b98bd66e419ad570a9fefe3060764ed98c264c1b47c99689	on_disk
+2	NCBI datasets protein GCF_000002985.6 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000002985.6.faa	15940185	4d4fa146fea00f49628615e5e745dc0d240af6f0c8ad823bbe241e57d9b73a66	on_disk
+2	NCBI datasets protein GCF_000090795.2 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000090795.2.faa	13675008	b36bf30f22d246eb8e379d6ee919cdbba22bffda129cfcfe33a732e856713a2b	on_disk
+2	NCBI datasets protein GCF_000243295.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000243295.1.faa	26529761	0302c1a2fad0dfa1658953dbe12d64afb110ac1cc8779e84989ebeab7c5b1903	on_disk
+2	NCBI datasets protein GCF_000696425.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000696425.1.faa	19905782	2cd3e262137b8ba329e8d944f80eb440693d1115c35277f5f623ba9a5761b40b	on_disk
+2	NCBI datasets protein GCF_002260705.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_002260705.1.faa	23151687	8ee9a3ffac8a1921e472508912fb838424e4047c924a49bd621cc030b7bbc352	on_disk
+2	NCBI datasets protein GCF_003343035.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_003343035.1.faa	28032663	b528ee32870132885cc93ce5b064f639261b0fa1f65dd7ff5c96249b9f6911bc	on_disk
+2	NCBI datasets protein GCF_004210375.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_004210375.1.faa	47572245	65236dc4a929118bde6a8077ac71bc638e6267ab7a8a396aeac121f97095b424	on_disk
+2	NCBI datasets protein GCF_016086655.4 (unpacked size; zip not kept)	data/mtrf/bg/GCF_016086655.4.faa	16369078	00322dd1fb29e11b3a1c7674b15f1568af8ebcf440c803281bbc3a6803edf705	on_disk
+2	NCBI datasets protein GCF_019393635.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_019393635.1.faa	31750809	51cb2b9a313a93f9a054098f7ada8cf06614eedba338c768b891ae62ad615cea	on_disk
+2	NCBI datasets protein GCF_021134715.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_021134715.1.faa	21804590	6b1b13708fccf0d299aad361aeb69659646492cfabc0a24960cf41acbc59398a	on_disk
+2	NCBI datasets protein GCF_030936135.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_030936135.1.faa	17102119	bfa40097b3450b935118892d0cbe3ffa96ee2591911217bffdaff4973e2e9e2e	on_disk
+2	NCBI datasets protein GCF_042767895.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_042767895.1.faa	33659431	20a33e4788a23aec990bd92bc48bed6aa98a22bf3a64fd9642d7c100a26439cc	on_disk
+2	NCBI datasets protein GCF_044704955.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_044704955.1.faa	33640057	f45800951c9bd5899c35ee69a5c823b1b6fd5555f93dc1cc0d9b9df79a3104ac	on_disk
+2	NCBI datasets protein GCF_051362555.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_051362555.1.faa	34597469	7faa3a75d787c14a0d6b082b0f6b888250322c6c77f1b566898db5393a6bcd29	on_disk
+2	NCBI datasets protein GCF_052040795.2 (unpacked size; zip not kept)	data/mtrf/bg/GCF_052040795.2.faa	79981652	430d6a2dd69d13158029d95034b84990cb799c8ab4be9b4ad60baebd4eb8e3cd	on_disk
+2	NCBI datasets protein GCF_943734695.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_943734695.1.faa	11413567	becbbb6693adf1a73e4748893330779e0af1b33d8dabe4397aaeb31f43cd757f	on_disk
+2	NCBI datasets protein GCF_963675165.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_963675165.1.faa	19860556	7960e2120c465fbbe882d3ec77244bbedd4bdbec42cba6fc5205967b697eef61	on_disk
+2	NCBI datasets protein GCF_963853765.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_963853765.1.faa	40731802	82bf119349b80afcd415966a66a615de881b40b84eb4d3950fe27513811f6d25	on_disk
+0/2	conda-forge/bioconda	env/pkgs/_openmp_mutex-4.5-8_kmp_llvm.conda	8016	c7c98ce74f6a7ff25aaa4706d06fa41d63a333add4d697b73aa4d8d2d7ad7651	on_disk
+0/2	conda-forge/bioconda	env/pkgs/aragorn-1.2.41-hbdacb55_5.tar.bz2	149735	77b5ec5c3a72cf830391e3129dd0a4306925df59cd1d019e4d15a837837f0c57	on_disk
+0/2	conda-forge/bioconda	env/pkgs/biopython-1.88-py311h5edb25e_2.conda	3289912	a132214c2175eb32ea157f8cdd9416b04d98651ec59e3567aa9e9f6ab0f633ad	on_disk
+0/2	conda-forge/bioconda	env/pkgs/blast-2.17.0-h81fc81c_1.conda	142274378	1dc98f7c569f5b8afee8e929dad096672a72b2989a153fd9e7d128930fed3fea	on_disk
+0/2	conda-forge/bioconda	env/pkgs/brotli-1.2.1-hf00d406_1.conda	20692	9d9b0d04641caddc2176600a2b8aa51ec8c9a43f05cbe046c7e81171227d2fa6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/brotli-bin-1.2.1-he4a93e4_1.conda	18902	bf143a31a524c763082b4cbf151e3829605d23fcf6b9718bfd21750fd6685020	on_disk
+0/2	conda-forge/bioconda	env/pkgs/bzip2-1.0.8-h4e30115_10.conda	124965	8ec22f0ba25cbfc2e64d70cf29459eccd7ffdf6436f6a6ff15bbfef799f7d4f6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/c-ares-1.34.9-h74c22ad_0.conda	201979	74b52d784b3576643da3aea1240a4120c1f25ee057f14ae5a89e8a7b3fb2e69f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ca-certificates-2026.11.20-hbd8a1cb_0.conda	123617	8c104262bf331b14478e36c6cedd63b558d4b7ff96f218742a91878353edeed1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/cairo-1.18.6-h580cee5_0.conda	844614	32ad9b731d0b4c6dd82061201206164b07bd695bc695e5eb3addc0087ed54cca	on_disk
+0/2	conda-forge/bioconda	env/pkgs/cairo-1.18.6-hf699903_2.conda	841530	190cc142c4fb9b5c05def1b75a460ff0346c44121467423f382ebe517da619f8	on_disk
+0/2	conda-forge/bioconda	env/pkgs/contourpy-1.3.3-py311h7d85929_4.conda	286095	57b2c28cbb45e7dacb565541483d802a15c6beff5ccdabba19784a526191f4d3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/curl-8.23.0-h6651222_0.conda	183387	c9628a012fba18552ef02a8a2b46db48153d10b9209c57bdec0a33afcdc508a5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/cycler-0.12.1-pyhcf101f3_2.conda	14778	bb47aec5338695ff8efbddbc669064a3b10fe34ad881fb8ad5d64fbfa6910ed1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/diamond-2.2.9-h5b4e277_0.conda	2126782	d253c8683ae7d048b54e121e07a7ddd63d59c4800389562ee7dfec716d409b56	on_disk
+0/2	conda-forge/bioconda	env/pkgs/easel-0.49-h3b51ae0_3.tar.bz2	2796114	b9f8c2f9bd57a22771d06e7c95c5c6ad81662b55396ed02678a1f271c8a7a5b8	on_disk
+0/2	conda-forge/bioconda	env/pkgs/entrez-direct-26.0-h2869703_0.conda	15123810	2b7885a37b171b688647ea5553dfdb579b99bffb5d103b7f63c65212f64ebcd5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fasttree-2.2.0-hd34ca47_1.conda	171404	8d864c33a9a1a9be767368c7e1f007725c7ce4988000fcfdd47f2f50cd6b5145	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2	397370	58d7f40d2940dd0a8aa28651239adbf5613254df0f75789919c4e6762054403b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2	96530	c52a29fdac682c20d252facc50f01e7c2e7ceac52aa9817aaf0bb83f7559ec5c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-source-code-pro-2.038-h77eed37_0.tar.bz2	700814	00925c8c055a2275614b4d983e1df637245e19058d79fc7dd1a93b8d9fb4b139	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-ubuntu-0.83-h77eed37_4.conda	1619009	a7384ac883b1acf492fd1aef27431f0f1a647bbb8b5709a1bfab11b0a765f5e5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fontconfig-2.18.4-he47a414_0.conda	276321	4c2f527e28e0e43d3963f4c702ec386cd29b7b3bbe9d48e9cf125ed0e4ebaf28	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fonts-conda-ecosystem-1-0.tar.bz2	3667	a997f2f1921bb9c9d76e6fa2f6b408b7fa549edd349a77639c9fe7a23ea93e61	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fonts-conda-forge-1-hc364b38_1.conda	4059	54eea8469786bc2291cc40bca5f46438d3e062a399e8f53f013b6a9f50e98333	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fonttools-4.68.0-py311h6b5b731_1.conda	3465062	4d21b381c0712462c10ad5c2424b488a50e6996d1d4192df62cee7282d5790fb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/freetype-2.14.3-hce30654_2.conda	175388	90681f1d0658cb2fd49a074f644eb4774272499290487a4bebb1c4df01d6997b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fribidi-1.0.18-hb001647_0.conda	64404	0eb7cf0378cfd45c4729e2eedd896bc1fab01872d1ed204d6ea8bbf853a0138d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gawk-5.3.0-h90c4c8c_0.conda	1142181	8480327e47f8ec69431af39783f4e468e2a762c71f2ec86799ace31b9e7567fc	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gettext-0.21.1-h0186832_0.tar.bz2	4021036	093b2f96dc4b48e4952ab8946facec98b34b708a056251fc19c23c3aad30039e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gmp-6.3.0-hf5e55b1_3.conda	399307	980cb1bbc3656d6f923d44297a2c4ab75f20482b8930c70537fd7f1ef2378894	on_disk
+0/2	conda-forge/bioconda	env/pkgs/graphite2-1.3.15-h784d473_1.conda	86493	471f34a187fdb4f2df33e26f2e471b16c239a5b277903f643d9c3a8c9a9f44ec	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gsl-2.7-h6e638da_0.tar.bz2	2734398	979c2976adcfc70be997abeab2ed8395f9ac2b836bdcd25ed5d2efbf1fed226b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/hmmer-3.3.2-h7133b54_4.tar.bz2	16216330	f4dfa222a0c5a3d89044018e652f3b9ba138098ef95770e2c58edac0d79941a2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/hmmer-3.4-h455b5b4_5.conda	9199359	b6b67f91ec0f43b2354256255c6441dc214aa42835438966e62557f5354a5632	on_disk
+0/2	conda-forge/bioconda	env/pkgs/icu-78.3-py310h579977c_2.conda	14070242	6cdb5dee54c72e56ab189fb3ad33cb28533553d42590e7e831160248f4416a43	on_disk
+0/2	conda-forge/bioconda	env/pkgs/icu-79.1-py311h7f96da7_0.conda	14115951	45c4961b3bdf4e95b9f37f69fe9531449789a3737dc4006b8e582747c6c2dc09	on_disk
+0/2	conda-forge/bioconda	env/pkgs/infernal-1.1.5-pl5321hd34ca47_4.tar.bz2	9701426	35fcd13e09c9dbdf365a778dde516f23f734ef0dfab27849004618c5325e7b30	on_disk
+0/2	conda-forge/bioconda	env/pkgs/kiwisolver-1.5.1-py311h0053de4_4.conda	63603	3cf9d36910d0e968d3de8514c5da83a8754b7e6c09a98e62205fac0117215e05	on_disk
+0/2	conda-forge/bioconda	env/pkgs/krb5-1.22.2-h34f8a20_2.conda	1165740	aaea1d42b07769920db2af7471ece9399d2613448863da64ad8272998db5db34	on_disk
+0/2	conda-forge/bioconda	env/pkgs/lcms2-2.20-hce41798_0.conda	213277	a5474fb5eea0d8d7219c29362df161327f09f02cb32f11c5ab4fa7460fe7b356	on_disk
+0/2	conda-forge/bioconda	env/pkgs/lerc-4.3.0-h0699d0c_0.conda	188293	93b1189cf3e47b93fe613dc08213cf22b892650097e8df77519e50f9301e9f62	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libblas-3.11.0-12_h51639a9_openblas.conda	18269	7eb4c80f9a4c16ac056b8f3f9f2b594190fe80ab5f124dc8f7663bc03bd47ff3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libbrotlicommon-1.2.1-h1dcdb26_1.conda	79726	21eb0f62d75c11e4d85b2502eae8978f6f5f918121ac114bb62fb23ed627fcfe	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libbrotlidec-1.2.1-h5295a6a_1.conda	29996	52c76b52f9dabe3ef66f146f2abf5c9a42fc119b74885eae7fde269d5194baa6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libbrotlienc-1.2.1-h2ddc9cb_1.conda	295939	b69e43362ea2ec100983f25d414ee7d7d3d852230e130de0784072a8b8548468	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcblas-3.11.0-12_hb0561ab_openblas.conda	18222	9d048e243b3ca39b3011dabecf6923a9fbb3b150e0cdce17b66c5c2d15727382	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcurl-8.23.0-h6651222_0.conda	425637	d9f60525b665e50da15c84fcb4e74e6b1f0a56ea4c89a02d4258f23c3fe1f02c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcxx-23.1.6-h88b51c2_0.conda	562036	a3c8011337fb36e3972152a2d18eaea0923dc4a67868f76c46792da7fbcb82f2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcxx-23.1.6-hc645fd0_0.conda	566632	822b2a88313977594230b7be745324e4c50293a35cf9244bb19ecc9c2c385288	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libdeflate-1.26-h72bfca4_0.conda	55312	f9c75ef67dbcc8e3c255d37e32948550bc8aa6752102c181686630b9ede96b8d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libedit-3.1.20260512-pl5321h26f1114_0.conda	108512	5692a969e49b200c7874d1e869d281753361980b2ecfe9191b571d7e550f8b92	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libev-4.33-h1a92334_3.conda	39991	c0100064506ae8abb432c5a506d474f10af2cf48c33d62bc221fb28b6d6ff6ac	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libexpat-2.9.0-h6111c0a_0.conda	69681	b155c524118f751ad8b1c823397bab8b7f715f7e3ca10479925867a7e23e7e9d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libffi-3.7.0-h47dc5ef_1.conda	43637	2783389a7b9dda04c62cc54c6bbeb03dd3cef24b3fc642715d02a3fa19464a9a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libfreetype-2.14.3-hce30654_2.conda	8367	19ce8bd320414cb6b9889ecbf48a3ded848b0d1068b76ff6bea099bd7387d6f3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libfreetype6-2.14.3-h2ed5691_2.conda	340923	d9b203d6484ad491b5b5f33d49a9d7a91189d776a9adae53d2b63af18ec11e6a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libgcc-16.2.0-h3cf6597_7.conda	365973	deacf62bd6cbbe05eb085dd69a2ca120053597c37066d53c8f7cf6815f26e9eb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libgfortran-16.2.0-h07b0088_7.conda	99745	a5b4b63d0ef4c7c59c37225b9f0307b5cd2a3a8499b2a40b6ddd2b9f072712a8	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libgfortran5-16.2.0-hdb7a957_7.conda	554793	19297e5cf39de976cdd1a46499a4e15fdf54d249d3231f3b2a9d43af3be0bc66	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libglib-2.90.1-h653958b_2.conda	4528319	632596449f17149de5f666b7c73e981f9de8461615a9fb4291c79d0bebb14c4a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libharfbuzz-15.0.0-hcda0f7c_0.conda	1146987	1cf7900cfd17b60a8e3f76a31ca95140deca4781899e290b499b6caad82058b2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libharfbuzz-15.2.0-h3aa0ed0_0.conda	1193508	5876413e3371321d088a7f6fb6ca2782abeb00f56e62cb37af4af27fb88338f6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libiconv-1.18-he4c29f2_3.conda	750816	689a14968267f2f97c07112fca5636e7d756036b9aee969911267c20bd3eea1f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libidn2-2.3.8-h9858dd2_3.conda	146633	003aa0102301e2f9e30d6eb31e64d6eeb71f602a83629f32bad584bb501a1bef	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libintl-1.0-hae62183_1.conda	75869	50cd23514846dd057c5d3d4f38e29a7948909e51b3b53b99fe4b8a541971edb0	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libjpeg-turbo-3.2.1-hb001647_0.conda	555606	957469c69b3b9c9e6ae48dc1267c5c9dfe0db9e1aefa5fa9abf9798224aa23c9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/liblapack-3.11.0-12_hd9741b5_openblas.conda	18259	fbbba6adc589aa1101579f6eb45d41500a384a58602de8593c15a76a77abea12	on_disk
+0/2	conda-forge/bioconda	env/pkgs/liblzma-5.8.3-h8088a28_1.conda	91720	23d0630046a3e8b164d8f80f2b74ed2605af2e7050ab9913018056402fae4311	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libnghttp2-1.71.0-h29223de_0.conda	671516	d533256cdb91c676b106728e8437a5d96e9c02dc6a99b948f1b04b04a92620c2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libopenblas-0.3.34-openmp_h5e6e99c_1.conda	4249236	18f167fdaa26f67a123c59766f4730b41866d2c0920b5c29d74a93d3a2e92a96	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpng-1.6.59-hf5e6511_0.conda	290299	4de4dc4cb7432c328c1eaf4f7cc9c6b48c073eab1e9c6723d4533e6d57e7d595	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpsl-0.23.1-h08d577c_2.conda	72589	abbf2067e931cebbedf5440f188f127a71a709d8f01834b23e1c46eff09759cc	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpsl-0.23.1-hdb0c161_1.conda	72673	c8c3153df39abedf3413483f672151ad70f1adb0c06c192bdf7ec432c3616b07	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpython-3.11.18-h0677fcb_0_cpython.conda	1703674	9c535e6d26f9ea3890d4c0e72f5d0cc872ac0b4eba6687858899225f9708920f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libraqm-0.11.0-h45af499_0.conda	31333	b110f7f9b2cec61ea793c521950414e00cd64826e18aeb4ab40369acf05c0039	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libsqlite-3.54.1-h9f98c0b_1.conda	953531	ea89b54e0e59bae927358fe3b70fe8111fa475f3ef077a094187c58c7c504f03	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libsqlite-3.54.1-hca69786_0.conda	953427	998cd122027b2523f2f25807b1d476b82a168489d16b1430fd848a9a6b606a80	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libssh2-1.11.1-hbf2880b_2.conda	285854	f84b5eabe4d700ed25de443f771289d88f7f23ad4f3ea8b356a69338b2782ccb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libtiff-4.7.2-h87d37ca_2.conda	380333	3c1cf481a60ed8598093641b3a41ee1a7bb78413029ec566a238927504e941bd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libunistring-0.9.10-h3422bc3_0.tar.bz2	1577561	a1afe12ab199f82f339eae83405d293d197f2485d45346a709703bc7e8299949	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libwebp-base-1.6.0-h202fb40_1.conda	294522	0ff54650d470c7e54cbeffdd53a8c063e055a7bcf784388c0385ce5c4741b0f4	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libxcb-1.17.0-hbffa61f_3.conda	326316	0964d8d97845e890097ed71df1dc8b9932bee4d65e098da0c5f1e4ba158fee22	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libxml2-16-2.14.6-h5ef1a60_3.conda	469188	7436594906ce6ab25599d0a89fd8bf62b115583dee689144277562d79bc72a8d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libxml2-2.14.6-h8d039ee_3.conda	41780	2de4dda301d4328ba3d420c638f4372a03fab8d12c388c4a01a0605eb1c1986b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libzlib-1.3.2-h8088a28_3.conda	47822	a18fa5d5bac452401459f966cf0d872224e8080c4ff93c77e168d43ab42ef9d7	on_disk
+0/2	conda-forge/bioconda	env/pkgs/llvm-openmp-23.1.6-hdb3d66b_0.conda	287949	b777843f1ced814ea99adf79ece75947ef70ed1570e7c3bf5b5633133a496b9b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/mafft-7.526-h99b78c6_0.conda	4921680	89b847250232bae9af4fa28c6ffffc857b480dc44d9489ad7ccef25bf271c7d1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/matplotlib-3.11.2-py311ha01d089_1.conda	14914	abe61a4c45c07349f590e26ad9ebab8ec2eff847fbd4e678991a1a51589a2044	on_disk
+0/2	conda-forge/bioconda	env/pkgs/matplotlib-base-3.11.2-py311h022e184_1.conda	8917524	41215dbb2f68d53b4b80de6221cc4a7f28a40f283891ab0b8254310ed582c418	on_disk
+0/2	conda-forge/bioconda	env/pkgs/miniprot-0.18-hba9b596_0.tar.bz2	71641	dfa547f99256e6017ce6b7fb704e924b09bd32a6d84cd960ba0eabcabdd4bf81	on_disk
+0/2	conda-forge/bioconda	env/pkgs/mpfr-4.2.2-h72846b0_1.conda	350536	6a86fe9c09d708d71508c601dec53fb7a4fbfb23e6f57a590ef832afdca738c4	on_disk
+0/2	conda-forge/bioconda	env/pkgs/mpi-1.0-openmpi.tar.bz2	4294	7051ff40ca1208c06db24f8bf5cf72ee7ad03891e7fd365c3f7a4190938ae83a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/munkres-1.1.4-pyhd8ed1ab_1.conda	15851	d09c47c2cf456de5c09fa66d2c3c5035aa1fa228a1983a433c47b876aa16ce90	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ncbi-datasets-cli-18.41.1-hce30654_0.conda	34020118	269d5049a64bb3ca4397bbc2dcc8ac24d6687284dd57124663661c2ccaf1616a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ncbi-vdb-3.4.1-hfc726f9_0.conda	4729608	8e90015ecaefaaccd188f6986d97cdc67b91423889e0a4f1060f4dffad297960	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ncurses-6.6-he64c551_1.conda	804298	7024a48c8c0d0114ed4ab53c76bf9275d50e91ba7cea367a9aead638d3c29c68	on_disk
+0/2	conda-forge/bioconda	env/pkgs/nspr-4.41-hfdc29e8_0.conda	203150	c0799616992c70813b9a863ebb62b83813c263e5f45377f6eeae67e9521b173d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/nss-3.118-h1c710a3_0.conda	1839904	d57f7b2cf2860a2a848e3dd43cc4f5488e60050a7d62af1834da3ee43911d9c4	on_disk
+0/2	conda-forge/bioconda	env/pkgs/numpy-2.4.6-py311hbd1492f_0.conda	7456206	08e5062ab9bce23adef1c62282a99d035780e43eb8a843b0f11d8a1e967fe123	on_disk
+0/2	conda-forge/bioconda	env/pkgs/openjpeg-2.5.4-h4d1e80c_2.conda	377958	e71bd04b5d0e39f39a3c039d021d3b76cd65bee3032e7f859ab7082f0ace8be5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/openmpi-4.1.6-h526c993_101.conda	2760344	641f44ea7e91c08c722d3d7c66939f67b1cf2dd94c576a898f0b1a08e7db861a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/openssl-3.6.5-h55eecbc_0.conda	3111573	44fbc526456571a9fb8fa18157f6f269d4d4bd40eef20183a93b9c9296f94497	on_disk
+0/2	conda-forge/bioconda	env/pkgs/packaging-26.3-pyhc364b38_0.conda	116363	c432626b16768b8dab228bfb706f7060c2d462a21c516d240f68f2f902b5a044	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pandas-3.1.1-np2py311h6ed7ffe_0.conda	16219707	267b4c2d96cc6dfab17fcd3943e637739cc7f1c6a5e74940018061d7a24f2a7b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pcre2-10.47-he63d830_1.conda	851704	f8c415329b542e1fca1ff2917b80e687c18302dfa0353530668b90cb225b494f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-5.32.1-10_hb001647_perl5.conda	12278211	657cd963e25925bbb71dca27c01b47fef76be97e8a8517b8fcfc420233730614	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-alien-build-2.88-pl5321h9e3228c_0.conda	182390	3a5dcb3426eeaefedfe4015d1d51ccf2225740d6330e02af5d42a96fa2a98ac0	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-alien-build-plugin-download-gitlab-0.01-pl5321hdfd78af_0.tar.bz2	12130	a55973d713323db1e57dcbf27559a29a5f44dc8156f0098a284846e0ef861572	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-alien-libxml2-0.20-pl5321h9b71f33_0.tar.bz2	15106	9cac7925237ee5001f3c5fa4da2ed96bf178edad0550152473f5419ea61fc1a0	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-archive-tar-3.14-pl5321hcbfc158_0.conda	38784	66f693e7c2d4ef756ca640b5eede9e76ef98b5b97a7b36e3d194dbdda7b8ecff	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-business-isbn-3.007-pl5321hd8ed1ab_0.tar.bz2	18309	fa0b99650ac3bc098d4b34d23eea8f5101f7a5e8c04fc50fac6b8bff70161848	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-business-isbn-data-20210112.006-pl5321hd8ed1ab_0.tar.bz2	21540	457f7bdea5c7154472a18ab10d7c40144d65793446d9cb40877dc9c37c6b3b59	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-capture-tiny-0.48-pl5321hce30654_1.tar.bz2	16478	16bd59b9fd3dcd7f54c70844d6227c4811b317ac4530d48b48f4f8374277cb72	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-carp-1.50-pl5321hd8ed1ab_0.tar.bz2	22257	1981e31113e1e77a2cdc13db657c636f047cd3be2a64d9a0bffac03c5427c1bd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-common-sense-3.75-pl5321hd8ed1ab_0.tar.bz2	20291	38ef218e9b9d55b9fbdce6b31cf81bcf6f1b16f21b8e7cb9279b41399522a320	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-compress-raw-bzip2-2.214-pl5321h2ddc596_0.conda	53995	ef4c03b93bda20fbf1e14aaed8d2dfab47be84c87a2ebcad33304dcd91ff963e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-compress-raw-zlib-2.214-pl5321ha1c2b25_0.conda	74597	4f52ea95e8d3ffcb2b0d330dd45300f930565d76852795f1dd26970930855ffd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-constant-1.33-pl5321hd8ed1ab_0.tar.bz2	15711	cfd5ef9af8de221292f7059d1ff88ff10f1340fc4dbbd0dc81ce2275bf76651d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-encode-3.24-pl5321h84a0fba_0.conda	1088324	48da6482dcaf6a42f3d47acae535d63ab7422dfedfee953383878b029c6b1e02	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-exporter-5.74-pl5321hd8ed1ab_0.tar.bz2	19071	42271d0b79043a10a89044acb5febea50046b745dd2fc37e02943bc3bc75bf8e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-exporter-tiny-1.002002-pl5321hd8ed1ab_0.tar.bz2	28592	abdf86828a12a389d0feb0d70501b267842557bae11820e266526aeb6ab2bebe	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-extutils-makemaker-7.70-pl5321hd8ed1ab_0.conda	157323	1d3f342ca74cf2948c3edcfe0d3367b1db0fc64bb163393a2e025336dec3a40c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-ffi-checklib-0.31-pl5321hdfd78af_0.conda	19477	77e6f2ca594f7c4009eee60743692ac09ac7546aab670d5b924165fed58946cb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-chdir-0.1011-pl5321hd8ed1ab_0.tar.bz2	16973	736b5c79e0ea19efb8f97f628a508cf42a1d5b6bc5533df1bd454651e28950c2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-path-2.18-pl5321hd8ed1ab_0.tar.bz2	22382	ac7a0e0c36ec199709c8523132ded35efb84941a1a476b271fd25362dfbf5339	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-temp-0.2304-pl5321hd8ed1ab_0.tar.bz2	31509	91f9fe152b38441386053876198d0c9437e7b4b5fa7da1e5db48b9e1b21fdae9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-which-1.24-pl5321hd8ed1ab_0.tar.bz2	17329	901e9c4177b6bdb23600446fd64a105a437112e63bc23a6163f669bc5098c502	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-importer-0.026-pl5321hd8ed1ab_0.tar.bz2	26921	f40d5302de8c81282b5216edd8c65aecc551ef725db3351c208bff9b077e66a2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-io-compress-2.216-pl5321haef7865_0.conda	88298	9e7fa17e5eca67ac395b97610deefd861ee6564c8e2f06ea1bfff782551c90f9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-io-zlib-1.15-pl5321hdfd78af_1.tar.bz2	12760	771a44b338cac68a22893897450222b886e24bbb291b014897d561f2ba3b588f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-json-4.11-pl5321hdfd78af_0.conda	52845	1c1649f491c76f4ae2984b547701df91c8abfda2e3b7b44e0c007f5e78a87c08	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-json-xs-4.04-pl5321h4675bf2_0.conda	68334	0a83c4cee65c1beb748948ad1017ff9fbdb3d64cc3eb13599e938f06cd609cbe	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-list-moreutils-0.430-pl5321hdfd78af_0.tar.bz2	32468	2190cc8430bb218ea80f5fc5e2bf75e4e20a27fb83e8c3cb789a18c32854a56c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-list-moreutils-xs-0.430-pl5321hbdacb55_5.tar.bz2	43423	46d9645a60edde726f5891ae254db4bb2a17f0e32ff64a18160910c4a618d879	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-parent-0.243-pl5321hd8ed1ab_0.conda	13933	ec57d9e56ba86d840d5a9e65c665365fb6a290851cd13e6719628f3295eabf34	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-path-tiny-0.150-pl5321hd8ed1ab_0.conda	45674	e0712ba32e9b7899d195647e92ac3d6d389d7f8fa113576986770da0768ee456	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-pathtools-3.75-pl5321hc71e825_2.conda	49073	85eca77264dfe63673098dbc5d07a576c20f8aca6fada79041ad4ca24742d83d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-scalar-list-utils-1.70-pl5321h44e845a_0.conda	46900	6dea0dd8ea98d807866c3d469afe658dbbf6153f0ac9e9fecd15dc76c96225ef	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-scope-guard-0.21-pl5321hd8ed1ab_0.tar.bz2	16123	f0cd98e792fe43fcef81af1848f0d985a87b953043f1f6551d2ffdf15daca62c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-storable-3.15-pl5321hc71e825_2.conda	63402	7e0cfec98f6a4ee7f4ce7e18d9efc748a8bdf1462081a1897c445f709a791d0c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-sub-info-0.002-pl5321hd8ed1ab_0.tar.bz2	19020	0485649e2aaccdbe46b64d35e07d13f885d28f438f41bee54ecd7e9a9d94d472	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-term-table-0.028-pl5321hdfd78af_0.conda	24666	93574d78a99a9ab8f93f3cd75380b8bbfde61452b8882ad96be816eccf0f904a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-test2-suite-0.000163-pl5321hdfd78af_0.tar.bz2	212676	226cbad887607747b19816100d00b0e3dcca66b1e2b282efc1aad225eaacd27d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-types-serialiser-1.01-pl5321hdfd78af_0.tar.bz2	13136	20f61217b16235d0161ad6fa0a234585afcc04ec5a6142c65b5867e26216dfe3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-uri-5.40-pl5321h707e725_0.conda	117944	456012c85e1dce0203ce24bdf37707730d9dd8ee155382509757b886801ef0e1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-libxml-2.0210-pl5321h9b71f33_1.tar.bz2	249754	48a20e1c10052803bed23883faeefef4a1222a212c583b000da8dafe550b7bc7	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-namespacesupport-1.12-pl5321hd8ed1ab_0.tar.bz2	22890	bf384bea1057085fdf8daac6e67a96ca892f2fedf4ce0327f9bda5d3a9bce102	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-sax-1.02-pl5321hd8ed1ab_0.tar.bz2	43526	324ca36bdfff272c8ac06befcd9d1e9e1b22c1c6449bb3801d7e8b9c92acc6b6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-sax-base-1.09-pl5321hd8ed1ab_0.tar.bz2	27575	e652410a4d02bde1a1d7e0021ee84006113785676267c1e33642ba3d2ea9c254	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pigz-2.8-hfab5511_2.conda	76229	70cf9d08c80a7a82822e95c2bfaeec182cb7136cc73eb5dbfbc892264f49167d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pillow-13.0.0-py311h9ef85ab_1.conda	1018177	e1c1e40005746fa0cab10e9c7e1379e015ed726b31bb45fb466ca049f657dd62	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pip-26.2.2-pyh8b19718_2.conda	1076882	27543e132e4f80285e638a08d6d90de631227186ba96901e1e069fa587d9e62f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pixman-0.46.4-h784d473_3.conda	198717	4779cd57231ce2e96fac643fcbdd4a6f51a57986264545445574e9c4acf526d3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/poppler-26.11.0-h2c705c3_1.conda	1633314	b8a353fc491dbf259646c9fe06c31e5299f27bcbccb690a0fbdd4d024bd787ae	on_disk
+0/2	conda-forge/bioconda	env/pkgs/poppler-data-0.4.12-hd8ed1ab_0.conda	2348171	2f227e17b3c0346112815faa605502b66c1c4511a856127f2899abf15a98a2cf	on_disk
+0/2	conda-forge/bioconda	env/pkgs/psutil-7.2.2-py311h440b913_4.conda	242706	9ec70d08fe4ca37034c3458cf4294587c186b594826fc9b1071295723fd67aae	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pthread-stubs-0.4-hb001647_1004.conda	9662	3f79452dbda3febaf7053486e4844fa945accf4d74eac4169e2c4d5dc5e4dd0b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pyhmmer-0.12.3-py311h4159a7e_0.conda	2959063	2f4c67f0ad91d250f22c0b572d5232b5042afd13b8e31480936408b91a1eb2ff	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pyparsing-3.3.3-pyh5ded981_0.conda	114046	dc10d64d4b9a1310083b2f563416ab45560ee2a04fd6baab40f223f2b1ab37bc	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python-3.11.18-hd05a0c4_0_cpython.conda	13750729	c5a525a2d9f56b287765a05c7d0dc133b660bd1abf075f1d2a94f9d5d7aab722	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python-dateutil-4.0.0-pyh5ded981_0.conda	90142	8038f7048c97299f7fe7c8ce957da65b8ada9839afd0f66e345d3096082da975	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python-tzdata-2026.6-pyh5ded981_0.conda	141245	bb29725d0d84f5e98f221f2f0afbad4a44cd67b016ab48388592c940bbd75a5e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python_abi-3.11-9_cp311.conda	6770	bcfbad269758f4617035314fe379ee655bc2d9db5282e7a00d61450b7cefa3cf	on_disk
+0/2	conda-forge/bioconda	env/pkgs/qhull-2020.2-h48a1422_6.conda	518464	3db28968541a00daeb77617fae729d2846dee260366b8fb61a3df8c2a5cfe7aa	on_disk
+0/2	conda-forge/bioconda	env/pkgs/readline-8.3-h8b90a29_1.conda	314395	d6782b430e6dce4fe8c7ac118cd988d5a193eb4a7f60741edfaede58016b6110	on_disk
+0/2	conda-forge/bioconda	env/pkgs/scipy-1.17.1-py311h9a58382_1.conda	13954661	b45f87414da242a9e40eb934e89513a856e6236d681611c2c9a21d074b03ef5a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/seqkit-2.14.0-h980baba_0.conda	6531137	827453fa8944a02a84e98fce68b19d907a616aea97252370325a4a6f05053215	on_disk
+0/2	conda-forge/bioconda	env/pkgs/setuptools-84.2.1-pyhe730653_0.conda	567436	17add609d1a31c874e39a03935072be59bcafb06d42383eceabea746d12e6025	on_disk
+0/2	conda-forge/bioconda	env/pkgs/spades-4.3.0-hd468e49_2.conda	22936592	22f58dae71f132705bd69642dfa204bcb8ce88c5a5e589b610c540d9d98a5eb9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/sra-tools-3.4.1-2_osx_arm64.conda	14903554	b145b8db40534786849887556f51ff9baaab82bbf1fbc00774791b7c4296552e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/tk-8.6.13-hbeba79b_4.conda	3342183	857d89087ae7f2c328cf256728affcb7343031a148b4af847334d248a9cf564c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/tornado-6.6.1-py311h440b913_0.conda	1099610	97175f1a54f97b882cfe699d9797bef6a4d60df004205b6b07b05f270345f3bd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/trnascan-se-2.0.13-pl5321h9e3228c_0.conda	2869246	93acbea88f8a964c12547dd2396a283c991ed2d5e5190bd605a006e9d3981800	on_disk
+0/2	conda-forge/bioconda	env/pkgs/tzdata-2026e-h5d301ff_0.conda	119208	2b7ca858879f183ce2dcc65b300f48a0133d5430550f35b23d80d405a0788dbf	on_disk
+0/2	conda-forge/bioconda	env/pkgs/unicodedata2-18.0.0-py311h5edb25e_1.conda	425538	c182ab2efbc245e719492afceebae103edb373f02c9508276d49f5a54f6b7379	on_disk
+0/2	conda-forge/bioconda	env/pkgs/wget-1.25.0-h7ba78b2_1.conda	326073	ede2c595d4a2ccbf2b693cdf94162d485967a1f72b1d65067a5b1a5a7f930162	on_disk
+0/2	conda-forge/bioconda	env/pkgs/wheel-0.48.0-pyhd8ed1ab_0.conda	34528	ba64b29b6d418024cb565081a1799262cb2780d2534ff4c14f76aa858c4286cd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/xorg-libxau-1.0.12-hb001647_2.conda	17325	cde7cecabb662b435e6537591e5845e870a0648887542d3e538c9f6c20dd6be5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/xorg-libxdmcp-1.1.5-hb001647_2.conda	21021	30240b39d7b956e8f7a8231ffa0c1fce097124e40b3eb48a523d13d3937e3194	on_disk
+0/2	conda-forge/bioconda	env/pkgs/zlib-1.3.2-h8088a28_3.conda	81744	ab46d85e4fcffff1b1c5cac517afa40b7ae784cf76fc9da1f55f6a6934291eb6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/zlib-ng-2.3.3-h31dac16_1.conda	95857	489a29915a3e1b425cff4df10a448f55bbaaf29d777a0f8a9e381444e6a284f1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/zstd-1.5.7-hf451053_7.conda	433687	da867f5092eb0cb746d353694f0098031fd9817a4ce7d5743121209ae0f406ca	on_disk
+2	bioconda mitos 2.1.10	env/tools/mitos_pkg/mitos-2.1.10-pyhdfd78af_0.conda	419023	5c87a0eda0e49cf1e908e758925522f820f88b4dff8b536896689ffe78f7e721	on_disk
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11101524	SRR11101524.sra	1526990622	NA	deleted after search; size matched server; not hashed, not vdb-validated
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11101525	SRR11101525.sra (1st)	1402354936	NA	CORRUPT (52.7 MB oversize, two writers); result discarded; deleted
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11101525	SRR11101525.sra (2nd)	1349688568	NA	deleted after search; size matched server; vdb-validate rc 0
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR15194044	ERR15194044.sra	2336610385	NA	deleted after search; size matched server; not vdb-validated
+2	ENA SRR1695471.fastq.gz	SRR1695471.fastq.gz	9975193	NA	deleted after search; size matched ENA fastq_bytes
+2	https://ndownloader.figshare.com/files/71489182	data/figshare/Plicatula_genome.zip	570568375	831a57eb1366cf8345f456f20b42c01a7fa4eba92cc7963dba89079062e1286a	on_disk
+2	https://ndownloader.figshare.com/files/68294890	data/figshare/Pmu.chr.gff3	27473128	29050552bfda1840544fcaec1e81f191fb260b733d59b6f36b12d70326933f4d	on_disk
