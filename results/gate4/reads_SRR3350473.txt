@@ -1,0 +1,16 @@
+Deallocating buffers...  [0s]
+Deallocating queries...  [0.008s]
+Loading query sequences...  [0s]
+Closing the input file...  [0s]
+Closing the output file...  [0.001s]
+Closing the database...  [0s]
+Cleaning up...  [0s]
+Total time = 993.55s
+Reported 66 pairwise alignments, 66 HSPs.
+66 queries aligned.
+
+Plicatula_plicata SRR3350473 RF1-type reads 66 spanning human 205-220: 4
+    SRR3350473.4222835 human start 175 id 100 e 2.03e-32 HGLTKGTANINGKDVYKWLKYEGGVHRVQRKPVTDRNNKRQTSTITVAILNXKFSWLR*DGHSYCTCLSF
+    SRR3350473.8240860 human start 178 id 100 e 1.12e-31 TKGTANINGKDVYKWLKYEGGVHRVQRKPVTDRNNKRQTSTITVAILPQPQXMAICRFVIKFSWLR*DGH
+    SRR3350473.9564436 human start 184 id 95.3 e 1.18e-25 INGKDVYKWLKYEGGVHRVQRKPVTDRNNKRQTSTITVAIXPEFRRVLFRSGRMATVIVLVCRLLLRSVT
+    RR3350473.13663771 human start 168 id 81.5 e 2.85e-32 EQNKKIDKSTDGHGLTKGTANINGKDVYKWLKYEGGVHRVQRKPVTDRNNDXTAFALAQPYI*FLHQKDQ

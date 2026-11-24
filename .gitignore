@@ -27,3 +27,4 @@ results/gate3_unverified/run/
 results/gate3/interim/out.jsonl
 results/gate3/interim/mitogenome_master.tsv
 data/sweep_unverified/
+data/tylench_cox1/

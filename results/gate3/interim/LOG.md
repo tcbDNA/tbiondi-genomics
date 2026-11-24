@@ -13,3 +13,4 @@
 2026-11-24 11:32:50 Gate 3 report written; analysis finished (post-sweep, not an interim look).
 2026-11-24 12:01:07 UNVERIFIED exploratory set: 5-minute hit watcher started at the user's request (post-hoc set, not Gate 3).
 2026-11-24 15:39:10 UNVERIFIED exploratory run finished 15:24 (7,707/7,707), classified; report GATE_3B_EXPLORATORY.md written.
+2026-11-24 16:12:16 Gate 4 finished; report GATE_4_MTRF1A.md written; stopped.

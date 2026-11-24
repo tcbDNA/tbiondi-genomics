@@ -1,0 +1,14 @@
+Rotylenchulus reniformis CM003310.1; 10 closest Stop relatives: [('order', 'Steinernema glaseri'), ('order', 'Steinernema kushidai'), ('order', 'Steinernema litorale'), ('order', 'Brugia pahangi'), ('order', 'Cylicostephanus goldi'), ('order', 'Brugia timori'), ('order', 'Panagrolaimus kolymaensis'), ('order', 'Caenorhabditis latens'), ('order', 'Auanema freiburgense'), ('order', 'Caenorhabditis becei')]
+COX1 column 404: p(Tyr) 0.02; internal TAG, RNA-seq ERR744555: TAG 5 reads; WGS SRR26324223: TAG 434, TAT 5
+   relatives' codons: ['ATA', 'ATG', 'ATG', 'TCA', 'TTA', 'TTA', 'AAT', 'TTA', 'ATG', 'TTA']
+   relatives' residues: {'M': 4, 'S': 1, 'L': 4, 'N': 1}
+   R. reniformis codons around: {401: ('TTT', 'F'), 402: ('AAT', 'N'), 403: ('TAT', 'Y'), 404: ('TAG', '*'), 405: ('ATG', 'M'), 406: ('ATG', 'M'), 407: ('AAG', 'K')}
+COX3 column 239: p(Tyr) 1.00; RNA-seq: no coverage; WGS: TAG 227, TAA 2, TAT 1
+   relatives' codons: ['TAT', 'TAT', 'TAT', 'gap', 'TAT', 'gap', 'TAT', 'TAT', 'TAT', 'TAT']
+   relatives' residues: {'Y': 8, '-': 2}
+   R. reniformis codons around: {236: ('TCT', 'S'), 237: ('ATT', 'I'), 238: ('ATT', 'I'), 239: ('TAG', '*'), 240: ('TGA', 'W'), 241: ('CAT', 'H'), 242: ('TTT', 'F')}
+CYTB column 62: p(Tyr) 0.04; RNA-seq: no coverage; WGS: TAG 353, TAT 1
+   relatives' codons: ['TCA', 'TCT', 'TCT', 'AGT', 'AGT', 'AGT', 'GAT', 'TCC', 'TCA', 'TCT']
+   relatives' residues: {'S': 9, 'D': 1}
+   R. reniformis codons around: {59: ('TTA', 'L'), 60: ('GCT', 'A'), 61: ('TTT', 'F'), 62: ('TAG', '*'), 63: ('TCG', 'S'), 64: ('GTT', 'V'), 65: ('CAA', 'Q')}
+TAA/TAG in the same genes of R. reniformis: Counter({'COX1': 1, 'CYTB': 1, 'COX3': 1}) TAA sites Counter({'CYTB': 11, 'COX1': 10, 'COX2': 4, 'ND1': 4, 'COX3': 2, 'ND5': 1})

@@ -541,3 +541,74 @@ gate	source_url_or_accession	file	bytes	sha256	status
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR19044081/SRR19044081	results/work/SRR19044081.sra	1765981044	65c38d4e08acccadff565cd4154454b3c41096a6b2b6f1b0d01b5fcfa4cfda66	deleted after use
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR14069289/SRR14069289	results/work/SRR14069289.sra	3222447114	7b057ec8ee4ad707ec8c1acc9b92b25e88f3cd196399711dfad9d6d33fb03ee0	deleted after use
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8998268/SRR8998268	results/work/SRR8998268.sra	3498946554	2dadc191f125312ac14a2f3a961f4ed7b620facfc51159205fef36993e69a9ef	deleted after use
+4	NCBI datasets GCA_019788955.1 protein	data/mtrf/g4/Albula_glossodonta_BYU.faa	7363730	8f759078a0421f165c6d0d48020b97e61c8bc05b2dd15d804f95d1d3294e62a9	on_disk
+4	NCBI datasets GCF_013368585.1 protein	data/mtrf/g4/Megalops_cyprinoides.faa	10530608	192daf0322b0292aa94b6f1211d9745fb144e2a9b57fad23e8f9ef23d67f7764	on_disk
+4	NCBI datasets GCF_013347855.1 protein	data/mtrf/g4/Anguilla_anguilla.faa	11541914	97d640b525cc774453dabd64cc4a47ba44a22ebe8d0c30ca54972f1406a277d9	on_disk
+4	NCBI datasets GCA_028022725.1 protein	data/mtrf/g4/Lycodopsis_pacificus.faa	9055534	e0c3e0c208556e77216d3f2c7f8d55a29efa2487d640943ac9b5d88642354c39	on_disk
+4	NCBI datasets GCA_040110945.1 protein	data/mtrf/g4/Zoarces_viviparus.faa	8254096	a3c7465eb2fed65c1b78badbee21c2fea0c9127b5ef72ee7b71623088e1f01f0	on_disk
+4	NCBI datasets GCA_051171035.1 protein	data/mtrf/g4/Meloidogyne_hapla.faa	2999519	db4229c8d413144536e8227efd5932b0e744ee92a95c3e78affc81b8caeca72c	on_disk
+4	NCBI datasets GCA_001026735.1 genome	data/mtrf/g4/Rotylenchulus_reniformis.fna	100451213	ba4c7ea61ab4465cf949dd28460b7f758b0922efd5a66f4f376ac03205e8835b	on_disk
+4	NCBI datasets GCA_054131405.1 genome	data/mtrf/g4/Pratylenchus_vulnus.fna	19298317	dcc5452ac9c3091469d864ac2c8afff66b4c09869473bd42a0faccaed04c2bdd	on_disk
+4	NCBI datasets GCA_016433075.1 genome	data/mtrf/g4/Hoplolaimus_columbus.fna	15354465	27e31a7da16d81934ae2555e3510cdb7151983311bab0d0cad9beee34048a4dc	on_disk
+4	NCBI datasets GCA_034700465.1 genome	data/mtrf/g4/Rotylenchus_robustus.fna	62807441	6cbdc45199890e9eedf24a418439de14961e7745222aef987f8bf18af7a5972b	on_disk
+4	NCBI datasets GCA_982936665.1 genome	data/mtrf/g4/Cinachyrella_apion.fna	88370794	99c069b048c9340c3cace4bdd8e02764bd8357010746f9d35b681858282b36ae	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVO.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVO.fsa_nt.gz	36527406	f7ccb37324dac8a31aca01e3a6aef9a5da4abaad6c4185db726acab4b7e3ed5b	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVQ.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVQ.fsa_nt.gz	33999834	7d3a078cfbcde0517e70a5603a42cc8462a6dd4099095f5bc81ca9f14d49021f	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVP.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVP.fsa_nt.gz	31860124	d36caa0ed6fbb7745b4430869c65de07e1c9e6fc1d01249bc5fd01702fc2b2ad	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVR.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVR.fsa_nt.gz	23032584	65c132de4570a069423593035611de446db7b580cd33c19749c6613fdb37d130	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVV.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVV.fsa_nt.gz	31200673	d1799e2e82767e12b00e363323be7f9690afa94119011150d262a0a659849dee	on_disk
+4	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR3350473/SRR3350473	results/work/SRR3350473.sra	3953367238	876b49c847dad9ffd40487d878c44c3a4788de246ab045a811a6c4e152b64ecf	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR744555/ERR744555	results/work/ERR744555.sra	2187027602	919ba6cb9098a58fe71db55af2383104c109722e8ec43b0733e7ad87b72c1a1f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	deleted after use
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0000.gb (200 accessions)	data/tylench_cox1/b0000.gb	542126	107d5f09dde4ff005e8bd42a07883a6164d951ee52e6d15687a3c0431393ce2a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0001.gb (200 accessions)	data/tylench_cox1/b0001.gb	512723	a35a8ccdac2f1d098d2a6d23d2cdd14ea620c7aeaa2ded08c46b8f8cd0f755e0	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0002.gb (200 accessions)	data/tylench_cox1/b0002.gb	533976	1b07ecf086815b91a5e56ef4de721511feabe7439c6f994f1fd34a87f64dbb6c	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0003.gb (200 accessions)	data/tylench_cox1/b0003.gb	659617	63a40d1b3b19fe70641cf5095bd5c0910803875e6815d7b6a3344a28fd4fd3cf	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0004.gb (200 accessions)	data/tylench_cox1/b0004.gb	606512	e2d97b91a6c63309f2d6afea5c3a83eaef1f21deed803af76c560dc0a36e25c1	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0005.gb (200 accessions)	data/tylench_cox1/b0005.gb	583655	543d0632cedd7f2ec2841e8704fcd1ff8a7fcc9ec2de5f9d471930779890d0bf	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0006.gb (200 accessions)	data/tylench_cox1/b0006.gb	662483	96b5457719f564c4d307ef1cedf7b1e9d614d4ebefa566575b0e7e17dabed9bd	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0007.gb (200 accessions)	data/tylench_cox1/b0007.gb	585933	2bcea390c8a07b531f994bcb5ca2812e19444b17b570540296a9e2c8aa7a425b	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0008.gb (200 accessions)	data/tylench_cox1/b0008.gb	580072	6b8be646fd62d303412d619e694b3925ad7ee35102a84f3821c17484d0cde586	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0009.gb (200 accessions)	data/tylench_cox1/b0009.gb	679790	113d212db4ec174962129803cf3222cc5e393af834b6951b88484d5bf48b2d1c	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0010.gb (200 accessions)	data/tylench_cox1/b0010.gb	527290	768ee6c9678a5622f33cb1d3cb1fe3775044dccf8d3b9df926191c1a7668d67e	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0011.gb (200 accessions)	data/tylench_cox1/b0011.gb	524380	c40a0ec27d4ec84421a0153880b661771ef0dc072d833847e8b0d8322f7136bb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0012.gb (200 accessions)	data/tylench_cox1/b0012.gb	572742	11d43ee0c83c81e5c044df6ae7345294dfee676cef9991283343b4cb89b56fe5	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0013.gb (200 accessions)	data/tylench_cox1/b0013.gb	661980	806b56f057f58dd8f5d23d7e778daf1caede4357a7cdb8924a001c211f62206a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0014.gb (200 accessions)	data/tylench_cox1/b0014.gb	579331	eff1dc336fb8e78f43ac1ead80c8287828b13f8c560889cd0efa515bfb633fb1	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0015.gb (200 accessions)	data/tylench_cox1/b0015.gb	595700	3acf856bf94bfba0bef919fb7735eb0166f70ca949a044f7523c0f5d62ec40f6	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0016.gb (200 accessions)	data/tylench_cox1/b0016.gb	641670	906243775aeb159df4bb9c13a66ff961f317bcc5ba95307cba459f22404a4d0d	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0017.gb (200 accessions)	data/tylench_cox1/b0017.gb	716121	65cd660b40625d2b29ecfac9466d169f8c6b25d9005e66684dea49508350d15a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0018.gb (200 accessions)	data/tylench_cox1/b0018.gb	716304	d0a27665e7823e7ac2c1139690977d9cd4a4049546f14d9c5de67cf5db51ec4b	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0019.gb (200 accessions)	data/tylench_cox1/b0019.gb	709851	cf084236178c933ff268dcef545ba4ccff27e12ee688298e9ed2ca0a01e26ecb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0020.gb (200 accessions)	data/tylench_cox1/b0020.gb	698719	8afca890e4cfbf81b33ea98c61edf2aeecc9c0357ff178cddc53557713ffd01c	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0021.gb (200 accessions)	data/tylench_cox1/b0021.gb	651803	dc5e26b943c56aa10601de7bd1ec48bd71f0b250f728666b40f5dd24be4399cb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0022.gb (200 accessions)	data/tylench_cox1/b0022.gb	615077	8c725c4b8523de0ff425cc8942feffdd2824791ceb6d3eed278a41c160b3f3df	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0023.gb (200 accessions)	data/tylench_cox1/b0023.gb	581210	a7cf34431a58ad40debb218c059c3becd83030b0277a3d45bfb0b1570e902b3d	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0024.gb (200 accessions)	data/tylench_cox1/b0024.gb	583398	8247a1f6dabd7abc687d9ad9a77b97a66203d5ad5140415cc799e1af024868cb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0025.gb (200 accessions)	data/tylench_cox1/b0025.gb	565266	0b3c0539000134de23231b4dc3b6f8c32dd5bd17b3b4d3f1292cc66d014897fd	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0026.gb (200 accessions)	data/tylench_cox1/b0026.gb	568411	a14912b699076675263d3394d4659faefa320d29d44a338cbf769adba8501e86	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0027.gb (200 accessions)	data/tylench_cox1/b0027.gb	591228	4f349543d15223fc46003931725b85bd7293c8ffc1ffff756e7544d0706a8046	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0028.gb (200 accessions)	data/tylench_cox1/b0028.gb	654907	ad81ff88b43079d96ca006e0a095f08cdabe9f48e78399810d32805884c1a38e	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0029.gb (200 accessions)	data/tylench_cox1/b0029.gb	652378	e3e65c49f298bed60342338469b892499d489378f2adf1983f3f2d6127495624	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0030.gb (200 accessions)	data/tylench_cox1/b0030.gb	650855	9264c059c4e4c503b88c27304a6b45330b26e850700e87b0127e02198b7d3bf0	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0031.gb (200 accessions)	data/tylench_cox1/b0031.gb	647087	1d3c9142afc291a47581e875e465687b5aac91c165b75c18230f65956a460402	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0032.gb (200 accessions)	data/tylench_cox1/b0032.gb	534313	13e3c1c8ab3f1e098c217491cbb28a6bbb61c701c2ac7325e2e17673f285ef8f	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0033.gb (200 accessions)	data/tylench_cox1/b0033.gb	564420	c807e8765bb290f8bea4f3133bd16a3e96f08de7d48993e6244837b9d46728e4	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0034.gb (200 accessions)	data/tylench_cox1/b0034.gb	587398	e6435190bd4aa73b23555d3c3905ee02c66d851a9819e196a6b18df86a3c51cb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0035.gb (200 accessions)	data/tylench_cox1/b0035.gb	548703	c9140e2091a2ed67a1d709bea96444eee37d17d98a47f2bcb486da52d440384a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0036.gb (200 accessions)	data/tylench_cox1/b0036.gb	576418	faa4c6517949d5564d83d2d51c6f468ed4ba4e2cd34d3f36afd5d2d2ba908cd9	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0037.gb (200 accessions)	data/tylench_cox1/b0037.gb	619606	eb4963b2bb47e1368f3ca023189127d6d73be7d791737aeb3e5fe9064fd03a1d	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0038.gb (200 accessions)	data/tylench_cox1/b0038.gb	562269	5ca864424f2a327bac62847bb0c58af3036f25dc3d4754dce17cc09b9244c31b	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0039.gb (200 accessions)	data/tylench_cox1/b0039.gb	561607	1a9790fc535ecb9a4d2eb092803c761d0f279f67babc917c76514be058b084c1	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0040.gb (200 accessions)	data/tylench_cox1/b0040.gb	690838	c4e1b0122cb88826dc421f3779b691326ecc32e72484d39cabeaa5f80ea65b84	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0041.gb (200 accessions)	data/tylench_cox1/b0041.gb	696711	17964395e8d5083271fa8af1f0fe947af930f84844c95626a8dc2704b2df3c15	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0042.gb (200 accessions)	data/tylench_cox1/b0042.gb	700109	c9000b3ce750b2c3147b45acf5130b98dc02ec7191c2905e1488197ae1532df8	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0043.gb (200 accessions)	data/tylench_cox1/b0043.gb	686590	96ed73d03d4d7a24eb3f76dc15ea2afe2a98c80627838eec465ea1ace9721d38	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0044.gb (200 accessions)	data/tylench_cox1/b0044.gb	685433	1fd14a1133f8bd57977a0de059f7f7004d5d40fd9e6ef95ce43f83333f80a1c7	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0045.gb (200 accessions)	data/tylench_cox1/b0045.gb	544252	88d94c0ad8f75860cc40af5aa3d2da8d160fe018c973e5736d49e6b14ac7b29e	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0046.gb (200 accessions)	data/tylench_cox1/b0046.gb	610653	ae153f3036b74bf6cadc7994c8c448c6d01adfb66535f0582e4ffea7b37907b3	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0047.gb (200 accessions)	data/tylench_cox1/b0047.gb	599086	b820cced0ea34b39cabece24145f78650f9518c9dc762fac19ab6f64cc6cd569	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0048.gb (200 accessions)	data/tylench_cox1/b0048.gb	539266	d9fa9e225994aaa0d561519008735cb9671cbb9b5877c092524549b054df4fb0	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0049.gb (200 accessions)	data/tylench_cox1/b0049.gb	574482	bc7b053012c30cf4406c24c8fd5ea82535b16bcc6de413368ef1ddcae790923a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0050.gb (200 accessions)	data/tylench_cox1/b0050.gb	593381	8896f9b3566a98ed86265e95f8ee15bed817e1c9f86b38d72433dd5e71258510	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0051.gb (200 accessions)	data/tylench_cox1/b0051.gb	321724	aff733cfcb2f2d1cd75713a5578a6bbb2bdf9ff2abf82c8089b9f513597cbd66	on_disk
