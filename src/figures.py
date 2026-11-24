@@ -25,7 +25,7 @@ if "Pseudotanais sp." in miss: L["Pseudotanais sp."]=dict(species="Pseudotanais 
 if "Placuna vitream" in miss: L["Placuna vitream"]=dict(species="Placuna vitream",genus="Placuna",family="Placunidae",order="Pectinida",cls="Bivalvia",phylum="Mollusca")
 RK=["phylum","cls","order","family","genus"]
 rows=sorted(T,key=lambda t:[L[t[0]][r] or "~" for r in RK]+[t[0]]); Y={t[0]:len(rows)-1-i for i,t in enumerate(rows)}
-fig,ax=plt.subplots(figsize=(9.2,8.2)); X={r:i for i,r in enumerate(["root"]+RK+["tip"])}; ax.set_xlim(-0.2,11.6); ax.set_ylim(-5.2,len(rows)-0.2)
+fig,ax=plt.subplots(figsize=(9.2,8.2)); X={r:i for i,r in enumerate(["root"]+RK+["tip"])}; ax.set_xlim(-0.2,11.6); ax.set_ylim(-6.0,len(rows)-0.2)
 def node(r,key): return tuple((L[n][k]) for k in RK[:RK.index(r)+1]) if False else None
 groups=collections.OrderedDict(); ys={}
 for depth,r in enumerate(RK):
@@ -57,8 +57,8 @@ for p,y in ys["phylum"].items(): ax.text(0.04,y+0.16,p[0],fontsize=6.2,color=MUT
 txt=["Genomes and origins are counted separately (origins: NCBI taxonomy, minimum changes; genomes: confirmatory species).",
 "C33 + UAA=Stop:   supported 9 genomes, 4 fish lineages (4 origins)   |   unconfirmed 4 genomes, 4 origins   |   dropped 1 genome (Globodera), 1 origin.",
 "G33 + UAA=Stop:   supported 2 species in 1 genus (Craniella), 1 origin   |   dropped 1 genome (Bufotes), 1 origin.     All 17 non-U33: 17 genomes, 11 origins.",
-"UAA=Tyr: calibration panel, about 5 origins (not new).   Non-panel: 1 genome (Rotylenchulus), blocked under the locked rules; P. goodeyi is supported weak only.",
-"The tree is NCBI taxonomy (phylum to genus); it is not a molecular phylogeny, and branch lengths have no meaning. Status words come from post-hoc audits."]
+"UAA=Tyr: calibration panel, about 5 origins (not new).   Non-panel: 1 genome (Rotylenchulus), blocked by the locked stem count (REPORT 3.6); P. goodeyi is supported weak only.",
+"The tree is NCBI taxonomy (phylum to genus), not a molecular phylogeny, so origin counts are approximate.","Branch lengths have no meaning. Status words come from post-hoc audits."]
 for i,s in enumerate(txt): ax.text(-0.1,-1.3-i*0.8,s,fontsize=6.6,color=INK if i in(1,2,3) else MUT)
 ax.axis("off"); ax.set_title("Non-U33 tRNA-Tyr with UAA=Stop, and UAA=Tyr lineages",loc="left",fontsize=10,color=INK); save(fig,"fig1_tree")
 # ---------- fig2 ----------
