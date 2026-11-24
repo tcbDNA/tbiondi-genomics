@@ -199,3 +199,12 @@ Rules: verified GUA in a 7-nt loop with stem ≥4/5; overlap ≤10 nt with any a
 - PREREG.md commit: `5aa5774eb2ee906a9838a578bf4ccbe1d012bb92` (2026-11-23T16:51:04-05:00)
 - PREREG.md SHA256: `e23bc13f37ca48647b86cdc6b3d70abc5f7e0b69c71968de05e7b32285b4fa0c`
 - Gate 3 code is refused unless PREREG.md is committed, unmodified, and its SHA256 appears in this file (`src/panel_guard.py`).
+
+## A15. Post-lock bug fix: compound annotation locations (2026-11-23)
+**Found after the lock and after interim look 2** (`results/gate3/interim/LOG.md`), while checking why strong calls were rejected. Origin-spanning and spliced CDS/tRNA features were stored as min..max, so a gene wrapping the origin covered the whole genome and every trnY call in that record was rejected as wrong-locus. The rule in PREREG §2.3 is unchanged; the code did not implement it. Fix: intervals are the parts of the location (`src/gate3_features_fix.py`, `src/panel_features.py`; classifier default `data/sweep/features_fixed.jsonl`). The original `data/sweep/features.jsonl` is kept for the without-fix sensitivity run. PREREG.md is not edited.
+- Scope: 675 of 28,524 annotated sweep records had a >5 kb interval; 4 after the fix.
+- **A12 recomputed on the panel:** confident calls 305; locus audit passes at 0/5/10 nt **193 / 263 / 271** (were 188 / 254 / 261; 10 calls change, all broad negatives); 17 stem_audit_review unchanged. PREREG §2.3 quotes the older numbers.
+- The trnY failure percentages (A1) do not change: 26/273 unresolved, 33/273 (12.1%, CI 8.7–16.5) with wrong-locus calls. Three panel records had whole-genome trnY intervals, which could only have hidden errors; recomputing with parts gives the same 7 wrong-locus calls.
+- Effect on the 6,743-genome interim snapshot (no final results were used to choose the fix): 89 unresolved become resolved and 2 become stem_audit_review; the non-U33 Stop candidates are unchanged.
+- Final Gate 3 results are reported **with the fix (primary) and without it (sensitivity)**.
+

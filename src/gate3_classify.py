@@ -1,5 +1,6 @@
 """Gate 3 classification, exactly as PREREG: UAA class, weak tier, trnY N33 status with locus audit, named tests. Reads out.jsonl + sweep_audit.tsv + features.jsonl.
-usage: gate3_classify.py outdir [--panel]   (--panel: test mode on the panel run)"""
+usage: gate3_classify.py outdir [features.jsonl] [tag]
+POST-LOCK BUG FIX (2026-11-23, after interim look 2): the default features file is features_fixed.jsonl, where compound locations are split into parts; data/sweep/features.jsonl (origin-spanning features stored as whole-genome intervals) is kept for the without-fix sensitivity run (tag nofix)."""
 import sys,json,csv,math,collections,os
 sys.path.insert(0,"src"); import trny_decide as TD, origins
 def wil(k,n):
@@ -44,9 +45,9 @@ def n33(d,feats):
     elif stem<4: o["status"]="stem_audit_review"; o["reason"]="stem_lt4_only"
     if lo and stem>=4: o["status"]="resolved"; o["reason"]=f"overlap_{w}nt"+("" if has else ";no_annotated_trnY")
     return o
-def main(od):
+def main(od,feat="data/sweep/features_fixed.jsonl",tag="fixed"):
     FE={}
-    for l in open("data/sweep/features.jsonl"): x=json.loads(l); FE[x["acc"]]=x["f"]
+    for l in open(feat): x=json.loads(l); FE[x["acc"]]=x["f"]
     R={json.loads(l)["acc"]:json.loads(l) for l in open(od+"/out.jsonl")}; M={r["acc"]:r for r in csv.DictReader(open("results/gate3/sweep_audit.tsv"),delimiter="\t")}
     rows=[]
     for a,m in M.items():
@@ -55,7 +56,7 @@ def main(od):
         if d is None: rows.append(dict(m,uaa="not_evaluated",uaa_note="missing_from_run",n33="unresolved",base="",n33_reason="missing_from_run")); continue
         c,note=uaa_class(d); z=n33(d,FE.get(a)); u=d.get("uaa") or {}
         rows.append(dict(m,uaa=c,uaa_note=note,n33=z["status"],base=z["N33"],n33_reason=z["reason"],pass0=z["pass0"],pass5=z["pass5"],pass10=z["pass10"],score=z["score"],stem=z["stem"],loop=z["loop"],n_agree=z["n_agree"],taa_int=u.get("n_taa_internal",""),taa_genes=u.get("n_taa_genes",""),taa_tyr=u.get("n_taa_tyrcol",""),llr=u.get("llr_Y",""),tag_int=u.get("n_tag_internal",""),aligned=u.get("aligned_codons",""),genes=u.get("n_genes_hit",""),codetta=(d.get("codetta") or {}).get("TAA",""),module_errors=";".join(d["err"])))
-    K=list(dict.fromkeys(k for r in rows for k in r)); w=csv.DictWriter(open("results/mitogenome_master.tsv","w"),fieldnames=K,delimiter="\t",restval=""); w.writeheader(); w.writerows(rows); return rows
+    K=list(dict.fromkeys(k for r in rows for k in r)); w=csv.DictWriter(open("results/mitogenome_master.tsv" if tag=="fixed" else f"results/mitogenome_master_{tag}.tsv","w"),fieldnames=K,delimiter="\t",restval=""); w.writeheader(); w.writerows(rows); return rows
 def species(rows,conf=True): return [r for r in rows if r["status"]=="included" and r["provenance"]!="named_extra" and (r["role"]=="confirmatory" or not conf)]
 def fet(a,b,c,d):
     from scipy.stats import fisher_exact
@@ -98,6 +99,7 @@ def tests(rows,out):
     W("\n== stem_audit_review (all included):",sum(r["n33"]=="stem_audit_review" for r in inc),"non-U33 among them:",[(r["acc"],r["species"],r["base"],r["uaa"]) for r in inc if r["n33"]=="stem_audit_review" and r["base"]!="U"])
     W("unresolved reasons (confirmatory):",collections.Counter(r["n33_reason"].split(":")[0]+(":"+r["n33_reason"].split(":")[1].split("_")[0] if ":" in r["n33_reason"] else "") for r in C if r["n33"]=="unresolved").most_common(12)); W("module errors:",sum(bool(r.get("module_errors")) for r in inc))
 if __name__=="__main__":
-    rows=main(sys.argv[1]); 
-    with open("results/gate3/tests.txt","w") as o: tests(rows,o)
-    print(open("results/gate3/tests.txt").read()[:3000])
+    feat=sys.argv[2] if len(sys.argv)>2 else "data/sweep/features_fixed.jsonl"; tag=sys.argv[3] if len(sys.argv)>3 else "fixed"
+    rows=main(sys.argv[1],feat,tag)
+    with open(f"results/gate3/tests_{tag}.txt","w") as o: tests(rows,o)
+    print(open(f"results/gate3/tests_{tag}.txt").read()[:3000])
