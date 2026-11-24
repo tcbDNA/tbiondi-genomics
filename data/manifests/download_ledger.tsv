@@ -427,3 +427,117 @@ gate	source_url_or_accession	file	bytes	sha256	status
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586196/SRR9586196	results/work/SRR9586196.sra	113074892	10689be0eefddde755e5560ea47cc557bbbe3e9016f3c0d5f9b237d8f8143654	deleted after use
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586214/SRR9586214	results/work/SRR9586214.sra	131665293	5ad9bb40128e2cbd5e5175b404a15ac0b85a368a96d3826de48b19bf9d92b4a4	deleted after use
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR39401262/SRR39401262	results/work/SRR39401262.sra	9055264678	89055e88305a324961d2c1373f2808136faf509c4764c3fdee5e10c5544286a9	deleted after use
+3x	NCBI efetch gbwithparts UNVERIFIED batch 0 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0000.gb	2148178	319f5a2a471d8814bc5ce5387881173ff8ff2b9d280ea5cc34d5857983ab3bc2	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 1 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0001.gb	2095433	b5e01bf959e307ef6bc6a1398091d45e3d9ae27829b9b9187af311033a6b2f67	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 2 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0002.gb	2178999	29ffd277cb4aec8f88d8401254968f9f714ae1a8670c021aa6bba00b6a761925	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 3 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0003.gb	2242521	9b06a094f2b0582fbc3b0681b7637d106c54fc4067a9fcd61cad9a9f9928baa9	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 4 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0004.gb	2133084	a86fbb2ff13117b74470c910f7543e016063ab7238c5e823c806e81da4374f19	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 5 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0005.gb	2125100	3d00013539d121d0f47c8f8e7372ef3d0a2fcc19b62753675ad19f72587d73f6	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 6 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0006.gb	2014911	b26d89683145849facc3609452ac90eb7ea75ad59584feae8cbeade32f8648f7	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 7 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0007.gb	1965368	3f50f280697fcd47f68443b4abe044dc46266fa31173a580792e8363bdfde81d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 8 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0008.gb	1957736	34d8769ef6c602786892d072a026726d8821497e9795eaae8e127f1509ecc108	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 9 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0009.gb	2173792	076bd3b9e6e56cce778de27e50170896ee6085a88cb140c3272e04d98f1f91b0	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 10 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0010.gb	2169156	f8443f60ebbf64af0f55f78a25ac2a521e78454ab5fcc993a2be31a5fc0735a8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 11 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0011.gb	2233440	0975e7d374ed537583365624cdb5aaadea220341a48e19887f86b42849fec8dd	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 12 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0012.gb	2252594	304f6e0359949873044cd8df1584b5abb1d7ad04693b09a22349a06d008fce25	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 13 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0013.gb	2241440	f6716ca152bfd765ebc6aa5c1a7625b22a4bdd2ccd36587189187ca0e4413575	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 14 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0014.gb	2055283	07ac6a5ee33df4acc47dde842e15a8accf240794d7a3b48e1fc93ca47fec7e5f	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 15 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0015.gb	2121150	d66dbc49fe91869a00808cfac14bf603dd953ac75806a5e220f8c6130acb0bfa	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 16 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0016.gb	2078178	304fe26045686e6b12572754afa9432a84f2dc3b74c0fc3a7692fbad7d74d21c	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 17 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0017.gb	2134520	ad9d4d148ea3fdf0528103abcb2b313b569984bb96dd9b810dca22bfc3a3153a	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 18 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0018.gb	2069303	c91faea516868e23d67eb7e3cea03d657fbadd991ba2eba599e363a2ef75e404	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 19 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0019.gb	2187003	ab5dff460ce93cb3fc22bae59899e41ce33f16b02f78520b9574b99d5f36d3e7	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 20 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0020.gb	2160309	0481a9f33488e069750d3653be95fce0a8f4e110d4398dea366d23123dd48332	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 21 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0021.gb	2074217	df6a78309d1f52d897dae3283b267163e121710380e24e6f777ca4e6f6bb2602	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 22 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0022.gb	2133833	c09ffd6d114dbee6c71bd086d44906a2c2baedb8bb2f67aa5c477d470b34f60d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 23 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0023.gb	2128273	7130ab7ae5ba2a5267401bd50860b92402910b9c98b575aa6fb3498f414396ae	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 24 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0024.gb	2087277	7aa886281061ddcd4757b62747559d925e3bac73d012cec00deacdefcf379638	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 25 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0025.gb	2169510	861172c4205b4a165528c27641c11a3ef9bb563beddd3243dc6cc3f199837532	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 26 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0026.gb	2090202	1addc160cd6ead8a6dff738126ac69d3ee0f1b67179ae6a2a5a3aa089be05008	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 27 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0027.gb	1973396	71813c9a5bccb468372f347a000a834da911f2edeec74591817ca4a6ef4c505b	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 28 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0028.gb	2027895	07a238ef39ae354c0ac1594af54217d198843a84438248b21688b336fb5175dd	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 29 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0029.gb	2100017	5118e45cfcefa19f8ca9c2ce3ec37034381fef5fccf86087585b35fae5b2930a	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 30 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0030.gb	2023486	c4d94cdc55fa828b0aecea3e2e31e702df36b82e2e43c4d84a43c15829d47882	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 31 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0031.gb	2149457	1d1a63cdd2f39c2fd2cc024199608bcfeb6c988de90d12dd7dd28dbaa9dfd236	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 32 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0032.gb	2196517	47d3b9b15ef0accef4d3ad597e39f9dd96ce5a60f007a714c34a4452d96c8c6d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 33 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0033.gb	2111310	a994e84a58a58a19159c43f476f6ff5bb9c778a863b235a7d2cbfb9cfd7d5b57	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 34 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0034.gb	2097888	75d6802d27d093bcace990e1a89ac0d3bf3ccd2d45f4fed4298a3f16989e9da2	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 35 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0035.gb	2184367	db9901d97d4f0ea445bf85783228fc54211cb95327b0db9c09e11f640e79b1c3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 36 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0036.gb	2201688	987cdf01c80751fc5a944c9e6170024db4b209d627a9d90e516a6497fd561acb	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 37 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0037.gb	2404422	309cf812b4e91fc8dfba35819dc5261a8f177b7e1121e2473bf4366afa4c8a1d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 38 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0038.gb	2154414	c870d543d230b3a90c6bbc425cecd68cb941b2c9bc1694ffe0e6c3169b4a6b98	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 39 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0039.gb	2182117	735823e033ea813303772e48cece38fbdffa7f68ff572098d28c6678da14ccb5	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 40 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0040.gb	2191347	659a5949fa9451051686db617d74145dc3b19f1f9540108e0c0e95a2d7beb3b3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 41 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0041.gb	2187261	cb05f8b3ed2b1fbc058e31739b8f35585824a1df0ebeb88ac24afa49e4443f25	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 42 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0042.gb	2234516	485b32e69e8a12a1f557152889c6172707cb6c34105cbc2a426a5c53b63c10a8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 43 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0043.gb	2306499	2157edbb239869d386e3658dfee086df3387c1621846b62f0edeac0ba7adf8f8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 44 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0044.gb	2139046	203b7710dc6708c5725d8f767516b46a8844c5560e0726577ffbee03c846e654	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 45 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0045.gb	2091016	3a220cc9ffe50fe8eb21081a7b808f47fe96181bff8b3ea49b7e9504a33cb249	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 46 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0046.gb	2050858	3f335aba9fa3893b21b88d45d166c3d70a4f5d914dfa308172d10b4e8f24f938	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 47 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0047.gb	2023932	db6599293aa86f1f2b9e9129e225e0ee39ff85dce4ea8c46b99da623ac461831	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 48 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0048.gb	2210759	106d5196a6aae5fb10453ba2b8f15a5b17d0ba49770bb0e804e617cc6aacc5d1	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 49 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0049.gb	2192376	500fa92e87f76e73097e8030515aa9a369ae379bb7bd67c6c1aa104591ca6acb	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 50 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0050.gb	2191045	be59fe748e40967db4526c1cfde7a444ecd5ef409b8ffd1c7805148ba9b462b1	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 51 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0051.gb	2233540	98065318000ea817a89e39e6657d1171e9a83943db9fdad1cdfe41f6cb92fd59	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 52 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0052.gb	2420284	f22a52b6e03a2a9ef09aa8c0406c6921d6ed113b871e170f2f9f953fa16e5712	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 53 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0053.gb	2154238	4b52aad7383f23eaec10f58de7ca3a1dc6a4de644320a3c4495e71b1a582c3dc	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 54 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0054.gb	2148710	8817aa84ef54db272c8be5d2c483ac1f229e758e948856701444a51ba2f1a306	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 55 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0055.gb	2294831	321bfc6999643db86357f9f2f06226eb1b9200f683e6af52c70fe44734d4a459	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 56 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0056.gb	2165099	f4f25b02add77984b974c5b7994840c510a3e7120f1322f33014506200bb662f	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 57 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0057.gb	2165306	76f0bde09e9f0b9179560ffceb25188cd6e952b631fbc9de17d363fc0c9eec9c	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 58 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0058.gb	2537805	57b117bbd44014a722fdb720f171deda710facea65ebc8bce0048813a0f427d8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 59 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0059.gb	2392130	cae8e3ecf0deb411a4e672db5549c746af1d734865bce9b1b641188d63193948	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 60 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0060.gb	2225204	4587e531ac6109ef2263b99ce86e9fb216464fb2e8413e4951641c91f950f118	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 61 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0061.gb	2310313	5c5d15c53c73346dd1dc6845bc4f15ba5360d132937aaab269ffd38ac843170d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 62 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0062.gb	2335571	9c03770e8a7aebcbbcc3bfc7278c4b3f4249179cc28dd0cf16b30378376f5681	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 63 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0063.gb	2410587	f2a2855330e91d5e0f86104384359ba112855bd803b4e68c97923ed66a12ae98	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 64 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0064.gb	2797101	9ebf6c0ade96d658a47386bf53799ad8c8f50788abc42d76d8db6556af3354df	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 65 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0065.gb	3426988	1f3a77ae5e29d8ea57a5cde6f531e326108181aca80133a7233e4e9b72c8c8c3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 66 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0066.gb	3070297	bb523e6cf7f272e458a704c4e76d4d177200a6ab20dcb40f469ab834ae10903f	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 67 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0067.gb	2830347	0787394dbe87eca3ccd4134de51d2bb080c9a5b33c821df76dbe62a4b2aff4b5	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 68 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0068.gb	2914392	2cfd6378684402dd7ad8d7d6f276e5f1b1e7dc38a4821968b4506b3e22920f29	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 69 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0069.gb	2153952	898a4cabb2eec6ed4bc6ddbf1081110dbe482b8e63e235a46eae8b7c9aad9331	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 70 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0070.gb	2999683	c9f12c253584e46c68ca9213ef644437d8607e2b920b8e3658484306b9fb1726	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 71 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0071.gb	2292278	aaf0ac9ba0457e2cf7d174e301e7df50afa343b476dbd3569be8b3488b1422e9	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 72 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0072.gb	2273174	a11537e7b930ade7b1aa59bbe65c082071adc54240c428698ab9addd8f601035	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 73 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0073.gb	2274298	819a4c5c5aac51559e5009c3b67492808fcdfc6ab78a9db34be38fa487d185da	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 74 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0074.gb	2265616	771b12653ad838b91e801bfdac656367ce9682eedf3b6d256460b4448f9e9bd6	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 75 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0075.gb	2289620	9ee1a19696ac0277d0bd8739fece91e493cfe281928c3a0b8cd061c35d2736cd	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 76 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0076.gb	2239907	0ac1f795e86c90a90d92a0139ee0925a6fd898580910cf766b0405660ddc10f3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 77 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0077.gb	2285033	a465c2a496dcb74bd3c1a3e441d90b76881d9e0dce3d738e87362410af42e3e9	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 78 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0078.gb	2223569	acfc9aa691a05f4f8190d4343e9623301e6ec15d0c7d17ff14111ad4e5644ea3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 79 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0079.gb	2325840	bdd4c1b52e3a5c387726e84e87f13b0c0109dfccaa78a863941beeb3f93a7b85	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 80 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0080.gb	2564442	1f5da2d1153214da02a7e115b0a12fdf07d434bfbaff80063f74804dede23d61	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 81 (89 accessions, 0 missing)	data/sweep_unverified/gb/b0081.gb	2822918	b9ce0d6377da2e2a7a9fd73ee702b97db3f99c688cfbce41411da4f3c5c177a0	on_disk
+3x	NCBI datasets GCA_056783665.1	results/work/numt/GCA_056783665.1.fna	998112971	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_019788955.1	results/work/numt/GCA_019788955.1.fna	1062525863	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_974939545.1	results/work/numt/GCA_974939545.1.fna	476362892	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_978397455.1	results/work/numt/GCA_978397455.1.fna	287426891	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_056747025.1	results/work/numt/GCA_056747025.1.fna	636773458	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_001723225.1	results/work/numt/GCA_001723225.1.fna	107474668	NA (unpacked stream, not hashed)	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396609/SRR22396609	results/work/SRR22396609.sra	585489556	8a2f8793e0eeda1f43062d33824932315b5eb2c3f2c52c526721444b166deb41	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202050/SRR15202050	results/work/SRR15202050.sra	619039184	fbf168a81af6424aa3e8987e97a7cfd2d80fe7c3d669592d2dccbad7a714077b	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202047/SRR15202047	results/work/SRR15202047.sra	935106441	3ab2ee3d9d29b64e4ef413ba024f335e13062ef4737e3f2b2df08a85323fca61	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25465297/SRR25465297	results/work/SRR25465297.sra	724946699	a17cd0407ff308e1cf2c57105e25cc4c2db58377e9b93e8186f656ab6f18bdf6	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36182985/SRR36182985	results/work/SRR36182985.sra	916889111	cc80f792e9eec1ebce2830051a79228700146ae7e2af7782ebda5d06ef2dbe7f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36227421/SRR36227421	results/work/SRR36227421.sra	1098473359	92de54fcf55f69abdc4d6459507e4d8759491c20c39748bb4c386c7def090d6e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38094758/SRR38094758	results/work/SRR38094758.sra	1753074208	1cd3780b9bff1904b50dc7e4bc7d62ef5089443cf134f9562292b881155d7a7f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR37037826/SRR37037826	results/work/SRR37037826.sra	2223222059	460e68b2414d5df30dcd7407af098a9900f139b59464937b3ba5b7ab3ed9f627	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38368693/SRR38368693	results/work/SRR38368693.sra	2407674609	1c11012ba5a2fed4dff1dbf750af4401f12c6c9a517e9249cab9c4e8679733f8	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586127/SRR9586127	results/work/SRR9586127.sra	105473500	8ef019b3589e3079edfa6bcde6d06b5a9d72d7878f4dc6ff40368958a14d65d7	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586188/SRR9586188	results/work/SRR9586188.sra	112215127	b65a21c03ba74ced20a96edcd8518110b38c80b8698122a28577ef426e1f7967	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14792883/ERR14792883	results/work/ERR14792883.sra	2794522674	7a49d0d36a6ebae147daa7a60df564b47119f77c4bb045a3cbe8edc839b93cd0	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR41519539/SRR41519539	results/work/SRR41519539.sra	2765635935	c5d036287fea9ed8f20e377e27aafa83036689686eec6f700b80a5d26574fc4e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14857142/ERR14857142	results/work/ERR14857142.sra	3632013845	252fc7b0da55b3e32ed3d97fb83d731f5d96466689622c3bc527f889e8c75b0f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36227421/SRR36227421	results/work/SRR36227421.sra	1098473359	92de54fcf55f69abdc4d6459507e4d8759491c20c39748bb4c386c7def090d6e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14842678/ERR14842678	results/work/ERR14842678.sra	6534747466	0eb1f1b0651384a190e8520476fc80e94390c3ecd73cf12bec8e9e0590828a9b	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14835550/ERR14835550	results/work/ERR14835550.sra	7468887384	bf802a2f2173f866902bbfb986a602bf8c7abac99f77215b3a6302ad3ae16343	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10079992/SRR10079992	results/work/SRR10079992.sra	93650835	bd83ef9a19647b23cd67425d03d41540e9b0854c46af1aea69d674c24c8972b3	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10080023/SRR10080023	results/work/SRR10080023.sra	118208092	47745ecbc4fca475e929150a369fcfd730a221b437087551345f5a9c1790ce39	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11014335/SRR11014335	results/work/SRR11014335.sra	143870621	b82b319b710a90e93ab49934d615b9f5b3ca99e2fb9ef9a261fd637c19df99f6	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10079898/SRR10079898	results/work/SRR10079898.sra	96971846	fbd47e5b506455e2e3684367e21da8015eda439e73ad720921a6e4883736c95e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10251503/SRR10251503	results/work/SRR10251503.sra	830376144	70765ee35beaa376068164a69e4c9113d066f8450d9d1fabad6b89a041bd3d53	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR19044081/SRR19044081	results/work/SRR19044081.sra	1765981044	65c38d4e08acccadff565cd4154454b3c41096a6b2b6f1b0d01b5fcfa4cfda66	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR14069289/SRR14069289	results/work/SRR14069289.sra	3222447114	7b057ec8ee4ad707ec8c1acc9b92b25e88f3cd196399711dfad9d6d33fb03ee0	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8998268/SRR8998268	results/work/SRR8998268.sra	3498946554	2dadc191f125312ac14a2f3a961f4ed7b620facfc51159205fef36993e69a9ef	deleted after use

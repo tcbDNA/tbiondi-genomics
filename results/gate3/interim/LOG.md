@@ -11,3 +11,5 @@
 2026-11-24 08:17:18 looked at the 19 ambiguous UAA calls since look 4 (counts only) to explain the category.
 2026-11-24 11:15:48 analysis started after the user returned. Sweep finished 08:39:28 with 32,982 of 32,982.
 2026-11-24 11:32:50 Gate 3 report written; analysis finished (post-sweep, not an interim look).
+2026-11-24 12:01:07 UNVERIFIED exploratory set: 5-minute hit watcher started at the user's request (post-hoc set, not Gate 3).
+2026-11-24 15:39:10 UNVERIFIED exploratory run finished 15:24 (7,707/7,707), classified; report GATE_3B_EXPLORATORY.md written.

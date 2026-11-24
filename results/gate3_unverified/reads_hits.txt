@@ -1,0 +1,49 @@
+== PV962435.1
+PV962435.1 internal TAA/TAG sites with unique 31-mers 4
+  run SRR10079992 controls [22, 7, 0, 8, 0]
+     CYTB:102:TAA:pY0.77 {'genome': 0, 'TAT': 0, 'TAC': 5, 'TAA': 0, 'TAG': 0}
+     ND1:226:TAG:pY0.89 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND2:342:TAA:pY0.08 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND5:584:TAA:pY0.03 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+== PV962563.1
+PV962563.1 internal TAA/TAG sites with unique 31-mers 4
+  run SRR10080023 controls [0, 7, 10, 6, 0]
+     ATP8:30:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     COX3:191:TAA:pY0.80 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     COX3:193:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND2:337:TAA:pY0.01 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+== PV962571.1
+PV962571.1 internal TAA/TAG sites with unique 31-mers 3
+  run SRR11014335 controls [16, 28, 23, 24, 13]
+     ND1:62:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND1:65:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND2:229:TAA:pY0.92 {'genome': 0, 'TAT': 24, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+  run SRR10079898 controls [17, 88, 7, 2, 12]
+     ND1:62:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND1:65:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND2:229:TAA:pY0.92 {'genome': 0, 'TAT': 3, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+== KM893424.1
+KM893424.1 internal TAA/TAG sites with unique 31-mers 7
+  run SRR10251503 controls [0, 0, 0, 0, 0]
+     COX1:229:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     COX1:40:TAA:pY0.02 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     CYTB:137:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND1:282:TAA:pY0.68 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND5:111:TAA:pY0.68 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND6:19:TAA:pY0.04 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     ND6:82:TAA:pY0.06 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+== MW776437.1
+MW776437.1 internal TAA/TAG sites with unique 31-mers 1
+  run SRR19044081 controls [428, 340, 283, 269, 349]
+     COX1:367:TAA:pY0.79 {'genome': 1, 'TAT': 379, 'TAC': 92, 'TAA': 1, 'TAG': 1}
+== MW255583.1
+MW255583.1 internal TAA/TAG sites with unique 31-mers 3
+  run SRR14069289 controls [0, 0, 0, 0]
+     COX2:186:TAA:pY0.01 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     COX2:194:TAA:pY0.00 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+     COX2:84:TAA:pY0.88 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+== MW810062.1
+MW810062.1 internal TAA/TAG sites with unique 31-mers 1
+  run SRR8998268 controls [0, 0, 0, 0, 0]
+     ND2:318:TAA:pY0.97 {'genome': 0, 'TAT': 0, 'TAC': 0, 'TAA': 0, 'TAG': 0}
+ALL DONE

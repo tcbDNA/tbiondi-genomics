@@ -1,0 +1,8 @@
+resolved Elopomorpha 242 Counter({('Anguilliformes', 'U'): 213, ('Notacanthiformes', 'U'): 13, ('Anguilliformes', 'C'): 7, ('Elopiformes', 'U'): 5, ('Albuliformes', 'C'): 4})
+C33: [('NC_013628.2', 'Stemonidium hypomelas', 'Serrivomeridae'), ('NC_013436.1', 'Serrivomer sector', 'Serrivomeridae'), ('NC_005796.1', 'Pterothrissus gissu', 'Albulidae'), ('NC_013627.1', 'Serrivomer beanii', 'Serrivomeridae'), ('NC_082992.1', 'Albula vulpes', 'Albulidae'), ('PX804232.1', 'Ophichthus asakusae', 'Ophichthidae'), ('PV357903.1', 'Coloconger meadi', 'Colocongridae'), ('PZ495457.1', 'Serrivomer lanceolatoides', 'Serrivomeridae'), ('CM165726.1', 'Albula glossodonta', 'Albulidae'), ('KY021065.1', 'Xyrias revulsus', 'Ophichthidae'), ('AP002973.1', 'Albula glossodonta', 'Albulidae')]
+taxonomy origins of C33 (Anguilliformes only): {'changes': 4, 'gains_min': 4, 'gains_max': 4} | all Elopomorpha: {'changes': 5, 'gains_min': 5, 'gains_max': 5}
+families with C33 (C/all): {'Serrivomeridae': '4/4', 'Ophichthidae': '2/33', 'Colocongridae': '1/2'}
+alignment 242 len 9864
+tree: minimum C<->U changes 5 tips 242
+all-C33 clades (>=2 tips): [(4, ['Serrivomer sector', 'Serrivomer beanii', 'Stemonidium hypomelas', 'Serrivomer lanceolatoides']), (3, ['Albula glossodonta', 'Albula glossodonta', 'Albula vulpes']), (3, ['Serrivomer sector', 'Serrivomer beanii', 'Stemonidium hypomelas']), (2, ['Xyrias revulsus', 'Ophichthus asakusae']), (2, ['Albula glossodonta', 'Albula vulpes']), (2, ['Serrivomer sector', 'Stemonidium hypomelas'])]
+C33 tips 11 support values not evaluated

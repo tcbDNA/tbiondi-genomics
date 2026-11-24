@@ -1,0 +1,47 @@
+== Serrivomer: records >=1kb 13, with confident trnY 12, N33 {'C': 11, 'U': 1}
+   target: PX939991.1 Serrivomer beanii voucher USNM:FISH:477867 mitochondrion, complete gen 16730 C CCGUAGC 66.0 5 5ca4ab3d
+   target: PX754814.1 Serrivomer beanii voucher VIMS:31064 mitochondrion, complete genome 16731 C CCGUAGC 65.2 5 d7c4a810
+   target: OR546184.1 Serrivomer sector voucher SIO:5ea0f0ab-0ebc-436c-9ba0-d9e1b79dc5a2 mit 17092 U UUGUAGC 63.1 5 88e08555
+   target: PZ743035.1 Serrivomer sector voucher USNM:FISH:485028 mitochondrion, complete gen 16666 C CCGUAGC 64.3 5 1ebcd1ed
+   target: PZ495457.1 Serrivomer lanceolatoides voucher USNM:FISH:407662 mitochondrion, comp 16657 C CCGUAGC 64.3 5 c142a992
+   target: PZ285087.1 Serrivomer sector voucher USNM:FISH:485026 mitochondrion, complete gen 16671 C CCGUAGC 64.3 5 babfea2a
+   target: PZ285086.1 Serrivomer sector voucher USNM:FISH:485032 mitochondrion, complete gen 16666 C CCGUAGC 64.3 5 6994f17a
+   target: PZ284732.1 Serrivomer beanii voucher USNM:FISH:483640 mitochondrion, complete gen 16731 C CCGUAGC 65.2 5 4e268843
+   target: NC_013627.1 Serrivomer beanii mitochondrion, complete genome 16731 C CCGUAGC 66.0 5 4b9967a8
+   target: NC_013436.1 Serrivomer sector mitochondrion, complete genome 16099 C CCGUAGC 64.3 5 a271093c
+   target: AP010857.1 Serrivomer beanii mitochondrial DNA, complete genome 16731 C CCGUAGC 66.0 5 4b9967a8
+   target: AP007250.1 Serrivomer sector mitochondrial DNA, complete genome 16099 C CCGUAGC 64.3 5 a271093c
+== Stemonidium: records >=1kb 9, with confident trnY 7, N33 {'C': 7}
+   target: OR482581.1 Stemonidium hypomelas voucher SIO:5ea0f0ab-0ebc-436c-9ba0-d9e1b79dc5a2 16667 C CCGUAGC 64.3 5 16d0781c
+   target: PZ285090.1 Stemonidium hypomelas voucher USNM:FISH:485029 mitochondrion, complete 17563 C CCGUAGC 65.6 5 0575e275
+   target: PZ285088.1 Stemonidium hypomelas voucher USNM:FISH:485027 mitochondrion, complete 17551 C CCGUAGC 65.6 5 37b061f6
+   target: PZ285084.1 Stemonidium hypomelas voucher USNM:FISH:485031 mitochondrion, complete 17736 C CCGUAGC 65.6 5 7d28a8cc
+   target: PZ285083.1 Stemonidium hypomelas voucher USNM:FISH:485024 mitochondrion, complete 17075 C CCGUAGC 65.6 5 35b82939
+   target: NC_013628.2 Stemonidium hypomelas mitochondrion, complete genome 16566 C CCGUAGC 65.6 5 98a7c2a8
+   target: AP010858.2 Stemonidium hypomelas mitochondrial DNA, complete genome 16566 C CCGUAGC 65.6 5 98a7c2a8
+== Coloconger: records >=1kb 3, with confident trnY 3, N33 {'C': 1, 'U': 2}
+   target: PV357903.1 Coloconger meadi voucher USNM:FISH:400788 mitochondrion, complete geno 17754 C CCGUAGA 72.6 5 7f5e4c11
+== Ophichthus: records >=1kb 32, with confident trnY 26, N33 {'U': 25, 'C': 1}
+   target: PX804232.1 Ophichthus asakusae voucher USNM:FISH:471277 mitochondrion, complete g 17877 C CCGUAGA 71.7 5 c1f87e41
+== Xyrias: records >=1kb 1, with confident trnY 1, N33 {'C': 1}
+   target: KY021065.1 Xyrias revulsus mitochondrion, complete genome 17784 C CCGUAGA 69.2 5 d81122bb
+== Lycenchelys: records >=1kb 15, with confident trnY 11, N33 {'C': 4, 'U': 7}
+   target: QB104173.1 Lycenchelys verrillii voucher USNM:FISH:477921 mitochondrion, complete 16851 C UCGUAGA 64.4 4 0ea9b98b
+   target: PX940805.1 Lycenchelys verrillii voucher USNM:FISH:477953 mitochondrion, complete 16868 C UCGUAGA 64.4 4 f5695fc4
+   target: PV339947.1 Lycenchelys verrillii voucher ADN_24_00921 mitochondrion, complete gen 16849 C UCGUAGA 64.4 4 6658bc19
+   target: CM163399.1 Lycenchelys verrillii isolate WolfEelpout01 mitochondrion, complete se 17184 C UCGUAGA 64.4 4 203d0aa9
+== Globodera: records >=1kb 193, with confident trnY 5, N33 {'U': 4, 'C': 1}
+   target: KU726972.1 Globodera ellingtonae chromosome II mitochondrion, complete sequence 14365 U UUGUAAA 11.1 4 fe96b7f1
+   target: KU726971.1 Globodera ellingtonae chromosome I mitochondrion, complete sequence 17757 C UCGUAGA 10.0 4 5a10076c
+== Toxocara: records >=1kb 47, with confident trnY 15, N33 {'U': 13, 'C': 2}
+   target: NC_082198.1 Toxocara apodemi isolate Taizhou mitochondrion, complete genome 14303 C UCGUAAA 27.1 5 a1919a27
+   target: OR241493.1 Toxocara apodemi isolate Taizhou mitochondrion, complete genome 14303 C UCGUAAA 27.1 5 a1919a27
+== Antigone: records >=1kb 102, with confident trnY 23, N33 {'U': 21, 'C': 2}
+   target: NC_020580.1 Grus rubicunda mitochondrion, complete genome 16693 C CCGUAGU 60.1 3 af279fe5
+   target: U11062.1 Grus rubicunda isolate ICF 9-8 cytochrome b gene, complete cds; and tR 1302 U UUGUAAA 17.1 4 b83d880c
+   target: FJ769853.1 Grus rubicunda mitochondrion, complete genome 16693 C CCGUAGU 60.1 3 af279fe5
+== Grus: records >=1kb 103, with confident trnY 33, N33 {'U': 33}
+== Craniella: records >=1kb 39, with confident trnY 5, N33 {'G': 2, 'U': 3}
+   target: OZ407450.1 Craniella zetlandica genome assembly, organelle: mitochondrion 18452 G CGGUAAA 43.1 4 f3dd1bfe
+   target: OZ318138.1 Craniella infrequens genome assembly, organelle: mitochondrion 18285 G CGGUAAA 43.1 4 729e4449
+DONE

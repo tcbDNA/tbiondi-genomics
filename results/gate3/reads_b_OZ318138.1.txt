@@ -1,0 +1,5 @@
+OZ318138.1 record N33 G strand + loop CGGUAAA | 31-mers {'N33=A': 'GGTGATGCGTCCCGCAGTAAACGGAATACTT', 'N33=C': 'GGTGATGCGTCCCGCCGTAAACGGAATACTT', 'N33=G': 'GGTGATGCGTCCCGCGGTAAACGGAATACTT', 'N33=U': 'GGTGATGCGTCCCGCTGTAAACGGAATACTT'}
+  run ERR14835550 {'N33=A': 0, 'N33=C': 0, 'N33=G': 40, 'N33=U': 0, 'control1@2742': 65, 'control2@8228': 72, 'control3@13713': 54}
+# NOTE: the two RNA-seq lines below were printed to this file by the first call (12:05) and overwritten by the second call (12:32); copied here from the recorded output, not re-run.
+  run SRR33975184 {'N33=A': 0, 'N33=C': 0, 'N33=G': 66, 'N33=U': 0, 'control1@2742': 17281, 'control2@8228': 718, 'control3@13713': 43}
+  run ERR14792883 {'N33=A': 0, 'N33=C': 0, 'N33=G': 2, 'N33=U': 0, 'control1@2742': 161, 'control2@8228': 10, 'control3@13713': 0}

@@ -1,0 +1,6 @@
+lycenchelys CM163399.1 mt length 17184 N33 + strand base G tRNA N33 C strand -
+assembly GCA_056747025.1 size 636773458
+contigs that look like the mitochondrion itself: {'CM163399.1': 17184, 'JBQQXK010000041.1': 82344}
+nuclear-like hits >=200 bp, >=80%: 0 | total aligned bp 0
+nuclear hits covering the N33 site: 0
+DONE lycenchelys GCA_056747025.1
