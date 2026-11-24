@@ -20,3 +20,9 @@ data/mtrf/
 data/sweep/
 results/gate3/out.jsonl
 results/gate3/run/
+results/gate3/interim/*/out.jsonl
+results/gate3/interim/*/mitogenome_master*.tsv
+results/gate3/posthoc_tylench/out.jsonl
+results/gate3_unverified/run/
+results/gate3/interim/out.jsonl
+results/gate3/interim/mitogenome_master.tsv

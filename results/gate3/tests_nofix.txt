@@ -1,0 +1,106 @@
+included genomes 32982 | confirmatory 32623
+UAA classes (confirmatory) {'Stop': 32510, 'insufficient': 61, 'ambiguous': 48, 'weak': 3, 'Tyr': 1}
+UAA classes (all roles) {'confirmatory': {'Stop': 32511, 'insufficient': 61, 'ambiguous': 48, 'weak': 3, 'Tyr': 1}, 'panel': {'Stop': 322, 'insufficient': 5, 'weak': 1, 'Tyr': 6}, 'panel_species': {'Stop': 24}}
+N33 status (confirmatory) {'resolved': 28350, 'stem_audit_review': 2013, 'unresolved': 2260}
+locus audit pass at 0 nt (confirmatory): 21250
+locus audit pass at 5 nt (confirmatory): 26583
+locus audit pass at 10 nt (confirmatory): 28350
+
+== phylum-stratified trnY coverage (confirmatory)
+Arthropoda	n=15047	resolved 14378 (95.6%)	stem_audit_review 6	unresolved 663 (wrong-locus 479)
+Chordata	n=12956	resolved 10774 (83.2%)	stem_audit_review 1956	unresolved 226 (wrong-locus 212)
+Mollusca	n=1625	resolved 1387 (85.4%)	stem_audit_review 30	unresolved 208 (wrong-locus 194)
+Cnidaria	n=892	resolved 0 (0.0%)	stem_audit_review 1	unresolved 891 (wrong-locus 26)
+Platyhelminthes	n=486	resolved 425 (87.4%)	stem_audit_review 11	unresolved 50 (wrong-locus 16)
+Annelida	n=477	resolved 446 (93.5%)	stem_audit_review 5	unresolved 26 (wrong-locus 26)
+Nematoda	n=394	resolved 350 (88.8%)	stem_audit_review 2	unresolved 42 (wrong-locus 15)
+Echinodermata	n=326	resolved 308 (94.5%)	stem_audit_review 1	unresolved 17 (wrong-locus 16)
+Porifera	n=186	resolved 144 (77.4%)	stem_audit_review 0	unresolved 42 (wrong-locus 3)
+Bryozoa	n=44	resolved 25 (56.8%)	stem_audit_review 1	unresolved 18 (wrong-locus 3)
+Acanthocephala	n=41	resolved 19 (46.3%)	stem_audit_review 0	unresolved 22 (wrong-locus 4)
+Nemertea	n=39	resolved 38 (97.4%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Rotifera	n=21	resolved 8 (38.1%)	stem_audit_review 0	unresolved 13 (wrong-locus 0)
+Ctenophora	n=17	resolved 0 (0.0%)	stem_audit_review 0	unresolved 17 (wrong-locus 0)
+Xenacoelomorpha	n=10	resolved 8 (80.0%)	stem_audit_review 0	unresolved 2 (wrong-locus 1)
+Placozoa	n=9	resolved 6 (66.7%)	stem_audit_review 0	unresolved 3 (wrong-locus 3)
+Hemichordata	n=9	resolved 6 (66.7%)	stem_audit_review 0	unresolved 3 (wrong-locus 3)
+Tardigrada	n=8	resolved 7 (87.5%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Nematomorpha	n=7	resolved 5 (71.4%)	stem_audit_review 0	unresolved 2 (wrong-locus 1)
+Chaetognatha	n=6	resolved 0 (0.0%)	stem_audit_review 0	unresolved 6 (wrong-locus 0)
+Brachiopoda	n=5	resolved 3 (60.0%)	stem_audit_review 0	unresolved 2 (wrong-locus 2)
+(none)	n=5	resolved 5 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Kinorhyncha	n=3	resolved 3 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Onychophora	n=3	resolved 0 (0.0%)	stem_audit_review 0	unresolved 3 (wrong-locus 1)
+Priapulida	n=2	resolved 2 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Entoprocta	n=2	resolved 2 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Gnathostomulida	n=1	resolved 0 (0.0%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Phoronida	n=1	resolved 0 (0.0%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Gastrotricha	n=1	resolved 1 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+
+== new Tyr (confirmatory, primary): 1 | origins on confirmatory genomes {'changes': 1, 'gains_min': 1, 'gains_max': 1}
+  Tyr CM003310.1 Rotylenchulus reniformis Nematoda Rhabditida Hoplolaimidae INSDC_only N33 stem_audit_review U TAA 32 genes 6 tyr 15 llr 67.43 internal TAG 3
+  clade ('Nematoda', 'Rhabditida', 'Hoplolaimidae') species 1 -> single-genome: needs independent evidence (RNA-seq/TSA, proteomics, or separate BioProject)
+
+== T0 {}
+  Tyr by N33 (confirmatory): {('stem_audit_review', 'U'): 1}
+
+== T1 Stop species resolved 28286; non-U33 17 = 0.060% (95% CI 0.038-0.096) {'G': 3, 'C': 14}
+   Chordata: 13/10770
+   Nematoda: 2/349
+   Porifera: 2/143
+   by provenance: {'DToL': '0/2091', 'INSDC_only': '7/11147', 'RefSeq': '8/13233', 'other_assembly': '2/1815'}
+   at 0-nt tolerance: non-U33 15/21205
+   at 5-nt tolerance: non-U33 17/26521
+   at 10-nt tolerance: non-U33 17/28286
+   Fisher (Tyr x non-U33): not run (new independent origins 1 < 3)
+   independent origins of non-U33 among Stop (resolved): {'changes': 11, 'gains_min': 11, 'gains_max': 11}
+
+== sufficiency counterexample candidates (confirmatory, Stop, resolved, non-U33)
+   CM165726.1 Albula glossodonta Chordata Actinopteri Albuliformes Albulidae INSDC_only C CCGUAGC score 65.4 stem 5 agree 2 overlap_1nt;no_annotated_trnY
+   NC_005796.1 Pterothrissus gissu Chordata Actinopteri Albuliformes Albulidae RefSeq C CCGUAGC score 70.1 stem 5 agree 2 overlap_0nt
+   PV357903.1 Coloconger meadi Chordata Actinopteri Anguilliformes Colocongridae INSDC_only C CCGUAGA score 72.6 stem 5 agree 2 overlap_0nt
+   PX804232.1 Ophichthus asakusae Chordata Actinopteri Anguilliformes Ophichthidae INSDC_only C CCGUAGA score 71.7 stem 5 agree 2 overlap_0nt
+   NC_013627.1 Serrivomer beanii Chordata Actinopteri Anguilliformes Serrivomeridae RefSeq C CCGUAGC score 66.0 stem 5 agree 2 overlap_0nt
+   PZ495457.1 Serrivomer lanceolatoides Chordata Actinopteri Anguilliformes Serrivomeridae INSDC_only C CCGUAGC score 64.3 stem 5 agree 2 overlap_0nt
+   NC_013436.1 Serrivomer sector Chordata Actinopteri Anguilliformes Serrivomeridae RefSeq C CCGUAGC score 64.3 stem 5 agree 2 overlap_0nt
+   NC_013628.2 Stemonidium hypomelas Chordata Actinopteri Anguilliformes Serrivomeridae RefSeq C CCGUAGC score 65.6 stem 5 agree 2 overlap_0nt
+   KY021065.1 Xyrias revulsus Chordata Actinopteri Anguilliformes Ophichthidae INSDC_only C CCGUAGA score 69.2 stem 5 agree 2 overlap_0nt
+   NC_047225.1 Bufotes pewzowi Chordata Amphibia Anura Bufonidae RefSeq G UGGUAGU score 49.8 stem 4 agree 1 overlap_0nt
+   NC_037360.1 Microdevario kubotai Chordata Actinopteri Cypriniformes Danionidae RefSeq C CCGUAGC score 70.2 stem 5 agree 2 overlap_0nt
+   NC_015546.1 Microdevario nanus Chordata Actinopteri Cypriniformes Danionidae RefSeq C CCGUAGC score 66.6 stem 5 agree 2 overlap_0nt
+   CM163399.1 Lycenchelys verrillii Chordata Actinopteri Perciformes Zoarcidae INSDC_only C UCGUAGA score 64.4 stem 4 agree 2 overlap_1nt;no_annotated_trnY
+   KU726971.1 Globodera ellingtonae Nematoda Chromadorea Rhabditida Heteroderidae INSDC_only C UCGUAGA score 10.0 stem 4 agree 1 overlap_0nt;no_annotated_trnY
+   NC_082198.1 Toxocara apodemi Nematoda Chromadorea Rhabditida Toxocaridae RefSeq C UCGUAAA score 27.1 stem 5 agree 1 overlap_0nt
+   OZ318138.1 Craniella infrequens Porifera Demospongiae Tetractinellida Tetillidae other_assembly G CGGUAAA score 43.1 stem 4 agree 2 overlap_0nt;no_annotated_trnY
+   OZ407450.1 Craniella zetlandica Porifera Demospongiae Tetractinellida Tetillidae other_assembly G CGGUAAA score 43.1 stem 4 agree 2 overlap_0nt;no_annotated_trnY
+
+== T2 precision 0/17 recall 0/0 | descriptive only (new Tyr species 0, origins 1; needs >=5 and >=3)
+
+== T4 Echinodermata by class: (N33 status, base, UAA)
+   Asteroidea {('resolved', 'U', 'Stop'): 72, ('unresolved', '', 'Stop'): 6}
+   Crinoidea {('resolved', 'U', 'Stop'): 30, ('unresolved', '', 'Stop'): 1}
+   Echinoidea {('resolved', 'U', 'Stop'): 52, ('unresolved', '', 'Stop'): 7, ('stem_audit_review', '', 'Stop'): 1}
+   Holothuroidea {('resolved', 'U', 'Stop'): 71, ('unresolved', '', 'Stop'): 1}
+   Ophiuroidea {('resolved', 'U', 'Stop'): 83, ('unresolved', '', 'Stop'): 2}
+  asteroid resolved 72 {'U': 72} READING: Zhao-consistent 
+   Asterias rubens: LR745847.1 resolved U UUGUAAA Stop overlap_0nt;no_annotated_trnY
+
+== T6 Elopomorpha
+   Albuliformes {('resolved', 'C', 'Stop'): 4}
+   Anguilliformes {('unresolved', '', 'Stop'): 7, ('resolved', 'U', 'Stop'): 212, ('resolved', 'C', 'Stop'): 7, ('stem_audit_review', '', 'Stop'): 1}
+   Elopiformes {('resolved', 'U', 'Stop'): 5}
+   Notacanthiformes {('resolved', 'U', 'Stop'): 13}
+   Albuliformes: NC_005796.1 Pterothrissus gissu confirmatory resolved C CCGUAGC 70.1 5 2 Stop overlap_0nt
+   Albuliformes: NC_082992.1 Albula vulpes panel resolved C CCGUAGC 65.4 5 2 Stop overlap_0nt
+   Albuliformes: CM165726.1 Albula glossodonta confirmatory resolved C CCGUAGC 65.4 5 2 Stop overlap_1nt;no_annotated_trnY
+   Albuliformes: AP002973.1 Albula glossodonta confirmatory resolved C CCGUAGC 63.4 5 2 Stop overlap_0nt
+   READING: lineage-level
+
+== weak tier (confirmatory): 3
+   PX411826.1 Teleopsis guangxiensis Arthropoda Diptera TAA 1 genes 1 tyr 1 codetta Y  N33 resolved U
+   OM772656.1 Pteronarcys sachalina Arthropoda Plecoptera TAA 2 genes 1 tyr 1 codetta ?  N33 resolved U
+   LR899124.1 Ornithodoros pavimentosus Arthropoda Ixodida TAA 1 genes 1 tyr 1 codetta Y  N33 resolved U
+
+== stem_audit_review (all included): 2026 non-U33 among them: [('NC_020580.1', 'Antigone rubicunda', 'C', 'Stop'), ('NC_062037.1', 'Leptophyton benayahui', 'C', 'Stop')]
+unresolved reasons (confirmatory): [('gate_fail', 1034), ('wrong_locus:overlaps', 667), ('wrong_locus:disagrees', 342), ('not_called:anticodon', 215), ('not_called:loop', 2)]
+module errors: 2

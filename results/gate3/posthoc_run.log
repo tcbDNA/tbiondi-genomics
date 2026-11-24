@@ -1,0 +1,64 @@
+POST-HOC sensitivity analysis: stem_audit_review re-inclusion. Not confirmatory; criteria in src/gate3_posthoc_stem.py.
+Aves: n=1576
+  1 annotated trnY agreement 1.000 (n=1398)
+  2 both callers agree 1.000
+  3 shared mismatch 0.999 pattern [(1, 'UU'), (2, 'UU')] top arms [(((0, ('U', 'U')), (1, ('U', 'U'))), 1575), (((0, ('U', 'U')), (1, ('U', 'C'))), 1)]
+  4 consensus 5'arm UUAGG identity 0.999; 3'arm CCUUU identity 1.000; GUA in loop 1.000
+  VERDICT: re-include (post-hoc)
+   re-included bases {'U': 1575, 'C': 1} non-U33 (Stop): [('NC_020580.1', 'Antigone rubicunda', 'C')]
+Actinopteri: n=176
+  1 annotated trnY agreement 1.000 (n=172)
+  2 both callers agree 0.972
+  3 shared mismatch 0.477 pattern [(1, 'AC'), (5, 'AC')] top arms [(((0, ('A', 'C')), (4, ('A', 'C'))), 84), (((0, ('C', 'U')), (4, ('A', 'C'))), 32), (((0, ('G', 'A')), (4, ('A', 'C'))), 17)]
+  4 consensus 5'arm AUGGA identity 0.852; 3'arm CCCAC identity 0.881; GUA in loop 1.000
+  VERDICT: stay excluded
+Testudines: n=161
+  1 annotated trnY agreement 1.000 (n=150)
+  2 both callers agree 0.994
+  3 shared mismatch 0.981 pattern [(1, 'UU'), (2, 'UU')] top arms [(((0, ('U', 'U')), (1, ('U', 'U'))), 158), (((0, ('U', 'U')), (1, ('C', 'U'))), 3)]
+  4 consensus 5'arm UUAGG identity 0.933; 3'arm CCUUU identity 0.957; GUA in loop 1.000
+  VERDICT: re-include (post-hoc)
+   re-included bases {'U': 161} non-U33 (Stop): []
+Amphibia: n=51
+  1 annotated trnY agreement 1.000 (n=50)
+  2 both callers agree 0.961
+  3 shared mismatch 0.804 pattern [(1, 'GA'), (5, 'AC')] top arms [(((0, ('G', 'A')), (4, ('A', 'C'))), 41), (((0, ('G', 'A')), (4, ('U', 'U'))), 5), (((0, ('G', 'A')), (4, ('U', 'C'))), 1)]
+  4 consensus 5'arm GCGGA identity 0.918; 3'arm CCCGA identity 0.929; GUA in loop 1.000
+  VERDICT: stay excluded
+Bivalvia: n=28
+  1 annotated trnY agreement 1.000 (n=24)
+  2 both callers agree 0.071
+  3 shared mismatch 1.000 pattern [(2, 'UU'), (3, 'UU')] top arms [(((1, ('U', 'U')), (2, ('U', 'U'))), 28)]
+  4 consensus 5'arm GUUGG identity 0.993; 3'arm CCUUC identity 0.950; GUA in loop 1.000
+  VERDICT: stay excluded
+Cestoda: n=8
+  fewer than 10 calls: not assessed
+Chondrichthyes: n=7
+  fewer than 10 calls: not assessed
+Gastropoda: n=6
+  fewer than 10 calls: not assessed
+Polychaeta: n=5
+  fewer than 10 calls: not assessed
+Insecta: n=4
+  fewer than 10 calls: not assessed
+Trematoda: n=2
+  fewer than 10 calls: not assessed
+Chromadorea: n=2
+  fewer than 10 calls: not assessed
+Arachnida: n=1
+  fewer than 10 calls: not assessed
+Ceratodontiformes: n=1
+  fewer than 10 calls: not assessed
+Anthozoa: n=1
+  fewer than 10 calls: not assessed
+Monogenea: n=1
+  fewer than 10 calls: not assessed
+Malacostraca: n=1
+  fewer than 10 calls: not assessed
+Echinoidea: n=1
+  fewer than 10 calls: not assessed
+Gymnolaemata: n=1
+  fewer than 10 calls: not assessed
+re-included classes: ['Aves', 'Testudines']
+T1 with re-included classes: non-U33 19/30308; primary (resolved only): 18/28584
+

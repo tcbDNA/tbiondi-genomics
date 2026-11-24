@@ -1,0 +1,37 @@
+included genomes 32982 | confirmatory 32623
+UAA classes (confirmatory) {'Stop': 32510, 'insufficient': 61, 'ambiguous': 48, 'weak': 3, 'Tyr': 1}
+UAA classes (all roles) {'confirmatory': {'Stop': 32511, 'insufficient': 61, 'ambiguous': 48, 'weak': 3, 'Tyr': 1}, 'panel': {'Stop': 322, 'insufficient': 5, 'weak': 1, 'Tyr': 6}, 'panel_species': {'Stop': 24}}
+N33 status (confirmatory) {'resolved': 28350, 'stem_audit_review': 2013, 'unresolved': 2260}
+locus audit pass at 0 nt (confirmatory): 21250
+locus audit pass at 5 nt (confirmatory): 26583
+locus audit pass at 10 nt (confirmatory): 28350
+
+== phylum-stratified trnY coverage (confirmatory)
+Arthropoda	n=15047	resolved 14378 (95.6%)	stem_audit_review 6	unresolved 663 (wrong-locus 479)
+Chordata	n=12956	resolved 10774 (83.2%)	stem_audit_review 1956	unresolved 226 (wrong-locus 212)
+Mollusca	n=1625	resolved 1387 (85.4%)	stem_audit_review 30	unresolved 208 (wrong-locus 194)
+Cnidaria	n=892	resolved 0 (0.0%)	stem_audit_review 1	unresolved 891 (wrong-locus 26)
+Platyhelminthes	n=486	resolved 425 (87.4%)	stem_audit_review 11	unresolved 50 (wrong-locus 16)
+Annelida	n=477	resolved 446 (93.5%)	stem_audit_review 5	unresolved 26 (wrong-locus 26)
+Nematoda	n=394	resolved 350 (88.8%)	stem_audit_review 2	unresolved 42 (wrong-locus 15)
+Echinodermata	n=326	resolved 308 (94.5%)	stem_audit_review 1	unresolved 17 (wrong-locus 16)
+Porifera	n=186	resolved 144 (77.4%)	stem_audit_review 0	unresolved 42 (wrong-locus 3)
+Bryozoa	n=44	resolved 25 (56.8%)	stem_audit_review 1	unresolved 18 (wrong-locus 3)
+Acanthocephala	n=41	resolved 19 (46.3%)	stem_audit_review 0	unresolved 22 (wrong-locus 4)
+Nemertea	n=39	resolved 38 (97.4%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Rotifera	n=21	resolved 8 (38.1%)	stem_audit_review 0	unresolved 13 (wrong-locus 0)
+Ctenophora	n=17	resolved 0 (0.0%)	stem_audit_review 0	unresolved 17 (wrong-locus 0)
+Xenacoelomorpha	n=10	resolved 8 (80.0%)	stem_audit_review 0	unresolved 2 (wrong-locus 1)
+Placozoa	n=9	resolved 6 (66.7%)	stem_audit_review 0	unresolved 3 (wrong-locus 3)
+Hemichordata	n=9	resolved 6 (66.7%)	stem_audit_review 0	unresolved 3 (wrong-locus 3)
+Tardigrada	n=8	resolved 7 (87.5%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Nematomorpha	n=7	resolved 5 (71.4%)	stem_audit_review 0	unresolved 2 (wrong-locus 1)
+Chaetognatha	n=6	resolved 0 (0.0%)	stem_audit_review 0	unresolved 6 (wrong-locus 0)
+Brachiopoda	n=5	resolved 3 (60.0%)	stem_audit_review 0	unresolved 2 (wrong-locus 2)
+(none)	n=5	resolved 5 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Kinorhyncha	n=3	resolved 3 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Onychophora	n=3	resolved 0 (0.0%)	stem_audit_review 0	unresolved 3 (wrong-locus 1)
+Priapulida	n=2	resolved 2 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Entoprocta	n=2	resolved 2 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Gnathostomulida	n=1	resolved 0 (0.0%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Phoronida	n=1	resolved 0 (

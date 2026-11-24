@@ -408,3 +408,22 @@ gate	source_url_or_accession	file	bytes	sha256	status
 3	NCBI efetch nuccore gbwithparts batch 129 (100 accessions, 0 missing)	data/sweep/gb/b0129.gb	4333335	faef5d81ac028110b96506103e707b0b58a9f9e4f4dbe8cf51ec185bb4d05f92	on_disk
 3	NCBI efetch nuccore gbwithparts batch 130 (100 accessions, 0 missing)	data/sweep/gb/b0130.gb	4338014	daeceabe8ead2501c6f48ad91a55358a40ec7d0b6e24a45e6c386c0cb0a708b8	on_disk
 3	NCBI efetch nuccore gbwithparts batch 131 (99 accessions, 0 missing)	data/sweep/gb/b0131.gb	4009861	94b1a4a111e969e43df0062fdbe857dcf9b2813df20925626b1abd83568e8946	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR2912304/SRR2912304	results/work/SRR2912304.sra	185146493	a67956000439e113f6b7632908855249bc1d25228d4a0186d627cefcbd3de8aa	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR2912305/SRR2912305	results/work/SRR2912305.sra	173593724	b73c70c89f5113666f9f7f2ed9f9fc09af1a06bf8ed0e77f0eb26efa1ca930a9	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR4556446/SRR4556446	results/work/SRR4556446.sra	252063006	b581ecd85537c7e0d760cc2ad5d3d789c93411a94ec2847c62c59daf7e1a6dee	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR14617436/SRR14617436	results/work/SRR14617436.sra	50166	335947b7a809c9d7e37c3e136210657d3496c575ae793f55a5a9ccdd216f84ce	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396674/SRR22396674	results/work/SRR22396674.sra	623991918	e8ba479ba2bfcad43d1b9ecb27ce0ba570d5120bae412a16721216fe4a56d148	deleted after use
+3	local compile	env/tools/kmatch/kmatch (from env/tools/kmatch/kmatch.c, clang -O2)	34147	ca3d311555fe40e1efeb7d08b8fa07d83dfc93a4d504f05d2f19de975092bd83	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396674/SRR22396674	results/work/SRR22396674.sra	623991918	e8ba479ba2bfcad43d1b9ecb27ce0ba570d5120bae412a16721216fe4a56d148	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR4556446/SRR4556446	results/work/SRR4556446.sra	252063006	b581ecd85537c7e0d760cc2ad5d3d789c93411a94ec2847c62c59daf7e1a6dee	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586121/SRR9586121	results/work/SRR9586121.sra	163777229	7307e857ec69bb545031276e2e30a9152c5d17f22ca2d942b6cfcdcc95d44fbf	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586127/SRR9586127	results/work/SRR9586127.sra	105473500	8ef019b3589e3079edfa6bcde6d06b5a9d72d7878f4dc6ff40368958a14d65d7	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR744555/ERR744555	results/work/ERR744555.sra	2187027602	919ba6cb9098a58fe71db55af2383104c109722e8ec43b0733e7ad87b72c1a1f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586145/SRR9586145	results/work/SRR9586145.sra	121169720	9cc0453a53311ae2a150921cbafcd4062dad7f7dfef7fe82f58d49cb3d4bac1f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586146/SRR9586146	results/work/SRR9586146.sra	131035924	f4046e4e9d60c1680a20364191c20e28cf5db35d65ce6c6c41756feba93ee51f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586188/SRR9586188	results/work/SRR9586188.sra	112215127	b65a21c03ba74ced20a96edcd8518110b38c80b8698122a28577ef426e1f7967	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586195/SRR9586195	results/work/SRR9586195.sra	120630128	dd8e6cf69b443bad294217418faeef104e7044e41ff0a66cba4e14bbf14215e0	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586196/SRR9586196	results/work/SRR9586196.sra	113074892	10689be0eefddde755e5560ea47cc557bbbe3e9016f3c0d5f9b237d8f8143654	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586214/SRR9586214	results/work/SRR9586214.sra	131665293	5ad9bb40128e2cbd5e5175b404a15ac0b85a368a96d3826de48b19bf9d92b4a4	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR39401262/SRR39401262	results/work/SRR39401262.sra	9055264678	89055e88305a324961d2c1373f2808136faf509c4764c3fdee5e10c5544286a9	deleted after use

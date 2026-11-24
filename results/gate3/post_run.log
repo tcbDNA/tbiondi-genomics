@@ -1,0 +1,26 @@
+== weak-tier audit
+   {'acc': 'PX411826.1', 'species': 'Teleopsis guangxiensis', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'family', 'sites': 1, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'OM772656.1', 'species': 'Pteronarcys sachalina', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'order', 'sites': 2, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'LR899124.1', 'species': 'Ornithodoros pavimentosus', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'genus', 'sites': 1, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+== A1 (clusters by family)
+  A1 ('Nematoda', 'Chromadorea', 'Rhabditida', 'Hoplolaimidae') sister rank order {'U': 334, 'C': 2}
+  A1 origins with U33-majority sisters 1/1; exact binomial p=1.0
+== B1 (clusters by family)
+  B1[first] ('Nematoda', 'Chromadorea', 'Rhabditida', 'Hoplolaimidae') not testable: Tyr species with >=3 called genes 0 sisters 291
+  B1[first] origins with higher TAG share 0/0; sign test p=None
+  B1[tagfirst] ('Nematoda', 'Chromadorea', 'Rhabditida', 'Hoplolaimidae') not testable: Tyr species with >=3 called genes 0 sisters 274
+  B1[tagfirst] origins with higher TAG share 0/0; sign test p=None
+== A1 (clusters by order)
+  A1 ('Nematoda', 'Chromadorea', 'Rhabditida') sister rank order {'U': 334, 'C': 2}
+  A1 origins with U33-majority sisters 1/1; exact binomial p=1.0
+== B1 (clusters by order)
+  B1[first] ('Nematoda', 'Chromadorea', 'Rhabditida') not testable: Tyr species with >=3 called genes 0 sisters 291
+  B1[first] origins with higher TAG share 0/0; sign test p=None
+  B1[tagfirst] ('Nematoda', 'Chromadorea', 'Rhabditida') not testable: Tyr species with >=3 called genes 0 sisters 274
+  B1[tagfirst] origins with higher TAG share 0/0; sign test p=None
+== T6
+  T6 NC_005796.1 Pterothrissus gissu topology circular PCG families 13 internal TAA 0 internal TAG 0 GUA tRNA loci ARAGORN 1 tRNAscan 1 verified GUA arms (CM) 2 N33 resolved C
+  T6 NC_082992.1 Albula vulpes topology circular PCG families 13 internal TAA 0 internal TAG 0 GUA tRNA loci ARAGORN 1 tRNAscan 1 verified GUA arms (CM) 2 N33 resolved C
+  T6 CM165726.1 Albula glossodonta topology circular PCG families 13 internal TAA 0 internal TAG 0 GUA tRNA loci ARAGORN 1 tRNAscan 1 verified GUA arms (CM) 2 N33 resolved C
+  T6 AP002973.1 Albula glossodonta topology circular PCG families 13 internal TAA 0 internal TAG 0 GUA tRNA loci ARAGORN 1 tRNAscan 1 verified GUA arms (CM) 2 N33 resolved C
+

@@ -1,0 +1,40 @@
+NC_047225.1 Bufotes pewzowi Chordata Anura length 17551 topology circular provenance RefSeq
+1 PCG families hit 13 internal TAA 0 internal TAG 0 GUA loci ARAGORN 1 tRNAscan 0 verified GUA arms 2 | trnY {'score': 49.8, 'N33': 'G', 'loop': 'UGGUAGU', 'stem_pairs': 4, 'start': 5538, 'end': 5469, 'strand': '-'}
+   RefSeq derived_from: MK855100
+2 nuccore mitochondrial records for genus Bufotes: 1452 (first 400 examined)
+  with a verified GUA trnY call: 163 of 400 N33: {'U': 152, 'A': 1, 'G': 10}
+    QB334004.1 Bufotes pewzowi isolate Bp12 large subunit ribosomal RNA gene, partial len 522 N33 U loop UUGUAGU score 2.4 stem 4
+    QB334003.1 Bufotes pewzowi isolate Bp10 large subunit ribosomal RNA gene, partial len 522 N33 U loop UUGUAGU score 2.4 stem 4
+    QB331832.1 Bufotes pewzowi isolate Bp12 large subunit ribosomal RNA gene, partial len 522 N33 U loop UUGUAGU score 2.4 stem 4
+    QB331826.1 Bufotes pewzowi isolate Bp11 large subunit ribosomal RNA gene, partial len 522 N33 U loop UUGUAGU score 2.4 stem 4
+    PX365717.1 Bufotes pseudoraddei voucher HAS_18096 NADH dehydrogenase subunit 1 (N len 531 N33 A loop UAGUAAA score 7.8 stem 3
+    PZ838204.1 Bufotes pewzowi isolate Bp06 large subunit ribosomal RNA gene, partial len 522 N33 U loop UUGUAGU score 2.4 stem 4
+    PZ834799.1 Bufotes pewzowi isolate Bp05 large subunit ribosomal RNA gene, partial len 522 N33 U loop UUGUAGU score 2.4 stem 4
+    PZ834794.1 Bufotes pewzowi isolate Bp04 large subunit ribosomal RNA gene, partial len 523 N33 U loop UUGUAGU score 2.4 stem 4
+    PZ834793.1 Bufotes pewzowi isolate Bp03 large subunit ribosomal RNA gene, partial len 523 N33 U loop UUGUAGU score 2.4 stem 4
+    PZ834792.1 Bufotes pewzowi isolate Bp02 large subunit ribosomal RNA gene, partial len 523 N33 U loop UUGUAGU score 2.4 stem 4
+    PZ834791.1 Bufotes pewzowi isolate Bp01 large subunit ribosomal RNA gene, partial len 523 N33 U loop UUGUAGU score 2.4 stem 4
+    PX230707.1 Bufotes pewzowi voucher HS_16205_5 large subunit ribosomal RNA gene, p len 572 N33 U loop UUGUAGU score 2.4 stem 4
+    PV124861.1 Bufotes pewzowi isolate bp_amf_16s large subunit ribosomal RNA gene, p len 579 N33 U loop UUGUAGU score 3.7 stem 4
+    NC_047225.1 Bufotes pewzowi mitochondrion, complete genome len 17551 N33 G loop UGGUAGU score 49.8 stem 4
+    MK855100.1 Bufotes pewzowi mitochondrion, complete genome len 17551 N33 G loop UGGUAGU score 49.8 stem 4
+    KT031573.1 Bufotes pseudoraddei voucher MVZ:Herp:248375 NADH dehydrogenase subuni len 972 N33 G loop AGGUAGA score 2.9 stem 5
+    KT031572.1 Bufotes pseudoraddei voucher MVZ:Herp:241554 NADH dehydrogenase subuni len 907 N33 G loop AGGUAGA score 2.9 stem 5
+    KT031571.1 Bufotes pseudoraddei voucher MVZ:Herp:241553 NADH dehydrogenase subuni len 996 N33 G loop AGGUAGA score 2.9 stem 5
+    KT031570.1 Bufotes pseudoraddei voucher MVZ:Herp:241552 NADH dehydrogenase subuni len 960 N33 G loop AGGUAGA score 2.9 stem 5
+    KT031569.1 Bufotes pseudoraddei voucher MVZ:Herp:241550 NADH dehydrogenase subuni len 861 N33 G loop AGGUAGA score 2.9 stem 5
+    GU226835.1 Bufotes cf. luristanicus FB-2010 voucher NP B-13-1 12S ribosomal RNA,  len 3873 N33 G loop UGGUAAA score 10.7 stem 3
+    FJ882812.1 Bufotes cf. variabilis FB-2009 voucher VUB 1813 12S ribosomal RNA, tRN len 3877 N33 G loop UGGUAAA score 6.9 stem 3
+    AY680267.1 Bufotes viridis voucher TNHC 56752 tRNA-Phe gene, partial sequence; 12 len 2435 N33 G loop UGGUAAA score 6.9 stem 3
+  31-mer at N33: record CCTTGGTGGAACTACCAGCCACCGCCTCACC alt CCTTGGTGGAACTACTAGCCACCGCCTCACC | record base on + strand C
+3 SRA runs for Bufotes pewzowi : 8 [('SRR9586121', 'RAD-Seq', 'GENOMIC', 0.16), ('SRR9586127', 'RAD-Seq', 'GENOMIC', 0.1), ('SRR9586145', 'RAD-Seq', 'GENOMIC', 0.12), ('SRR9586146', 'RAD-Seq', 'GENOMIC', 0.12), ('SRR9586188', 'RAD-Seq', 'GENOMIC', 0.11), ('SRR9586195', 'RAD-Seq', 'GENOMIC', 0.12), ('SRR9586196', 'RAD-Seq', 'GENOMIC', 0.11), ('SRR9586214', 'RAD-Seq', 'GENOMIC', 0.12)]
+  run SRR9586121 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586127 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586145 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586146 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586188 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586195 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586196 RAD-Seq reads carrying the exact 31-mer: {}
+  run SRR9586214 RAD-Seq reads carrying the exact 31-mer: {}
+4 nuclear assemblies for Bufotes pewzowi : []
+DONE
