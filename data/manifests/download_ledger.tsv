@@ -557,7 +557,7 @@ gate	source_url_or_accession	file	bytes	sha256	status
 4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVP.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVP.fsa_nt.gz	31860124	d36caa0ed6fbb7745b4430869c65de07e1c9e6fc1d01249bc5fd01702fc2b2ad	on_disk
 4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVR.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVR.fsa_nt.gz	23032584	65c132de4570a069423593035611de446db7b580cd33c19749c6613fdb37d130	on_disk
 4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVV.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVV.fsa_nt.gz	31200673	d1799e2e82767e12b00e363323be7f9690afa94119011150d262a0a659849dee	on_disk
-4	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR3350473/SRR3350473	results/work/SRR3350473.sra	3953367238	876b49c847dad9ffd40487d878c44c3a4788de246ab045a811a6c4e152b64ecf	on_disk
+4	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR3350473/SRR3350473	results/work/SRR3350473.sra	3953367238	876b49c847dad9ffd40487d878c44c3a4788de246ab045a811a6c4e152b64ecf	deleted after use
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR744555/ERR744555	results/work/ERR744555.sra	2187027602	919ba6cb9098a58fe71db55af2383104c109722e8ec43b0733e7ad87b72c1a1f	deleted after use
 3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	deleted after use
 4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0000.gb (200 accessions)	data/tylench_cox1/b0000.gb	542126	107d5f09dde4ff005e8bd42a07883a6164d951ee52e6d15687a3c0431393ce2a	on_disk
@@ -612,3 +612,8 @@ gate	source_url_or_accession	file	bytes	sha256	status
 4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0049.gb (200 accessions)	data/tylench_cox1/b0049.gb	574482	bc7b053012c30cf4406c24c8fd5ea82535b16bcc6de413368ef1ddcae790923a	on_disk
 4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0050.gb (200 accessions)	data/tylench_cox1/b0050.gb	593381	8896f9b3566a98ed86265e95f8ee15bed817e1c9f86b38d72433dd5e71258510	on_disk
 4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0051.gb (200 accessions)	data/tylench_cox1/b0051.gb	321724	aff733cfcb2f2d1cd75713a5578a6bbb2bdf9ff2abf82c8089b9f513597cbd66	on_disk
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38145622/SRR38145622	results/work/SRR38145622.sra	10955264831	510b8bc5e35a9ea1b997a6b570de4c5d8e71fc21e3c9aa8668e35577ec78fc24	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13036352/SRR13036352	results/work/SRR13036352.sra	7663357332	bc03bc8c74e6d2f607fe780c503fb4bba7b8b955d1c438f1b597b2604f7ba068	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13036352/SRR13036352	results/work/SRR13036352.sra	7663357332	bc03bc8c74e6d2f607fe780c503fb4bba7b8b955d1c438f1b597b2604f7ba068	deleted after use
