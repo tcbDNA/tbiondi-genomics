@@ -1,0 +1,105 @@
+species	acc	gene	annotation	lift_identity	strand	end_1based	stop_class	stop_sequence	flag	tail_dist_codons	profile_check	cterm_offset_aa	cterm	note
+Albula glossodonta	CM165726.1	ND1	OZ556087.1	1.0	+	3850	UAA	TAA		10	agrees	0	conserved	
+Albula glossodonta	CM165726.1	ND2	OZ556087.1	0.978	+	5116	T--	T|AGGGGC		10	agrees	0	conserved	
+Albula glossodonta	CM165726.1	COX1	OZ556087.1	1.0	+	7047	UAA	TAA		9	agrees	1	conserved	
+Albula glossodonta	CM165726.1	COX2	OZ556087.1	0.978	+	7891	AGG	AGG		5	agrees	-2	conserved	
+Albula glossodonta	CM165726.1	ATP8	OZ556087.1	1.0	+	8143	UAA	TAA		1	agrees	0	conserved	
+Albula glossodonta	CM165726.1	ATP6	OZ556087.1	1.0	+	8817	UAA	TAA	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Albula glossodonta	CM165726.1	COX3	OZ556087.1	1.0	+	9604	TA-	TA|ATCTTT		1	agrees	0	conserved	
+Albula glossodonta	CM165726.1	ND3	OZ556087.1	1.0	+	10024	T--	T|AGGTGA		1	agrees	0	conserved	
+Albula glossodonta	CM165726.1	ND4L	OZ556087.1	1.0	+	10391	UAA	TAA		0	agrees	0	conserved	
+Albula glossodonta	CM165726.1	ND4	OZ556087.1	1.0	+	11765	T--	T|GTAGAC		3	agrees	0	conserved	
+Albula glossodonta	CM165726.1	ND5	OZ556087.1	0.989	+	13819	UAG	TAG		7	agrees	1	conserved	
+Albula glossodonta	CM165726.1	ND6	OZ556087.1	1.0	-	13816	UAA	TAA		10	agrees	0	conserved	
+Albula glossodonta	CM165726.1	CYTB	OZ556087.1	1.0	+	15537	T--	T|GCCCTA		4	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND1	QB104173.1	1.0	+	4310	UAA	TAA		10	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND1	PX940805.1	1.0	+	4310	UAA	TAA		10	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND1	PV339947.1	1.0	+	4310	UAA	TAA		10	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND2	QB104173.1	0.989	+	5568	TA-	TA|AGAGGC		11	agrees	1	conserved	
+Lycenchelys verrillii	CM163399.1	ND2	PX940805.1	1.0	+	5568	TA-	TA|AGAGGC		11	agrees	1	conserved	
+Lycenchelys verrillii	CM163399.1	ND2	PV339947.1	0.989	+	5568	TA-	TA|AGAGGC		11	agrees	1	conserved	
+Lycenchelys verrillii	CM163399.1	COX1	QB104173.1	1.0	+	7517	AGG	AGG		11	agrees	3	conserved	
+Lycenchelys verrillii	CM163399.1	COX1	PX940805.1	1.0	+	7517	AGG	AGG		11	agrees	3	conserved	
+Lycenchelys verrillii	CM163399.1	COX1	PV339947.1	1.0	+	7517	AGG	AGG		11	agrees	3	conserved	
+Lycenchelys verrillii	CM163399.1	COX2	QB104173.1	1.0	+	8378	T--	T|CGCTAA		7	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	COX2	PX940805.1	1.0	+	8378	T--	T|CGCTAA		7	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	COX2	PV339947.1	1.0	+	8378	T--	T|CGCTAA		7	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ATP8	QB104173.1	1.0	+	8621	UAA	TAA		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ATP8	PX940805.1	1.0	+	8621	UAA	TAA		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ATP8	PV339947.1	1.0	+	8621	UAA	TAA		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ATP6	QB104173.1	1.0	+	9294	TA-	TA|ATGGCC	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ATP6	PX940805.1	1.0	+	9295	UAA	TAA	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ATP6	PV339947.1	0.989	+	9295	UAA	TAA	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	COX3	QB104173.1	1.0	+	10079	TA-	TA|ATTTTT		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	COX3	PX940805.1	1.0	+	10079	TA-	TA|ATTTTT		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	COX3	PV339947.1	1.0	+	10079	TA-	TA|ATTTTT		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND3	QB104173.1	1.0	+	10498	T--	T|AGGCAA		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND3	PX940805.1	1.0	+	10498	T--	T|AGGCAA		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND3	PV339947.1	1.0	+	10498	T--	T|AGGCAA		1	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND4L	QB104173.1	1.0	+	10864	UAA	TAA		0	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND4L	PX940805.1	1.0	+	10864	UAA	TAA		0	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND4L	PV339947.1	1.0	+	10864	UAA	TAA		0	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND4	QB104173.1	1.0	+	12238	T--	T|GTAGAT		3	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND4	PX940805.1	1.0	+	12238	T--	T|GTAGAT		3	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND4	PV339947.1	1.0	+	12238	T--	T|GTAGAT		3	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND5	QB104173.1	1.0	+	14290	UAA	TAA		4	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND5	PX940805.1	1.0	+	14290	UAA	TAA		4	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND5	PV339947.1	0.989	+	14290	UAA	TAA		4	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND6	QB104173.1	1.0	-	14287	UAG	TAG		10	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND6	PX940805.1	1.0	-	14287	UAG	TAG		10	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	ND6	PV339947.1	1.0	-	14287	UAG	TAG		10	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	CYTB	QB104173.1	1.0	+	16023	T--	T|GCACTA		4	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	CYTB	PX940805.1	1.0	+	16023	T--	T|GCACTA		4	agrees	0	conserved	
+Lycenchelys verrillii	CM163399.1	CYTB	PV339947.1	1.0	+	16023	T--	T|GCACTA		4	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ND1	NC_037360.1	1.0	+	3811	UAA	TAA		9	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ND2	NC_037360.1	1.0	+	5069	T--	T|AGGGGT		10	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	COX1	NC_037360.1	1.0	+	7100	AGG	AGG		12	agrees	4	conserved	
+Microdevario kubotai	NC_037360.1	COX2	NC_037360.1	1.0	+	7918	T--	T|CATTGG		7	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ATP8	NC_037360.1	1.0	+	8155	UAA	TAA		0	agrees	-1	conserved	
+Microdevario kubotai	NC_037360.1	ATP6	NC_037360.1	1.0	+	8831	TA-	TA|ATGGCC	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	COX3	NC_037360.1	1.0	+	9616	TA-	TA|ATCTTT		1	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ND3	NC_037360.1	1.0	+	10037	T--	T|AGGGGG		1	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ND4L	NC_037360.1	1.0	+	10404	UAA	TAA		0	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ND4	NC_037360.1	1.0	+	11778	T--	T|AGTAAG		4	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	ND5	NC_037360.1	1.0	+	13806	UAA	TAA		35	agrees	2	conserved	
+Microdevario kubotai	NC_037360.1	ND6	NC_037360.1	1.0	-	13803	UAG	TAG		10	agrees	0	conserved	
+Microdevario kubotai	NC_037360.1	CYTB	NC_037360.1	1.0	+	15539	T--	T|GCCCTA		3	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ND1	NC_013627.1	1.0	+	3849	UAA	TAA		10	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ND2	NC_013627.1	1.0	+	5106	T--	T|GGGGAC		10	frame agrees; no tRNA or gene start called at the end	0	conserved	
+Serrivomer beanii	NC_013627.1	COX1	NC_013627.1	1.0	+	7111	UAA	TAA		14	agrees	6	shifted	
+Serrivomer beanii	NC_013627.1	COX2	NC_013627.1	1.0	+	7967	T--	T|CACTAA		7	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ATP8	NC_013627.1	1.0	+	8210	UAA	TAA		1	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ATP6	NC_013627.1	1.0	+	8883	TA-	TA|ATGGCA	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	COX3	NC_013627.1	1.0	+	9668	TA-	TA|ATCTTT		1	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ND3	NC_013627.1	1.0	+	10089	T--	T|AGACAA		1	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ND4L	NC_013627.1	1.0	+	10456	UAA	TAA		0	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ND4	NC_013627.1	1.0	+	11830	T--	T|GTAAAC		3	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	ND5	NC_013627.1	1.0	+	13885	UAA	TAA		4	agrees	1	conserved	
+Serrivomer beanii	NC_013627.1	ND6	NC_013627.1	1.0	-	13882	UAG	TAG		10	agrees	0	conserved	
+Serrivomer beanii	NC_013627.1	CYTB	NC_013627.1	1.0	+	15614	UAA	TAA		1	agrees	-1	conserved	
+Serrivomer sector	NC_013436.1	ND1	NC_013436.1	1.0	+	3831	UAA	TAA		10	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ND2	NC_013436.1	1.0	+	5088	T--	T|AGGGAC		10	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	COX1	NC_013436.1	1.0	+	7041	UAG	TAG		12	agrees	4	conserved	
+Serrivomer sector	NC_013436.1	COX2	NC_013436.1	1.0	+	7903	T--	T|CACTAA		7	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ATP8	NC_013436.1	1.0	+	8147	UAA	TAA		1	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ATP6	NC_013436.1	1.0	+	8820	TA-	TA|ATGGCA	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	COX3	NC_013436.1	1.0	+	9605	TA-	TA|ATCTTT		1	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ND3	NC_013436.1	1.0	+	10026	T--	T|AGACAA		1	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ND4L	NC_013436.1	1.0	+	10393	UAA	TAA		0	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ND4	NC_013436.1	1.0	+	11767	T--	T|GTAAAT		3	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	ND5	NC_013436.1	1.0	+	13822	UAA	TAA		4	agrees	1	conserved	
+Serrivomer sector	NC_013436.1	ND6	NC_013436.1	1.0	-	13819	UAA	TAA		10	agrees	0	conserved	
+Serrivomer sector	NC_013436.1	CYTB	NC_013436.1	1.0	+	15553	UAG	TAG		1	agrees	-1	conserved	
+Stemonidium hypomelas	NC_013628.2	ND1	NC_013628.2	1.0	+	3830	UAA	TAA		10	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ND2	NC_013628.2	1.0	+	5087	T--	T|AGGAGC		10	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	COX1	NC_013628.2	1.0	+	7483	AGA	AGA		12	agrees	4	conserved	
+Stemonidium hypomelas	NC_013628.2	COX2	NC_013628.2	1.0	+	8329	T--	T|CACTAA		7	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ATP8	NC_013628.2	1.0	+	8574	UAA	TAA		1	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ATP6	NC_013628.2	1.0	+	9247	TA-	TA|ATGGCA	TAA_overlaps_next_gene	2	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	COX3	NC_013628.2	1.0	+	10032	TA-	TA|ATCTTT		1	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ND3	NC_013628.2	1.0	+	10453	T--	T|AGACAA		1	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ND4L	NC_013628.2	1.0	+	10820	UAA	TAA		0	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ND4	NC_013628.2	1.0	+	12194	T--	T|GTAAAT		3	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	ND5	NC_013628.2	1.0	+	14248	UAA	TAA		4	agrees	1	conserved	
+Stemonidium hypomelas	NC_013628.2	ND6	NC_013628.2	1.0	-	14245	UAA	TAA		10	agrees	0	conserved	
+Stemonidium hypomelas	NC_013628.2	CYTB	NC_013628.2	1.0	+	15979	UAA	TAA		1	agrees	-1	conserved	

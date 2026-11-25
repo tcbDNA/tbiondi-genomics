@@ -1,0 +1,18 @@
+group	resolved_stop_genomes	taxa	C33	G33	other_nonU	C33_pct	C33_species	gains_min	gains_max	taxids_with_both_C_and_U
+Vertebrata	10717	10243	12	1	0	0.112	Albula glossodonta; Coloconger meadi; Lycenchelys verrillii; Microdevario kubotai; Microdevario nanus; Ophichthus asakusae; Pterothrissus gissu; Serrivomer beanii; Serrivomer lanceolatoides; Serrivomer sector; Stemonidium hypomelas; Xyrias revulsus	7	7	
+Elopomorpha	239	230	9	0	0	3.766	Albula glossodonta; Coloconger meadi; Ophichthus asakusae; Pterothrissus gissu; Serrivomer beanii; Serrivomer lanceolatoides; Serrivomer sector; Stemonidium hypomelas; Xyrias revulsus	5	5	
+other vertebrates	10478	10013	3	1	0	0.029	Lycenchelys verrillii; Microdevario kubotai; Microdevario nanus	2	2	
+Elopomorpha: Albuliformes	2	2	2	0	0	100.0	Albula glossodonta; Pterothrissus gissu	1	1	
+Elopomorpha: Anguilliformes	219	210	7	0	0	3.196	Coloconger meadi; Ophichthus asakusae; Serrivomer beanii; Serrivomer lanceolatoides; Serrivomer sector; Stemonidium hypomelas; Xyrias revulsus	4	4	
+Elopomorpha: Elopiformes	5	5	0	0	0	0.0		0	0	
+Elopomorpha: Notacanthiformes	13	13	0	0	0	0.0		0	0	
+Elopomorpha family: Albulidae	2	2	2	0	0	100.0	Albula glossodonta; Pterothrissus gissu			
+Elopomorpha family: Colocongridae	2	2	1	0	0	50.0	Coloconger meadi			
+Elopomorpha family: Ophichthidae	33	33	2	0	0	6.061	Ophichthus asakusae; Xyrias revulsus			
+Elopomorpha family: Serrivomeridae	4	4	4	0	0	100.0	Serrivomer beanii; Serrivomer lanceolatoides; Serrivomer sector; Stemonidium hypomelas			
+Elopomorpha subfamily: Ophichthinae	25	25	2	0	0	8.0	Ophichthus asakusae; Xyrias revulsus			
+genus Megalops	2	2	0	0	0	0.0				
+genus Elops	3	3	0	0	0	0.0				
+genus Anguilla	18	18	0	0	0	0.0				
+genus Ophichthus	13	13	1	0	0	7.692	Ophichthus asakusae			
+genus Conger	11	9	0	0	0	0.0				

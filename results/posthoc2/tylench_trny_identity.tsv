@@ -1,0 +1,43 @@
+set	a	b	len_a	len_b	mafft	mafft_pct	mafft_gap_columns	pairwise	pairwise_pct	pairwise_gap_columns
+original (R. ren ARAGORN, others CM; MAFFT of 7)	R_reniformis|ARAGORN	P_goodeyi|CM	62	57	51/57	89.5	5	53/56	94.6	7
+original (R. ren ARAGORN, others CM; MAFFT of 7)	R_reniformis|ARAGORN	Radopholus|CM	62	58	50/58	86.2	4	52/57	91.2	6
+original (R. ren ARAGORN, others CM; MAFFT of 7)	R_reniformis|ARAGORN	P_vulnus|CM	62	60	38/55	69.1	12	43/54	79.6	14
+original (R. ren ARAGORN, others CM; MAFFT of 7)	R_reniformis|ARAGORN	M_graminicola|CM	62	17	14/17	82.4	45	16/17	94.1	45
+original (R. ren ARAGORN, others CM; MAFFT of 7)	R_reniformis|ARAGORN	M_incognita|CM	62	53	39/53	73.6	9	41/53	77.4	9
+original (R. ren ARAGORN, others CM; MAFFT of 7)	R_reniformis|ARAGORN	Globodera_I|CM	62	55	25/55	45.5	7	33/49	67.3	19
+original (R. ren ARAGORN, others CM; MAFFT of 7)	P_goodeyi|CM	Radopholus|CM	57	58	47/57	82.5	1	47/57	82.5	1
+original (R. ren ARAGORN, others CM; MAFFT of 7)	P_goodeyi|CM	P_vulnus|CM	57	60	38/55	69.1	7	39/55	70.9	7
+original (R. ren ARAGORN, others CM; MAFFT of 7)	P_goodeyi|CM	M_graminicola|CM	57	17	14/17	82.4	40	15/17	88.2	40
+original (R. ren ARAGORN, others CM; MAFFT of 7)	P_goodeyi|CM	M_incognita|CM	57	53	39/53	73.6	4	41/52	78.8	6
+original (R. ren ARAGORN, others CM; MAFFT of 7)	P_goodeyi|CM	Globodera_I|CM	57	55	20/52	38.5	8	32/46	69.6	20
+original (R. ren ARAGORN, others CM; MAFFT of 7)	Radopholus|CM	P_vulnus|CM	58	60	39/55	70.9	8	40/55	72.7	8
+original (R. ren ARAGORN, others CM; MAFFT of 7)	Radopholus|CM	M_graminicola|CM	58	17	15/17	88.2	41	17/17	100.0	41
+original (R. ren ARAGORN, others CM; MAFFT of 7)	Radopholus|CM	M_incognita|CM	58	53	36/53	67.9	5	39/50	78.0	11
+original (R. ren ARAGORN, others CM; MAFFT of 7)	Radopholus|CM	Globodera_I|CM	58	55	24/53	45.3	7	33/50	66.0	13
+ARAGORN where called, Radopholus on CM (MAFFT)	R_reniformis|ARAGORN	P_goodeyi|ARAGORN	62	64	51/59	86.4	8	54/59	91.5	8
+ARAGORN where called, Radopholus on CM (MAFFT)	R_reniformis|ARAGORN	Radopholus|CM	62	58	49/58	84.5	4	52/57	91.2	6
+ARAGORN where called, Radopholus on CM (MAFFT)	R_reniformis|ARAGORN	P_vulnus|ARAGORN	62	62	39/58	67.2	8	43/57	75.4	10
+ARAGORN where called, Radopholus on CM (MAFFT)	R_reniformis|ARAGORN	M_incognita|ARAGORN	62	55	41/55	74.5	7	42/55	76.4	7
+ARAGORN where called, Radopholus on CM (MAFFT)	P_goodeyi|ARAGORN	Radopholus|CM	64	58	44/57	77.2	8	47/57	82.5	8
+ARAGORN where called, Radopholus on CM (MAFFT)	P_goodeyi|ARAGORN	P_vulnus|ARAGORN	64	62	40/62	64.5	2	42/62	67.7	2
+ARAGORN where called, Radopholus on CM (MAFFT)	P_goodeyi|ARAGORN	M_incognita|ARAGORN	64	55	39/55	70.9	9	43/53	81.1	13
+ARAGORN where called, Radopholus on CM (MAFFT)	Radopholus|CM	P_vulnus|ARAGORN	58	62	38/56	67.9	8	41/56	73.2	8
+ARAGORN where called, Radopholus on CM (MAFFT)	Radopholus|CM	M_incognita|ARAGORN	58	55	36/55	65.5	3	39/50	78.0	13
+ARAGORN where called, Radopholus on GenBank (MAFFT)	R_reniformis|ARAGORN	P_goodeyi|ARAGORN	62	64	50/59	84.7	8	54/59	91.5	8
+ARAGORN where called, Radopholus on GenBank (MAFFT)	R_reniformis|ARAGORN	Radopholus|GenBank	62	56	50/56	89.3	6	50/56	89.3	6
+ARAGORN where called, Radopholus on GenBank (MAFFT)	R_reniformis|ARAGORN	P_vulnus|ARAGORN	62	62	38/58	65.5	8	43/57	75.4	10
+ARAGORN where called, Radopholus on GenBank (MAFFT)	R_reniformis|ARAGORN	M_incognita|ARAGORN	62	55	40/54	74.1	9	42/55	76.4	7
+ARAGORN where called, Radopholus on GenBank (MAFFT)	P_goodeyi|ARAGORN	Radopholus|GenBank	64	56	44/55	80.0	10	46/55	83.6	10
+ARAGORN where called, Radopholus on GenBank (MAFFT)	P_goodeyi|ARAGORN	P_vulnus|ARAGORN	64	62	39/62	62.9	2	42/62	67.7	2
+ARAGORN where called, Radopholus on GenBank (MAFFT)	P_goodeyi|ARAGORN	M_incognita|ARAGORN	64	55	38/55	69.1	9	43/53	81.1	13
+ARAGORN where called, Radopholus on GenBank (MAFFT)	Radopholus|GenBank	P_vulnus|ARAGORN	56	62	36/54	66.7	10	39/54	72.2	10
+ARAGORN where called, Radopholus on GenBank (MAFFT)	Radopholus|GenBank	M_incognita|ARAGORN	56	55	36/50	72.0	11	39/49	79.6	13
+covariance model for all (MAFFT)	R_reniformis|CM	P_goodeyi|CM	53	57	31/40	77.5	30	39/39	100.0	32
+covariance model for all (MAFFT)	R_reniformis|CM	Radopholus|CM	53	58	27/40	67.5	31	34/39	87.2	33
+covariance model for all (MAFFT)	R_reniformis|CM	P_vulnus|CM	53	60	24/45	53.3	23	32/44	72.7	25
+covariance model for all (MAFFT)	R_reniformis|CM	M_incognita|CM	53	53	28/39	71.8	28	32/39	82.1	28
+covariance model for all (MAFFT)	P_goodeyi|CM	Radopholus|CM	57	58	47/57	82.5	1	47/57	82.5	1
+covariance model for all (MAFFT)	P_goodeyi|CM	P_vulnus|CM	57	60	38/55	69.1	7	39/55	70.9	7
+covariance model for all (MAFFT)	P_goodeyi|CM	M_incognita|CM	57	53	39/53	73.6	4	41/52	78.8	6
+covariance model for all (MAFFT)	Radopholus|CM	P_vulnus|CM	58	60	39/55	70.9	8	40/55	72.7	8
+covariance model for all (MAFFT)	Radopholus|CM	M_incognita|CM	58	53	36/53	67.9	5	39/50	78.0	11
