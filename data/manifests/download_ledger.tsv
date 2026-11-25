@@ -662,3 +662,5 @@ gate	source_url_or_accession	file	bytes	sha256	status
 6x	SRR13036370 (spots 1-2000000, streamed with fastq-dump)	results/work/r2/hc/A_glossodonta/SRR13036370_2.fastq	1143641344	793af7542530b140223a9ebea39cc5ae9f91c1cb4ba9f4ee6c3af1cf7905aa90	on_disk
 6x	SRR13036350 (spots 1-400000, streamed with fastq-dump; pilot, two FASTQ files)	results/work/r2/hc/alb_pilot/SRR13036350_[12].fastq	460714946	NA (pilot removed before hashing)	deleted after use
 6x	SRR13036370 (spots 1-400000, streamed with fastq-dump; pilot, two FASTQ files)	results/work/r2/hc/alb_pilot/SRR13036370_[12].fastq	454970984	NA (pilot removed before hashing)	deleted after use
+6x	NCBI efetch nuccore gb: 37 Tier 1 conspecific and Albula records (specimen audit)	results/work/r2/spec/records.gb	1343615	b333b33255f76264481424bda511a7c46ad107c28cb42563e553caf403d446b1	on_disk
+6x	NCBI efetch nuccore gb: COI/CYTB barcodes and mitogenomes of Serrivomeridae, Lycenchelys, Microdevario, Albula (specimen audit)	results/work/r2/spec/barcodes.gb	3917713	65f037d6d1bcc69b09085ec6afa13b60a2c3b1cb640edfdb611af03219326f87	on_disk

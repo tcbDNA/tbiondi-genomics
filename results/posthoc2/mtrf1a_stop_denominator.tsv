@@ -1,0 +1,54 @@
+set	species	genome	source	uaa_class	uaa_source	paralogue	p216	counted
+Gate 2 background	Trichuris trichiura	NC_017750.1	GCA_000613005.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Intoshia linei	NC_060553.1	GCA_001642005.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Ramazzottius varieornatus	NC_031407.1	GCA_001949185.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Tropilaelaps mercedesae	NC_082931.1	GCA_002081605.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Macrostomum lignano	NC_035255.1	GCA_002269645.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Bugula neritina	NC_010197.1	GCA_010799875.2	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Pomphorhynchus laevis	NC_060708.1	GCA_012934845.2	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Trogon melanurus	NC_052802.1	GCA_013399275.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Schistosoma japonicum	NC_002544.1	GCA_021461655.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Oopsacas minuta	NC_027419.1	GCA_024704765.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Paralvinella palmiformis	NC_064503.1	GCA_025642065.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Rhynochetos jubatus	NC_010091.1	GCA_027574665.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Trichinella pseudospiralis	NC_025749.1	GCA_056869575.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Anisakis simplex	NC_007934.1	GCA_900617985.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Taenia asiatica	NC_004826.2	GCA_900618005.1	Stop	sweep table (panel role)	only MTRF1 (paralogue)	T	no
+Gate 2 background	Bursaphelenchus xylophilus	NC_023208.1	GCA_904066235.2	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Setaria digitata	NC_014282.1	GCA_949281245.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Drosophila melanogaster	NC_024511.2	GCF_000001215.4	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Caenorhabditis elegans	NC_001328.1	GCF_000002985.6	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Amphimedon queenslandica	NC_008944.1	GCF_000090795.2	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Trichechus manatus	NC_010302.1	GCF_000243295.1	Stop	sweep table (panel role)	only MTRF1 (paralogue)	T	no
+Gate 2 background	Galeopterus variegatus	NC_004031.1	GCF_000696425.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Seriola dumerili	NC_016870.1	GCF_002260705.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Apteryx rowi	NC_052824.1	GCF_003343035.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Tachypleus tridentatus	NC_012574.1	GCF_004210375.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Lepeophtheirus salmonis	NC_056769.1	GCF_016086655.4	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Dromiciops gliroides	NC_005826.1	GCF_019393635.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Daphnia pulex	NC_000844.1	GCF_021134715.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Gavia stellata	NC_007007.1	GCF_030936135.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Penaeus vannamei	NC_009626.1	GCF_042767895.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Pristiophorus japonicus	NC_024110.1	GCF_044704955.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Lingula anatina	NC_036679.1	GCF_051362555.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Danio rerio	NC_002333.2	GCF_052040795.2	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Anopheles maculipalpis	NC_064606.1	GCF_943734695.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Halichondria panicea	NC_040168.1	GCF_963675165.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 background	Magallana gigas	NC_001276.1	GCF_963853765.1	Stop	sweep table (panel role)	mtRF1a (MTRF1L)	T	yes
+Gate 2 matched Stop sister	Heteranomia squamula	LIN_Heteranomia_squamula_S_USA;LIN_Heteranomia_squamula_S_Russia;LIN_Heteranomia_squamula_UK	FIG_Hsq	Stop	Gate 2 panel output	mtRF1a (MTRF1L)	T	yes
+Gate 2 matched Stop sister	Pododesmus macrochisma	LIN_Pododesmus_macrochisma	GENOME_PodMac	Stop	Gate 2 panel output	mtRF1a (MTRF1L)	T	yes
+Gate 4	Albula glossodonta	CM165726.1;AP002973.1	PROT_Albula_glossodonta_BYU	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Lycenchelys verrillii	CM163399.1	GEN_Lycenchelys	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Craniella infrequens	OZ318138.1	GEN_Cr_infrequens	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Craniella zetlandica	OZ407450.1	GEN_Cr_zetlandica	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Megalops cyprinoides	NC_005799.1	PROT_Megalops	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Anguilla anguilla	NC_006531.1	PROT_Anguilla	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Lycodopsis pacificus	PX740291.1	PROT_Lycodopsis	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Zoarces viviparus	NC_088490.1	PROT_Zoarces	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Cinachyrella apion	OZ465198.1	GEN_C_apion	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Pratylenchus vulnus	GQ332425.1	GEN_P_vulnus	Stop	sweep table	mtRF1a (MTRF1L)	T	yes
+Gate 4	Meloidogyne hapla	PZ371293.1	PROT_M_hapla	Stop	UNVERIFIED sweep (exploratory)	mtRF1a (MTRF1L)	T	yes
+Gate 4	Rotylenchus robustus		GEN_R_robustus	no call		mtRF1a (MTRF1L)	T	no
+Gate 4	Hoplolaimus columbus	MH657221.2	GEN_H_columbus	Stop	UNVERIFIED sweep (exploratory)	bacterial-like contaminant	T	no
+Gate 4	Rotylenchulus reniformis	CM003310.1	GEN_R_reniformis	Tyr	sweep table	mtRF1a (MTRF1L)	S	no
+Gate 2 reads	Rhabdopleura annulata		reads	no call (Stop in the literature)		mtRF1a (reads)	T	no

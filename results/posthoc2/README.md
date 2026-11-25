@@ -12,3 +12,4 @@ Everything here is post-hoc. No output here changes a locked output, PREREG.md o
 | 6 *Rotylenchulus* | `roty_criteria.md` (written 2026-11-25 07:26, before mapping), `roty_eval.txt` |
 | 7 titles | `title_audit.tsv`, `title_audit_summary.txt` |
 | 8 code and counts | `pvulnus_models.txt`, `cox1_reconcile.txt`, `numt_truecov.txt`, `repro_{b1,cols,stem,elig}.txt`, `fig3_bootstrap.tsv`, `weak_audit_strict.txt` |
+| Pre-push fixes (2026-11-25) | `conspecific_specimen_audit.tsv`, `conspecific_specimen_notes.txt` (Tier 1 specimens and panel *A. vulpes*); `mtrf1a_stop_denominator.tsv` (the 47 UAA=Stop species) |
