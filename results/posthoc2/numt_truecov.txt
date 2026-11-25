@@ -1,0 +1,58 @@
+POST-HOC. NUMT checks exist for 6 assemblies of 5 of the 17 hits (two for A. glossodonta); the other hits have no nuclear assembly on disk.
+
+CM165726.1 vs GCA_019788955.1 (mitogenome 16378 bp, N33 + strand base G)
+  excluded by the script (sum >50%, contig <200 kb): {}
+  excluded under true coverage >=90%: []
+  contigs that change class: []
+  contigs >=200 kb with >=99% HSPs covering >50% of the mitogenome: []
+  nuclear-like HSPs (>=200 bp, >=80%): 0 | covering N33: 0 | base at N33: {}
+  same with the script's exclusion: 0 {} | changed: False
+  short-copy search (>=50 bp, E<=1e-3, trnY +-110 nt) covering N33 outside the mitochondrial contig(s): 0 | base: {} | other than the record base: []
+
+CM165726.1 vs GCA_056783665.1 (mitogenome 16378 bp, N33 + strand base G)
+  excluded by the script (sum >50%, contig <200 kb): {'CM165726.1': (16378, 'true coverage 100.0%', 'contig', 16378)}
+  excluded under true coverage >=90%: ['CM165726.1']
+  contigs that change class: []
+  contigs >=200 kb with >=99% HSPs covering >50% of the mitogenome: []
+  nuclear-like HSPs (>=200 bp, >=80%): 0 | covering N33: 0 | base at N33: {}
+  same with the script's exclusion: 0 {} | changed: False
+  short-copy search (>=50 bp, E<=1e-3, trnY +-110 nt) covering N33 outside the mitochondrial contig(s): 0 | base: {} | other than the record base: []
+
+CM163399.1 vs GCA_056747025.1 (mitogenome 17184 bp, N33 + strand base G)
+  excluded by the script (sum >50%, contig <200 kb): {'JBQQXK010000041.1': (82344, 'true coverage 100.0%', 'contig', 90807), 'CM163399.1': (17184, 'true coverage 100.0%', 'contig', 17184)}
+  excluded under true coverage >=90%: ['CM163399.1', 'JBQQXK010000041.1']
+  contigs that change class: []
+  contigs >=200 kb with >=99% HSPs covering >50% of the mitogenome: []
+  nuclear-like HSPs (>=200 bp, >=80%): 0 | covering N33: 0 | base at N33: {}
+  same with the script's exclusion: 0 {} | changed: False
+  short-copy search (>=50 bp, E<=1e-3, trnY +-110 nt) covering N33 outside the mitochondrial contig(s): 0 | base: {} | other than the record base: []
+
+OZ318138.1 vs GCA_974939545.1 (mitogenome 18285 bp, N33 + strand base G)
+  excluded by the script (sum >50%, contig <200 kb): {'OZ318138.1': (18285, 'true coverage 100.0%', 'contig', 18285)}
+  excluded under true coverage >=90%: ['OZ318138.1']
+  contigs that change class: []
+  contigs >=200 kb with >=99% HSPs covering >50% of the mitogenome: [('OZ318118.1', '87%'), ('OZ318121.1', '84%'), ('OZ318123.1', '100%')]
+  nuclear-like HSPs (>=200 bp, >=80%): 217 | covering N33: 4 | base at N33: {'G': 4}
+  same with the script's exclusion: 4 {'G': 4} | changed: False
+  short-copy search (>=50 bp, E<=1e-3, trnY +-110 nt) covering N33 outside the mitochondrial contig(s): 12 | base: {'G': 10, 'T': 2} | other than the record base: [('CDFYFP010000281.1', 76.087, 92, 'T'), ('CDFYFP010000281.1', 76.087, 92, 'T')]
+
+OZ407450.1 vs GCA_978397455.1 (mitogenome 18452 bp, N33 + strand base G)
+  excluded by the script (sum >50%, contig <200 kb): {'OZ407450.1': (18452, 'true coverage 100.0%', 'contig', 18452)}
+  excluded under true coverage >=90%: ['OZ407450.1']
+  contigs that change class: []
+  contigs >=200 kb with >=99% HSPs covering >50% of the mitogenome: [('OZ407430.1', '52%'), ('OZ407441.1', '74%')]
+  nuclear-like HSPs (>=200 bp, >=80%): 322 | covering N33: 38 | base at N33: {'G': 38}
+  same with the script's exclusion: 38 {'G': 38} | changed: False
+  short-copy search (>=50 bp, E<=1e-3, trnY +-110 nt) covering N33 outside the mitochondrial contig(s): 38 | base: {'G': 38} | other than the record base: []
+
+KU726971.1 vs GCA_001723225.1 (mitogenome 17757 bp, N33 + strand base G)
+  excluded by the script (sum >50%, contig <200 kb): {'MEIZ01000709.1': (10468, 'true coverage 58.9%', 'contig', 10415)}
+  excluded under true coverage >=90%: []
+  contigs that change class: ['MEIZ01000709.1']
+  contigs >=200 kb with >=99% HSPs covering >50% of the mitogenome: []
+  nuclear-like HSPs (>=200 bp, >=80%): 11 | covering N33: 0 | base at N33: {}
+  same with the script's exclusion: 0 {} | changed: False
+    N33-covering HSPs on the contigs that change class: []
+  short-copy search (>=50 bp, E<=1e-3, trnY +-110 nt) covering N33 outside the mitochondrial contig(s): 0 | base: {} | other than the record base: []
+
+DONE

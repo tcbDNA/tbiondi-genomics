@@ -1,0 +1,6 @@
+POST-HOC check 2, part 4
+OZ318138.1 SRR33975184 reads spanning N33 86 {'tie, base G': 85, 'tie, base U': 1}
+OZ318138.1 ERR14792883 reads spanning N33 4 {'tie, base G': 2, 'nuclear better, base G': 2}
+OZ407450.1 ERR14857142 reads spanning N33 105 {'nuclear better, base G': 94, 'tie, base G': 11}
+OZ318138.1 ERR14835550 reads spanning N33 48 {'tie, base G': 39, 'nuclear better, base G': 9}
+OZ407450.1 ERR14842678 reads spanning N33 61 {'mitogenome better, base G': 46, 'nuclear better, base G': 14, 'tie, base G': 1}

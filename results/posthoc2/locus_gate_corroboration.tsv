@@ -1,0 +1,38 @@
+set	acc	species	strand	score	stem	N33	ARAGORN_same	ARAGORN_opposite	tRNAscan_same	tRNAscan_opposite	detail	locked_status
+screen17	CM165726.1	Albula glossodonta	-	65.4	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 51.8	resolved
+screen17	NC_047225.1	Bufotes pewzowi	-	49.8	4	G	1	0	0	0	ARAGORN - same G34 +0	resolved
+screen17	PV357903.1	Coloconger meadi	-	72.6	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 60.0	resolved
+screen17	OZ318138.1	Craniella infrequens	+	43.1	4	G	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 27.0	resolved
+screen17	OZ407450.1	Craniella zetlandica	+	43.1	4	G	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 27.0	resolved
+screen17	KU726971.1	Globodera ellingtonae	-	10.0	4	C	1	0	0	0	ARAGORN - same G34 +0	resolved
+screen17	CM163399.1	Lycenchelys verrillii	-	64.4	4	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 42.9	resolved
+screen17	NC_037360.1	Microdevario kubotai	-	70.2	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 51.9	resolved
+screen17	NC_015546.1	Microdevario nanus	-	66.6	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 49.8	resolved
+screen17	PX804232.1	Ophichthus asakusae	-	71.7	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 57.1	resolved
+screen17	NC_005796.1	Pterothrissus gissu	-	70.1	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 55.1	resolved
+screen17	NC_013627.1	Serrivomer beanii	-	66.0	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 51.7	resolved
+screen17	PZ495457.1	Serrivomer lanceolatoides	-	64.3	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 49.0	resolved
+screen17	NC_013436.1	Serrivomer sector	-	64.3	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 49.0	resolved
+screen17	NC_013628.2	Stemonidium hypomelas	-	65.6	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 53.1	resolved
+screen17	NC_082198.1	Toxocara apodemi	+	27.1	5	C	1	0	0	0	ARAGORN + same G34 +0	resolved
+screen17	KY021065.1	Xyrias revulsus	-	69.2	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 55.6	resolved
+panel20	LIN_Anomia_chinensis	Anomia chinensis	+	61.3	5	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 33.1	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Anomia_trigonopsis_Mauritania	Anomia trigonopsis Mauritania	+	57.4	4	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 21.8	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Anomia_trigonopsis_NZ	Anomia trigonopsis NZ	+	57.4	4	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 21.8	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Anomia_ephippium_S_France	Anomia ephippium S-France	+	45.9	5	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 15.8	pass (gate called; audit pass overlap_1nt)
+panel20	LIN_Enigmonia_aenigmatica_S_purple	Enigmonia aenigmatica S-purple	+	54.2	5	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 18.2	fail (gate called; audit unresolved overlaps_tRNA_call_TTG_16nt)
+panel20	LIN_Enigmonia_aenigmatica_S_yellow	Enigmonia aenigmatica S-yellow	+	51.7	5	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 19.3	fail (gate called; audit unresolved overlaps_tRNA_call_TTG_16nt)
+panel20	LIN_Placuna_ephippium	Placuna ephippium	+	61.6	4	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 23.9	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Placuna_quadrangula	Placuna quadrangula	+	59.2	4	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 20.7	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Placuna_vitream	Placuna vitream	+	54.6	4	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 21.3	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Plicatuala_australis	Plicatuala australis	+	40.5	5	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 16.5	pass (gate called; audit pass overlap_0nt)
+panel20	LIN_Plicatula_muricata	Plicatula muricata	+	30.9	3	C	1	0	0	0	ARAGORN + same G34 +0	fail (gate no_confident_call; audit unresolved stem_lt4)
+panel20	ZHAO_SRR35647597__Anomia_chinensis	SRR35647597__Anomia_chinensis_complete_mitochondrial_genome	+	61.3	5	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 33.1	pass (gate called; audit pass overlap_0nt)
+panel20	ZHAO_SRR35651820_Placuna_placenta	SRR35651820_Placuna_placenta_complete_mitochondrial_genome	+	54.6	4	C	1	0	1	0	ARAGORN + same G34 +0; tRNAscan-SE + same score 21.3	pass (gate called; audit pass overlap_0nt)
+panel20	ZHAO_ERR15194044_Pseudotanais_sp_a	ERR15194044_Pseudotanais_sp_a	+	20.6	5	U	1	0	0	0	ARAGORN + same G34 +0	pass (gate called; audit pass overlap_0nt)
+panel20	MF374802.1	Cephalodiscus hodgsoni	-	30.0	5	C	1	0	1	0	ARAGORN - same G34 +0; tRNAscan-SE - same score 28.1	pass (gate called; audit pass overlap_1nt)
+panel20	FN313571.1	Radopholus similis	+	16.5	5	U	0	0	0	0		fail (gate no_confident_call; audit pass overlap_1nt)
+panel20	OZ281197.1	Pseudotanais sp.	+	21.4	5	U	0	0	0	0		pass (gate called; audit pass overlap_0nt)
+panel20	OZ281198.1	Pseudotanais sp.	+	14.2	5	U	0	0	0	0		fail (gate no_confident_call; audit pass overlap_0nt)
+panel20	OZ281199.1	Pseudotanais sp.	+	20.6	5	U	1	0	0	0	ARAGORN + same G34 +0	pass (gate called; audit pass overlap_0nt)
+panel20	OZ281200.1	Pseudotanais sp.	+	16.1	4	U	0	0	0	0		fail (gate no_confident_call; audit pass overlap_0nt)

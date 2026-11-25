@@ -1,6 +1,6 @@
 #!/bin/sh
 # dl.sh URL OUTFILE GATE : resumable download, refuses if <30 GB would stay free, appends to the ledger
-cd /Users/tcb_dna/projects/random_biology_stuff/metazoan-uaa-tyr-check
+cd "$(dirname "$0")/.."
 sz=$(curl -sSIL "$1" | tr -d '\r' | awk 'tolower($1)=="content-length:"{s=$2} END{print s+0}'); free=$(df -k . | tail -1 | awk '{print $4*1024}')
 [ $(echo "$free - $sz" | awk '{print ($1-$3 < 30000000000)}') = 1 ] && { echo "REFUSED: <30 GB would remain ($2)"; exit 2; }
 curl -sSL --fail --retry 5 -C - -o "$2" "$1" || { echo "FAIL $2"; exit 1; }

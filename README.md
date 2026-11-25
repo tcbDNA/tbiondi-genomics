@@ -40,9 +40,11 @@ expert, and there was no lab work.
 ### Confirmatory (rules in `PREREG.md`)
 - One genome outside the panel, the nematode *Rotylenchulus reniformis*, met the UAA = tyrosine rule. Its tRNA-Tyr has
   3 of 5 stem pairs under the locked count, so **no new reassigned clade is claimed** and the genome is an unconfirmed
-  candidate (a post-hoc recount is in REPORT §3.6 and §7.2.2). NCBI Taxonomy already assigns its genus code 14.
+  candidate. A post-hoc check with criteria fixed in advance finds a mitochondrial U33 tRNA-Tyr locus there whose
+  boundary is unresolved (REPORT §3.6 and §7.2.11). NCBI Taxonomy already assigns its genus code 14.
 - 17 of 28,583 readable genomes with UAA as a stop (0.059%, 95% CI 0.037–0.095%) have a tRNA-Tyr without U33: 14 with
-  C33 and 3 with G33. A genome is one GenBank or RefSeq record, so a species can appear more than once.
+  C33 and 3 with G33. A genome is one GenBank or RefSeq record, so a species can appear more than once. "Stop" rests on
+  counting internal UAA codons; Codetta returned no call ("?") for 28,580 of the 28,583.
 
 ### Post-hoc (defined after the results were seen)
 All 17 genomes were sorted by one rule, on how well the base is supported:
@@ -55,9 +57,12 @@ All 17 genomes were sorted by one rule, on how well the base is supported:
 | Unconfirmed | 2 | 1 |
 | Dropped: a second tRNA-Tyr in the genome has a different base | 1 | 0 |
 
-- C33 is not sufficient for UAA = tyrosine under code 2. This rests on the 6 Tier 1 C33 genomes, all vertebrates.
+- C33 is not sufficient for UAA = tyrosine under code 2. This rests on the 6 Tier 1 C33 genomes, all vertebrates. It
+  needs C33 to be the dominant tRNA-Tyr allele with no second functional copy, not zero U33 reads; REPORT §7.2.1 gives
+  an exact upper bound for every read check and §7.2.10 the searches for a second copy.
 - G33 occurs with UAA as a stop in one sponge genus, *Craniella* (code 4). Its two species are the Tier 1 and Tier 2
-  genomes.
+  genomes. Two caveats apply to the Tier 1 one, *C. infrequens*: its independent RNA reads match a nuclear copy as well
+  as the mitogenome, and the upper bound on a U33 share in its reads is above 4%.
 - Under code 5, 2 of 16,902 genomes with UAA as a stop have a C33 call; one is unconfirmed and one was dropped. No
   confirmed genome contradicts the statement by Lin et al.
 
@@ -68,8 +73,9 @@ All 17 genomes were sorted by one rule, on how well the base is supported:
   has S216.
 
 ### Limits
-The UAA rule finds all 20 known positives, which were in view when it was set. Only 14 of them also pass the tRNA-Tyr checks
-that a new clade needs, so a new clade could have been missed. Other limits are in REPORT §2.1 and §8, and departures from the rules are in §3.
+The UAA rule finds all 20 known positives, which were in view when it was set. Only 14 of them also pass the tRNA-Tyr
+checks that a new clade needs, so a new clade could have been missed. Other limits are in REPORT §2.1 and §8, and
+departures from the rules are in §3.
 
 ## Files
 
@@ -80,14 +86,15 @@ The work was done in stages called gates, and each has a report.
 | `PREREG.md` | the rules, locked in commit `5aa5774` before the sweep |
 | `reports/REPORT.md` | the report |
 | `reports/GATE_*.md` | gate reports: source checks (0), inventory (1), calibration (2), sweep (3), exploratory runs (3B), mtRF1a plan and results (4) |
-| `reports/COLD_REVIEW.md` | an AI review of the report; each point is answered in REPORT §11 |
+| `reports/COLD_REVIEW.md`, `COLD_REVIEW_2.md` | two AI reviews of the report; each point is answered in REPORT §11 and §11b |
 | `reports/dossiers/` | one page for each of the 17 genomes, *Rotylenchulus*, and *Pratylenchus goodeyi* (a weaker, exploratory UAA case) |
 | `reports/figures/` | figures 1–3 (SVG, PDF, PNG) |
 | `results/mitogenome_master.tsv` | the per-genome table from the sweep |
 | `results/gate2/`, `gate3/`, `gate4/`, `cold_review/` | outputs of each stage |
 | `results/gate3_unverified/` | an exploratory run on records that GenBank flags UNVERIFIED |
+| `results/posthoc2/` | post-hoc checks run for the second review (its own README lists them) |
 | `results/audit/` | accession-level decisions (excluded, duplicate, fetched) and their reasons |
-| `data/manifests/` | download ledger (118.49 GB) and checksums |
+| `data/manifests/` | download ledger and checksums |
 | `src/` | scripts, named by gate or topic |
 | `env/*.lock` | conda environments: arm64 macOS, and x86-64 macOS for the HMMER 3.3.2 that Codetta uses |
 
@@ -99,6 +106,6 @@ different numbers, REPORT.md is the current one.
 - Downloaded data are not in the repository. The ledger lists sources and checksums, and marks files that were
   downloaded by hand in a browser. The papers' full texts are not redistributed.
 - Codetta (commit `863359e`) goes in `env/tools/codetta`.
-- No single script reruns everything. The nine shell scripts in `src/` start with a `cd` to the original machine's
-  path, which has to be changed.
+- No single script reruns everything. Run scripts from the project folder; the shell scripts change to it themselves.
+- `src/check_home_paths.py` fails if any file holds a path from someone's home folder.
 - The sweep took about 16 hours on an Apple silicon Mac.

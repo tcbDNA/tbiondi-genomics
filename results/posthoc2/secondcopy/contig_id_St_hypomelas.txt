@@ -1,0 +1,10 @@
+POST-HOC St_hypomelas
+
+NODE_206_length_6070_cov_28.999166: GC 43% | median read divergence 0.0 (n=4000) | mitochondrial protein domains [] | blastn to the mitogenome: [] | tRNAscan-SE bacterial mode: []
+   ORFs >=60 aa: 23 | Pfam domains (score): [('MetW', 290), ('UPF0176_N', 135), ('Ferrochelatase', 82), ('Sel1', 79), ('2-Hacid_dh', 70), ('Abhydrolase_1', 69), ('Methyltransf_25', 49), ('Rhodanese', 45), ('2-Hacid_dh_C', 44), ('Methyltransf_31', 44), ('Methyltransf_11', 43), ('Methyltransf_23', 33), ('ACT', 31), ('Methyltransf_12', 31)]
+
+NODE_224_length_5662_cov_28.415756: GC 42% | median read divergence 0.0 (n=4000) | mitochondrial protein domains [] | blastn to the mitogenome: [] | tRNAscan-SE bacterial mode: [('Thr', 'TGT', '4239', '4314', '83.8'), ('Tyr', 'GTA', '4382', '4465', '75.5'), ('Gly', 'TCC', '4550', '4623', '72.7'), ('Thr', 'GGT', '4727', '4801', '76.8')]
+   ORFs >=60 aa: 16 | Pfam domains (score): [('Chorismate_bind', 412), ('DUF6122', 180), ('Anth_synt_I_N', 141), ('FHA', 73), ('Yop-YscD_cpl', 53), ('DUF3298', 44), ('PdaC', 18)]
+
+NODE_578_length_2052_cov_8.794430: GC 36% | median read divergence 0.0 (n=548) | mitochondrial protein domains [] | blastn to the mitogenome: [] | tRNAscan-SE bacterial mode: []
+   ORFs >=60 aa: 3 | Pfam domains (score): [('Phage_integrase', 32), ('POTRA', 14)]

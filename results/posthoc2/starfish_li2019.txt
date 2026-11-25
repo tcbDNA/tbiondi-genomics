@@ -1,0 +1,30 @@
+POST-HOC. Li et al. 2019, Genome Biol Evol 11:154, PMC6319601; supplement evy254_supp.docx (PMC open-data copy).
+Figure S2 (alignment of tRNA-Tyr) rows: G. marginatus, St. canadensis, C. hodgsoni, B. carnosus, Sch. brasiliense, B. clavigerus, R. compacta. Figure S3 (structures): the same plus Sa. kowalevskii and a hemichordate consensus. Both captions say 'in hemichordate mitochondrial genomes'. NEITHER CONTAINS A STARFISH.
+
+Accessions in table S2 with a full mitogenome, and our call:
+   NC_007788.1 Acanthaster planci (Asteroidea; the only starfish) role confirmatory UAA Stop tRNA-Tyr resolved U33 loop UUGUAAA
+   NC_001453.1 Strongylocentrotus purpuratus (Echinoidea) role confirmatory UAA Stop tRNA-Tyr resolved U33 loop UUGUAAA
+   NC_005929.1 Cucumaria miniata (Holothuroidea) role confirmatory UAA Stop tRNA-Tyr resolved U33 loop UUGUAAA
+   NC_001887.1 Balanoglossus carnosus role confirmatory UAA Stop tRNA-Tyr resolved U33 loop UUGUAAA
+   MG652439 Glossobalanus marginatus not in sweep or panel (duplicate of a RefSeq/INSDC record, or absent)
+   NC_040109.1 Glossobalanus marginatus RefSeq role confirmatory UAA Stop tRNA-Tyr unresolved U33 loop UUGUAAA
+   NC_013877.1 Balanoglossus clavigerus role confirmatory UAA Stop tRNA-Tyr unresolved U33 loop UUGUAAA
+   NC_007438.1 Saccoglossus kowalevskii role confirmatory UAA Stop tRNA-Tyr resolved U33 loop UUGUAAG
+   MH841935 Stereobalanus canadensis not in sweep or panel (duplicate of a RefSeq/INSDC record, or absent)
+   MH841936 Schizocardium brasiliense not in sweep or panel (duplicate of a RefSeq/INSDC record, or absent)
+   MF374802.1 Cephalodiscus hodgsoni role panel UAA Tyr tRNA-Tyr resolved C33 loop CCGUAAA
+   NC_015649 Rhabdopleura compacta not in sweep or panel (duplicate of a RefSeq/INSDC record, or absent)
+   FN908482.1 Rhabdopleura compacta INSDC role panel UAA Stop tRNA-Tyr resolved U33 loop UUGUAAA
+
+Other starfish sources cited in the paper's text: Asakawa et al. 1995 (Asterina pectinifera = Patiria pectinifera, D16387 = NC_001627); Hyouta et al. 1987 and Matsuyama et al. 1998 (starfish tRNA-Ser(GCU)); Tomita et al. 1999 (echinoderm tRNA-Asn(GUU) 'with C33').
+
+All asteroids in the sweep: 78 resolved U33 77 non-U33 0 unresolved: [('NC_071876.1', 'Ctenodiscus crispatus', 'U', 'wrong_locus:disagrees_with_annotated_trnY')]
+   NC_007788.1 Acanthaster planci resolved U UUGUAAA score 70.3
+   NC_001627.1 Patiria pectinifera resolved U UUGUAAA score 60.0
+   NC_006665.1 Asterias amurensis resolved U UUGUAAA score 70.3
+   LR745847.1 Asterias rubens resolved U UUGUAAA score 71.3
+
+Base 5' of the annotated/located anticodon in every annotated tRNA (position 33), starfish records with annotation:
+   NC_006665.1 Asterias amurensis Tyr(GTA): pos33=U loop=UUGUAAA; Asp(GTC): pos33=U loop=UUGUCAG; Cys(GCA): pos33=U loop=UUGCAAA; Asn(GTT): pos33=C loop=CCGUUAA; Ser(GCT): pos33=A loop=UAGCUUG; Ser(TGA): pos33=U loop=CUUGAAA; His(GTG): pos33=U loop=UUGUGGU; Phe(GAA): pos33=U loop=CUGAAAA
+   NC_007788.1 Acanthaster planci Tyr(GTA): pos33=U loop=UUGUAAA; Asp(GTC): pos33=U loop=AUGUCAG; Cys(GCA): pos33=U loop=UUGCAAA; Asn(GTT): pos33=C loop=CCGUUAA; Ser(GCT): pos33=A loop=UAGCUUG; Ser(TGA): pos33=U loop=CUUGAAA; His(GTG): pos33=U loop=UUGUGGU; Phe(GAA): pos33=U loop=CUGAAAA
+   NC_001627.1 Patiria pectinifera Ser(GCT): pos33=A loop=UAGCUUG; Ser(TGA): pos33=U loop=CUUGAAA; His(GTG): pos33=U loop=UUGUGGC; Tyr(GTA): pos33=U loop=UUGUAAA; Asp(GTC): pos33=U loop=UUGUCAG; Cys(GCA): pos33=U loop=UUGCAAA; Asn(GTT): pos33=G loop=UGGUUAA

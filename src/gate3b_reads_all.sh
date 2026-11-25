@@ -1,6 +1,6 @@
 #!/bin/sh
 # Post-hoc read checks, smallest first; each run is deleted after use. Output: results/gate3/reads_b_<acc>.txt
-cd /Users/tcb_dna/projects/random_biology_stuff/metazoan-uaa-tyr-check; P="env/prefix/bin/python -I src/gate3b_reads.py"; O=results/gate3
+cd "$(dirname "$0")/.."; P="env/prefix/bin/python -I src/gate3b_reads.py"; O=results/gate3
 r(){ a=$1; shift; echo "$(date '+%F %T') start $a $*" >> $O/reads_b.log; nice -n 10 $P $a "$@" > $O/reads_b_$a.txt 2>&1; echo "$(date '+%F %T') done $a" >> $O/reads_b.log; }
 r NC_013436.1 SRR22396609
 r KU726971.1 SRR15202050 SRR15202047

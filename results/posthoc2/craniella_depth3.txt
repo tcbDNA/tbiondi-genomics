@@ -1,0 +1,15 @@
+POST-HOC check 2, part 3: mitogenome written twice, competing with all nuclear contigs
+
+infr_hifi OZ318138.1: mitochondrial depth (both copies added) median 46 10th-90th percentile 37 53 | at N33 36 MAPQ>=20* 17
+  trnY 36 | neighbouring genes [('COX1', 43.0), ('ND1', 41.0), ('ND2', 35.0), ('ND5', 39)]
+  reads over N33 placed on the mitogenome: 36 bases {'G': 36} | end to end (<=50 nt clipped) 10 | divergence from the record: median 0.00014 reads <=0.2%: 34
+  reads still placed on nuclear copies (any part): 253
+  reads over N33 placed on nuclear copies: 5 {'G': 5} across 4 copies
+  => mitochondrial share of N33 reads 36/41 = 0.88
+
+zetl_hifi OZ407450.1: mitochondrial depth (both copies added) median 49.0 10th-90th percentile 44 58 | at N33 47 MAPQ>=20* 5
+  trnY 47 | neighbouring genes [('COX1', 47.0), ('ND1', 46.0), ('ND2', 51.0), ('ND5', 50)]
+  reads over N33 placed on the mitogenome: 47 bases {'G': 47} | end to end (<=50 nt clipped) 13 | divergence from the record: median 0.00025 reads <=0.2%: 41
+  reads still placed on nuclear copies (any part): 147
+  reads over N33 placed on nuclear copies: 14 {'G': 14} across 38 copies
+  => mitochondrial share of N33 reads 47/61 = 0.77

@@ -1,0 +1,4 @@
+POST-HOC check 4 supplement St_hypomelas SRR38094758 spots 16716820 pilot 400000 spots -> mitochondrial median depth 2 | spots used 5000000 (29.9%) | estimated full-run mitochondrial depth 84
+  mitochondrial median depth in the subsample 35
+  contigs 61375 | coverage >=20% of the mitogenome and >=200 bp: 14219 total bp 9616357 | of them mitochondrial record: 4 16428 bp
+DONE step 1 (assembly and coverage); the tRNA search is step 2, src/cr2_highcopy2.py

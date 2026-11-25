@@ -1,6 +1,6 @@
 #!/bin/sh
 # after calibration: run each leave-one-order-out CM on the whole panel, glocal
-cd /Users/tcb_dna/projects/random_biology_stuff/metazoan-uaa-tyr-check; D=results/gate2/trny_diag
+cd "$(dirname "$0")/.."; D=results/gate2/trny_diag
 until grep -q "calibration done" $D/log.txt; do sleep 5; done
 for c in nem_minus_Mermithida nem_minus_Dorylaimida nem_minus_Trichinellida nem_minus_Rhabditida nem_all; do
   cols=$(env/prefix/bin/cmemit -c $D/$c.cm | grep -v '>' | tr -d '\n' | env/prefix/bin/python -I -c "

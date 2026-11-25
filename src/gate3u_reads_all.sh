@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /Users/tcb_dna/projects/random_biology_stuff/metazoan-uaa-tyr-check; O=results/gate3_unverified/reads_hits.txt; : > $O
+cd "$(dirname "$0")/.."; O=results/gate3_unverified/reads_hits.txt; : > $O
 r(){ echo "== $1" >> $O; nice -n 5 env/prefix/bin/python -I src/gate3u_reads.py "$@" >> $O 2>&1; }
 r PV962435.1 SRR10079992
 r PV962563.1 SRR10080023

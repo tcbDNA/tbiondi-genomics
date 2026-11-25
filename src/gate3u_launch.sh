@@ -1,6 +1,6 @@
 #!/bin/sh
 # EXPLORATORY/POST-HOC: identical gate3_run.py pipeline on the UNVERIFIED set, separate output directory. Restarts up to 20 times (checkpointed).
-cd /Users/tcb_dna/projects/random_biology_stuff/metazoan-uaa-tyr-check; export GATE3_UNLOCK=1; D=results/gate3_unverified/run
+cd "$(dirname "$0")/.."; export GATE3_UNLOCK=1; D=results/gate3_unverified/run
 n=0; while [ $n -lt 20 ]; do
   env/prefix/bin/python -I src/gate3_run.py results/gate3_unverified/manifest.tsv $D 8 >> $D/stderr.log 2>&1; rc=$?
   tail -1 $D/progress.log | grep -q FINISHED && exit 0

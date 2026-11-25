@@ -1,0 +1,79 @@
+acc	species	family	provenance	uaa	n33	base	loop	score	stem	n_agree	reason
+NC_007789.1	Acanthaster brevispinus	Acanthasteridae	RefSeq	Stop	resolved	U	UUGUAAA	61.7	4	2	overlap_0nt
+NC_007788.1	Acanthaster planci	Acanthasteridae	RefSeq	Stop	resolved	U	UUGUAAA	70.3	4	2	overlap_0nt
+OZ222537.1	Anseropoda placenta	Asterinidae	DToL	Stop	resolved	U	UUGUAAA	58.7	4	2	overlap_0nt;no_annotated_trnY
+NC_054230.1	Anthenea aspera	Oreasteridae	RefSeq	Stop	resolved	U	UUGUAAA	63.0	4	2	overlap_0nt
+NC_025766.1	Aphelasterias japonica	Asteriidae	RefSeq	Stop	resolved	U	UUGUAAA	71.7	4	2	overlap_0nt
+MN052674.1	Archaster typicus	Archasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	63.6	4	2	overlap_0nt
+NC_006665.1	Asterias amurensis	Asteriidae	RefSeq	Stop	resolved	U	UUGUAAA	70.3	4	2	overlap_0nt
+LR745847.1	Asterias rubens	Asteriidae	other_assembly	Stop	resolved	U	UUGUAAA	71.3	4	2	overlap_0nt;no_annotated_trnY
+OZ282494.1	Asterina gibbosa (in: starfish)	Asterinidae	DToL	Stop	resolved	U	UUGUAAA	58.6	5	2	overlap_2nt;no_annotated_trnY
+OZ171474.1	Asterina phylactica	Asterinidae	DToL	Stop	resolved	U	UUGUAAA	68.7	5	2	overlap_1nt;no_annotated_trnY
+NC_063668.1	Asthenactis papyraceus	Pythonasteridae	RefSeq	Stop	resolved	U	UUGUAAA	61.0	5	2	overlap_0nt
+OZ020266.1	Astropecten irregularis	Astropectinidae	DToL	Stop	resolved	U	UUGUAAA	69.3	5	2	overlap_0nt;no_annotated_trnY
+NC_006666.1	Astropecten polyacanthus	Astropectinidae	RefSeq	Stop	resolved	U	UUGUAAA	67.8	5	2	overlap_0nt
+PX413461.1	Atheraster arandae	Goniasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	53.1	5	2	overlap_0nt
+MZ702705.1	Brisinga sp. SS-2022	Brisingidae	INSDC_only	Stop	resolved	U	UUGUAAA	58.9	5	2	overlap_1nt
+PX601448.1	Caymanostella davidalani	Caymanostellidae	INSDC_only	Stop	resolved	U	UUGUAAA	55.7	5	2	overlap_0nt
+PX601450.1	Caymanostella scrippscognaticausa	Caymanostellidae	INSDC_only	Stop	resolved	U	UUGUAAA	48.8	5	2	overlap_1nt
+LC592775.1	Ceramaster japonicus	Goniasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	62.0	5	2	overlap_0nt
+PZ343778.1	Certonardoa semiregularis	Ophidiasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	63.9	5	2	overlap_0nt
+MZ702701.1	Cheiraster sp. SS-2022	Benthopectinidae	INSDC_only	Stop	resolved	U	UUGUAAA	58.1	5	2	overlap_0nt
+NC_063787.1	Coscinasterias acutispina	Asteriidae	RefSeq	Stop	resolved	U	UUGUAAA	75.0	5	2	overlap_0nt
+PV535852.1	Coscinasterias muricata	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	67.7	5	2	overlap_0nt
+OZ478209.1	Coscinasterias tenuispina	Asteriidae	other_assembly	Stop	resolved	U	UUGUAAA	74.0	5	2	overlap_0nt;no_annotated_trnY
+NC_081981.1	Crossaster japonicus	Solasteridae	RefSeq	Stop	resolved	U	UUGUAAA	64.9	5	2	overlap_0nt
+NC_053361.1	Crossaster papposus	Solasteridae	RefSeq	Stop	resolved	U	UUGUAAA	65.8	5	2	overlap_0nt
+NC_071876.1	Ctenodiscus crispatus	Ctenodiscidae	RefSeq	Stop	unresolved	U	UUGUAAA	64.7	4	2	wrong_locus:disagrees_with_annotated_trnY
+NC_054229.1	Culcita novaeguineae	Oreasteridae	RefSeq	Stop	resolved	U	UUGUAAA	66.3	4	2	overlap_0nt
+QB030203.1	Dermasterias imbricata	Poraniidae	INSDC_only	Stop	resolved	U	UUGUAAA	59.7	4	2	overlap_0nt
+OZ478964.1	Dytaster grandis	Astropectinidae	DToL	Stop	resolved	U	UUGUAAA	67.4	4	2	overlap_0nt;no_annotated_trnY
+NC_037943.1	Echinaster brasiliensis	Echinasteridae	RefSeq	Stop	resolved	U	UUGUAAA	56.7	5	2	overlap_0nt
+OZ209022.1	Echinaster sepositus	Echinasteridae	other_assembly	Stop	resolved	U	UUGUAAA	55.2	4	2	overlap_0nt;no_annotated_trnY
+NC_054231.1	Euretaster insignis	Pterasteridae	RefSeq	Stop	resolved	U	UUGUAAA	53.7	5	2	overlap_1nt
+CM111293.1	Evasterias troschelii	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	64.5	4	2	overlap_0nt;no_annotated_trnY
+NC_039982.1	Freyastera benthophila	Brisingidae	RefSeq	Stop	resolved	U	UUGUAAA	61.0	5	2	overlap_0nt
+MH648612.1	Freyastera sp. IDS7	Brisingidae	INSDC_only	Stop	resolved	U	UUGUAAA	72.7	5	2	overlap_0nt
+OZ556754.1	Fromia indica	Ophidiasteridae	other_assembly	Stop	resolved	U	UUGUAAA	58.6	5	2	overlap_0nt;no_annotated_trnY
+MK947912.1	Henricia leviuscula	Echinasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	60.8	5	2	overlap_0nt
+PP384217.1	Henricia longispina	Echinasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	58.9	5	2	overlap_0nt
+MT079801.1	Henricia pachyderma	Echinasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	62.3	5	2	overlap_0nt
+NC_087784.1	Henricia reniossa	Echinasteridae	RefSeq	Stop	resolved	U	UUGUAAA	66.1	5	2	overlap_0nt
+NC_087785.1	Henricia sanguinolenta	Echinasteridae	RefSeq	Stop	resolved	U	UUGUAAA	59.4	5	2	overlap_0nt
+CM075442.2	Henricia sp. BOLD:AAB3569	Echinasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	63.0	5	2	overlap_0nt;no_annotated_trnY
+CM075421.1	Hippasteria phrygiana	Goniasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	49.5	5	2	overlap_0nt;no_annotated_trnY
+NC_054228.1	Iconaster longimanus	Goniasteridae	RefSeq	Stop	resolved	U	UUGUAAA	55.3	5	2	overlap_0nt
+QB030204.1	Leptasterias hexactis	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	64.3	4	2	overlap_0nt
+CM120843.1	Leptasterias polaris	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	65.6	4	2	overlap_0nt;no_annotated_trnY
+NC_081967.1	Leptychaster arcticus	Astropectinidae	RefSeq	Stop	resolved	U	UUGUAAA	70.4	4	2	overlap_0nt
+QB030205.1	Lethasterias nanimensis	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	68.7	4	2	overlap_0nt
+OZ371019.1	Linckia guildingi	Ophidiasteridae	other_assembly	Stop	resolved	U	UUGUAAA	69.6	5	2	overlap_0nt;no_annotated_trnY
+LC505032.1	Linckia laevigata	Ophidiasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	72.1	5	2	overlap_0nt
+OZ345500.1	Linckia multifora	Ophidiasteridae	other_assembly	Stop	resolved	U	UUGUAAA	72.1	5	2	overlap_0nt;no_annotated_trnY
+NC_006664.1	Luidia quinaria	Luidiidae	RefSeq	Stop	resolved	U	UUGUAAA	73.4	5	2	overlap_0nt
+OX465123.1	Luidia sarsii	Luidiidae	DToL	Stop	resolved	U	UUGUAAA	74.1	4	2	overlap_0nt;no_annotated_trnY
+OU452241.1	Marthasterias glacialis	Asteriidae	DToL	Stop	resolved	U	UUGUAAA	64.6	4	2	overlap_0nt;no_annotated_trnY
+MT476595.1	Nepanthia sp. M04	Asterinidae	INSDC_only	Stop	resolved	U	UUGUAAA	63.7	4	2	overlap_0nt
+NC_054227.1	Ophidiaster granifer	Ophidiasteridae	RefSeq	Stop	resolved	U	UUGUAAA	61.4	5	2	overlap_0nt
+QB030206.1	Orthasterias koehleri	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	61.4	4	2	overlap_0nt
+NC_001627.1	Patiria pectinifera	Asterinidae	RefSeq	Stop	resolved	U	UUGUAAA	60.0	4	2	overlap_0nt
+MZ702702.1	Paulasterias sp. SS-2022	Paulasteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	58.5	5	2	overlap_0nt
+NC_054225.1	Pentaceraster mammillatus	Oreasteridae	RefSeq	Stop	resolved	U	UUGUAAA	65.5	5	2	overlap_0nt
+QB030207.1	Pisaster giganteus	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	61.9	4	2	overlap_0nt
+NC_042741.1	Pisaster ochraceus	Asteriidae	RefSeq	Stop	resolved	U	UUGUAAA	69.6	4	2	overlap_0nt
+LC913548.1	Podosphaeraster toyoshiomaruae	Podosphaerasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	61.8	5	2	overlap_0nt
+NC_083191.1	Poraniopsis inflata	Poraniidae	RefSeq	Stop	resolved	U	UUGUAAA	65.5	4	2	overlap_0nt
+NC_054226.1	Protoreaster nodosus	Oreasteridae	RefSeq	Stop	resolved	U	UUGUAAA	62.3	5	2	overlap_0nt
+QB030208.1	Pseudarchaster parelii	Goniasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	61.1	4	2	overlap_0nt
+QB030210.1	Pycnopodia helianthoides	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	67.5	4	2	overlap_0nt
+QB030217.1	Rathbunaster californicus	Labidiasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	66.7	4	2	overlap_0nt
+NC_083190.1	Sclerasterias satsumana	Asteriidae	RefSeq	Stop	resolved	U	UUGUAAA	63.6	4	2	overlap_0nt
+QB030218.1	Solaster dawsoni	Solasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	65.0	5	2	overlap_0nt
+QB030219.1	Solaster endeca	Solasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	66.5	5	2	overlap_0nt
+QB030220.1	Solaster stimpsoni	Solasteridae	INSDC_only	Stop	resolved	U	UUGUAAA	69.9	5	2	overlap_0nt
+QB030221.1	Stephanasterias albula	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	67.4	4	2	overlap_0nt
+QB030222.1	Stylasterias forreri	Asteriidae	INSDC_only	Stop	resolved	U	UUGUAAA	66.9	4	2	overlap_0nt
+NC_041450.1	Styracaster yapensis	Porcellanasteridae	RefSeq	Stop	resolved	U	UUGUAAA	70.3	4	2	overlap_0nt
+NC_085630.1	Xyloplax princealberti	Xyloplacidae	RefSeq	Stop	resolved	U	UUGUAAA	67.1	5	2	overlap_1nt
+PX601446.1	Xyloplax sp. T74225-1	Xyloplacidae	INSDC_only	Stop	resolved	U	UUGUAAA	66.0	5	2	overlap_0nt
+NC_063669.1	Zoroaster ophiactis	Zoroasteridae	RefSeq	Stop	resolved	U	UUGUAAA	54.7	4	2	overlap_0nt

@@ -1,0 +1,7 @@
+POST-HOC check 4 OZ318138.1 ERR14792883 record N33 G | scanner: reads 63816690 windows 11
+windows 11 {'tRNA-Tyr(GUA)': 4, 'not spanning or <40 nt': 7}
+rivals []
+non-GUA anticodons []
+  N33=G identity >=97 mt flank: 2
+  N33=G identity 90-97 mt flank: 2
+reads with another base at 33: 0

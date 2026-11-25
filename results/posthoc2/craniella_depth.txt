@@ -1,0 +1,36 @@
+POST-HOC check 2.
+
+== infr_hifi ERR14835550 (DNA HiFi, own specimen); OZ318138.1 18285 bp; trnY 14818-14890 (+), N33 at 14849
+  mitochondrial depth (primary): whole-genome median 34 range 1 57 | MAPQ>=20 median 29 | at N33: all 19 MAPQ>=20 18 | trnY gene median 19 | 1 kb each side median 23.0 15.0
+  neighbouring genes (profile hits): [('COX1', '11592-13115', 'median', 35.0, 'MAPQ>=20', 31.0), ('ND1', '13615-14544', 'median', 25.0, 'MAPQ>=20', 23.0), ('ND2', '15261-16178', 'median', 14.0, 'MAPQ>=20', 12.0), ('ND5', '16352-18154', 'median', 5, 'MAPQ>=20', 4)]
+  nuclear mean depth over contigs >1 Mb (length-weighted): 1.83 contigs 21
+  reads with a primary alignment over N33 on the mitogenome: 19 {'MAPQ>=20 base G': 18, 'MAPQ 1-19 base G': 1}
+    read length median 7437 | aligned end to end (<=50 nt clipped): 6 | divergence from the record median 0.00015 max 0.0175
+    supplementary parts of those reads: {} (a part on the mitogenome = the read crosses the record's origin)
+  nuclear copies whose sequence covers N33: 4 | reads placed on them (primary): 22 MAPQ>=20: 22 | bases {'G': 22} | depth per copy: median 1.0
+      ('OZ318123.1', 6126685, 99.879, 8294, 20, 20, {'G': 20})
+      ('OZ318118.1', 2725603, 99.67, 12136, 1, 1, {'G': 1})
+      ('OZ318126.1', 17895630, 97.417, 2942, 1, 1, {'G': 1})
+      ('OZ318118.1', 28743802, 96.965, 4085, 0, 0, {})
+  => share of all N33-covering reads placed on the mitogenome: 19/41 = 0.46; confidently (MAPQ>=20): 18
+
+== zetl_hifi ERR14842678 (DNA HiFi, own specimen); OZ407450.1 18452 bp; trnY 10984-11056 (+), N33 at 11015
+  mitochondrial depth (primary): whole-genome median 40.0 range 10 50 | MAPQ>=20 median 38.0 | at N33: all 46 MAPQ>=20 46 | trnY gene median 46 | 1 kb each side median 45.0 47.0
+  neighbouring genes (profile hits): [('COX1', '7644-9167', 'median', 47.0, 'MAPQ>=20', 47.0), ('ND1', '9722-10651', 'median', 45.0, 'MAPQ>=20', 45.0), ('ND2', '11436-12353', 'median', 48.0, 'MAPQ>=20', 47.0), ('ND5', '12527-14329', 'median', 41, 'MAPQ>=20', 39)]
+  nuclear mean depth over contigs >1 Mb (length-weighted): 0.52 contigs 21
+  reads with a primary alignment over N33 on the mitogenome: 46 {'MAPQ>=20 base G': 46}
+    read length median 8694.5 | aligned end to end (<=50 nt clipped): 12 | divergence from the record median 0.00026 max 0.0084
+    supplementary parts of those reads: {'nuclear': 3, 'mitogenome': 1} (a part on the mitogenome = the read crosses the record's origin)
+  nuclear copies whose sequence covers N33: 38 | reads placed on them (primary): 15 MAPQ>=20: 13 | bases {'G': 15} | depth per copy: median 0.0
+      ('OZ407441.1', 11713013, 99.407, 3373, 0, 0, {})
+      ('OZ407436.1', 4301388, 98.387, 1178, 0, 0, {})
+      ('OZ407447.1', 4753575, 98.271, 1099, 0, 0, {})
+      ('OZ407434.1', 6914930, 98.267, 1731, 1, 1, {'G': 1})
+      ('OZ407436.1', 4284879, 98.264, 1152, 0, 0, {})
+  => share of all N33-covering reads placed on the mitogenome: 46/61 = 0.75; confidently (MAPQ>=20): 46
+
+==  infr_rna not mapped yet
+
+==  zetl_rna not mapped yet
+
+DONE

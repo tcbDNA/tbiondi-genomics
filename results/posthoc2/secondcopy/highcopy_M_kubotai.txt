@@ -1,0 +1,4 @@
+POST-HOC check 4 supplement M_kubotai SRR39401262 spots used 3333333 of 87341692 (3.8%), from the middle of the downloaded run; pilot 400000 spots gave mitochondrial median depth 3; contigs taken before repeat resolution (K77/before_rr.fasta), because SPAdes stalled in distance estimation
+  mitochondrial median depth in the subsample 22
+  contigs 397065 | coverage >=20% of the mitogenome and >=200 bp: 26372 total bp 10667612 | of them mitochondrial record: 101 45702 bp
+DONE step 1 (assembly and coverage); the tRNA search is step 2, src/cr2_highcopy2.py

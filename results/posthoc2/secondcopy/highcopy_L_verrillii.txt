@@ -1,0 +1,4 @@
+POST-HOC check 4 supplement L_verrillii SRR37037826 spots 22771034 pilot 400000 spots -> mitochondrial median depth 15 | spots used 666666 (2.9%) | estimated full-run mitochondrial depth 854
+  mitochondrial median depth in the subsample 27
+  contigs 94953 | coverage >=20% of the mitogenome and >=200 bp: 3261 total bp 1186211 | of them mitochondrial record: 14 17985 bp
+DONE step 1 (assembly and coverage); the tRNA search is step 2, src/cr2_highcopy2.py

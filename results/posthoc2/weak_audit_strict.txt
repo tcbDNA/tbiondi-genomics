@@ -1,0 +1,13 @@
+POST-HOC (cold review 2, item 10)
+PX411826.1 Teleopsis guangxiensis | locked relatives 10 distinct taxids 10 -> supported sites 0 genes 0 | strict relatives 10 -> sites 0 genes 0 []
+    strict relatives: [('genus', 'Teleopsis pseudotruncata'), ('genus', 'Teleopsis similis'), ('genus', 'Teleopsis yangi'), ('genus', 'Teleopsis pallifacies'), ('genus', 'Teleopsis sp. LAOS'), ('genus', 'Teleopsis sp. BORN1'), ('genus', 'Teleopsis sp. BORN2'), ('family', 'Eosiopsis sinensis'), ('family', 'Diopsis chinica'), ('family', 'Cyrtodiopsis guangxiensis')]
+    same-family replication (locked rule): none | verdict rejected
+OM772656.1 Pteronarcys sachalina | locked relatives 10 distinct taxids 10 -> supported sites 0 genes 0 | strict relatives 10 -> sites 0 genes 0 []
+    strict relatives: [('genus', 'Pteronarcys princeps'), ('family', 'Pteronarcella badia'), ('order', 'Kamimuria wangi'), ('order', 'Togoperla sp. KW-2014'), ('order', 'Neoperla ignacsiveci'), ('order', 'Neoperla sp. FS-2017'), ('order', 'Perlodes sp. YZD-2018'), ('order', 'Soliperla sp. ZTC-2018'), ('order', 'Diamphipnopsis sp. SD-2019'), ('order', 'Nemoura papilla')]
+    same-family replication (locked rule): none | verdict rejected
+LR899124.1 Ornithodoros pavimentosus | locked relatives 10 distinct taxids 10 -> supported sites 0 genes 0 | strict relatives 10 -> sites 0 genes 0 []
+    strict relatives: [('genus', 'Ornithodoros costalis'), ('genus', 'Ornithodoros kalahariensis'), ('genus', 'Ornithodoros moubata'), ('genus', 'Ornithodoros porcinus'), ('genus', 'Ornithodoros rostratus'), ('genus', 'Ornithodoros brasiliensis'), ('genus', 'Ornithodoros zumpti'), ('genus', 'Ornithodoros savignyi'), ('genus', 'Ornithodoros sonrai'), ('genus', 'Ornithodoros turicata')]
+    same-family replication (locked rule): none | verdict rejected
+ON525593.1 Pratylenchus goodeyi | locked relatives 10 distinct taxids 10 -> supported sites 10 genes 4 | strict relatives 10 -> sites 10 genes 4 [('COX1', 126), ('COX1', 375), ('COX2', 104), ('COX2', 192), ('COX3', 179), ('CYTB', 52), ('CYTB', 53), ('CYTB', 66), ('CYTB', 129), ('CYTB', 276)]
+    strict relatives: [('genus', 'Pratylenchus vulnus'), ('order', 'Steinernema glaseri'), ('order', 'Steinernema kushidai'), ('order', 'Steinernema litorale'), ('order', 'Brugia pahangi'), ('order', 'Cylicostephanus goldi'), ('order', 'Brugia timori'), ('order', 'Panagrolaimus kolymaensis'), ('order', 'Caenorhabditis latens'), ('order', 'Auanema freiburgense')]
+    same-family replication (locked rule): FN313571.1 primary | verdict supported_weak

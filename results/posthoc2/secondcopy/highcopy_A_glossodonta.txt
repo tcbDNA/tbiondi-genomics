@@ -1,0 +1,8 @@
+POST-HOC check 4 supplement A_glossodonta SRR13036370 spots used 2000000 (streamed subset, first spots of the run)
+  mitochondrial median depth in the subsample 28
+  contigs 619633 | coverage >=20% of the mitogenome and >=200 bp: 2385 total bp 2070573 | of them mitochondrial record: 1 16454 bp
+DONE step 1 (assembly and coverage); the tRNA search is step 2, src/cr2_highcopy2.py
+mitochondrial contig against CM165726.1 (blastn: identity, length, mismatches):
+99.682 14139 44
+99.784 2316 5
+SRR13036370 is whole-genome amplified (WGA), sample SAMN16516506, a different fish from the record; contigs from before repeat resolution (--disable-rr)
