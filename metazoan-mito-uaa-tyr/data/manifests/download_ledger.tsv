@@ -677,3 +677,6 @@ paper	https://ndownloader.figshare.com/files/7204937 (Satoh 2016 Table S1, CC BY
 paper	Europe PMC PMC5015259 fullTextXML	results/work/lit/satoh2016.xml	223894	aa878f8432d42251b1f6c7cc3f86de509073b83b7e921edfa7ba014b82013920	on_disk
 paper	Europe PMC full texts of 511 open-access papers (prior-art search)	results/work/lit/ft/	99072261	035184a3753226be46ef502aaa707d825f639fc97369cbda4d11eb205d759549 (sha256 of the sorted per-file sha256 list)	on_disk
 paper	PyPI xlrd 2.0.1 (to read the Satoh tables)	scratch (not kept)	NA	NA	scratch only
+paper	Europe PMC REST search by DOI, 27 responses (reference check)	results/work/preprint_trace/refs/	140227	4fbed4b016273b3cf23850318b8bee236277afa6d2f826a25b44d2d2b74b0ceb	on_disk (sha256 of the files joined in name order)
+paper	Crossref works API, 3 responses (reference check)	results/work/preprint_trace/refs/	53294	25363408d38d3d4fb63d9411891bdf780eaf7ec1208aca3ea7fa396fdbd56872	on_disk (sha256 of the files joined in name order)
+paper	Zenodo record 4284483, metadata (reference check)	results/work/preprint_trace/refs/c02.json	5802	4145077c784317eeb8b93a710f67816b8dc4a34fdfba795971871b4dd1f92f6c	on_disk
