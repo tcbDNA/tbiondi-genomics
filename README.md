@@ -106,6 +106,7 @@ The work was done in stages called gates, and each has a report.
 
 | Path | Contents |
 |---|---|
+| `manuscript/` | the preprint (PDF, LaTeX source and its figures); added after commit `35bf5df`, the version of this folder that it cites |
 | `PREREG.md` | the rules, locked in commit `5aa5774` before the sweep |
 | `reports/REPORT.md` | the report |
 | `reports/GATE_*.md` | gate reports: source checks (0), inventory (1), calibration (2), sweep (3), exploratory runs (3B), mtRF1a plan and results (4) |
