@@ -640,26 +640,26 @@ gate	source_url_or_accession	file	bytes	sha256	status
 6x	conda-forge/bioconda package openssl-3.6.5-h55eecbc_0.conda	env/tools/mappkgs/openssl-3.6.5-h55eecbc_0.conda	3111573	44fbc526456571a9fb8fa18157f6f269d4d4bd40eef20183a93b9c9296f94497	on_disk
 6x	conda-forge/bioconda package samtools-1.25-h36b3a25_0.conda	env/tools/mappkgs/samtools-1.25-h36b3a25_0.conda	460504	560d9b9a9070592f43cce9c9c71629a01b2ea38fbab1eee60fb869f3788f7ee8	on_disk
 6x	conda-forge/bioconda package zstd-1.5.7-hf451053_7.conda	env/tools/mappkgs/zstd-1.5.7-hf451053_7.conda	433687	da867f5092eb0cb746d353694f0098031fd9817a4ce7d5743121209ae0f406ca	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396609/SRR22396609	results/work/SRR22396609.sra	585489556	8a2f8793e0eeda1f43062d33824932315b5eb2c3f2c52c526721444b166deb41	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14842678/ERR14842678	results/work/ERR14842678.sra	6534747466	0eb1f1b0651384a190e8520476fc80e94390c3ecd73cf12bec8e9e0590828a9b	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36227421/SRR36227421	results/work/SRR36227421.sra	1098473359	92de54fcf55f69abdc4d6459507e4d8759491c20c39748bb4c386c7def090d6e	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14857142/ERR14857142	results/work/ERR14857142.sra	3632013845	252fc7b0da55b3e32ed3d97fb83d731f5d96466689622c3bc527f889e8c75b0f	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38094758/SRR38094758	results/work/SRR38094758.sra	1753074208	1cd3780b9bff1904b50dc7e4bc7d62ef5089443cf134f9562292b881155d7a7f	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14835550/ERR14835550	results/work/ERR14835550.sra	7468887384	bf802a2f2173f866902bbfb986a602bf8c7abac99f77215b3a6302ad3ae16343	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR4556446/SRR4556446	results/work/SRR4556446.sra	252063006	b581ecd85537c7e0d760cc2ad5d3d789c93411a94ec2847c62c59daf7e1a6dee	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14792883/ERR14792883	results/work/ERR14792883.sra	2794522674	7a49d0d36a6ebae147daa7a60df564b47119f77c4bb045a3cbe8edc839b93cd0	on_disk
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396609/SRR22396609	results/work/SRR22396609.sra	585489556	8a2f8793e0eeda1f43062d33824932315b5eb2c3f2c52c526721444b166deb41	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14842678/ERR14842678	results/work/ERR14842678.sra	6534747466	0eb1f1b0651384a190e8520476fc80e94390c3ecd73cf12bec8e9e0590828a9b	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36227421/SRR36227421	results/work/SRR36227421.sra	1098473359	92de54fcf55f69abdc4d6459507e4d8759491c20c39748bb4c386c7def090d6e	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14857142/ERR14857142	results/work/ERR14857142.sra	3632013845	252fc7b0da55b3e32ed3d97fb83d731f5d96466689622c3bc527f889e8c75b0f	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38094758/SRR38094758	results/work/SRR38094758.sra	1753074208	1cd3780b9bff1904b50dc7e4bc7d62ef5089443cf134f9562292b881155d7a7f	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14835550/ERR14835550	results/work/ERR14835550.sra	7468887384	bf802a2f2173f866902bbfb986a602bf8c7abac99f77215b3a6302ad3ae16343	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR4556446/SRR4556446	results/work/SRR4556446.sra	252063006	b581ecd85537c7e0d760cc2ad5d3d789c93411a94ec2847c62c59daf7e1a6dee	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14792883/ERR14792883	results/work/ERR14792883.sra	2794522674	7a49d0d36a6ebae147daa7a60df564b47119f77c4bb045a3cbe8edc839b93cd0	deleted after use
 6x	https://pmc-oa-opendata.s3.amazonaws.com/PMC6319601.1/evy254_supp.docx	data/sources/fulltext/li2019_evy254_supp.docx	621720	8c4cc01d96dcb0a80772546d88e23fba3ec91fa49bbfb159f2b8e4c979753625	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR37037826/SRR37037826	results/work/SRR37037826.sra	2223222059	460e68b2414d5df30dcd7407af098a9900f139b59464937b3ba5b7ab3ed9f627	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38145622/SRR38145622	results/work/SRR38145622.sra	10955264831	510b8bc5e35a9ea1b997a6b570de4c5d8e71fc21e3c9aa8668e35577ec78fc24	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13036352/SRR13036352	results/work/SRR13036352.sra	7663357332	bc03bc8c74e6d2f607fe780c503fb4bba7b8b955d1c438f1b597b2604f7ba068	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR39401262/SRR39401262	results/work/SRR39401262.sra	9055264678	89055e88305a324961d2c1373f2808136faf509c4764c3fdee5e10c5544286a9	on_disk
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR37037826/SRR37037826	results/work/SRR37037826.sra	2223222059	460e68b2414d5df30dcd7407af098a9900f139b59464937b3ba5b7ab3ed9f627	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38145622/SRR38145622	results/work/SRR38145622.sra	10955264831	510b8bc5e35a9ea1b997a6b570de4c5d8e71fc21e3c9aa8668e35577ec78fc24	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13036352/SRR13036352	results/work/SRR13036352.sra	7663357332	bc03bc8c74e6d2f607fe780c503fb4bba7b8b955d1c438f1b597b2604f7ba068	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR39401262/SRR39401262	results/work/SRR39401262.sra	9055264678	89055e88305a324961d2c1373f2808136faf509c4764c3fdee5e10c5544286a9	deleted after use
 6x	https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=KU726972.1&rettype=fasta	results/work/r2/KU726972.1.fna	14653	21e4fb2c170d7369cf37df8a27b5e7f06b20de1ece51a31e8d6b0ecf2f061feb	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202047/SRR15202047	results/work/SRR15202047.sra	935106441	3ab2ee3d9d29b64e4ef413ba024f335e13062ef4737e3f2b2df08a85323fca61	on_disk
-6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202050/SRR15202050	results/work/SRR15202050.sra	619039184	fbf168a81af6424aa3e8987e97a7cfd2d80fe7c3d669592d2dccbad7a714077b	on_disk
-6x	SRR13036370 (spots 1-2000000, streamed with fastq-dump)	results/work/r2/hc/A_glossodonta/SRR13036370_1.fastq	1142728754	1cfe8c76aaa0c3c43b9b04dd774efbd8eb0c1e3824ac996c90361e44dd89b63d	on_disk
-6x	SRR13036370 (spots 1-2000000, streamed with fastq-dump)	results/work/r2/hc/A_glossodonta/SRR13036370_2.fastq	1143641344	793af7542530b140223a9ebea39cc5ae9f91c1cb4ba9f4ee6c3af1cf7905aa90	on_disk
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202047/SRR15202047	results/work/SRR15202047.sra	935106441	3ab2ee3d9d29b64e4ef413ba024f335e13062ef4737e3f2b2df08a85323fca61	deleted after use
+6x	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202050/SRR15202050	results/work/SRR15202050.sra	619039184	fbf168a81af6424aa3e8987e97a7cfd2d80fe7c3d669592d2dccbad7a714077b	deleted after use
+6x	SRR13036370 (spots 1-2000000, streamed with fastq-dump)	results/work/r2/hc/A_glossodonta/SRR13036370_1.fastq	1142728754	1cfe8c76aaa0c3c43b9b04dd774efbd8eb0c1e3824ac996c90361e44dd89b63d	deleted after use
+6x	SRR13036370 (spots 1-2000000, streamed with fastq-dump)	results/work/r2/hc/A_glossodonta/SRR13036370_2.fastq	1143641344	793af7542530b140223a9ebea39cc5ae9f91c1cb4ba9f4ee6c3af1cf7905aa90	deleted after use
 6x	SRR13036350 (spots 1-400000, streamed with fastq-dump; pilot, two FASTQ files)	results/work/r2/hc/alb_pilot/SRR13036350_[12].fastq	460714946	NA (pilot removed before hashing)	deleted after use
 6x	SRR13036370 (spots 1-400000, streamed with fastq-dump; pilot, two FASTQ files)	results/work/r2/hc/alb_pilot/SRR13036370_[12].fastq	454970984	NA (pilot removed before hashing)	deleted after use
 6x	NCBI efetch nuccore gb: 37 Tier 1 conspecific and Albula records (specimen audit)	results/work/r2/spec/records.gb	1343615	b333b33255f76264481424bda511a7c46ad107c28cb42563e553caf403d446b1	on_disk
