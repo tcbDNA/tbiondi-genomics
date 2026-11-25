@@ -1,0 +1,27 @@
+query	accession	organism	taxid	length	topology	completeness	moltype	transl_tables	definition	create_date
+Anomia	OZ576062.1	Anomia ephippium	102291	71118	linear	unstated	DNA		Anomia ephippium genome assembly, organelle: mitochondrion	23-OCT-2026
+Anomia	PP708078.1	Anomia chinensis	224087	16685	linear	unstated	DNA		UNVERIFIED: Anomia chinensis mitochondrion sequence	31-MAY-2025
+Placuna	PP708091.1	Placuna placenta	984258	15707	linear	unstated	DNA		UNVERIFIED: Placuna placenta mitochondrion sequence	31-MAY-2025
+Placunidae	PP708091.1	Placuna placenta	984258	15707	linear	unstated	DNA		UNVERIFIED: Placuna placenta mitochondrion sequence	31-MAY-2025
+Heteranomia	OZ181722.1	Heteranomia squamula	2793148	27310	circular	unstated	DNA		Heteranomia squamula genome assembly, organelle: mitochondrion	12-SEP-2024
+Cephalodiscus	MF374802.1	Cephalodiscus hodgsoni	560606	16875	circular	complete	DNA	33	Cephalodiscus hodgsoni mitochondrion, complete genome	04-FEB-2019
+Rhabdopleura	PP334099.1	Rhabdopleura sp. f ZBRQ-2024a	3115532	16120	linear	partial	DNA	5	Rhabdopleura sp. f ZBRQ-2024a voucher NIWA158157 mitochondrion, partial genome	20-FEB-2024
+Rhabdopleura	ON600796.1	Rhabdopleura sp. NHMO H2137	2943591	16307	circular	complete	DNA	5	Rhabdopleura sp. NHMO H2137 mitochondrion, complete genome	04-MAR-2023
+Rhabdopleura	ON600795.1	Rhabdopleura sp. NHMO H2136	2943590	16500	circular	complete	DNA	5	Rhabdopleura sp. NHMO H2136 mitochondrion, complete genome	04-MAR-2023
+Rhabdopleura	FN908482.1	Rhabdopleura compacta	638968	15814	circular	unstated	DNA	24	Rhabdopleura compacta complete mitochondrial genome	08-JUN-2011
+Radopholus similis	FN313571.1	Radopholus similis	46012	16791	circular	unstated	DNA	5	Radopholus similis complete mitochondrial genome	02-SEP-2009
+Pseudotanais	OZ281200.1	Pseudotanais sp.	3031986	16957	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Pseudotanais	OZ281199.1	Pseudotanais sp.	3031986	22033	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Pseudotanais	OZ281198.1	Pseudotanais sp.	3031986	18062	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Pseudotanais	OZ281197.1	Pseudotanais sp.	3031986	15921	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Arctotanais alascensis	LC597489.1	Arctotanais alascensis	1003057	13988	circular	complete	DNA	5	Arctotanais alascensis ICHUM:6176 mitochondrial DNA, complete genome	15-APR-2021
+Tanaidacea	LC923628.1	Sinelobus kisui	2932421	14126	circular	complete	DNA	5	Sinelobus kisui 632 mitochondrial DNA, complete genome	29-AUG-2026
+Tanaidacea	LC923627.1	Neotanais sp.	3231500	14746	linear	complete	DNA	5	Neotanais sp. 448 mitochondrial DNA, nearly complete genome	29-AUG-2026
+Tanaidacea	LC923626.1	Carpoapseudes spinigena	2735265	15857	linear	complete	DNA	5	Carpoapseudes spinigena 350 mitochondrial DNA, nearly complete genome	29-AUG-2026
+Tanaidacea	LC923625.1	Apseudes ranma	3110325	14559	linear	complete	DNA	5	Apseudes ranma 351 mitochondrial DNA, nearly complete genome	29-AUG-2026
+Tanaidacea	LC923624.1	Apseudes nipponicus	3110326	14717	linear	complete	DNA	5	Apseudes nipponicus 465 mitochondrial DNA, nearly complete genome	29-AUG-2026
+Tanaidacea	LC597489.1	Arctotanais alascensis	1003057	13988	circular	complete	DNA	5	Arctotanais alascensis ICHUM:6176 mitochondrial DNA, complete genome	15-APR-2021
+Tanaidacea	OZ281200.1	Pseudotanais sp.	3031986	16957	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Tanaidacea	OZ281199.1	Pseudotanais sp.	3031986	22033	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Tanaidacea	OZ281198.1	Pseudotanais sp.	3031986	18062	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025
+Tanaidacea	OZ281197.1	Pseudotanais sp.	3031986	15921	circular	unstated	DNA	5	Pseudotanais sp. mitochondrion	26-JUL-2025

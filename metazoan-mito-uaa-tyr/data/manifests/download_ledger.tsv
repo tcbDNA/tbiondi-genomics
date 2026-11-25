@@ -1,0 +1,619 @@
+gate	source_url_or_accession	file	bytes	sha256	status
+0/2	https://www.biorxiv.org/content/10.64898/2026.08.14.744788v1.full.pdf (web-fetch tool)	data/sources/fulltext/lin2026.pdf	1741302	0fba599258ff671c0dc240721849b7e611b95da360f407d22014c263602000f1	on_disk
+0/2	user browser download (10.1186/s12915-026-02767-5)	data/sources/fulltext/zhao2026.pdf	8340606	a5c2dcbc23c563497d16b319d5aa1bf0b101a17dc854c18c7744630dd2c7b27a	on_disk
+0/2	user browser download	data/sources/fulltext/zhao2026_MOESM1.docx	34554	0ea3406cdcc357e7b3019a31643dba1f0f3682569930bed64ce827d490def7b6	on_disk
+0/2	user browser download	data/sources/fulltext/zhao2026_MOESM4.docx	32639	2e5cc4e0e4ffd8b7d353493be2f4dae17ee75bf6302d2d579d1b19759d593fc8	on_disk
+0/2	static-content.springer.com MOESM9	data/sources/fulltext/zhao2026_MOESM9.pdf	1756310	81d1abc5113674d267da1c135a01955f0bba08dcb65e234999b9e9094d70f843	on_disk
+0/2	Europe PMC	data/sources/fulltext/PMC6319601.xml	130383	57952048022eda0f3db8489bad5fca6ee502caac8b58c0cdacdcc94161a27ee9	on_disk
+0/2	Europe PMC	data/sources/fulltext/PMC2761399.xml	94606	6ac87cc1bd5981a6bb7769456f1cae9c244c4be2752ebde01d1c770df752cdfa	on_disk
+0/2	Europe PMC	data/sources/fulltext/PMC3121625.xml	128767	a711df94c40bf5934cc8102c96edb8c6bee1f1398f53718c1eaef3ae5f3555e6	on_disk
+0/2	arphahub 192470 xml	data/sources/fulltext/matsushima2026.xml	129869	02a9effcb7fb82273dc2f5b4a4779e192b6185673b794c7e3205f37e593213b6	on_disk
+0	http://eddylab.org/publications/Shulgina21/Pfam-A_enone.tar.gz	data/pfam/Pfam-A_enone.tar.gz	1160236151	6cce99a144323840301625fc981d80cd4987fec6881e8c6fa7c90d1b0304112e	on_disk
+1	ftp.ncbi refseq/release/mitochondrion r238	data/ncbi/refseq_mito/mitochondrion.1.genomic.gbff.gz	403081513	746e340bc7dd1c2a16600b91f017b68a4c1665a15dd56e2ac46b66a421dd4cf8	on_disk
+1	ftp.ncbi pub/taxonomy/new_taxdump	data/ncbi/taxonomy/new_taxdump.tar.gz	163507645	79d1dd4dffefeeb38d68fcba2019d46d637164601626e11c0afe95d4bff20e1b	on_disk
+1	data.orthodb.org odb13v0_species	data/orthodb/odb13v0_species.tab.gz	827322	0ff54ac25451be575962833bf118f8b53b8b3f17a17ad28149f6c18772bcb388	on_disk
+1	ENA portal read_run RNA-Seq taxids	data/ena/invert_rnaseq.tsv	16446896	2acb42f100b87f1818a8d3fbaa3bc154eaba103b6e086089cbd7adaff5dab8d8	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00000.fna	5532282	b01bbbf738b657518f8fd50dff0525852ce9879046b771d8a5082e2b865cd5ae	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00300.fna	5801816	4c59fc35c07aa937a93ee8fa3e3563f3f3185b56eb710c29f347610cdd3785b2	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00600.fna	5596346	eddf63c1b7f8f020c5ea1e1819642d81f2976b2669d40ef06db6e090ae626d55	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b00900.fna	5423261	e6c2c284a3cee1f0ca18555ac77b01a50ea3cda897f2d99dcc6221deb77f52ca	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b01200.fna	5220850	1387d76eb395b8958ba56ca28d918d149bac54f1ad7cec2553d0ed987f062661	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b01500.fna	5354301	6236a9b5b5354d4401cf31ecd22b2d2b13cfd3facd40a588788272ec1e56bd09	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b01800.fna	5206446	885506aa406984a571214e3c9501433fbd741381d1b54ae04fff7dc9196b39c1	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b02100.fna	5141613	7ea7e07bb40ae72acacb4f6e01f3236ae80065ef316dccea66bb0ae2fa623ec5	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b02400.fna	5723489	c007a1607694055f0d484cfa6d9c445b516de6c42adc5c19b8de2a400c1d5bff	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b02700.fna	5588843	2e423fa1a2d96bd27c986e1fa14f560cfd8e1b9323c36216b024816d07031394	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03000.fna	5338998	ee235894d2bd35d2f5b23f0b3990a5c69e4b8d8b16a82e76b6ed8e31e0c9a056	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03300.fna	5239127	f0c46bb95d3a1c6ba50b9a193d96187b675aad1022e056fea5a10bcc4c53e922	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03600.fna	5122163	707cf798330de29ac0827a082f59cc000a8606f3ed7141b1d83dfde993ed568a	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b03900.fna	6658879	140f288f65368c4e8bcb6082f18ed67fea85da4d69e31fee70d96fd32f4d7a5a	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b04200.fna	5103419	807931522fdb3a4ecef19d9016bac0d3775b580e2da353fc8d0d277fd402893c	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b04500.fna	5196355	c5ecf6b3005a3514cd8a46fbaf9b8f7fa2f5335ff59dc3f662fffd092f02e0c6	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b04800.fna	5048563	457e39ada43a970de4f0390b23ff3b2e0fa11bdfb960b79ee906dc722c452edf	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b05100.fna	5146807	312df911a85b3b54a838839d988c8c87ad64b0656cf13bc233d7b72be89e0ac2	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b05400.fna	5683130	2c51cc52b0f27da7434544bed4d9d10ea58221a9924aeda184e96126041214d2	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b05700.fna	4949310	f90ab0bf5d26fa45792316eafa91ee31de9a8886b42df3ce4cf679f85e1470d8	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b06000.fna	4956399	47e8b036bff97fbcd7c0327198133c615aaf46a962046e6562efdf0e5fea93d1	on_disk
+1	NCBI efetch nuccore (organelle FASTA)	data/ncbi/organelle_fasta/b06300.fna	3810937	35800a22e8e5ed2260dd90583970f9b87a75d0a904b44aa8ee7b53fe561f9322	on_disk
+2	https://ndownloader.figshare.com/files/68295238 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/mitogenomes.zip	341015	ca16c27165cac11be55100416ca79c02169ef2c308e98e55dbafcfa782358da8	on_disk
+2	https://ndownloader.figshare.com/files/68294806 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Hsq.chr.pep	8042839	a4c36e7b3e4f8ecc12a022af0b8b3cbc506d15c4105aa54e218e322dfcb54b39	on_disk
+2	https://ndownloader.figshare.com/files/68294893 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Pmu.chr.pep	12307739	840c5f94672071f7dbbf3830b2a9a5518fd6cf5907d3a3ec914835ace6008ce1	on_disk
+2	https://ndownloader.figshare.com/files/68294896 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Ach.chr.pep	10569073	12ba14ed80b75141c8a1b6d17064bee6611ea36089fc339a3584c729b9e04bf1	on_disk
+2	https://ndownloader.figshare.com/files/68294980 (10.6084/m9.figshare.33250323, CC BY 4.0)	data/figshare/Pvi.chr.pep	10413359	bd7ddda2294396cac79f3ec6274bc445f4d2b987cb1b8744450c69953646c5f0	on_disk
+2	https://zenodo.org/records/4284483 refseq89m (CC BY 4.0)	data/mitos_ref/refseq89m.tar.bz2	19629319	899c8b571d6290f6dac252959b691779a81258c54ca70982cf91af5ba996df53	on_disk
+2	NCBI datasets GCA_062075034.1	data/nuclear/AnoChi.zip	173728286	8ee56210c03e9eeb4fc094a6c252ad637864ac0a05c4cfb28ccfd7d92d33a5ca	on_disk
+2	NCBI datasets GCA_990049579.1	data/nuclear/AnoEph.zip	184049394	8efabfab5f05a37831f11eca324e9751e4c01710213933aa8509d9f16f36e56c	on_disk
+2	NCBI datasets GCA_056601665.1	data/nuclear/EniAen.zip	141266750	310fe0817515d58256735de981aa5a4497bf794d3dac8916babbffbba4351498	on_disk
+2	NCBI datasets GCA_964263325.1	data/nuclear/HetSqu.zip	220024676	b3fb831b57ee139d427502f3042a9e8a175fbb853a3622f9dbffc3eface4ed65	on_disk
+2	NCBI datasets GCA_032359645.1	data/nuclear/PodMac.zip	246500041	3a3ee097010f7cacd3e6e21361716fe29aa579374549357b0bb593ad06ab79d7	on_disk
+2	NCBI datasets GCA_013357305.1	data/nuclear/RadSim.zip	16337854	a9fd8b07f4a46d9aa8c18504c3b382c00d7ce499684c795f1ebb1ebc3765b189	on_disk
+2	NCBI datasets protein GCA_000613005.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_000613005.1.faa	4922362	0c9c3441b510a6a633e87a2210b44f265523cb882cf3cb4c1f0bf9c2d564a72f	on_disk
+2	NCBI datasets protein GCA_001642005.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_001642005.1.faa	3914205	dd7fccf67ae2e9b0f35b38aee5ec9626449e33d5a6c0c314f95f44ad27ab2fbe	on_disk
+2	NCBI datasets protein GCA_001949185.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_001949185.1.faa	9881437	6897f01e436c2e37e0036be210b36180b69ecbc0889b8179e0d6fcf85e9190eb	on_disk
+2	NCBI datasets protein GCA_002081605.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_002081605.1.faa	6565090	75a6299e8bc495bcab1345ff171ea77cccafaa77056f31350ed81fa3df0be82f	on_disk
+2	NCBI datasets protein GCA_002269645.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_002269645.1.faa	29415352	a0b0effd97f87eaf555d1d5d41f7fe7bfbb4fdcb2344c04f9635f3227d4892cd	on_disk
+2	NCBI datasets protein GCA_010799875.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_010799875.2.faa	10119881	d49d635671008dc2823f84752afc56fa14b60999fe7099e8e111f7179024893a	on_disk
+2	NCBI datasets protein GCA_012934845.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_012934845.2.faa	5672063	38c22207298caf41e678d492f21f2af126b86be1b0498fd429f1271f706baa68	on_disk
+2	NCBI datasets protein GCA_013399275.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_013399275.1.faa	7302487	65f27212a508bf84d48d315577e1b64cdab04ae70fb52676f52ee2a223c52e8e	on_disk
+2	NCBI datasets protein GCA_014773135.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_014773135.2.faa	6074833	379afa758e326e0bdc4475f404291651cbd3df11aca591d44da83cc6a28fa846	on_disk
+2	NCBI datasets protein GCA_021461655.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_021461655.1.faa	18806362	a4bd4d135b3dd7257708e8a604190ea159e4e325ec8c985075b6703fc085d4a3	on_disk
+2	NCBI datasets protein GCA_024699835.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_024699835.1.faa	6053964	3e9ef63d083aedb0c14aa9284a5d0efa58348c477736b103474a7760c54b361e	on_disk
+2	NCBI datasets protein GCA_024704765.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_024704765.1.faa	8169548	09bece62bc955e63479c2b4b4b4fe8b3c4341668b58f7c9ce5570d2b72547b8f	on_disk
+2	NCBI datasets protein GCA_025642065.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_025642065.1.faa	12668197	e5ae5406defe05a1d8035551319836426ea88fb0e9d0d3c4feedda55bac31997	on_disk
+2	NCBI datasets protein GCA_027574665.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_027574665.1.faa	15886402	9f35b0fb5288585967a038a0b312b0366ae25ef648cc1b54c140a8b219399d49	on_disk
+2	NCBI datasets protein GCA_056869575.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_056869575.1.faa	6543828	2ca393f14a5ece641e1b1d61e66970c0eab775f8b109a8e8c37ee28b9a9fc522	on_disk
+2	NCBI datasets protein GCA_900617985.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_900617985.1.faa	6918415	5aa9d046badfc20a02492b6b1ac9c47842a96e4d511954c95b6d65e6c749b087	on_disk
+2	NCBI datasets protein GCA_900618005.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_900618005.1.faa	5569466	8457e16360871fa79292b08cbc640b338eccb4b1ad7a75e1b1b29d02f556b9d9	on_disk
+2	NCBI datasets protein GCA_904066235.2 (unpacked size; zip not kept)	data/mtrf/bg/GCA_904066235.2.faa	8038534	57331e9bc4c4520a96ba715c874072700cfe40efad438c969367c05134a48f2b	on_disk
+2	NCBI datasets protein GCA_949281245.1 (unpacked size; zip not kept)	data/mtrf/bg/GCA_949281245.1.faa	7263552	c6cc2c77da704bcf7b6938f430358971ad26eb4dcd613bf05056644a4b219ac2	on_disk
+2	NCBI datasets protein GCF_000001215.4 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000001215.4.faa	22970738	89abbd45d03fab01b98bd66e419ad570a9fefe3060764ed98c264c1b47c99689	on_disk
+2	NCBI datasets protein GCF_000002985.6 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000002985.6.faa	15940185	4d4fa146fea00f49628615e5e745dc0d240af6f0c8ad823bbe241e57d9b73a66	on_disk
+2	NCBI datasets protein GCF_000090795.2 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000090795.2.faa	13675008	b36bf30f22d246eb8e379d6ee919cdbba22bffda129cfcfe33a732e856713a2b	on_disk
+2	NCBI datasets protein GCF_000243295.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000243295.1.faa	26529761	0302c1a2fad0dfa1658953dbe12d64afb110ac1cc8779e84989ebeab7c5b1903	on_disk
+2	NCBI datasets protein GCF_000696425.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_000696425.1.faa	19905782	2cd3e262137b8ba329e8d944f80eb440693d1115c35277f5f623ba9a5761b40b	on_disk
+2	NCBI datasets protein GCF_002260705.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_002260705.1.faa	23151687	8ee9a3ffac8a1921e472508912fb838424e4047c924a49bd621cc030b7bbc352	on_disk
+2	NCBI datasets protein GCF_003343035.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_003343035.1.faa	28032663	b528ee32870132885cc93ce5b064f639261b0fa1f65dd7ff5c96249b9f6911bc	on_disk
+2	NCBI datasets protein GCF_004210375.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_004210375.1.faa	47572245	65236dc4a929118bde6a8077ac71bc638e6267ab7a8a396aeac121f97095b424	on_disk
+2	NCBI datasets protein GCF_016086655.4 (unpacked size; zip not kept)	data/mtrf/bg/GCF_016086655.4.faa	16369078	00322dd1fb29e11b3a1c7674b15f1568af8ebcf440c803281bbc3a6803edf705	on_disk
+2	NCBI datasets protein GCF_019393635.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_019393635.1.faa	31750809	51cb2b9a313a93f9a054098f7ada8cf06614eedba338c768b891ae62ad615cea	on_disk
+2	NCBI datasets protein GCF_021134715.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_021134715.1.faa	21804590	6b1b13708fccf0d299aad361aeb69659646492cfabc0a24960cf41acbc59398a	on_disk
+2	NCBI datasets protein GCF_030936135.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_030936135.1.faa	17102119	bfa40097b3450b935118892d0cbe3ffa96ee2591911217bffdaff4973e2e9e2e	on_disk
+2	NCBI datasets protein GCF_042767895.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_042767895.1.faa	33659431	20a33e4788a23aec990bd92bc48bed6aa98a22bf3a64fd9642d7c100a26439cc	on_disk
+2	NCBI datasets protein GCF_044704955.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_044704955.1.faa	33640057	f45800951c9bd5899c35ee69a5c823b1b6fd5555f93dc1cc0d9b9df79a3104ac	on_disk
+2	NCBI datasets protein GCF_051362555.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_051362555.1.faa	34597469	7faa3a75d787c14a0d6b082b0f6b888250322c6c77f1b566898db5393a6bcd29	on_disk
+2	NCBI datasets protein GCF_052040795.2 (unpacked size; zip not kept)	data/mtrf/bg/GCF_052040795.2.faa	79981652	430d6a2dd69d13158029d95034b84990cb799c8ab4be9b4ad60baebd4eb8e3cd	on_disk
+2	NCBI datasets protein GCF_943734695.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_943734695.1.faa	11413567	becbbb6693adf1a73e4748893330779e0af1b33d8dabe4397aaeb31f43cd757f	on_disk
+2	NCBI datasets protein GCF_963675165.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_963675165.1.faa	19860556	7960e2120c465fbbe882d3ec77244bbedd4bdbec42cba6fc5205967b697eef61	on_disk
+2	NCBI datasets protein GCF_963853765.1 (unpacked size; zip not kept)	data/mtrf/bg/GCF_963853765.1.faa	40731802	82bf119349b80afcd415966a66a615de881b40b84eb4d3950fe27513811f6d25	on_disk
+0/2	conda-forge/bioconda	env/pkgs/_openmp_mutex-4.5-8_kmp_llvm.conda	8016	c7c98ce74f6a7ff25aaa4706d06fa41d63a333add4d697b73aa4d8d2d7ad7651	on_disk
+0/2	conda-forge/bioconda	env/pkgs/aragorn-1.2.41-hbdacb55_5.tar.bz2	149735	77b5ec5c3a72cf830391e3129dd0a4306925df59cd1d019e4d15a837837f0c57	on_disk
+0/2	conda-forge/bioconda	env/pkgs/biopython-1.88-py311h5edb25e_2.conda	3289912	a132214c2175eb32ea157f8cdd9416b04d98651ec59e3567aa9e9f6ab0f633ad	on_disk
+0/2	conda-forge/bioconda	env/pkgs/blast-2.17.0-h81fc81c_1.conda	142274378	1dc98f7c569f5b8afee8e929dad096672a72b2989a153fd9e7d128930fed3fea	on_disk
+0/2	conda-forge/bioconda	env/pkgs/brotli-1.2.1-hf00d406_1.conda	20692	9d9b0d04641caddc2176600a2b8aa51ec8c9a43f05cbe046c7e81171227d2fa6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/brotli-bin-1.2.1-he4a93e4_1.conda	18902	bf143a31a524c763082b4cbf151e3829605d23fcf6b9718bfd21750fd6685020	on_disk
+0/2	conda-forge/bioconda	env/pkgs/bzip2-1.0.8-h4e30115_10.conda	124965	8ec22f0ba25cbfc2e64d70cf29459eccd7ffdf6436f6a6ff15bbfef799f7d4f6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/c-ares-1.34.9-h74c22ad_0.conda	201979	74b52d784b3576643da3aea1240a4120c1f25ee057f14ae5a89e8a7b3fb2e69f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ca-certificates-2026.11.20-hbd8a1cb_0.conda	123617	8c104262bf331b14478e36c6cedd63b558d4b7ff96f218742a91878353edeed1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/cairo-1.18.6-h580cee5_0.conda	844614	32ad9b731d0b4c6dd82061201206164b07bd695bc695e5eb3addc0087ed54cca	on_disk
+0/2	conda-forge/bioconda	env/pkgs/cairo-1.18.6-hf699903_2.conda	841530	190cc142c4fb9b5c05def1b75a460ff0346c44121467423f382ebe517da619f8	on_disk
+0/2	conda-forge/bioconda	env/pkgs/contourpy-1.3.3-py311h7d85929_4.conda	286095	57b2c28cbb45e7dacb565541483d802a15c6beff5ccdabba19784a526191f4d3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/curl-8.23.0-h6651222_0.conda	183387	c9628a012fba18552ef02a8a2b46db48153d10b9209c57bdec0a33afcdc508a5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/cycler-0.12.1-pyhcf101f3_2.conda	14778	bb47aec5338695ff8efbddbc669064a3b10fe34ad881fb8ad5d64fbfa6910ed1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/diamond-2.2.9-h5b4e277_0.conda	2126782	d253c8683ae7d048b54e121e07a7ddd63d59c4800389562ee7dfec716d409b56	on_disk
+0/2	conda-forge/bioconda	env/pkgs/easel-0.49-h3b51ae0_3.tar.bz2	2796114	b9f8c2f9bd57a22771d06e7c95c5c6ad81662b55396ed02678a1f271c8a7a5b8	on_disk
+0/2	conda-forge/bioconda	env/pkgs/entrez-direct-26.0-h2869703_0.conda	15123810	2b7885a37b171b688647ea5553dfdb579b99bffb5d103b7f63c65212f64ebcd5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fasttree-2.2.0-hd34ca47_1.conda	171404	8d864c33a9a1a9be767368c7e1f007725c7ce4988000fcfdd47f2f50cd6b5145	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2	397370	58d7f40d2940dd0a8aa28651239adbf5613254df0f75789919c4e6762054403b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2	96530	c52a29fdac682c20d252facc50f01e7c2e7ceac52aa9817aaf0bb83f7559ec5c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-source-code-pro-2.038-h77eed37_0.tar.bz2	700814	00925c8c055a2275614b4d983e1df637245e19058d79fc7dd1a93b8d9fb4b139	on_disk
+0/2	conda-forge/bioconda	env/pkgs/font-ttf-ubuntu-0.83-h77eed37_4.conda	1619009	a7384ac883b1acf492fd1aef27431f0f1a647bbb8b5709a1bfab11b0a765f5e5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fontconfig-2.18.4-he47a414_0.conda	276321	4c2f527e28e0e43d3963f4c702ec386cd29b7b3bbe9d48e9cf125ed0e4ebaf28	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fonts-conda-ecosystem-1-0.tar.bz2	3667	a997f2f1921bb9c9d76e6fa2f6b408b7fa549edd349a77639c9fe7a23ea93e61	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fonts-conda-forge-1-hc364b38_1.conda	4059	54eea8469786bc2291cc40bca5f46438d3e062a399e8f53f013b6a9f50e98333	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fonttools-4.68.0-py311h6b5b731_1.conda	3465062	4d21b381c0712462c10ad5c2424b488a50e6996d1d4192df62cee7282d5790fb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/freetype-2.14.3-hce30654_2.conda	175388	90681f1d0658cb2fd49a074f644eb4774272499290487a4bebb1c4df01d6997b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/fribidi-1.0.18-hb001647_0.conda	64404	0eb7cf0378cfd45c4729e2eedd896bc1fab01872d1ed204d6ea8bbf853a0138d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gawk-5.3.0-h90c4c8c_0.conda	1142181	8480327e47f8ec69431af39783f4e468e2a762c71f2ec86799ace31b9e7567fc	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gettext-0.21.1-h0186832_0.tar.bz2	4021036	093b2f96dc4b48e4952ab8946facec98b34b708a056251fc19c23c3aad30039e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gmp-6.3.0-hf5e55b1_3.conda	399307	980cb1bbc3656d6f923d44297a2c4ab75f20482b8930c70537fd7f1ef2378894	on_disk
+0/2	conda-forge/bioconda	env/pkgs/graphite2-1.3.15-h784d473_1.conda	86493	471f34a187fdb4f2df33e26f2e471b16c239a5b277903f643d9c3a8c9a9f44ec	on_disk
+0/2	conda-forge/bioconda	env/pkgs/gsl-2.7-h6e638da_0.tar.bz2	2734398	979c2976adcfc70be997abeab2ed8395f9ac2b836bdcd25ed5d2efbf1fed226b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/hmmer-3.3.2-h7133b54_4.tar.bz2	16216330	f4dfa222a0c5a3d89044018e652f3b9ba138098ef95770e2c58edac0d79941a2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/hmmer-3.4-h455b5b4_5.conda	9199359	b6b67f91ec0f43b2354256255c6441dc214aa42835438966e62557f5354a5632	on_disk
+0/2	conda-forge/bioconda	env/pkgs/icu-78.3-py310h579977c_2.conda	14070242	6cdb5dee54c72e56ab189fb3ad33cb28533553d42590e7e831160248f4416a43	on_disk
+0/2	conda-forge/bioconda	env/pkgs/icu-79.1-py311h7f96da7_0.conda	14115951	45c4961b3bdf4e95b9f37f69fe9531449789a3737dc4006b8e582747c6c2dc09	on_disk
+0/2	conda-forge/bioconda	env/pkgs/infernal-1.1.5-pl5321hd34ca47_4.tar.bz2	9701426	35fcd13e09c9dbdf365a778dde516f23f734ef0dfab27849004618c5325e7b30	on_disk
+0/2	conda-forge/bioconda	env/pkgs/kiwisolver-1.5.1-py311h0053de4_4.conda	63603	3cf9d36910d0e968d3de8514c5da83a8754b7e6c09a98e62205fac0117215e05	on_disk
+0/2	conda-forge/bioconda	env/pkgs/krb5-1.22.2-h34f8a20_2.conda	1165740	aaea1d42b07769920db2af7471ece9399d2613448863da64ad8272998db5db34	on_disk
+0/2	conda-forge/bioconda	env/pkgs/lcms2-2.20-hce41798_0.conda	213277	a5474fb5eea0d8d7219c29362df161327f09f02cb32f11c5ab4fa7460fe7b356	on_disk
+0/2	conda-forge/bioconda	env/pkgs/lerc-4.3.0-h0699d0c_0.conda	188293	93b1189cf3e47b93fe613dc08213cf22b892650097e8df77519e50f9301e9f62	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libblas-3.11.0-12_h51639a9_openblas.conda	18269	7eb4c80f9a4c16ac056b8f3f9f2b594190fe80ab5f124dc8f7663bc03bd47ff3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libbrotlicommon-1.2.1-h1dcdb26_1.conda	79726	21eb0f62d75c11e4d85b2502eae8978f6f5f918121ac114bb62fb23ed627fcfe	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libbrotlidec-1.2.1-h5295a6a_1.conda	29996	52c76b52f9dabe3ef66f146f2abf5c9a42fc119b74885eae7fde269d5194baa6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libbrotlienc-1.2.1-h2ddc9cb_1.conda	295939	b69e43362ea2ec100983f25d414ee7d7d3d852230e130de0784072a8b8548468	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcblas-3.11.0-12_hb0561ab_openblas.conda	18222	9d048e243b3ca39b3011dabecf6923a9fbb3b150e0cdce17b66c5c2d15727382	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcurl-8.23.0-h6651222_0.conda	425637	d9f60525b665e50da15c84fcb4e74e6b1f0a56ea4c89a02d4258f23c3fe1f02c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcxx-23.1.6-h88b51c2_0.conda	562036	a3c8011337fb36e3972152a2d18eaea0923dc4a67868f76c46792da7fbcb82f2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libcxx-23.1.6-hc645fd0_0.conda	566632	822b2a88313977594230b7be745324e4c50293a35cf9244bb19ecc9c2c385288	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libdeflate-1.26-h72bfca4_0.conda	55312	f9c75ef67dbcc8e3c255d37e32948550bc8aa6752102c181686630b9ede96b8d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libedit-3.1.20260512-pl5321h26f1114_0.conda	108512	5692a969e49b200c7874d1e869d281753361980b2ecfe9191b571d7e550f8b92	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libev-4.33-h1a92334_3.conda	39991	c0100064506ae8abb432c5a506d474f10af2cf48c33d62bc221fb28b6d6ff6ac	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libexpat-2.9.0-h6111c0a_0.conda	69681	b155c524118f751ad8b1c823397bab8b7f715f7e3ca10479925867a7e23e7e9d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libffi-3.7.0-h47dc5ef_1.conda	43637	2783389a7b9dda04c62cc54c6bbeb03dd3cef24b3fc642715d02a3fa19464a9a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libfreetype-2.14.3-hce30654_2.conda	8367	19ce8bd320414cb6b9889ecbf48a3ded848b0d1068b76ff6bea099bd7387d6f3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libfreetype6-2.14.3-h2ed5691_2.conda	340923	d9b203d6484ad491b5b5f33d49a9d7a91189d776a9adae53d2b63af18ec11e6a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libgcc-16.2.0-h3cf6597_7.conda	365973	deacf62bd6cbbe05eb085dd69a2ca120053597c37066d53c8f7cf6815f26e9eb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libgfortran-16.2.0-h07b0088_7.conda	99745	a5b4b63d0ef4c7c59c37225b9f0307b5cd2a3a8499b2a40b6ddd2b9f072712a8	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libgfortran5-16.2.0-hdb7a957_7.conda	554793	19297e5cf39de976cdd1a46499a4e15fdf54d249d3231f3b2a9d43af3be0bc66	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libglib-2.90.1-h653958b_2.conda	4528319	632596449f17149de5f666b7c73e981f9de8461615a9fb4291c79d0bebb14c4a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libharfbuzz-15.0.0-hcda0f7c_0.conda	1146987	1cf7900cfd17b60a8e3f76a31ca95140deca4781899e290b499b6caad82058b2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libharfbuzz-15.2.0-h3aa0ed0_0.conda	1193508	5876413e3371321d088a7f6fb6ca2782abeb00f56e62cb37af4af27fb88338f6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libiconv-1.18-he4c29f2_3.conda	750816	689a14968267f2f97c07112fca5636e7d756036b9aee969911267c20bd3eea1f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libidn2-2.3.8-h9858dd2_3.conda	146633	003aa0102301e2f9e30d6eb31e64d6eeb71f602a83629f32bad584bb501a1bef	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libintl-1.0-hae62183_1.conda	75869	50cd23514846dd057c5d3d4f38e29a7948909e51b3b53b99fe4b8a541971edb0	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libjpeg-turbo-3.2.1-hb001647_0.conda	555606	957469c69b3b9c9e6ae48dc1267c5c9dfe0db9e1aefa5fa9abf9798224aa23c9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/liblapack-3.11.0-12_hd9741b5_openblas.conda	18259	fbbba6adc589aa1101579f6eb45d41500a384a58602de8593c15a76a77abea12	on_disk
+0/2	conda-forge/bioconda	env/pkgs/liblzma-5.8.3-h8088a28_1.conda	91720	23d0630046a3e8b164d8f80f2b74ed2605af2e7050ab9913018056402fae4311	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libnghttp2-1.71.0-h29223de_0.conda	671516	d533256cdb91c676b106728e8437a5d96e9c02dc6a99b948f1b04b04a92620c2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libopenblas-0.3.34-openmp_h5e6e99c_1.conda	4249236	18f167fdaa26f67a123c59766f4730b41866d2c0920b5c29d74a93d3a2e92a96	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpng-1.6.59-hf5e6511_0.conda	290299	4de4dc4cb7432c328c1eaf4f7cc9c6b48c073eab1e9c6723d4533e6d57e7d595	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpsl-0.23.1-h08d577c_2.conda	72589	abbf2067e931cebbedf5440f188f127a71a709d8f01834b23e1c46eff09759cc	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpsl-0.23.1-hdb0c161_1.conda	72673	c8c3153df39abedf3413483f672151ad70f1adb0c06c192bdf7ec432c3616b07	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libpython-3.11.18-h0677fcb_0_cpython.conda	1703674	9c535e6d26f9ea3890d4c0e72f5d0cc872ac0b4eba6687858899225f9708920f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libraqm-0.11.0-h45af499_0.conda	31333	b110f7f9b2cec61ea793c521950414e00cd64826e18aeb4ab40369acf05c0039	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libsqlite-3.54.1-h9f98c0b_1.conda	953531	ea89b54e0e59bae927358fe3b70fe8111fa475f3ef077a094187c58c7c504f03	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libsqlite-3.54.1-hca69786_0.conda	953427	998cd122027b2523f2f25807b1d476b82a168489d16b1430fd848a9a6b606a80	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libssh2-1.11.1-hbf2880b_2.conda	285854	f84b5eabe4d700ed25de443f771289d88f7f23ad4f3ea8b356a69338b2782ccb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libtiff-4.7.2-h87d37ca_2.conda	380333	3c1cf481a60ed8598093641b3a41ee1a7bb78413029ec566a238927504e941bd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libunistring-0.9.10-h3422bc3_0.tar.bz2	1577561	a1afe12ab199f82f339eae83405d293d197f2485d45346a709703bc7e8299949	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libwebp-base-1.6.0-h202fb40_1.conda	294522	0ff54650d470c7e54cbeffdd53a8c063e055a7bcf784388c0385ce5c4741b0f4	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libxcb-1.17.0-hbffa61f_3.conda	326316	0964d8d97845e890097ed71df1dc8b9932bee4d65e098da0c5f1e4ba158fee22	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libxml2-16-2.14.6-h5ef1a60_3.conda	469188	7436594906ce6ab25599d0a89fd8bf62b115583dee689144277562d79bc72a8d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libxml2-2.14.6-h8d039ee_3.conda	41780	2de4dda301d4328ba3d420c638f4372a03fab8d12c388c4a01a0605eb1c1986b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/libzlib-1.3.2-h8088a28_3.conda	47822	a18fa5d5bac452401459f966cf0d872224e8080c4ff93c77e168d43ab42ef9d7	on_disk
+0/2	conda-forge/bioconda	env/pkgs/llvm-openmp-23.1.6-hdb3d66b_0.conda	287949	b777843f1ced814ea99adf79ece75947ef70ed1570e7c3bf5b5633133a496b9b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/mafft-7.526-h99b78c6_0.conda	4921680	89b847250232bae9af4fa28c6ffffc857b480dc44d9489ad7ccef25bf271c7d1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/matplotlib-3.11.2-py311ha01d089_1.conda	14914	abe61a4c45c07349f590e26ad9ebab8ec2eff847fbd4e678991a1a51589a2044	on_disk
+0/2	conda-forge/bioconda	env/pkgs/matplotlib-base-3.11.2-py311h022e184_1.conda	8917524	41215dbb2f68d53b4b80de6221cc4a7f28a40f283891ab0b8254310ed582c418	on_disk
+0/2	conda-forge/bioconda	env/pkgs/miniprot-0.18-hba9b596_0.tar.bz2	71641	dfa547f99256e6017ce6b7fb704e924b09bd32a6d84cd960ba0eabcabdd4bf81	on_disk
+0/2	conda-forge/bioconda	env/pkgs/mpfr-4.2.2-h72846b0_1.conda	350536	6a86fe9c09d708d71508c601dec53fb7a4fbfb23e6f57a590ef832afdca738c4	on_disk
+0/2	conda-forge/bioconda	env/pkgs/mpi-1.0-openmpi.tar.bz2	4294	7051ff40ca1208c06db24f8bf5cf72ee7ad03891e7fd365c3f7a4190938ae83a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/munkres-1.1.4-pyhd8ed1ab_1.conda	15851	d09c47c2cf456de5c09fa66d2c3c5035aa1fa228a1983a433c47b876aa16ce90	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ncbi-datasets-cli-18.41.1-hce30654_0.conda	34020118	269d5049a64bb3ca4397bbc2dcc8ac24d6687284dd57124663661c2ccaf1616a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ncbi-vdb-3.4.1-hfc726f9_0.conda	4729608	8e90015ecaefaaccd188f6986d97cdc67b91423889e0a4f1060f4dffad297960	on_disk
+0/2	conda-forge/bioconda	env/pkgs/ncurses-6.6-he64c551_1.conda	804298	7024a48c8c0d0114ed4ab53c76bf9275d50e91ba7cea367a9aead638d3c29c68	on_disk
+0/2	conda-forge/bioconda	env/pkgs/nspr-4.41-hfdc29e8_0.conda	203150	c0799616992c70813b9a863ebb62b83813c263e5f45377f6eeae67e9521b173d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/nss-3.118-h1c710a3_0.conda	1839904	d57f7b2cf2860a2a848e3dd43cc4f5488e60050a7d62af1834da3ee43911d9c4	on_disk
+0/2	conda-forge/bioconda	env/pkgs/numpy-2.4.6-py311hbd1492f_0.conda	7456206	08e5062ab9bce23adef1c62282a99d035780e43eb8a843b0f11d8a1e967fe123	on_disk
+0/2	conda-forge/bioconda	env/pkgs/openjpeg-2.5.4-h4d1e80c_2.conda	377958	e71bd04b5d0e39f39a3c039d021d3b76cd65bee3032e7f859ab7082f0ace8be5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/openmpi-4.1.6-h526c993_101.conda	2760344	641f44ea7e91c08c722d3d7c66939f67b1cf2dd94c576a898f0b1a08e7db861a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/openssl-3.6.5-h55eecbc_0.conda	3111573	44fbc526456571a9fb8fa18157f6f269d4d4bd40eef20183a93b9c9296f94497	on_disk
+0/2	conda-forge/bioconda	env/pkgs/packaging-26.3-pyhc364b38_0.conda	116363	c432626b16768b8dab228bfb706f7060c2d462a21c516d240f68f2f902b5a044	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pandas-3.1.1-np2py311h6ed7ffe_0.conda	16219707	267b4c2d96cc6dfab17fcd3943e637739cc7f1c6a5e74940018061d7a24f2a7b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pcre2-10.47-he63d830_1.conda	851704	f8c415329b542e1fca1ff2917b80e687c18302dfa0353530668b90cb225b494f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-5.32.1-10_hb001647_perl5.conda	12278211	657cd963e25925bbb71dca27c01b47fef76be97e8a8517b8fcfc420233730614	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-alien-build-2.88-pl5321h9e3228c_0.conda	182390	3a5dcb3426eeaefedfe4015d1d51ccf2225740d6330e02af5d42a96fa2a98ac0	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-alien-build-plugin-download-gitlab-0.01-pl5321hdfd78af_0.tar.bz2	12130	a55973d713323db1e57dcbf27559a29a5f44dc8156f0098a284846e0ef861572	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-alien-libxml2-0.20-pl5321h9b71f33_0.tar.bz2	15106	9cac7925237ee5001f3c5fa4da2ed96bf178edad0550152473f5419ea61fc1a0	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-archive-tar-3.14-pl5321hcbfc158_0.conda	38784	66f693e7c2d4ef756ca640b5eede9e76ef98b5b97a7b36e3d194dbdda7b8ecff	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-business-isbn-3.007-pl5321hd8ed1ab_0.tar.bz2	18309	fa0b99650ac3bc098d4b34d23eea8f5101f7a5e8c04fc50fac6b8bff70161848	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-business-isbn-data-20210112.006-pl5321hd8ed1ab_0.tar.bz2	21540	457f7bdea5c7154472a18ab10d7c40144d65793446d9cb40877dc9c37c6b3b59	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-capture-tiny-0.48-pl5321hce30654_1.tar.bz2	16478	16bd59b9fd3dcd7f54c70844d6227c4811b317ac4530d48b48f4f8374277cb72	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-carp-1.50-pl5321hd8ed1ab_0.tar.bz2	22257	1981e31113e1e77a2cdc13db657c636f047cd3be2a64d9a0bffac03c5427c1bd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-common-sense-3.75-pl5321hd8ed1ab_0.tar.bz2	20291	38ef218e9b9d55b9fbdce6b31cf81bcf6f1b16f21b8e7cb9279b41399522a320	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-compress-raw-bzip2-2.214-pl5321h2ddc596_0.conda	53995	ef4c03b93bda20fbf1e14aaed8d2dfab47be84c87a2ebcad33304dcd91ff963e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-compress-raw-zlib-2.214-pl5321ha1c2b25_0.conda	74597	4f52ea95e8d3ffcb2b0d330dd45300f930565d76852795f1dd26970930855ffd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-constant-1.33-pl5321hd8ed1ab_0.tar.bz2	15711	cfd5ef9af8de221292f7059d1ff88ff10f1340fc4dbbd0dc81ce2275bf76651d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-encode-3.24-pl5321h84a0fba_0.conda	1088324	48da6482dcaf6a42f3d47acae535d63ab7422dfedfee953383878b029c6b1e02	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-exporter-5.74-pl5321hd8ed1ab_0.tar.bz2	19071	42271d0b79043a10a89044acb5febea50046b745dd2fc37e02943bc3bc75bf8e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-exporter-tiny-1.002002-pl5321hd8ed1ab_0.tar.bz2	28592	abdf86828a12a389d0feb0d70501b267842557bae11820e266526aeb6ab2bebe	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-extutils-makemaker-7.70-pl5321hd8ed1ab_0.conda	157323	1d3f342ca74cf2948c3edcfe0d3367b1db0fc64bb163393a2e025336dec3a40c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-ffi-checklib-0.31-pl5321hdfd78af_0.conda	19477	77e6f2ca594f7c4009eee60743692ac09ac7546aab670d5b924165fed58946cb	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-chdir-0.1011-pl5321hd8ed1ab_0.tar.bz2	16973	736b5c79e0ea19efb8f97f628a508cf42a1d5b6bc5533df1bd454651e28950c2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-path-2.18-pl5321hd8ed1ab_0.tar.bz2	22382	ac7a0e0c36ec199709c8523132ded35efb84941a1a476b271fd25362dfbf5339	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-temp-0.2304-pl5321hd8ed1ab_0.tar.bz2	31509	91f9fe152b38441386053876198d0c9437e7b4b5fa7da1e5db48b9e1b21fdae9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-file-which-1.24-pl5321hd8ed1ab_0.tar.bz2	17329	901e9c4177b6bdb23600446fd64a105a437112e63bc23a6163f669bc5098c502	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-importer-0.026-pl5321hd8ed1ab_0.tar.bz2	26921	f40d5302de8c81282b5216edd8c65aecc551ef725db3351c208bff9b077e66a2	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-io-compress-2.216-pl5321haef7865_0.conda	88298	9e7fa17e5eca67ac395b97610deefd861ee6564c8e2f06ea1bfff782551c90f9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-io-zlib-1.15-pl5321hdfd78af_1.tar.bz2	12760	771a44b338cac68a22893897450222b886e24bbb291b014897d561f2ba3b588f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-json-4.11-pl5321hdfd78af_0.conda	52845	1c1649f491c76f4ae2984b547701df91c8abfda2e3b7b44e0c007f5e78a87c08	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-json-xs-4.04-pl5321h4675bf2_0.conda	68334	0a83c4cee65c1beb748948ad1017ff9fbdb3d64cc3eb13599e938f06cd609cbe	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-list-moreutils-0.430-pl5321hdfd78af_0.tar.bz2	32468	2190cc8430bb218ea80f5fc5e2bf75e4e20a27fb83e8c3cb789a18c32854a56c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-list-moreutils-xs-0.430-pl5321hbdacb55_5.tar.bz2	43423	46d9645a60edde726f5891ae254db4bb2a17f0e32ff64a18160910c4a618d879	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-parent-0.243-pl5321hd8ed1ab_0.conda	13933	ec57d9e56ba86d840d5a9e65c665365fb6a290851cd13e6719628f3295eabf34	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-path-tiny-0.150-pl5321hd8ed1ab_0.conda	45674	e0712ba32e9b7899d195647e92ac3d6d389d7f8fa113576986770da0768ee456	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-pathtools-3.75-pl5321hc71e825_2.conda	49073	85eca77264dfe63673098dbc5d07a576c20f8aca6fada79041ad4ca24742d83d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-scalar-list-utils-1.70-pl5321h44e845a_0.conda	46900	6dea0dd8ea98d807866c3d469afe658dbbf6153f0ac9e9fecd15dc76c96225ef	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-scope-guard-0.21-pl5321hd8ed1ab_0.tar.bz2	16123	f0cd98e792fe43fcef81af1848f0d985a87b953043f1f6551d2ffdf15daca62c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-storable-3.15-pl5321hc71e825_2.conda	63402	7e0cfec98f6a4ee7f4ce7e18d9efc748a8bdf1462081a1897c445f709a791d0c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-sub-info-0.002-pl5321hd8ed1ab_0.tar.bz2	19020	0485649e2aaccdbe46b64d35e07d13f885d28f438f41bee54ecd7e9a9d94d472	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-term-table-0.028-pl5321hdfd78af_0.conda	24666	93574d78a99a9ab8f93f3cd75380b8bbfde61452b8882ad96be816eccf0f904a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-test2-suite-0.000163-pl5321hdfd78af_0.tar.bz2	212676	226cbad887607747b19816100d00b0e3dcca66b1e2b282efc1aad225eaacd27d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-types-serialiser-1.01-pl5321hdfd78af_0.tar.bz2	13136	20f61217b16235d0161ad6fa0a234585afcc04ec5a6142c65b5867e26216dfe3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-uri-5.40-pl5321h707e725_0.conda	117944	456012c85e1dce0203ce24bdf37707730d9dd8ee155382509757b886801ef0e1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-libxml-2.0210-pl5321h9b71f33_1.tar.bz2	249754	48a20e1c10052803bed23883faeefef4a1222a212c583b000da8dafe550b7bc7	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-namespacesupport-1.12-pl5321hd8ed1ab_0.tar.bz2	22890	bf384bea1057085fdf8daac6e67a96ca892f2fedf4ce0327f9bda5d3a9bce102	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-sax-1.02-pl5321hd8ed1ab_0.tar.bz2	43526	324ca36bdfff272c8ac06befcd9d1e9e1b22c1c6449bb3801d7e8b9c92acc6b6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/perl-xml-sax-base-1.09-pl5321hd8ed1ab_0.tar.bz2	27575	e652410a4d02bde1a1d7e0021ee84006113785676267c1e33642ba3d2ea9c254	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pigz-2.8-hfab5511_2.conda	76229	70cf9d08c80a7a82822e95c2bfaeec182cb7136cc73eb5dbfbc892264f49167d	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pillow-13.0.0-py311h9ef85ab_1.conda	1018177	e1c1e40005746fa0cab10e9c7e1379e015ed726b31bb45fb466ca049f657dd62	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pip-26.2.2-pyh8b19718_2.conda	1076882	27543e132e4f80285e638a08d6d90de631227186ba96901e1e069fa587d9e62f	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pixman-0.46.4-h784d473_3.conda	198717	4779cd57231ce2e96fac643fcbdd4a6f51a57986264545445574e9c4acf526d3	on_disk
+0/2	conda-forge/bioconda	env/pkgs/poppler-26.11.0-h2c705c3_1.conda	1633314	b8a353fc491dbf259646c9fe06c31e5299f27bcbccb690a0fbdd4d024bd787ae	on_disk
+0/2	conda-forge/bioconda	env/pkgs/poppler-data-0.4.12-hd8ed1ab_0.conda	2348171	2f227e17b3c0346112815faa605502b66c1c4511a856127f2899abf15a98a2cf	on_disk
+0/2	conda-forge/bioconda	env/pkgs/psutil-7.2.2-py311h440b913_4.conda	242706	9ec70d08fe4ca37034c3458cf4294587c186b594826fc9b1071295723fd67aae	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pthread-stubs-0.4-hb001647_1004.conda	9662	3f79452dbda3febaf7053486e4844fa945accf4d74eac4169e2c4d5dc5e4dd0b	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pyhmmer-0.12.3-py311h4159a7e_0.conda	2959063	2f4c67f0ad91d250f22c0b572d5232b5042afd13b8e31480936408b91a1eb2ff	on_disk
+0/2	conda-forge/bioconda	env/pkgs/pyparsing-3.3.3-pyh5ded981_0.conda	114046	dc10d64d4b9a1310083b2f563416ab45560ee2a04fd6baab40f223f2b1ab37bc	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python-3.11.18-hd05a0c4_0_cpython.conda	13750729	c5a525a2d9f56b287765a05c7d0dc133b660bd1abf075f1d2a94f9d5d7aab722	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python-dateutil-4.0.0-pyh5ded981_0.conda	90142	8038f7048c97299f7fe7c8ce957da65b8ada9839afd0f66e345d3096082da975	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python-tzdata-2026.6-pyh5ded981_0.conda	141245	bb29725d0d84f5e98f221f2f0afbad4a44cd67b016ab48388592c940bbd75a5e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/python_abi-3.11-9_cp311.conda	6770	bcfbad269758f4617035314fe379ee655bc2d9db5282e7a00d61450b7cefa3cf	on_disk
+0/2	conda-forge/bioconda	env/pkgs/qhull-2020.2-h48a1422_6.conda	518464	3db28968541a00daeb77617fae729d2846dee260366b8fb61a3df8c2a5cfe7aa	on_disk
+0/2	conda-forge/bioconda	env/pkgs/readline-8.3-h8b90a29_1.conda	314395	d6782b430e6dce4fe8c7ac118cd988d5a193eb4a7f60741edfaede58016b6110	on_disk
+0/2	conda-forge/bioconda	env/pkgs/scipy-1.17.1-py311h9a58382_1.conda	13954661	b45f87414da242a9e40eb934e89513a856e6236d681611c2c9a21d074b03ef5a	on_disk
+0/2	conda-forge/bioconda	env/pkgs/seqkit-2.14.0-h980baba_0.conda	6531137	827453fa8944a02a84e98fce68b19d907a616aea97252370325a4a6f05053215	on_disk
+0/2	conda-forge/bioconda	env/pkgs/setuptools-84.2.1-pyhe730653_0.conda	567436	17add609d1a31c874e39a03935072be59bcafb06d42383eceabea746d12e6025	on_disk
+0/2	conda-forge/bioconda	env/pkgs/spades-4.3.0-hd468e49_2.conda	22936592	22f58dae71f132705bd69642dfa204bcb8ce88c5a5e589b610c540d9d98a5eb9	on_disk
+0/2	conda-forge/bioconda	env/pkgs/sra-tools-3.4.1-2_osx_arm64.conda	14903554	b145b8db40534786849887556f51ff9baaab82bbf1fbc00774791b7c4296552e	on_disk
+0/2	conda-forge/bioconda	env/pkgs/tk-8.6.13-hbeba79b_4.conda	3342183	857d89087ae7f2c328cf256728affcb7343031a148b4af847334d248a9cf564c	on_disk
+0/2	conda-forge/bioconda	env/pkgs/tornado-6.6.1-py311h440b913_0.conda	1099610	97175f1a54f97b882cfe699d9797bef6a4d60df004205b6b07b05f270345f3bd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/trnascan-se-2.0.13-pl5321h9e3228c_0.conda	2869246	93acbea88f8a964c12547dd2396a283c991ed2d5e5190bd605a006e9d3981800	on_disk
+0/2	conda-forge/bioconda	env/pkgs/tzdata-2026e-h5d301ff_0.conda	119208	2b7ca858879f183ce2dcc65b300f48a0133d5430550f35b23d80d405a0788dbf	on_disk
+0/2	conda-forge/bioconda	env/pkgs/unicodedata2-18.0.0-py311h5edb25e_1.conda	425538	c182ab2efbc245e719492afceebae103edb373f02c9508276d49f5a54f6b7379	on_disk
+0/2	conda-forge/bioconda	env/pkgs/wget-1.25.0-h7ba78b2_1.conda	326073	ede2c595d4a2ccbf2b693cdf94162d485967a1f72b1d65067a5b1a5a7f930162	on_disk
+0/2	conda-forge/bioconda	env/pkgs/wheel-0.48.0-pyhd8ed1ab_0.conda	34528	ba64b29b6d418024cb565081a1799262cb2780d2534ff4c14f76aa858c4286cd	on_disk
+0/2	conda-forge/bioconda	env/pkgs/xorg-libxau-1.0.12-hb001647_2.conda	17325	cde7cecabb662b435e6537591e5845e870a0648887542d3e538c9f6c20dd6be5	on_disk
+0/2	conda-forge/bioconda	env/pkgs/xorg-libxdmcp-1.1.5-hb001647_2.conda	21021	30240b39d7b956e8f7a8231ffa0c1fce097124e40b3eb48a523d13d3937e3194	on_disk
+0/2	conda-forge/bioconda	env/pkgs/zlib-1.3.2-h8088a28_3.conda	81744	ab46d85e4fcffff1b1c5cac517afa40b7ae784cf76fc9da1f55f6a6934291eb6	on_disk
+0/2	conda-forge/bioconda	env/pkgs/zlib-ng-2.3.3-h31dac16_1.conda	95857	489a29915a3e1b425cff4df10a448f55bbaaf29d777a0f8a9e381444e6a284f1	on_disk
+0/2	conda-forge/bioconda	env/pkgs/zstd-1.5.7-hf451053_7.conda	433687	da867f5092eb0cb746d353694f0098031fd9817a4ce7d5743121209ae0f406ca	on_disk
+2	bioconda mitos 2.1.10	env/tools/mitos_pkg/mitos-2.1.10-pyhdfd78af_0.conda	419023	5c87a0eda0e49cf1e908e758925522f820f88b4dff8b536896689ffe78f7e721	on_disk
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11101524	SRR11101524.sra	1526990622	NA	deleted after search; size matched server; not hashed, not vdb-validated
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11101525	SRR11101525.sra (1st)	1402354936	NA	CORRUPT (52.7 MB oversize, two writers); result discarded; deleted
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11101525	SRR11101525.sra (2nd)	1349688568	NA	deleted after search; size matched server; vdb-validate rc 0
+2	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR15194044	ERR15194044.sra	2336610385	NA	deleted after search; size matched server; not vdb-validated
+2	ENA SRR1695471.fastq.gz	SRR1695471.fastq.gz	9975193	NA	deleted after search; size matched ENA fastq_bytes
+2	https://ndownloader.figshare.com/files/71489182	data/figshare/Plicatula_genome.zip	570568375	831a57eb1366cf8345f456f20b42c01a7fa4eba92cc7963dba89079062e1286a	on_disk
+2	https://ndownloader.figshare.com/files/68294890	data/figshare/Pmu.chr.gff3	27473128	29050552bfda1840544fcaec1e81f191fb260b733d59b6f36b12d70326933f4d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 0 (100 accessions, 0 missing)	data/sweep/gb/b0000.gb	3497191	b03216389dbb40f5ada55af192a0e730aaa0024787b535214fbaf57466920edf	on_disk
+3	NCBI efetch nuccore gbwithparts batch 1 (100 accessions, 0 missing)	data/sweep/gb/b0001.gb	3456384	14635207d93f4c937814291a8db7a6ed099b4e0ac6cd71c3c5601bf26cd466d8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 2 (100 accessions, 0 missing)	data/sweep/gb/b0002.gb	3504217	c1c7467e142edcdf1759e5d276cbb7294d32a7f12ab788e3e4ca7d167b01db0d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 3 (100 accessions, 0 missing)	data/sweep/gb/b0003.gb	3554859	4cb62d4262619b7b9e9c7b828598cf42d88ea45b6616fe7fde7007b792047911	on_disk
+3	NCBI efetch nuccore gbwithparts batch 4 (100 accessions, 0 missing)	data/sweep/gb/b0004.gb	3443761	fbf4fbe144d8edf2b42da8a25b9d6964564dabcc64c3dd79c5ff3a6d09bdb94b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 5 (100 accessions, 0 missing)	data/sweep/gb/b0005.gb	3492263	c1f0c38642da5eec346779d9fd2b582872c474f6217cf5b312d829d83cec6d3e	on_disk
+3	NCBI efetch nuccore gbwithparts batch 6 (100 accessions, 0 missing)	data/sweep/gb/b0006.gb	3599193	9370c60e358dd94e608f780ea689dd73150244a92a5497a220ea6d9579217d19	on_disk
+3	NCBI efetch nuccore gbwithparts batch 7 (100 accessions, 0 missing)	data/sweep/gb/b0007.gb	3586932	ff9cae117c68760818be6edf5907466c2d93d7bee217a713aceb54fd97b9089b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 8 (100 accessions, 0 missing)	data/sweep/gb/b0008.gb	3513889	cf0c9cbff9d1f8b24ba3e707bb8038dee431494ac0ab76d8dd1ec06ad27aa3b8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 9 (100 accessions, 0 missing)	data/sweep/gb/b0009.gb	3487961	55b374d4746676e27952f2ae01f3178e363fa987c58cd271fdf94831019e8c84	on_disk
+3	NCBI efetch nuccore gbwithparts batch 10 (100 accessions, 0 missing)	data/sweep/gb/b0010.gb	3583118	b20b5e54af235a2b72de0917996caa77bc5039fd9496af359518bc2ff7ec2795	on_disk
+3	NCBI efetch nuccore gbwithparts batch 11 (100 accessions, 0 missing)	data/sweep/gb/b0011.gb	3465977	8390830748b55c29fc36d1b633e45a679b5ab2033bff8f932809837a047f0ca0	on_disk
+3	NCBI efetch nuccore gbwithparts batch 12 (100 accessions, 0 missing)	data/sweep/gb/b0012.gb	3580635	78d821f42f41f0d3d7f8e21ea7d1468e468275c26cd1d3420be6398ed9a7f73b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 13 (100 accessions, 0 missing)	data/sweep/gb/b0013.gb	3469727	40bc051e030f130a06c489ded3619b9733befdf298da3358dec7f9c045859818	on_disk
+3	NCBI efetch nuccore gbwithparts batch 14 (100 accessions, 0 missing)	data/sweep/gb/b0014.gb	3528924	5185c607bc55cd3dee1500465955091752165efed222c8f985d39b2994528081	on_disk
+3	NCBI efetch nuccore gbwithparts batch 15 (100 accessions, 0 missing)	data/sweep/gb/b0015.gb	3499538	d6052ea40757d7ddfd8f2e9e353b81420ccb7dc9cf1a7d507601c10a590a7790	on_disk
+3	NCBI efetch nuccore gbwithparts batch 16 (100 accessions, 0 missing)	data/sweep/gb/b0016.gb	3506784	4fc2c5a895aee6945742d742cf0e1e0226282fdb13d31e7112484eb92ee491ba	on_disk
+3	NCBI efetch nuccore gbwithparts batch 17 (100 accessions, 0 missing)	data/sweep/gb/b0017.gb	3599562	a9b0b6e66bd567863335a17d3c920b60145ae5986a9f00a52be3b94094ff86af	on_disk
+3	NCBI efetch nuccore gbwithparts batch 18 (100 accessions, 0 missing)	data/sweep/gb/b0018.gb	3629723	1d54793322366c7eeb752124302c9ed9af1f2c2c82f5294a76c8f736ab7d2cd8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 19 (100 accessions, 0 missing)	data/sweep/gb/b0019.gb	3569797	57fbce6d1c29e5ac1e29d0edcb2bc2d595d2771fe68d214df41c7138521d6ab6	on_disk
+3	NCBI efetch nuccore gbwithparts batch 20 (100 accessions, 0 missing)	data/sweep/gb/b0020.gb	3302647	934635b9134ac8e6269840b55f12ea94715dc2857f26484d1839a1e77e30b5c5	on_disk
+3	NCBI efetch nuccore gbwithparts batch 21 (100 accessions, 0 missing)	data/sweep/gb/b0021.gb	3633241	0862f9fb603762a11855555e720f375e6e3cbe40f017e67d8e58451056a4bd61	on_disk
+3	NCBI efetch nuccore gbwithparts batch 22 (100 accessions, 0 missing)	data/sweep/gb/b0022.gb	3506819	5805c28bd988a301b79c42ff774cbd2728a0ddef3648b111e16bad54328d6f23	on_disk
+3	NCBI efetch nuccore gbwithparts batch 23 (100 accessions, 0 missing)	data/sweep/gb/b0023.gb	3318405	dfb4b88c30611b68372b50005bb9f7051cf08a10a96a3e6042554d03c14258a7	on_disk
+3	NCBI efetch nuccore gbwithparts batch 24 (100 accessions, 0 missing)	data/sweep/gb/b0024.gb	3618217	3d292853bd16e1bc769f608535bab8550daf7d0907d987324d2e81380bd0218e	on_disk
+3	NCBI efetch nuccore gbwithparts batch 25 (100 accessions, 0 missing)	data/sweep/gb/b0025.gb	3524832	5f6523bd22d655144a0c1a31992b3beff787c6d673a6d7b808ca80b3122f80d9	on_disk
+3	NCBI efetch nuccore gbwithparts batch 26 (100 accessions, 0 missing)	data/sweep/gb/b0026.gb	3624049	7b0d421f3b8a379df09008f93f87470e20c1efbbc3a5f95ee72defd59285fc9d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 27 (100 accessions, 0 missing)	data/sweep/gb/b0027.gb	3505568	2e945b815ffee23c53c5318de8a1c344f4521677629fe074972f0f099d778cca	on_disk
+3	NCBI efetch nuccore gbwithparts batch 28 (100 accessions, 0 missing)	data/sweep/gb/b0028.gb	3550513	9ae8686255ee58a215692f6ce510a7aaaeab5c791f9766e1452e9256cd106fc6	on_disk
+3	NCBI efetch nuccore gbwithparts batch 29 (100 accessions, 0 missing)	data/sweep/gb/b0029.gb	3453558	8e8772c918d4d5f4ee356b7b50ffb385ba56ec31b0c38789b4242bb973484486	on_disk
+3	NCBI efetch nuccore gbwithparts batch 30 (100 accessions, 0 missing)	data/sweep/gb/b0030.gb	3506461	34a6faf86eef451f23b440553e7fefcfd14d9fb5a078a4e8fb3515e34e1da6e6	on_disk
+3	NCBI efetch nuccore gbwithparts batch 31 (100 accessions, 0 missing)	data/sweep/gb/b0031.gb	3555849	a7d34174bd9e7f7aee255706b28443680e9fc3542716b5daf93ca9ddb7281f58	on_disk
+3	NCBI efetch nuccore gbwithparts batch 32 (100 accessions, 0 missing)	data/sweep/gb/b0032.gb	3644649	149b0a0e3e4e6bdbe1710a3d2b25d14dc59137e962294d2281c5b3f58b186d34	on_disk
+3	NCBI efetch nuccore gbwithparts batch 33 (100 accessions, 0 missing)	data/sweep/gb/b0033.gb	3526327	c922813c93c25da6db733d417279fd985ec01f9578a2e8fa762f11df339fd6a1	on_disk
+3	NCBI efetch nuccore gbwithparts batch 34 (100 accessions, 0 missing)	data/sweep/gb/b0034.gb	3534622	e5b833afa9d6bafa2daa3ca3a5326f548336b3ca9d9d495aec24807050342c36	on_disk
+3	NCBI efetch nuccore gbwithparts batch 35 (100 accessions, 0 missing)	data/sweep/gb/b0035.gb	3549147	26b818ac52749d671ec5a0b7ba26a859d206310cd43a91cd7241fb678a2e7b4d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 36 (100 accessions, 0 missing)	data/sweep/gb/b0036.gb	3588665	00fdb8811fe84ae3a3220ad013dbb4e82603b71242e77a5421f07674dc66b4bf	on_disk
+3	NCBI efetch nuccore gbwithparts batch 37 (100 accessions, 0 missing)	data/sweep/gb/b0037.gb	3505838	e3bb43d6710bf4e7e7b09f18b5f5feffc1275ed5cc6b256d119f8324e5d708e3	on_disk
+3	NCBI efetch nuccore gbwithparts batch 38 (100 accessions, 0 missing)	data/sweep/gb/b0038.gb	3475617	371c034c961c81f004adc7411e40048dc636fc29df12af7732b8a7bf6ab562e1	on_disk
+3	NCBI efetch nuccore gbwithparts batch 39 (100 accessions, 0 missing)	data/sweep/gb/b0039.gb	3478946	b8f65eb3e5a4f6713d51cb07be9df47796c110b9a1d46e3f238abec558e2602b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 40 (100 accessions, 0 missing)	data/sweep/gb/b0040.gb	3674017	69b79574a8d4d6ad50c90455c10272ddd571279d1ef5353be68ee1d2f4fa9eb4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 41 (100 accessions, 0 missing)	data/sweep/gb/b0041.gb	3563640	8af5599a54f3031ae306d811e387ee8ff10808c3261eca487f00e96df373872e	on_disk
+3	NCBI efetch nuccore gbwithparts batch 42 (100 accessions, 0 missing)	data/sweep/gb/b0042.gb	3538185	f3a8d77bba4dd170cfd1983c39b78dd8f8d3241cfd4737695e0cbc06424c094b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 43 (100 accessions, 0 missing)	data/sweep/gb/b0043.gb	3571380	6957b9a80c87fa068c90c725b98d6ba9d6e120fee11655dbfc392a6b82305f1d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 44 (100 accessions, 0 missing)	data/sweep/gb/b0044.gb	3412022	3395c800a4dcbe7b7a8e61c0995189e6f7a809317b659a6ff6b544bba8c4f590	on_disk
+3	NCBI efetch nuccore gbwithparts batch 45 (100 accessions, 0 missing)	data/sweep/gb/b0045.gb	3552319	917af8240750fb28f61d55c1dabc3f8a7e8a65c228ed1b3ebbcf39944a9313ea	on_disk
+3	NCBI efetch nuccore gbwithparts batch 46 (100 accessions, 0 missing)	data/sweep/gb/b0046.gb	3790430	20062101e71abf51decb8e8254b3581563b75466da22ae31dc2369759e7d1ef3	on_disk
+3	NCBI efetch nuccore gbwithparts batch 47 (100 accessions, 0 missing)	data/sweep/gb/b0047.gb	3555582	09d8322385e6571f4cda4c60806061729ac81087f07ff4a769eef877ec13c42b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 48 (100 accessions, 0 missing)	data/sweep/gb/b0048.gb	3410513	748517c9b034d06e6dda3779137c048a96cbfe993b099e3246a41292ed599862	on_disk
+3	NCBI efetch nuccore gbwithparts batch 49 (100 accessions, 0 missing)	data/sweep/gb/b0049.gb	3560044	809235e0846158765bd21e815594293d118d8eb82bcb9e611eecc9b617a68615	on_disk
+3	NCBI efetch nuccore gbwithparts batch 50 (100 accessions, 0 missing)	data/sweep/gb/b0050.gb	3455572	d7b164de39992fe32592861887a90de66ddabffebfd31a19f0b268fb2fdb94d5	on_disk
+3	NCBI efetch nuccore gbwithparts batch 51 (100 accessions, 0 missing)	data/sweep/gb/b0051.gb	3512423	44cc525c471f7a35bd8674fc730aa5cd54ac76eecb34c6e5c52d6dab4525eed3	on_disk
+3	NCBI efetch nuccore gbwithparts batch 52 (100 accessions, 0 missing)	data/sweep/gb/b0052.gb	3499667	2f53210efb0d689859f430f7df7bfa1cc7bc7bc024bd48aef8e3310e0ebcb47e	on_disk
+3	NCBI efetch nuccore gbwithparts batch 53 (100 accessions, 0 missing)	data/sweep/gb/b0053.gb	3434765	591bda1033b7e4af093f36eeba4ca0dc84581c17b56474c867e912c313cdc9f8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 54 (100 accessions, 0 missing)	data/sweep/gb/b0054.gb	3418255	d4a47d9ea566616cc4b30c8e79bb553d14bca502e6cf996f7d5d0894a9017deb	on_disk
+3	NCBI efetch nuccore gbwithparts batch 55 (100 accessions, 0 missing)	data/sweep/gb/b0055.gb	3511680	b62959c4f5e04f0fd344040da21609820108e8160f69a00704c83b7562f1acf9	on_disk
+3	NCBI efetch nuccore gbwithparts batch 56 (100 accessions, 0 missing)	data/sweep/gb/b0056.gb	3495345	97d095779bb88521b8968125197e491f7facc16610156bd70c2ffba254684996	on_disk
+3	NCBI efetch nuccore gbwithparts batch 57 (100 accessions, 0 missing)	data/sweep/gb/b0057.gb	3616903	dc8111960bd9a03dbd6aa1bee276e44b78bc191e3717ea2d54c1548518fc0bce	on_disk
+3	NCBI efetch nuccore gbwithparts batch 58 (100 accessions, 0 missing)	data/sweep/gb/b0058.gb	3526473	9ce94ed5822eac21572afd584f38edde220c36272d2fb4c7a4ad17956d205d0f	on_disk
+3	NCBI efetch nuccore gbwithparts batch 59 (100 accessions, 0 missing)	data/sweep/gb/b0059.gb	3607118	0e0ee0bfb9414af7ea596981bd2f56da197647502dc968dc1c65b757161ca4be	on_disk
+3	NCBI efetch nuccore gbwithparts batch 60 (100 accessions, 0 missing)	data/sweep/gb/b0060.gb	3581064	fc6310abd47305c8d485a8ec11bdb62e481704a1069e26aa56056c29c2c8460d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 61 (100 accessions, 0 missing)	data/sweep/gb/b0061.gb	3406637	679968db1c042110477045f51d6dc6788ddfda286fcb7e532db8ebfab003a5d6	on_disk
+3	NCBI efetch nuccore gbwithparts batch 62 (100 accessions, 0 missing)	data/sweep/gb/b0062.gb	3311050	208dacda3c859af18ee2a94178f1e908d6089b777bb44da7ba943df19bda7b3d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 63 (100 accessions, 0 missing)	data/sweep/gb/b0063.gb	3459349	5a19af2f916c37fa0c767647f6d67b7d5ca85fa9ef7336cd5160fc17e03f601d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 64 (100 accessions, 0 missing)	data/sweep/gb/b0064.gb	3536179	879d093d64a4cb675241ed30700c55f4ed3f432505d8000764f74885c3f1a76f	on_disk
+3	NCBI efetch nuccore gbwithparts batch 65 (100 accessions, 0 missing)	data/sweep/gb/b0065.gb	3454290	47e06cc18ad07bc2061aa33fa8b7a23641af278df26defe48035f93f4e97e128	on_disk
+3	NCBI efetch nuccore gbwithparts batch 66 (100 accessions, 0 missing)	data/sweep/gb/b0066.gb	3451903	1f133789c0685fa0a967de8b9948d577281e9680a62b3abcafd227edb8023a55	on_disk
+3	NCBI efetch nuccore gbwithparts batch 67 (100 accessions, 0 missing)	data/sweep/gb/b0067.gb	3536939	35d85282b06df2c4e0c9715377f184f68c956ff0728d2396cda6a2b68dde8cb9	on_disk
+3	NCBI efetch nuccore gbwithparts batch 68 (100 accessions, 0 missing)	data/sweep/gb/b0068.gb	3514958	95bae7e49be2b05a4000faa8f630089954d84317bbc1013950c425a18537869b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 69 (100 accessions, 0 missing)	data/sweep/gb/b0069.gb	3686837	fc3450e954d283dcb58bcb173bc25e22e9b2417b45c24a9b4409f8b89ef5a5e7	on_disk
+3	NCBI efetch nuccore gbwithparts batch 70 (100 accessions, 0 missing)	data/sweep/gb/b0070.gb	3514780	76e54d6b47b632ec0154cfd4701ae1e09ecfe5029fa65239f895b0265190b9e0	on_disk
+3	NCBI efetch nuccore gbwithparts batch 71 (100 accessions, 0 missing)	data/sweep/gb/b0071.gb	3598364	284ef0ee8156599649001cfdc25d7510775d551a403046048ebc62f12222ea01	on_disk
+3	NCBI efetch nuccore gbwithparts batch 72 (100 accessions, 0 missing)	data/sweep/gb/b0072.gb	3524830	b660c747d781f15a1cc0a0f6978dddd9844de61663d4b2a6d6d89146c0fb8ae5	on_disk
+3	NCBI efetch nuccore gbwithparts batch 73 (100 accessions, 0 missing)	data/sweep/gb/b0073.gb	3665207	d7c6f39a398638d1943ec0f99cc5397788aa2f081405240d254151406eb56ba4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 74 (100 accessions, 0 missing)	data/sweep/gb/b0074.gb	3421137	8a8626554d84083f61e84c54411ac0b7b53e9222f883d9f39696eb501ea474ab	on_disk
+3	NCBI efetch nuccore gbwithparts batch 75 (100 accessions, 0 missing)	data/sweep/gb/b0075.gb	3602302	877684927f57612cd12894512faf27fc26badba10dbef1fd503d0693c0648cc6	on_disk
+3	NCBI efetch nuccore gbwithparts batch 76 (100 accessions, 0 missing)	data/sweep/gb/b0076.gb	3542943	662c04c2f1af4e769ef8325611197e2ea0a72038b2b852ea49a767a7ba4ec4a7	on_disk
+3	NCBI efetch nuccore gbwithparts batch 77 (100 accessions, 0 missing)	data/sweep/gb/b0077.gb	3528599	7d7bf10f70ba3547439f46386f93c360964b48937a9d4df6a7dc6e71b5781014	on_disk
+3	NCBI efetch nuccore gbwithparts batch 78 (100 accessions, 0 missing)	data/sweep/gb/b0078.gb	3635013	7d5063b98537a2d0565705fcc3cf37639368a96c82f7de4eb7d7f6f815d643b4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 79 (100 accessions, 0 missing)	data/sweep/gb/b0079.gb	3459715	4fc296ea0bfe3542046d5cd0a84d1067461cbfbe60cfe90c14e87f4db53f4af2	on_disk
+3	NCBI efetch nuccore gbwithparts batch 80 (100 accessions, 0 missing)	data/sweep/gb/b0080.gb	3574490	431dac1550d1296611c3f824d85837fd49e81be5c21f3aae0f4f2fe0a715c913	on_disk
+3	NCBI efetch nuccore gbwithparts batch 81 (100 accessions, 0 missing)	data/sweep/gb/b0081.gb	3686681	d422c243799056dbddc7b76901e6446c9d6a792e1441e4976939a26596d7bb8b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 82 (100 accessions, 0 missing)	data/sweep/gb/b0082.gb	3911144	1e99bf6082a9677963fd3460c9fc9ee301b5ec429fd0bf878238b6c74e8ec6b9	on_disk
+3	NCBI efetch nuccore gbwithparts batch 83 (100 accessions, 0 missing)	data/sweep/gb/b0083.gb	3894744	a7b42a5f0328263861e5bf94a4093fa8b280574e19bda479e67353218fdfe478	on_disk
+3	NCBI efetch nuccore gbwithparts batch 84 (100 accessions, 0 missing)	data/sweep/gb/b0084.gb	3961502	b34f6b3badaa3a2009027dc506b259ff37ab665b6a4dee7646aad72f394542b4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 85 (100 accessions, 0 missing)	data/sweep/gb/b0085.gb	3965596	ce5859fb246bce5793618e257278075676bbd08d43fc76b5b94a48744c73a73c	on_disk
+3	NCBI efetch nuccore gbwithparts batch 86 (100 accessions, 0 missing)	data/sweep/gb/b0086.gb	3726920	0cc3e2ab693860038d73e6f0e731580fc6551b0dccdd2d22b7b4b3dfb95f8677	on_disk
+3	NCBI efetch nuccore gbwithparts batch 87 (100 accessions, 0 missing)	data/sweep/gb/b0087.gb	3754603	a37f4ab3ff491ac4cf89e0db32ccd06d1f9fbcd6d1dcff325fd76576e3f130ae	on_disk
+3	NCBI efetch nuccore gbwithparts batch 88 (100 accessions, 0 missing)	data/sweep/gb/b0088.gb	3926653	1c5316d89dbc104daf7b6489317461e9cc4f52667d18a8a639735a383fb54b34	on_disk
+3	NCBI efetch nuccore gbwithparts batch 89 (100 accessions, 0 missing)	data/sweep/gb/b0089.gb	3879554	c76ccd348d0e46ad9b15e29092beae1d6d6bd753c0a1b4a741f0278c86c59144	on_disk
+3	NCBI efetch nuccore gbwithparts batch 90 (100 accessions, 0 missing)	data/sweep/gb/b0090.gb	3910470	3c4b4fe7215b23876e3f6dcc36b58f9ddb8e7aeb1ad3c8135c887c4c1cd86584	on_disk
+3	NCBI efetch nuccore gbwithparts batch 91 (100 accessions, 0 missing)	data/sweep/gb/b0091.gb	3905450	2c18cc65aaa53f6fec4e436c4a56934994a74c65b77fe90d13abebd15156d60c	on_disk
+3	NCBI efetch nuccore gbwithparts batch 92 (100 accessions, 0 missing)	data/sweep/gb/b0092.gb	3714560	770f190b5ce9bcf20fa6202f31bbf51ab936a7886f030e61dc11d00772b18491	on_disk
+3	NCBI efetch nuccore gbwithparts batch 93 (100 accessions, 0 missing)	data/sweep/gb/b0093.gb	3457955	abc74b0210d2054ecee9b47499ae1fe95684323a321b0f30da42c7d696011fb4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 94 (100 accessions, 0 missing)	data/sweep/gb/b0094.gb	3775794	626c1746bfbedb44e2e6dd1e858f8949d9e2fee77705677000cdb3dd2413304b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 95 (100 accessions, 0 missing)	data/sweep/gb/b0095.gb	3730786	1a1ac3302a616498c80f8cbfe0377f10ef1b3e6c8a2c32d4bcaf0503e520a0b1	on_disk
+3	NCBI efetch nuccore gbwithparts batch 96 (100 accessions, 0 missing)	data/sweep/gb/b0096.gb	3767519	c04a8dd8c11a74e4f105197c7edeaee3b9db5c0e25d4e27e0a15054e4a45bdf6	on_disk
+3	NCBI efetch nuccore gbwithparts batch 97 (100 accessions, 0 missing)	data/sweep/gb/b0097.gb	3634616	cb90f9b0f1c24ffeae64b5d72c20361d53ecba0c43d693bf5903df2e51d0923c	on_disk
+3	NCBI efetch nuccore gbwithparts batch 98 (100 accessions, 0 missing)	data/sweep/gb/b0098.gb	3724194	e4add81e26c404672d75a92b219dd43bdc746c5a992d5eb987117f5326bbee6c	on_disk
+3	NCBI efetch nuccore gbwithparts batch 99 (100 accessions, 0 missing)	data/sweep/gb/b0099.gb	3680417	a9b279ea29990374d01f596c3778f03beddbc459f48765cb6e4817c1db58c430	on_disk
+3	NCBI efetch nuccore gbwithparts batch 100 (100 accessions, 0 missing)	data/sweep/gb/b0100.gb	3899553	9f0580f4f4e765c02d0becf2fa1ee850f8f7d706de8cca6c44df19fd2830ad29	on_disk
+3	NCBI efetch nuccore gbwithparts batch 101 (100 accessions, 0 missing)	data/sweep/gb/b0101.gb	3486249	2b66d8bc9e971e6c91ede0ba7d7b58b6aae84669faeac88a3cbc3a83d4d05095	on_disk
+3	NCBI efetch nuccore gbwithparts batch 102 (100 accessions, 0 missing)	data/sweep/gb/b0102.gb	3695937	bade7669a1caeaefba7869b14564f430a5ec76f2bc1cbec3d058e3297f3e7601	on_disk
+3	NCBI efetch nuccore gbwithparts batch 103 (100 accessions, 0 missing)	data/sweep/gb/b0103.gb	3307873	176e4dc57974a399646c13ef153fd16266de217a53b9ced54823d004789babcd	on_disk
+3	NCBI efetch nuccore gbwithparts batch 104 (100 accessions, 0 missing)	data/sweep/gb/b0104.gb	3597866	e714d15619ca11809e3d57ebe18fffa1c0763b0e749cfc715ae27463496d474a	on_disk
+3	NCBI efetch nuccore gbwithparts batch 105 (100 accessions, 0 missing)	data/sweep/gb/b0105.gb	3616567	05bdf09edbafed7394450e6b2f38193daa3597c33e12ff6444e1ad680ebae662	on_disk
+3	NCBI efetch nuccore gbwithparts batch 106 (100 accessions, 0 missing)	data/sweep/gb/b0106.gb	3479097	91de865b07710ab6a61d37c792da79011556ec42dbcb2d3c46e3040b5a648898	on_disk
+3	NCBI efetch nuccore gbwithparts batch 107 (100 accessions, 0 missing)	data/sweep/gb/b0107.gb	3550469	e64ac7e234d259e3b077f46bcc982ecadd9586930168a6cccf27873859fa08b1	on_disk
+3	NCBI efetch nuccore gbwithparts batch 108 (100 accessions, 0 missing)	data/sweep/gb/b0108.gb	3560686	a6bcf33537dc3f1fa8338ed7956f330ff800678d32f062ac6b28ab681f18a635	on_disk
+3	NCBI efetch nuccore gbwithparts batch 109 (100 accessions, 0 missing)	data/sweep/gb/b0109.gb	3589734	6fb47ea3d8ba6b6ee10c3100bde8e4cfe0a83792001ff0acdde90c0d1209a216	on_disk
+3	NCBI efetch nuccore gbwithparts batch 110 (100 accessions, 0 missing)	data/sweep/gb/b0110.gb	3623333	c7d1cb67e67b51d616f5d13ac0a40053da6b5827e57debf06c666b11dfbddb34	on_disk
+3	NCBI efetch nuccore gbwithparts batch 111 (100 accessions, 0 missing)	data/sweep/gb/b0111.gb	3514525	02dddfd93b384e00af4bda633f532884c79d266dee73412a07e4f875dbe3c5b1	on_disk
+3	NCBI efetch nuccore gbwithparts batch 112 (100 accessions, 0 missing)	data/sweep/gb/b0112.gb	3606822	e46e17abe4fc78cc022652732b20de76d97263278dee7665e48a789c234c496d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 113 (100 accessions, 0 missing)	data/sweep/gb/b0113.gb	3444855	3d62d39c25e1729ff1b976e63f80f6c66a0ac65fa35930068a63a1e8bf8e1c6f	on_disk
+3	NCBI efetch nuccore gbwithparts batch 114 (100 accessions, 0 missing)	data/sweep/gb/b0114.gb	3578487	c683aa7b3ed10f174b1a6a310d21ef6bf5f882d1c687b21db471cb116c8266a8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 115 (100 accessions, 0 missing)	data/sweep/gb/b0115.gb	3430825	1bb507467788f8af4f709dc4d618df429b9c9c9e367a3c94be7addd737c92244	on_disk
+3	NCBI efetch nuccore gbwithparts batch 116 (100 accessions, 0 missing)	data/sweep/gb/b0116.gb	3420351	1161f3216e9e23158fd7b0f98e5397f18a2a6526f26c898dcb8c4cee0cbbfd25	on_disk
+3	NCBI efetch nuccore gbwithparts batch 117 (100 accessions, 0 missing)	data/sweep/gb/b0117.gb	3628398	e418eff139a6fcc856fa1625b976648d02018bb95944c5498407aed8207a4060	on_disk
+3	NCBI efetch nuccore gbwithparts batch 118 (100 accessions, 0 missing)	data/sweep/gb/b0118.gb	3617983	3171afe5a458ce5b031252be0cac9f106f4ac4770a890984e9ebec388949dd04	on_disk
+3	NCBI efetch nuccore gbwithparts batch 119 (100 accessions, 0 missing)	data/sweep/gb/b0119.gb	3667440	5d8059613b14fdf21af9e427c5da82edee3e196b3d86e6ae5fe5bb8c57ed162a	on_disk
+3	NCBI efetch nuccore gbwithparts batch 120 (100 accessions, 0 missing)	data/sweep/gb/b0120.gb	3526924	99b933fa35c0db4f10d8472f33f105a04777af714620ecb38d956f1bcd269944	on_disk
+3	NCBI efetch nuccore gbwithparts batch 121 (100 accessions, 0 missing)	data/sweep/gb/b0121.gb	3564204	073fb90b5f81ba72c866cbd4e1fea6adb3360b58c4b18d021ef096453a9674c8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 122 (100 accessions, 0 missing)	data/sweep/gb/b0122.gb	3528412	1e2e713233c9101aa29c4f0cb561b83d357f8396d148a9ee1f8a01400f9019e4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 123 (100 accessions, 0 missing)	data/sweep/gb/b0123.gb	3652643	5310547475ea39cdde9c8f809260bfdaeb36d2cb09f971b17ee5452555ff6a2b	on_disk
+3	NCBI efetch nuccore gbwithparts batch 124 (100 accessions, 0 missing)	data/sweep/gb/b0124.gb	3505910	745b9d9ecaeeb60404f02cf636354b42a849081e55500b64d574c1a027169ef4	on_disk
+3	NCBI efetch nuccore gbwithparts batch 125 (100 accessions, 0 missing)	data/sweep/gb/b0125.gb	3552740	767885f3266e4e72c94c65f75e6d9ddf59e6eae8b0042533d731a366c0915e74	on_disk
+3	NCBI efetch nuccore gbwithparts batch 126 (100 accessions, 0 missing)	data/sweep/gb/b0126.gb	3588851	aa6005accead8dbef33c3dc16866879047ec2051458ce9e92e0cad630339e07e	on_disk
+3	NCBI efetch nuccore gbwithparts batch 127 (100 accessions, 0 missing)	data/sweep/gb/b0127.gb	3625755	dbbded54b5a05b7395302570fe06127161a8edbac096ba5331322da2a53e0c60	on_disk
+3	NCBI efetch nuccore gbwithparts batch 128 (100 accessions, 0 missing)	data/sweep/gb/b0128.gb	3435015	1b6d4078690067aa6a77630a6fe790a29ef2cb571f32593eca97e0b0464c110d	on_disk
+3	NCBI efetch nuccore gbwithparts batch 129 (100 accessions, 0 missing)	data/sweep/gb/b0129.gb	4333335	faef5d81ac028110b96506103e707b0b58a9f9e4f4dbe8cf51ec185bb4d05f92	on_disk
+3	NCBI efetch nuccore gbwithparts batch 130 (100 accessions, 0 missing)	data/sweep/gb/b0130.gb	4338014	daeceabe8ead2501c6f48ad91a55358a40ec7d0b6e24a45e6c386c0cb0a708b8	on_disk
+3	NCBI efetch nuccore gbwithparts batch 131 (99 accessions, 0 missing)	data/sweep/gb/b0131.gb	4009861	94b1a4a111e969e43df0062fdbe857dcf9b2813df20925626b1abd83568e8946	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR2912304/SRR2912304	results/work/SRR2912304.sra	185146493	a67956000439e113f6b7632908855249bc1d25228d4a0186d627cefcbd3de8aa	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR2912305/SRR2912305	results/work/SRR2912305.sra	173593724	b73c70c89f5113666f9f7f2ed9f9fc09af1a06bf8ed0e77f0eb26efa1ca930a9	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR4556446/SRR4556446	results/work/SRR4556446.sra	252063006	b581ecd85537c7e0d760cc2ad5d3d789c93411a94ec2847c62c59daf7e1a6dee	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR14617436/SRR14617436	results/work/SRR14617436.sra	50166	335947b7a809c9d7e37c3e136210657d3496c575ae793f55a5a9ccdd216f84ce	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396674/SRR22396674	results/work/SRR22396674.sra	623991918	e8ba479ba2bfcad43d1b9ecb27ce0ba570d5120bae412a16721216fe4a56d148	deleted after use
+3	local compile	env/tools/kmatch/kmatch (from env/tools/kmatch/kmatch.c, clang -O2)	34147	ca3d311555fe40e1efeb7d08b8fa07d83dfc93a4d504f05d2f19de975092bd83	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396674/SRR22396674	results/work/SRR22396674.sra	623991918	e8ba479ba2bfcad43d1b9ecb27ce0ba570d5120bae412a16721216fe4a56d148	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR4556446/SRR4556446	results/work/SRR4556446.sra	252063006	b581ecd85537c7e0d760cc2ad5d3d789c93411a94ec2847c62c59daf7e1a6dee	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586121/SRR9586121	results/work/SRR9586121.sra	163777229	7307e857ec69bb545031276e2e30a9152c5d17f22ca2d942b6cfcdcc95d44fbf	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586127/SRR9586127	results/work/SRR9586127.sra	105473500	8ef019b3589e3079edfa6bcde6d06b5a9d72d7878f4dc6ff40368958a14d65d7	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR744555/ERR744555	results/work/ERR744555.sra	2187027602	919ba6cb9098a58fe71db55af2383104c109722e8ec43b0733e7ad87b72c1a1f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586145/SRR9586145	results/work/SRR9586145.sra	121169720	9cc0453a53311ae2a150921cbafcd4062dad7f7dfef7fe82f58d49cb3d4bac1f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586146/SRR9586146	results/work/SRR9586146.sra	131035924	f4046e4e9d60c1680a20364191c20e28cf5db35d65ce6c6c41756feba93ee51f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586188/SRR9586188	results/work/SRR9586188.sra	112215127	b65a21c03ba74ced20a96edcd8518110b38c80b8698122a28577ef426e1f7967	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586195/SRR9586195	results/work/SRR9586195.sra	120630128	dd8e6cf69b443bad294217418faeef104e7044e41ff0a66cba4e14bbf14215e0	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586196/SRR9586196	results/work/SRR9586196.sra	113074892	10689be0eefddde755e5560ea47cc557bbbe3e9016f3c0d5f9b237d8f8143654	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586214/SRR9586214	results/work/SRR9586214.sra	131665293	5ad9bb40128e2cbd5e5175b404a15ac0b85a368a96d3826de48b19bf9d92b4a4	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR39401262/SRR39401262	results/work/SRR39401262.sra	9055264678	89055e88305a324961d2c1373f2808136faf509c4764c3fdee5e10c5544286a9	deleted after use
+3x	NCBI efetch gbwithparts UNVERIFIED batch 0 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0000.gb	2148178	319f5a2a471d8814bc5ce5387881173ff8ff2b9d280ea5cc34d5857983ab3bc2	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 1 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0001.gb	2095433	b5e01bf959e307ef6bc6a1398091d45e3d9ae27829b9b9187af311033a6b2f67	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 2 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0002.gb	2178999	29ffd277cb4aec8f88d8401254968f9f714ae1a8670c021aa6bba00b6a761925	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 3 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0003.gb	2242521	9b06a094f2b0582fbc3b0681b7637d106c54fc4067a9fcd61cad9a9f9928baa9	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 4 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0004.gb	2133084	a86fbb2ff13117b74470c910f7543e016063ab7238c5e823c806e81da4374f19	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 5 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0005.gb	2125100	3d00013539d121d0f47c8f8e7372ef3d0a2fcc19b62753675ad19f72587d73f6	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 6 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0006.gb	2014911	b26d89683145849facc3609452ac90eb7ea75ad59584feae8cbeade32f8648f7	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 7 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0007.gb	1965368	3f50f280697fcd47f68443b4abe044dc46266fa31173a580792e8363bdfde81d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 8 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0008.gb	1957736	34d8769ef6c602786892d072a026726d8821497e9795eaae8e127f1509ecc108	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 9 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0009.gb	2173792	076bd3b9e6e56cce778de27e50170896ee6085a88cb140c3272e04d98f1f91b0	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 10 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0010.gb	2169156	f8443f60ebbf64af0f55f78a25ac2a521e78454ab5fcc993a2be31a5fc0735a8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 11 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0011.gb	2233440	0975e7d374ed537583365624cdb5aaadea220341a48e19887f86b42849fec8dd	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 12 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0012.gb	2252594	304f6e0359949873044cd8df1584b5abb1d7ad04693b09a22349a06d008fce25	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 13 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0013.gb	2241440	f6716ca152bfd765ebc6aa5c1a7625b22a4bdd2ccd36587189187ca0e4413575	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 14 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0014.gb	2055283	07ac6a5ee33df4acc47dde842e15a8accf240794d7a3b48e1fc93ca47fec7e5f	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 15 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0015.gb	2121150	d66dbc49fe91869a00808cfac14bf603dd953ac75806a5e220f8c6130acb0bfa	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 16 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0016.gb	2078178	304fe26045686e6b12572754afa9432a84f2dc3b74c0fc3a7692fbad7d74d21c	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 17 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0017.gb	2134520	ad9d4d148ea3fdf0528103abcb2b313b569984bb96dd9b810dca22bfc3a3153a	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 18 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0018.gb	2069303	c91faea516868e23d67eb7e3cea03d657fbadd991ba2eba599e363a2ef75e404	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 19 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0019.gb	2187003	ab5dff460ce93cb3fc22bae59899e41ce33f16b02f78520b9574b99d5f36d3e7	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 20 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0020.gb	2160309	0481a9f33488e069750d3653be95fce0a8f4e110d4398dea366d23123dd48332	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 21 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0021.gb	2074217	df6a78309d1f52d897dae3283b267163e121710380e24e6f777ca4e6f6bb2602	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 22 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0022.gb	2133833	c09ffd6d114dbee6c71bd086d44906a2c2baedb8bb2f67aa5c477d470b34f60d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 23 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0023.gb	2128273	7130ab7ae5ba2a5267401bd50860b92402910b9c98b575aa6fb3498f414396ae	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 24 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0024.gb	2087277	7aa886281061ddcd4757b62747559d925e3bac73d012cec00deacdefcf379638	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 25 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0025.gb	2169510	861172c4205b4a165528c27641c11a3ef9bb563beddd3243dc6cc3f199837532	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 26 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0026.gb	2090202	1addc160cd6ead8a6dff738126ac69d3ee0f1b67179ae6a2a5a3aa089be05008	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 27 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0027.gb	1973396	71813c9a5bccb468372f347a000a834da911f2edeec74591817ca4a6ef4c505b	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 28 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0028.gb	2027895	07a238ef39ae354c0ac1594af54217d198843a84438248b21688b336fb5175dd	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 29 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0029.gb	2100017	5118e45cfcefa19f8ca9c2ce3ec37034381fef5fccf86087585b35fae5b2930a	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 30 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0030.gb	2023486	c4d94cdc55fa828b0aecea3e2e31e702df36b82e2e43c4d84a43c15829d47882	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 31 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0031.gb	2149457	1d1a63cdd2f39c2fd2cc024199608bcfeb6c988de90d12dd7dd28dbaa9dfd236	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 32 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0032.gb	2196517	47d3b9b15ef0accef4d3ad597e39f9dd96ce5a60f007a714c34a4452d96c8c6d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 33 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0033.gb	2111310	a994e84a58a58a19159c43f476f6ff5bb9c778a863b235a7d2cbfb9cfd7d5b57	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 34 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0034.gb	2097888	75d6802d27d093bcace990e1a89ac0d3bf3ccd2d45f4fed4298a3f16989e9da2	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 35 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0035.gb	2184367	db9901d97d4f0ea445bf85783228fc54211cb95327b0db9c09e11f640e79b1c3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 36 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0036.gb	2201688	987cdf01c80751fc5a944c9e6170024db4b209d627a9d90e516a6497fd561acb	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 37 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0037.gb	2404422	309cf812b4e91fc8dfba35819dc5261a8f177b7e1121e2473bf4366afa4c8a1d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 38 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0038.gb	2154414	c870d543d230b3a90c6bbc425cecd68cb941b2c9bc1694ffe0e6c3169b4a6b98	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 39 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0039.gb	2182117	735823e033ea813303772e48cece38fbdffa7f68ff572098d28c6678da14ccb5	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 40 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0040.gb	2191347	659a5949fa9451051686db617d74145dc3b19f1f9540108e0c0e95a2d7beb3b3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 41 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0041.gb	2187261	cb05f8b3ed2b1fbc058e31739b8f35585824a1df0ebeb88ac24afa49e4443f25	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 42 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0042.gb	2234516	485b32e69e8a12a1f557152889c6172707cb6c34105cbc2a426a5c53b63c10a8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 43 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0043.gb	2306499	2157edbb239869d386e3658dfee086df3387c1621846b62f0edeac0ba7adf8f8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 44 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0044.gb	2139046	203b7710dc6708c5725d8f767516b46a8844c5560e0726577ffbee03c846e654	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 45 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0045.gb	2091016	3a220cc9ffe50fe8eb21081a7b808f47fe96181bff8b3ea49b7e9504a33cb249	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 46 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0046.gb	2050858	3f335aba9fa3893b21b88d45d166c3d70a4f5d914dfa308172d10b4e8f24f938	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 47 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0047.gb	2023932	db6599293aa86f1f2b9e9129e225e0ee39ff85dce4ea8c46b99da623ac461831	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 48 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0048.gb	2210759	106d5196a6aae5fb10453ba2b8f15a5b17d0ba49770bb0e804e617cc6aacc5d1	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 49 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0049.gb	2192376	500fa92e87f76e73097e8030515aa9a369ae379bb7bd67c6c1aa104591ca6acb	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 50 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0050.gb	2191045	be59fe748e40967db4526c1cfde7a444ecd5ef409b8ffd1c7805148ba9b462b1	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 51 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0051.gb	2233540	98065318000ea817a89e39e6657d1171e9a83943db9fdad1cdfe41f6cb92fd59	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 52 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0052.gb	2420284	f22a52b6e03a2a9ef09aa8c0406c6921d6ed113b871e170f2f9f953fa16e5712	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 53 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0053.gb	2154238	4b52aad7383f23eaec10f58de7ca3a1dc6a4de644320a3c4495e71b1a582c3dc	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 54 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0054.gb	2148710	8817aa84ef54db272c8be5d2c483ac1f229e758e948856701444a51ba2f1a306	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 55 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0055.gb	2294831	321bfc6999643db86357f9f2f06226eb1b9200f683e6af52c70fe44734d4a459	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 56 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0056.gb	2165099	f4f25b02add77984b974c5b7994840c510a3e7120f1322f33014506200bb662f	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 57 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0057.gb	2165306	76f0bde09e9f0b9179560ffceb25188cd6e952b631fbc9de17d363fc0c9eec9c	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 58 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0058.gb	2537805	57b117bbd44014a722fdb720f171deda710facea65ebc8bce0048813a0f427d8	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 59 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0059.gb	2392130	cae8e3ecf0deb411a4e672db5549c746af1d734865bce9b1b641188d63193948	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 60 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0060.gb	2225204	4587e531ac6109ef2263b99ce86e9fb216464fb2e8413e4951641c91f950f118	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 61 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0061.gb	2310313	5c5d15c53c73346dd1dc6845bc4f15ba5360d132937aaab269ffd38ac843170d	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 62 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0062.gb	2335571	9c03770e8a7aebcbbcc3bfc7278c4b3f4249179cc28dd0cf16b30378376f5681	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 63 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0063.gb	2410587	f2a2855330e91d5e0f86104384359ba112855bd803b4e68c97923ed66a12ae98	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 64 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0064.gb	2797101	9ebf6c0ade96d658a47386bf53799ad8c8f50788abc42d76d8db6556af3354df	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 65 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0065.gb	3426988	1f3a77ae5e29d8ea57a5cde6f531e326108181aca80133a7233e4e9b72c8c8c3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 66 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0066.gb	3070297	bb523e6cf7f272e458a704c4e76d4d177200a6ab20dcb40f469ab834ae10903f	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 67 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0067.gb	2830347	0787394dbe87eca3ccd4134de51d2bb080c9a5b33c821df76dbe62a4b2aff4b5	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 68 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0068.gb	2914392	2cfd6378684402dd7ad8d7d6f276e5f1b1e7dc38a4821968b4506b3e22920f29	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 69 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0069.gb	2153952	898a4cabb2eec6ed4bc6ddbf1081110dbe482b8e63e235a46eae8b7c9aad9331	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 70 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0070.gb	2999683	c9f12c253584e46c68ca9213ef644437d8607e2b920b8e3658484306b9fb1726	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 71 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0071.gb	2292278	aaf0ac9ba0457e2cf7d174e301e7df50afa343b476dbd3569be8b3488b1422e9	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 72 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0072.gb	2273174	a11537e7b930ade7b1aa59bbe65c082071adc54240c428698ab9addd8f601035	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 73 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0073.gb	2274298	819a4c5c5aac51559e5009c3b67492808fcdfc6ab78a9db34be38fa487d185da	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 74 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0074.gb	2265616	771b12653ad838b91e801bfdac656367ce9682eedf3b6d256460b4448f9e9bd6	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 75 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0075.gb	2289620	9ee1a19696ac0277d0bd8739fece91e493cfe281928c3a0b8cd061c35d2736cd	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 76 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0076.gb	2239907	0ac1f795e86c90a90d92a0139ee0925a6fd898580910cf766b0405660ddc10f3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 77 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0077.gb	2285033	a465c2a496dcb74bd3c1a3e441d90b76881d9e0dce3d738e87362410af42e3e9	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 78 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0078.gb	2223569	acfc9aa691a05f4f8190d4343e9623301e6ec15d0c7d17ff14111ad4e5644ea3	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 79 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0079.gb	2325840	bdd4c1b52e3a5c387726e84e87f13b0c0109dfccaa78a863941beeb3f93a7b85	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 80 (100 accessions, 0 missing)	data/sweep_unverified/gb/b0080.gb	2564442	1f5da2d1153214da02a7e115b0a12fdf07d434bfbaff80063f74804dede23d61	on_disk
+3x	NCBI efetch gbwithparts UNVERIFIED batch 81 (89 accessions, 0 missing)	data/sweep_unverified/gb/b0081.gb	2822918	b9ce0d6377da2e2a7a9fd73ee702b97db3f99c688cfbce41411da4f3c5c177a0	on_disk
+3x	NCBI datasets GCA_056783665.1	results/work/numt/GCA_056783665.1.fna	998112971	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_019788955.1	results/work/numt/GCA_019788955.1.fna	1062525863	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_974939545.1	results/work/numt/GCA_974939545.1.fna	476362892	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_978397455.1	results/work/numt/GCA_978397455.1.fna	287426891	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_056747025.1	results/work/numt/GCA_056747025.1.fna	636773458	NA (unpacked stream, not hashed)	on_disk
+3x	NCBI datasets GCA_001723225.1	results/work/numt/GCA_001723225.1.fna	107474668	NA (unpacked stream, not hashed)	on_disk
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR22396609/SRR22396609	results/work/SRR22396609.sra	585489556	8a2f8793e0eeda1f43062d33824932315b5eb2c3f2c52c526721444b166deb41	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202050/SRR15202050	results/work/SRR15202050.sra	619039184	fbf168a81af6424aa3e8987e97a7cfd2d80fe7c3d669592d2dccbad7a714077b	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR15202047/SRR15202047	results/work/SRR15202047.sra	935106441	3ab2ee3d9d29b64e4ef413ba024f335e13062ef4737e3f2b2df08a85323fca61	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25465297/SRR25465297	results/work/SRR25465297.sra	724946699	a17cd0407ff308e1cf2c57105e25cc4c2db58377e9b93e8186f656ab6f18bdf6	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36182985/SRR36182985	results/work/SRR36182985.sra	916889111	cc80f792e9eec1ebce2830051a79228700146ae7e2af7782ebda5d06ef2dbe7f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36227421/SRR36227421	results/work/SRR36227421.sra	1098473359	92de54fcf55f69abdc4d6459507e4d8759491c20c39748bb4c386c7def090d6e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38094758/SRR38094758	results/work/SRR38094758.sra	1753074208	1cd3780b9bff1904b50dc7e4bc7d62ef5089443cf134f9562292b881155d7a7f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR37037826/SRR37037826	results/work/SRR37037826.sra	2223222059	460e68b2414d5df30dcd7407af098a9900f139b59464937b3ba5b7ab3ed9f627	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38368693/SRR38368693	results/work/SRR38368693.sra	2407674609	1c11012ba5a2fed4dff1dbf750af4401f12c6c9a517e9249cab9c4e8679733f8	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586127/SRR9586127	results/work/SRR9586127.sra	105473500	8ef019b3589e3079edfa6bcde6d06b5a9d72d7878f4dc6ff40368958a14d65d7	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR9586188/SRR9586188	results/work/SRR9586188.sra	112215127	b65a21c03ba74ced20a96edcd8518110b38c80b8698122a28577ef426e1f7967	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14792883/ERR14792883	results/work/ERR14792883.sra	2794522674	7a49d0d36a6ebae147daa7a60df564b47119f77c4bb045a3cbe8edc839b93cd0	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR41519539/SRR41519539	results/work/SRR41519539.sra	2765635935	c5d036287fea9ed8f20e377e27aafa83036689686eec6f700b80a5d26574fc4e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14857142/ERR14857142	results/work/ERR14857142.sra	3632013845	252fc7b0da55b3e32ed3d97fb83d731f5d96466689622c3bc527f889e8c75b0f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR36227421/SRR36227421	results/work/SRR36227421.sra	1098473359	92de54fcf55f69abdc4d6459507e4d8759491c20c39748bb4c386c7def090d6e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14842678/ERR14842678	results/work/ERR14842678.sra	6534747466	0eb1f1b0651384a190e8520476fc80e94390c3ecd73cf12bec8e9e0590828a9b	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR14835550/ERR14835550	results/work/ERR14835550.sra	7468887384	bf802a2f2173f866902bbfb986a602bf8c7abac99f77215b3a6302ad3ae16343	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10079992/SRR10079992	results/work/SRR10079992.sra	93650835	bd83ef9a19647b23cd67425d03d41540e9b0854c46af1aea69d674c24c8972b3	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10080023/SRR10080023	results/work/SRR10080023.sra	118208092	47745ecbc4fca475e929150a369fcfd730a221b437087551345f5a9c1790ce39	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR11014335/SRR11014335	results/work/SRR11014335.sra	143870621	b82b319b710a90e93ab49934d615b9f5b3ca99e2fb9ef9a261fd637c19df99f6	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10079898/SRR10079898	results/work/SRR10079898.sra	96971846	fbd47e5b506455e2e3684367e21da8015eda439e73ad720921a6e4883736c95e	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR10251503/SRR10251503	results/work/SRR10251503.sra	830376144	70765ee35beaa376068164a69e4c9113d066f8450d9d1fabad6b89a041bd3d53	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR19044081/SRR19044081	results/work/SRR19044081.sra	1765981044	65c38d4e08acccadff565cd4154454b3c41096a6b2b6f1b0d01b5fcfa4cfda66	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR14069289/SRR14069289	results/work/SRR14069289.sra	3222447114	7b057ec8ee4ad707ec8c1acc9b92b25e88f3cd196399711dfad9d6d33fb03ee0	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8998268/SRR8998268	results/work/SRR8998268.sra	3498946554	2dadc191f125312ac14a2f3a961f4ed7b620facfc51159205fef36993e69a9ef	deleted after use
+4	NCBI datasets GCA_019788955.1 protein	data/mtrf/g4/Albula_glossodonta_BYU.faa	7363730	8f759078a0421f165c6d0d48020b97e61c8bc05b2dd15d804f95d1d3294e62a9	on_disk
+4	NCBI datasets GCF_013368585.1 protein	data/mtrf/g4/Megalops_cyprinoides.faa	10530608	192daf0322b0292aa94b6f1211d9745fb144e2a9b57fad23e8f9ef23d67f7764	on_disk
+4	NCBI datasets GCF_013347855.1 protein	data/mtrf/g4/Anguilla_anguilla.faa	11541914	97d640b525cc774453dabd64cc4a47ba44a22ebe8d0c30ca54972f1406a277d9	on_disk
+4	NCBI datasets GCA_028022725.1 protein	data/mtrf/g4/Lycodopsis_pacificus.faa	9055534	e0c3e0c208556e77216d3f2c7f8d55a29efa2487d640943ac9b5d88642354c39	on_disk
+4	NCBI datasets GCA_040110945.1 protein	data/mtrf/g4/Zoarces_viviparus.faa	8254096	a3c7465eb2fed65c1b78badbee21c2fea0c9127b5ef72ee7b71623088e1f01f0	on_disk
+4	NCBI datasets GCA_051171035.1 protein	data/mtrf/g4/Meloidogyne_hapla.faa	2999519	db4229c8d413144536e8227efd5932b0e744ee92a95c3e78affc81b8caeca72c	on_disk
+4	NCBI datasets GCA_001026735.1 genome	data/mtrf/g4/Rotylenchulus_reniformis.fna	100451213	ba4c7ea61ab4465cf949dd28460b7f758b0922efd5a66f4f376ac03205e8835b	on_disk
+4	NCBI datasets GCA_054131405.1 genome	data/mtrf/g4/Pratylenchus_vulnus.fna	19298317	dcc5452ac9c3091469d864ac2c8afff66b4c09869473bd42a0faccaed04c2bdd	on_disk
+4	NCBI datasets GCA_016433075.1 genome	data/mtrf/g4/Hoplolaimus_columbus.fna	15354465	27e31a7da16d81934ae2555e3510cdb7151983311bab0d0cad9beee34048a4dc	on_disk
+4	NCBI datasets GCA_034700465.1 genome	data/mtrf/g4/Rotylenchus_robustus.fna	62807441	6cbdc45199890e9eedf24a418439de14961e7745222aef987f8bf18af7a5972b	on_disk
+4	NCBI datasets GCA_982936665.1 genome	data/mtrf/g4/Cinachyrella_apion.fna	88370794	99c069b048c9340c3cace4bdd8e02764bd8357010746f9d35b681858282b36ae	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVO.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVO.fsa_nt.gz	36527406	f7ccb37324dac8a31aca01e3a6aef9a5da4abaad6c4185db726acab4b7e3ed5b	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVQ.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVQ.fsa_nt.gz	33999834	7d3a078cfbcde0517e70a5603a42cc8462a6dd4099095f5bc81ca9f14d49021f	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVP.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVP.fsa_nt.gz	31860124	d36caa0ed6fbb7745b4430869c65de07e1c9e6fc1d01249bc5fd01702fc2b2ad	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVR.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVR.fsa_nt.gz	23032584	65c132de4570a069423593035611de446db7b580cd33c19749c6613fdb37d130	on_disk
+4	https://ftp.ncbi.nlm.nih.gov/genbank/tsa/G/tsa.GGVV.1.fsa_nt.gz	data/mtrf/g4/tsa.GGVV.fsa_nt.gz	31200673	d1799e2e82767e12b00e363323be7f9690afa94119011150d262a0a659849dee	on_disk
+4	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR3350473/SRR3350473	results/work/SRR3350473.sra	3953367238	876b49c847dad9ffd40487d878c44c3a4788de246ab045a811a6c4e152b64ecf	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR744555/ERR744555	results/work/ERR744555.sra	2187027602	919ba6cb9098a58fe71db55af2383104c109722e8ec43b0733e7ad87b72c1a1f	deleted after use
+3	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR26324223/SRR26324223	results/work/SRR26324223.sra	2169793688	6cdd01e047bd32dfb7fa134a47801a3c5e184fc88720d23a905209bb4980718a	deleted after use
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0000.gb (200 accessions)	data/tylench_cox1/b0000.gb	542126	107d5f09dde4ff005e8bd42a07883a6164d951ee52e6d15687a3c0431393ce2a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0001.gb (200 accessions)	data/tylench_cox1/b0001.gb	512723	a35a8ccdac2f1d098d2a6d23d2cdd14ea620c7aeaa2ded08c46b8f8cd0f755e0	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0002.gb (200 accessions)	data/tylench_cox1/b0002.gb	533976	1b07ecf086815b91a5e56ef4de721511feabe7439c6f994f1fd34a87f64dbb6c	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0003.gb (200 accessions)	data/tylench_cox1/b0003.gb	659617	63a40d1b3b19fe70641cf5095bd5c0910803875e6815d7b6a3344a28fd4fd3cf	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0004.gb (200 accessions)	data/tylench_cox1/b0004.gb	606512	e2d97b91a6c63309f2d6afea5c3a83eaef1f21deed803af76c560dc0a36e25c1	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0005.gb (200 accessions)	data/tylench_cox1/b0005.gb	583655	543d0632cedd7f2ec2841e8704fcd1ff8a7fcc9ec2de5f9d471930779890d0bf	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0006.gb (200 accessions)	data/tylench_cox1/b0006.gb	662483	96b5457719f564c4d307ef1cedf7b1e9d614d4ebefa566575b0e7e17dabed9bd	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0007.gb (200 accessions)	data/tylench_cox1/b0007.gb	585933	2bcea390c8a07b531f994bcb5ca2812e19444b17b570540296a9e2c8aa7a425b	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0008.gb (200 accessions)	data/tylench_cox1/b0008.gb	580072	6b8be646fd62d303412d619e694b3925ad7ee35102a84f3821c17484d0cde586	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0009.gb (200 accessions)	data/tylench_cox1/b0009.gb	679790	113d212db4ec174962129803cf3222cc5e393af834b6951b88484d5bf48b2d1c	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0010.gb (200 accessions)	data/tylench_cox1/b0010.gb	527290	768ee6c9678a5622f33cb1d3cb1fe3775044dccf8d3b9df926191c1a7668d67e	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0011.gb (200 accessions)	data/tylench_cox1/b0011.gb	524380	c40a0ec27d4ec84421a0153880b661771ef0dc072d833847e8b0d8322f7136bb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0012.gb (200 accessions)	data/tylench_cox1/b0012.gb	572742	11d43ee0c83c81e5c044df6ae7345294dfee676cef9991283343b4cb89b56fe5	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0013.gb (200 accessions)	data/tylench_cox1/b0013.gb	661980	806b56f057f58dd8f5d23d7e778daf1caede4357a7cdb8924a001c211f62206a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0014.gb (200 accessions)	data/tylench_cox1/b0014.gb	579331	eff1dc336fb8e78f43ac1ead80c8287828b13f8c560889cd0efa515bfb633fb1	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0015.gb (200 accessions)	data/tylench_cox1/b0015.gb	595700	3acf856bf94bfba0bef919fb7735eb0166f70ca949a044f7523c0f5d62ec40f6	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0016.gb (200 accessions)	data/tylench_cox1/b0016.gb	641670	906243775aeb159df4bb9c13a66ff961f317bcc5ba95307cba459f22404a4d0d	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0017.gb (200 accessions)	data/tylench_cox1/b0017.gb	716121	65cd660b40625d2b29ecfac9466d169f8c6b25d9005e66684dea49508350d15a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0018.gb (200 accessions)	data/tylench_cox1/b0018.gb	716304	d0a27665e7823e7ac2c1139690977d9cd4a4049546f14d9c5de67cf5db51ec4b	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0019.gb (200 accessions)	data/tylench_cox1/b0019.gb	709851	cf084236178c933ff268dcef545ba4ccff27e12ee688298e9ed2ca0a01e26ecb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0020.gb (200 accessions)	data/tylench_cox1/b0020.gb	698719	8afca890e4cfbf81b33ea98c61edf2aeecc9c0357ff178cddc53557713ffd01c	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0021.gb (200 accessions)	data/tylench_cox1/b0021.gb	651803	dc5e26b943c56aa10601de7bd1ec48bd71f0b250f728666b40f5dd24be4399cb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0022.gb (200 accessions)	data/tylench_cox1/b0022.gb	615077	8c725c4b8523de0ff425cc8942feffdd2824791ceb6d3eed278a41c160b3f3df	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0023.gb (200 accessions)	data/tylench_cox1/b0023.gb	581210	a7cf34431a58ad40debb218c059c3becd83030b0277a3d45bfb0b1570e902b3d	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0024.gb (200 accessions)	data/tylench_cox1/b0024.gb	583398	8247a1f6dabd7abc687d9ad9a77b97a66203d5ad5140415cc799e1af024868cb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0025.gb (200 accessions)	data/tylench_cox1/b0025.gb	565266	0b3c0539000134de23231b4dc3b6f8c32dd5bd17b3b4d3f1292cc66d014897fd	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0026.gb (200 accessions)	data/tylench_cox1/b0026.gb	568411	a14912b699076675263d3394d4659faefa320d29d44a338cbf769adba8501e86	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0027.gb (200 accessions)	data/tylench_cox1/b0027.gb	591228	4f349543d15223fc46003931725b85bd7293c8ffc1ffff756e7544d0706a8046	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0028.gb (200 accessions)	data/tylench_cox1/b0028.gb	654907	ad81ff88b43079d96ca006e0a095f08cdabe9f48e78399810d32805884c1a38e	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0029.gb (200 accessions)	data/tylench_cox1/b0029.gb	652378	e3e65c49f298bed60342338469b892499d489378f2adf1983f3f2d6127495624	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0030.gb (200 accessions)	data/tylench_cox1/b0030.gb	650855	9264c059c4e4c503b88c27304a6b45330b26e850700e87b0127e02198b7d3bf0	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0031.gb (200 accessions)	data/tylench_cox1/b0031.gb	647087	1d3c9142afc291a47581e875e465687b5aac91c165b75c18230f65956a460402	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0032.gb (200 accessions)	data/tylench_cox1/b0032.gb	534313	13e3c1c8ab3f1e098c217491cbb28a6bbb61c701c2ac7325e2e17673f285ef8f	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0033.gb (200 accessions)	data/tylench_cox1/b0033.gb	564420	c807e8765bb290f8bea4f3133bd16a3e96f08de7d48993e6244837b9d46728e4	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0034.gb (200 accessions)	data/tylench_cox1/b0034.gb	587398	e6435190bd4aa73b23555d3c3905ee02c66d851a9819e196a6b18df86a3c51cb	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0035.gb (200 accessions)	data/tylench_cox1/b0035.gb	548703	c9140e2091a2ed67a1d709bea96444eee37d17d98a47f2bcb486da52d440384a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0036.gb (200 accessions)	data/tylench_cox1/b0036.gb	576418	faa4c6517949d5564d83d2d51c6f468ed4ba4e2cd34d3f36afd5d2d2ba908cd9	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0037.gb (200 accessions)	data/tylench_cox1/b0037.gb	619606	eb4963b2bb47e1368f3ca023189127d6d73be7d791737aeb3e5fe9064fd03a1d	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0038.gb (200 accessions)	data/tylench_cox1/b0038.gb	562269	5ca864424f2a327bac62847bb0c58af3036f25dc3d4754dce17cc09b9244c31b	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0039.gb (200 accessions)	data/tylench_cox1/b0039.gb	561607	1a9790fc535ecb9a4d2eb092803c761d0f279f67babc917c76514be058b084c1	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0040.gb (200 accessions)	data/tylench_cox1/b0040.gb	690838	c4e1b0122cb88826dc421f3779b691326ecc32e72484d39cabeaa5f80ea65b84	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0041.gb (200 accessions)	data/tylench_cox1/b0041.gb	696711	17964395e8d5083271fa8af1f0fe947af930f84844c95626a8dc2704b2df3c15	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0042.gb (200 accessions)	data/tylench_cox1/b0042.gb	700109	c9000b3ce750b2c3147b45acf5130b98dc02ec7191c2905e1488197ae1532df8	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0043.gb (200 accessions)	data/tylench_cox1/b0043.gb	686590	96ed73d03d4d7a24eb3f76dc15ea2afe2a98c80627838eec465ea1ace9721d38	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0044.gb (200 accessions)	data/tylench_cox1/b0044.gb	685433	1fd14a1133f8bd57977a0de059f7f7004d5d40fd9e6ef95ce43f83333f80a1c7	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0045.gb (200 accessions)	data/tylench_cox1/b0045.gb	544252	88d94c0ad8f75860cc40af5aa3d2da8d160fe018c973e5736d49e6b14ac7b29e	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0046.gb (200 accessions)	data/tylench_cox1/b0046.gb	610653	ae153f3036b74bf6cadc7994c8c448c6d01adfb66535f0582e4ffea7b37907b3	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0047.gb (200 accessions)	data/tylench_cox1/b0047.gb	599086	b820cced0ea34b39cabece24145f78650f9518c9dc762fac19ab6f64cc6cd569	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0048.gb (200 accessions)	data/tylench_cox1/b0048.gb	539266	d9fa9e225994aaa0d561519008735cb9671cbb9b5877c092524549b054df4fb0	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0049.gb (200 accessions)	data/tylench_cox1/b0049.gb	574482	bc7b053012c30cf4406c24c8fd5ea82535b16bcc6de413368ef1ddcae790923a	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0050.gb (200 accessions)	data/tylench_cox1/b0050.gb	593381	8896f9b3566a98ed86265e95f8ee15bed817e1c9f86b38d72433dd5e71258510	on_disk
+4	NCBI efetch GenBank Tylenchomorpha COX1 batch b0051.gb (200 accessions)	data/tylench_cox1/b0051.gb	321724	aff733cfcb2f2d1cd75713a5578a6bbb2bdf9ff2abf82c8089b9f513597cbd66	on_disk
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR38145622/SRR38145622	results/work/SRR38145622.sra	10955264831	510b8bc5e35a9ea1b997a6b570de4c5d8e71fc21e3c9aa8668e35577ec78fc24	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13036352/SRR13036352	results/work/SRR13036352.sra	7663357332	bc03bc8c74e6d2f607fe780c503fb4bba7b8b955d1c438f1b597b2604f7ba068	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR33975184/SRR33975184	results/work/SRR33975184.sra	1917738912	eadaa4f824d2110b735e834fa57389177b35145d7bcd7b079da062b73ea9c8a6	deleted after use
+5	https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13036352/SRR13036352	results/work/SRR13036352.sra	7663357332	bc03bc8c74e6d2f607fe780c503fb4bba7b8b955d1c438f1b597b2604f7ba068	deleted after use

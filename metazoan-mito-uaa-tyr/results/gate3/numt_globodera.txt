@@ -1,0 +1,16 @@
+globodera KU726971.1 mt length 17757 N33 + strand base G tRNA N33 C strand -
+assembly GCA_001723225.1 size 107474668
+contigs that look like the mitochondrion itself: {'MEIZ01000709.1': 10468}
+nuclear-like hits >=200 bp, >=80%: 10 | total aligned bp 6675
+    MEIZ01000087.1 id 98.130 len 1711 mt 1228-2936 contig 23344 - 25046 contig len 338665
+    MEIZ01000132.1 id 94.903 len 1334 mt 7928-9258 contig 54670 - 53340 contig len 242336
+    MEIZ01000132.1 id 96.053 len 1216 mt 9466-10677 contig 53339 - 52127 contig len 242336
+    MEIZ01000087.1 id 89.683 len 504 mt 751-1247 contig 22636 - 23136 contig len 338665
+    MEIZ01000087.1 id 87.449 len 486 mt 6-488 contig 22025 - 22507 contig len 338665
+    MEIZ01000034.1 id 83.848 len 421 mt 139-536 contig 22186 - 22605 contig len 616531
+    MEIZ01000087.1 id 86.585 len 328 mt 2702-3027 contig 15192 - 15513 contig len 338665
+    MEIZ01000145.1 id 81.304 len 230 mt 15125-15352 contig 17031 - 17259 contig len 188902
+    MEIZ01000003.1 id 92.000 len 225 mt 11966-12190 contig 1079396 - 1079619 contig len 1438746
+    MEIZ01000087.1 id 99.091 len 220 mt 7285-7503 contig 14568 - 14787 contig len 338665
+nuclear hits covering the N33 site: 0
+DONE globodera GCA_001723225.1

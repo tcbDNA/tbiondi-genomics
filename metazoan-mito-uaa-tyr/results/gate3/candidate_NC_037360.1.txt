@@ -1,0 +1,24 @@
+NC_037360.1 Microdevario kubotai Chordata Cypriniformes length 16775 topology circular provenance RefSeq
+1 PCG families hit 13 internal TAA 0 internal TAG 0 GUA loci ARAGORN 1 tRNAscan 1 verified GUA arms 2 | trnY {'score': 70.2, 'N33': 'C', 'loop': 'CCGUAGC', 'stem_pairs': 5, 'start': 5536, 'end': 5466, 'strand': '-'}
+   RefSeq derived_from: AP011403
+2 nuccore mitochondrial records for genus Microdevario: 37 (first 37 examined)
+  with a verified GUA trnY call: 16 of 37 N33: {'C': 10, 'U': 6}
+    PV357794.1 Microdevario kubotai isolate kub4 mitochondrion, complete genome len 16776 N33 C loop CCGUAGC score 68.6 stem 5
+    PV357793.1 Microdevario kubotai isolate kub3 mitochondrion, complete genome len 16775 N33 C loop CCGUAGC score 68.6 stem 5
+    PV357792.1 Microdevario kubotai isolate kub2 mitochondrion, complete genome len 16774 N33 C loop CCGUAGC score 70.2 stem 5
+    PV357791.1 Microdevario kubotai isolate kub1 mitochondrion, complete genome len 16776 N33 C loop CCGUAGC score 70.2 stem 5
+    AP011402.1 Microdevario nanus mitochondrial DNA, complete genome len 16772 N33 C loop CCGUAGC score 66.6 stem 5
+    NC_037360.1 Microdevario kubotai mitochondrial DNA, complete genome len 16775 N33 C loop CCGUAGC score 70.2 stem 5
+    NC_015546.1 Microdevario nana mitochondrion, complete genome len 16772 N33 C loop CCGUAGC score 66.6 stem 5
+    AP011403.1 Microdevario kubotai mitochondrial DNA, complete genome len 16775 N33 C loop CCGUAGC score 70.2 stem 5
+    EF452801.1 Microrasbora kubotai NADH dehydrogenase subunit 4-like (ND4) gene, par len 1446 N33 C loop UCGUAAA score 6.7 stem 5
+    AB937094.1 Microdevario kubotai mitochondrial DNA, complete genome len 16566 N33 C loop CCGUAGC score 68.6 stem 5
+  31-mer at N33: record TGTAAACGGAGCTACGGTCCGCCGCCTGAAC alt TGTAAACGGAGCTACTGTCCGCCGCCTGAAC | record base on + strand G
+3 SRA runs for Microdevario kubotai : 5 [('SRR2912304', 'OTHER', 'GENOMIC', 0.18), ('SRR2912305', 'OTHER', 'GENOMIC', 0.17), ('SRR4556446', 'AMPLICON', 'GENOMIC', 0.24), ('SRR39401262', 'WGS', 'GENOMIC', 8.63), ('SRR39401261', 'WGS', 'GENOMIC', 12.98)]
+  run SRR2912304 OTHER reads carrying the exact 31-mer: {}
+  run SRR2912305 OTHER reads carrying the exact 31-mer: {}
+  run SRR4556446 AMPLICON reads carrying the exact 31-mer: {'record': 10}
+  run SRR39401262 skipped (size 8.6 GB or source)
+  run SRR39401261 skipped (size 13.0 GB or source)
+4 nuclear assemblies for Microdevario kubotai : []
+DONE

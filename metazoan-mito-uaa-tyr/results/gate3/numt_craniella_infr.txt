@@ -1,0 +1,22 @@
+craniella_infr_hap1 OZ318138.1 mt length 18285 N33 + strand base G tRNA N33 G strand +
+assembly GCA_974939545.1 size 476362892
+contigs that look like the mitochondrion itself: {'OZ318138.1': 18285}
+nuclear-like hits >=200 bp, >=80%: 217 | total aligned bp 216042
+    OZ318118.1 id 99.670 len 12136 mt 4302-16431 contig 2715052 - 2727185 contig len 29253453
+    OZ318121.1 id 99.467 len 11441 mt 1384-12818 contig 19571199 - 19582621 contig len 25401367
+    OZ318123.1 id 99.755 len 9801 mt 1-9800 contig 6123248 - 6113449 contig len 21885400
+    OZ318118.1 id 96.834 len 8592 mt 1-8549 contig 28747195 - 28755710 contig len 29253453
+    OZ318123.1 id 99.879 len 8294 mt 9992-18285 contig 6131541 - 6123249 contig len 21885400
+    CDFYFP010000016.1 id 99.177 len 7169 mt 665-7825 contig 181616 - 188779 contig len 191474
+    OZ318130.1 id 99.038 len 7071 mt 3848-10903 contig 1866497 - 1873562 contig len 18031315
+    OZ318130.1 id 95.731 len 4872 mt 7788-12631 contig 5833876 - 5829088 contig len 18031315
+    OZ318122.1 id 95.799 len 4618 mt 7184-11800 contig 3723428 - 3727958 contig len 22522602
+    OZ318121.1 id 99.678 len 4348 mt 1-4345 contig 19569306 - 19564959 contig len 25401367
+    OZ318118.1 id 96.965 len 4085 mt 14208-18285 contig 28743161 - 28747194 contig len 29253453
+    OZ318126.1 id 95.148 len 3916 mt 10459-14318 contig 17889286 - 17885423 contig len 19980127
+   covers N33: OZ318118.1 id 99.670 len 12136 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ318118.1 id 96.965 len 4085 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ318123.1 id 99.879 len 8294 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ318126.1 id 97.417 len 2942 aligned base at N33 site G (record + strand base G )
+nuclear hits covering the N33 site: 4
+DONE craniella_infr_hap1 GCA_974939545.1

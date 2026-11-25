@@ -1,0 +1,135 @@
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     results/gate2/trny_diag/nem_all.cm
+# number of worker threads:                    4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  nem_all.2                 00:02:01  [========================================]      00:02:54
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  nem_all.2                5.17    8.18    6.86   10.23    0.386   0.402   0.445   0.478   109692   82193  353800  247709
+#
+# CPU time: 583.03u 6.20s 00:09:49.23 Elapsed: 00:02:54.36
+[ok]
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     results/gate2/trny_diag/nem_minus_Mermithida.cm
+# number of worker threads:                    4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  nem_minus_Mermithida.2      00:02:48  [========================================]      00:03:08
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  nem_minus_Mermithida.2     4.17    7.11    6.23    9.44    0.368   0.379   0.447   0.471   119405   84358  363757  263552
+#
+# CPU time: 560.60u 6.09s 00:09:26.69 Elapsed: 00:03:08.12
+[ok]
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     results/gate2/trny_diag/nem_minus_Dorylaimida.cm
+# number of worker threads:                    4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  nem_minus_Dorylaimida.2      00:02:00  [========================================]      00:02:14
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  nem_minus_Dorylaimida.2     5.12    8.03    6.86   10.03    0.386   0.415   0.421   0.453   123279   84288  362249  261013
+#
+# CPU time: 526.38u 4.73s 00:08:51.11 Elapsed: 00:02:14.35
+[ok]
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     results/gate2/trny_diag/nem_minus_Trichinellida.cm
+# number of worker threads:                    4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  nem_minus_Trichinellida.2      00:01:59  [========================================]      00:02:14
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  nem_minus_Trichinellida.2     5.14    7.95    7.03   10.01    0.383   0.428   0.448   0.476   105389   89704  300930  240356
+#
+# CPU time: 522.91u 4.88s 00:08:47.79 Elapsed: 00:02:14.12
+[ok]
+# cmcalibrate :: fit exponential tails for CM E-values
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# CM file:                                     results/gate2/trny_diag/nem_minus_Rhabditida.cm
+# number of worker threads:                    4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+# Calibrating CM(s):
+#
+#                        predicted                                                   actual   
+#                       running time              percent complete                running time
+# model name            (hr:min:sec)  [........25........50........75..........]  (hr:min:sec)
+# --------------------  ------------  ------------------------------------------  ------------
+  nem_minus_Rhabditida.2      00:01:58  [========================================]      00:02:11
+#
+# Calibration summary statistics:
+#
+#                           exponential tail fit mu        exponential tail fit lambda         total number of hits      
+#                       -------------------------------  -------------------------------  -------------------------------
+# model name            glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins  glc cyk glc ins loc cyk loc ins
+# --------------------  ------- ------- ------- -------  ------- ------- ------- -------  ------- ------- ------- -------
+  nem_minus_Rhabditida.2     4.66    9.10    5.01    9.79    0.406   0.409   0.522   0.572   101163   66435  290291  180691
+#
+# CPU time: 506.58u 6.02s 00:08:32.60 Elapsed: 00:02:11.70
+[ok]

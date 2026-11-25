@@ -1,0 +1,2353 @@
+accession	organism	taxid	set	decision	reason
+OX030922.3	Anopheles ziemanni	345580	organelle	drop	duplicate_of_RefSeq_accession
+OZ071116.2	Miniopterus schreibersii	9433	organelle	drop	duplicate_of_RefSeq_accession
+OZ125698.2	Myotis nattereri	109481	organelle	drop	duplicate_of_RefSeq_accession
+OZ238507.1	Coloeus monedula	30423	organelle	drop	duplicate_of_RefSeq_accession
+OZ229130.1	Podarcis tiliguerta	65485	organelle	drop	duplicate_of_RefSeq_accession
+OZ221988.1	Pelophylax lessonae	45623	organelle	drop	duplicate_of_RefSeq_accession
+OZ220344.1	Leuciscus leuciscus	58325	organelle	drop	duplicate_of_RefSeq_accession
+OZ220383.1	Podarcis vaucheri	140051	organelle	drop	duplicate_of_RefSeq_accession
+OZ218118.1	Podarcis liolepis	662736	organelle	drop	duplicate_of_RefSeq_accession
+OZ209242.1	Poromitra crassiceps	88708	organelle	drop	duplicate_of_RefSeq_accession
+OZ207421.1	Larus argentatus	35669	organelle	drop	duplicate_of_RefSeq_accession
+OZ196951.1	Phaethon aethereus	37045	organelle	drop	duplicate_of_RefSeq_accession
+OZ187420.1	Natrix helvetica	2025560	organelle	drop	duplicate_of_RefSeq_accession
+OZ185455.1	Podarcis filfolensis	65481	organelle	drop	duplicate_of_RefSeq_accession
+OZ176220.1	Podarcis erhardii	140042	organelle	drop	duplicate_of_RefSeq_accession
+OZ174295.1	Podarcis melisellensis	65482	organelle	drop	duplicate_of_RefSeq_accession
+OZ077446.1	Rhinolophus hipposideros	77218	organelle	drop	duplicate_of_RefSeq_accession
+OZ077166.1	Protomyctophum parallelum	1091426	organelle	drop	duplicate_of_RefSeq_accession
+OZ076905.1	Podarcis bocagei	90520	organelle	drop	duplicate_of_RefSeq_accession
+OZ067056.1	Podarcis pityusensis	74359	organelle	drop	duplicate_of_RefSeq_accession
+OZ066935.1	Podarcis gaigeae	90521	organelle	drop	duplicate_of_RefSeq_accession
+OZ060873.1	Bucephala clangula	107022	organelle	drop	duplicate_of_RefSeq_accession
+OZ035927.1	Anser brachyrhynchus	132585	organelle	drop	duplicate_of_RefSeq_accession
+OZ022359.1	Nansenia antarctica	443705	organelle	drop	duplicate_of_RefSeq_accession
+OZ017737.1	Rhamphochromis sp. 'chilingali'	454631	organelle	drop	duplicate_of_RefSeq_accession
+OZ001290.1	Protomyctophum bolini	443714	organelle	drop	duplicate_of_RefSeq_accession
+OY997662.1	Nannobrachium achirus	473322	organelle	drop	duplicate_of_RefSeq_accession
+OY741288.1	Eutrigla gurnardus	426098	organelle	drop	duplicate_of_RefSeq_accession
+OY735197.1	Microchirus variegatus	90074	organelle	drop	duplicate_of_RefSeq_accession
+OY734062.1	Globicephala melas	9731	organelle	drop	duplicate_of_RefSeq_accession
+OY732727.1	Gymnoscopelus microlampas	1090481	organelle	drop	duplicate_of_RefSeq_accession
+OY730225.1	Blennius ocellaris	195075	organelle	drop	duplicate_of_RefSeq_accession
+OY726556.1	Lipophrys pholis	56720	organelle	drop	duplicate_of_RefSeq_accession
+OY725532.1	Gymnoscopelus braueri	948025	organelle	drop	duplicate_of_RefSeq_accession
+OY725455.1	Psittacula echo	232653	organelle	drop	duplicate_of_RefSeq_accession
+OY723456.1	Falco punctatus	148596	organelle	drop	duplicate_of_RefSeq_accession
+OY720096.1	Nesoenas mayeri	187126	organelle	drop	duplicate_of_RefSeq_accession
+OX596333.1	Tetrao urogallus	100830	organelle	drop	duplicate_of_RefSeq_accession
+OX638168.1	Podarcis cretensis	1330250	organelle	drop	duplicate_of_RefSeq_accession
+OX637619.1	Gobius niger	85417	organelle	drop	duplicate_of_RefSeq_accession
+OX637390.1	Argentina silus	446415	organelle	drop	duplicate_of_RefSeq_accession
+OX578270.1	Electrona antarctica	206093	organelle	drop	duplicate_of_RefSeq_accession
+OX465241.1	Borostomias antarcticus	473354	organelle	drop	duplicate_of_RefSeq_accession
+OX459094.1	Lagenorhynchus albirostris	27610	organelle	drop	duplicate_of_RefSeq_accession
+OX456522.1	Melanostigma gelatinosum	1091424	organelle	drop	duplicate_of_RefSeq_accession
+OX393548.1	Symphodus melops	171736	organelle	drop	duplicate_of_RefSeq_accession
+OX365983.1	Vipera ursinii	103942	organelle	drop	duplicate_of_RefSeq_accession
+OX327782.1	Silurus aristotelis	933932	organelle	drop	duplicate_of_RefSeq_accession
+OX030910.2	Anopheles gambiae	7165	organelle	drop	duplicate_of_RefSeq_accession
+OX031313.1	Anopheles nili	185578	organelle	drop	duplicate_of_RefSeq_accession
+OX030918.1	Anopheles moucheti	186751	organelle	drop	duplicate_of_RefSeq_accession
+OX030914.1	Anopheles darlingi	43151	organelle	drop	duplicate_of_RefSeq_accession
+OX030906.1	Anopheles marshallii	1521116	organelle	drop	duplicate_of_RefSeq_accession
+OX030899.1	Anopheles coustani	139045	organelle	drop	duplicate_of_RefSeq_accession
+OX030898.1	Anopheles maculipalpis	1496333	organelle	drop	duplicate_of_RefSeq_accession
+OX030894.1	Anopheles coluzzii	1518534	organelle	drop	duplicate_of_RefSeq_accession
+OX030886.1	Anopheles aquasalis	42839	organelle	drop	duplicate_of_RefSeq_accession
+OX030926.1	Anopheles funestus	62324	organelle	drop	duplicate_of_RefSeq_accession
+OW443382.1	Orcinus orca	9733	organelle	drop	duplicate_of_RefSeq_accession
+OW121845.1	Telmatherina bonti	446457	organelle	drop	duplicate_of_RefSeq_accession
+OV754669.1	Acipenser ruthenus	7906	organelle	drop	duplicate_of_RefSeq_accession
+OU342732.1	Taurulus bubalis	61643	organelle	drop	duplicate_of_RefSeq_accession
+LR822067.1	Lutra lutra	9657	organelle	drop	duplicate_of_RefSeq_accession
+OZ248648.1	Acomys minous	83528	organelle	drop	duplicate_of_RefSeq_accession
+OZ248639.1	Pipistrellus hanaki	412090	organelle	drop	duplicate_of_RefSeq_accession
+OX421840.1	Sparganum proliferum	64606	organelle	drop	duplicate_of_RefSeq_accession
+LT999986.1	Trogonoptera brookiana	129452	organelle	drop	duplicate_of_RefSeq_accession
+LT999985.1	Papilio slateri	866285	organelle	drop	duplicate_of_RefSeq_accession
+LT999982.1	Eurytides lysithous	2049139	organelle	drop	duplicate_of_RefSeq_accession
+LT999981.1	Ornithoptera priamus	95593	organelle	drop	duplicate_of_RefSeq_accession
+LT999980.1	Ornithoptera richmondia	2064775	organelle	drop	duplicate_of_RefSeq_accession
+LT999979.1	Losaria neptunus	763936	organelle	drop	duplicate_of_RefSeq_accession
+LT999978.1	Lamproptera meges	157393	organelle	drop	duplicate_of_RefSeq_accession
+LT999973.1	Bhutanitis mansfieldi	93376	organelle	drop	duplicate_of_RefSeq_accession
+LT999972.1	Euryades corethrus	95568	organelle	drop	duplicate_of_RefSeq_accession
+NC_085561.1	Amritodus flavoscutatus	2479863	RefSeq	keep_no_taxonomy	taxid_not_in_dump
+OZ584867.1	Polyommatus sp. RVcoll24E223	3570203	other	keep_no_taxonomy	taxid_not_in_dump
+OZ559335.1	Ecsenius tigris	3052950	other	keep_no_taxonomy	taxid_not_in_dump
+OZ541404.1	Scorpaena sumptuosa	3360889	other	keep_no_taxonomy	taxid_not_in_dump
+OZ541344.1	Siphamia cephalotes	3361064	other	keep_no_taxonomy	taxid_not_in_dump
+OZ297305.1	Evergestis extimalis	1869931	other	redundant	species_already_represented
+OZ372447.1	Zele chlorophthalmus	1080924	DToL	redundant	species_already_represented
+OZ364095.1	Obrimoposthia wandeli	2136291	other	redundant	species_already_represented
+OZ584942.1	Micromus angulatus	1230847	DToL	redundant	species_already_represented
+NC_024652.1	Monochamus alternatus	192382	RefSeq	redundant	species_already_represented
+OZ337944.1	Tadarida teniotis	59483	Sanger/ToL-other	redundant	species_already_represented
+OZ556129.1	Epinephelus malabaricus	162300	other	redundant	species_already_represented
+OZ556027.1	Hyporhamphus quoyi	129051	other	redundant	species_already_represented
+OX596231.1	Glyphodes perspectalis	1078807	DToL	redundant	species_already_represented
+OW818035.2	Calliphora vomitoria	27454	DToL	redundant	species_already_represented
+OZ498141.1	Calameuta filiformis	222804	DToL	redundant	species_already_represented
+OZ245309.1	Ovis orientalis	469796	other	redundant	species_already_represented
+OZ245305.1	Ovis orientalis	469796	other	redundant	species_already_represented
+OZ245282.1	Ovis orientalis	469796	other	redundant	species_already_represented
+OZ245278.1	Ovis orientalis	469796	other	redundant	species_already_represented
+OZ245277.1	Ovis orientalis	469796	other	redundant	species_already_represented
+OZ556090.1	Seriolina nigrofasciata	436009	other	redundant	species_already_represented
+OZ556062.1	Seriolina nigrofasciata	436009	other	redundant	species_already_represented
+OZ203833.1	Carterocephalus silvicola	218722	other	redundant	species_already_represented
+OZ078043.1	Abax parallelepipedus	102642	DToL	redundant	species_already_represented
+OZ461320.1	Ridgeia piscesae	27915	other	redundant	species_already_represented
+OZ285838.1	Pagellus erythrinus	50593	ATLASea	redundant	species_already_represented
+NC_002765.1	Nycticebus coucang	9470	RefSeq	redundant	species_already_represented
+OZ281583.1	Gryllus bimaculatus	6999	DToL	redundant	species_already_represented
+OZ390138.1	Accipiter nisus	211598	DToL	redundant	species_already_represented
+OZ560388.1	Rhombosepion orbignyanum	3251964	ATLASea	redundant	species_already_represented
+OD909591.1	Geotrypetes seraphini	260995	other	redundant	species_already_represented
+OZ280665.1	Mustela erminea	36723	DToL	redundant	species_already_represented
+NC_021113.1	Clathrina clathrus	1031547	RefSeq	redundant	species_already_represented
+NC_021116.1	Clathrina clathrus	1031547	RefSeq	redundant	species_already_represented
+NC_021114.1	Clathrina clathrus	1031547	RefSeq	redundant	species_already_represented
+NC_021115.1	Clathrina clathrus	1031547	RefSeq	redundant	species_already_represented
+OZ246550.1	Vanellus vanellus	100859	DToL	redundant	species_already_represented
+OZ024767.1	Eledone cirrhosa	102876	DToL	redundant	species_already_represented
+OZ416008.1	Parribacus antarcticus	196017	ATLASea	redundant	species_already_represented
+OZ253330.1	Siboglinum fiordicum	27908	other	redundant	species_already_represented
+OZ556201.1	Upeneus tragula	392302	other	redundant	species_already_represented
+NC_021129.1	Eospalax fontanierii cansus	146133	RefSeq	redundant	species_already_represented
+NC_018098.1	Eospalax fontanierii baileyi	146132	RefSeq	redundant	species_already_represented
+OZ222513.1	Spirocerca lupi	304461	other	redundant	species_already_represented
+NC_023793.1	Gymnodiptychus pachycheilus	263534	RefSeq	redundant	species_already_represented
+OY740764.1	Fringilla coelebs	37598	DToL	redundant	species_already_represented
+OZ556003.1	Epinephelus fuscoguttatus	293821	other	redundant	species_already_represented
+OZ245437.1	Lyonetia clerkella	753195	DToL	redundant	species_already_represented
+OZ502799.1	Rhombosepion elegans	3251962	ATLASea	redundant	species_already_represented
+OZ563465.1	Cydia pomonella	82600	other	redundant	species_already_represented
+OZ282267.1	Scyllarides latus	204053	other	redundant	species_already_represented
+OZ556146.1	Scomberomorus semifasciatus	248138	other	redundant	species_already_represented
+OZ248629.1	Diadema setosum	31175	other	redundant	species_already_represented
+NC_061391.1	Phrynocephalus helioscopus cameranoi	1108642	RefSeq	redundant	species_already_represented
+NC_025639.1	Phrynocephalus helioscopus	171647	RefSeq	redundant	species_already_represented
+OZ001766.1	Chroicocephalus ridibundus	1192867	DToL	redundant	species_already_represented
+OZ541337.1	Lutjanus johnii	273455	other	redundant	species_already_represented
+OZ556158.1	Plectropomus areolatus	327818	other	redundant	species_already_represented
+NC_025503.1	Liposcelis entomophila	550478	RefSeq	redundant	species_already_represented
+OZ556007.1	Decapterus macarellus	146143	other	redundant	species_already_represented
+OZ556101.1	Cephalopholis boenak	91743	other	redundant	species_already_represented
+OZ557753.1	Regulus regulus	68468	DToL	redundant	species_already_represented
+OZ538371.1	Austropotamobius torrentium	94942	other	redundant	species_already_represented
+NC_061380.1	Apis mellifera carnica	88217	RefSeq	redundant	species_already_represented
+NC_051932.1	Apis mellifera	7460	RefSeq	redundant	species_already_represented
+NC_001566.1	Apis mellifera ligustica	7469	RefSeq	redundant	species_already_represented
+OZ471064.1	Apis mellifera	7460	DToL	redundant	species_already_represented
+LR990125.2	Euproctis similis	987935	DToL	redundant	species_already_represented
+OZ556207.1	Thryssa hamiltonii	435229	other	redundant	species_already_represented
+OZ248581.1	Anopheles pretoriensis	1141471	Sanger/ToL-other	redundant	species_already_represented
+OZ500225.1	Riparia riparia	88110	DToL	redundant	species_already_represented
+OU612063.1	Melanostoma mellinum	653684	DToL	redundant	species_already_represented
+OZ498747.1	Alcedo atthis	36245	DToL	redundant	species_already_represented
+LR822062.1	Aquila chrysaetos chrysaetos	223781	other	redundant	species_already_represented
+OZ484916.1	Anopheles dirus	7168	Sanger/ToL-other	redundant	species_already_represented
+NC_080965.1	Luehdorfia chinensis huashanensis	3056767	RefSeq	redundant	species_already_represented
+OZ195136.1	Cupido argiades	596724	other	redundant	species_already_represented
+OZ556110.1	Cephalopholis sexmaculata	334913	other	redundant	species_already_represented
+NC_031835.1	Rusa unicolor	662561	RefSeq	redundant	species_already_represented
+OZ022300.1	Rupicapra rupicapra	34869	other	redundant	species_already_represented
+NC_025271.1	Capreolus pygargus	48560	RefSeq	redundant	species_already_represented
+NC_039102.1	Proechimys semispinosus calidior	2025601	RefSeq	redundant	species_already_represented
+NC_047196.1	Ovis ammon ammon	156212	RefSeq	redundant	species_already_represented
+OZ365135.1	Tubastraea coccinea	46700	other	redundant	species_already_represented
+OZ365165.1	Tubastraea coccinea	46700	other	redundant	species_already_represented
+OZ365150.1	Tubastraea coccinea	46700	other	redundant	species_already_represented
+OZ559340.1	Ostracion cubicum	229058	other	redundant	species_already_represented
+OZ492941.1	Anax imperator	39274	DToL	redundant	species_already_represented
+NC_020743.1	Rucervus duvaucelii	43328	RefSeq	redundant	species_already_represented
+OZ245312.1	Ovis vignei	59896	other	redundant	species_already_represented
+OZ245301.1	Ovis vignei	59896	other	redundant	species_already_represented
+OZ245270.1	Ovis vignei	59896	other	redundant	species_already_represented
+OZ060901.1	Eriosoma lanigerum	133082	other	redundant	species_already_represented
+NC_068270.1	Salvelinus malma lordi	85065	RefSeq	redundant	species_already_represented
+NC_037502.1	Salvelinus malma	8039	RefSeq	redundant	species_already_represented
+OZ067143.1	Grus grus	40816	DToL	redundant	species_already_represented
+OZ573870.1	Grus grus	40816	DToL	redundant	species_already_represented
+OZ541190.1	Lutjanus vitta	379402	other	redundant	species_already_represented
+OZ204930.1	Naticarius hebraeus	488663	ATLASea	redundant	species_already_represented
+OV121114.2	Ischnura elegans	197161	DToL	redundant	species_already_represented
+OX031074.1	Tridacna crocea	80833	other	redundant	species_already_represented
+OW568908.1	Capra nubiana	72543	other	redundant	species_already_represented
+OW568860.1	Capra pyrenaica	80419	other	redundant	species_already_represented
+OW568858.1	Capra sibirica	72544	other	redundant	species_already_represented
+OW568913.1	Capra sibirica	72544	other	redundant	species_already_represented
+OZ556851.1	Gasterochisma melampus	13537	other	redundant	species_already_represented
+OZ239509.1	Macrovipera schweizeri	110205	other	redundant	species_already_represented
+OZ465211.1	Vincenzellus ruficollis	295991	DToL	redundant	species_already_represented
+OZ336092.1	Monachus monachus	248254	other	redundant	species_already_represented
+OZ561903.1	Agapornis nigrigenis	60465	Sanger/ToL-other	redundant	species_already_represented
+OZ360578.1	Lepisma saccharinum	50586	DToL	redundant	species_already_represented
+OZ286081.1	Didemnum vexillum	516032	ATLASea	redundant	species_already_represented
+OZ499261.1	Pyrrhula pyrrhula	37607	DToL	redundant	species_already_represented
+NC_020713.1	Hippotragus niger	37189	RefSeq	redundant	species_already_represented
+NC_062360.1	Hippotragus niger variani	82125	RefSeq	redundant	species_already_represented
+NC_062362.1	Hippotragus niger niger	82127	RefSeq	redundant	species_already_represented
+OZ404352.1	Arctia plantaginis	874455	other	redundant	species_already_represented
+OZ004814.1	Micromys minutus	13151	DToL	redundant	species_already_represented
+OZ404061.1	Echinometra mathaei	31178	ATLASea	redundant	species_already_represented
+OZ505647.1	Pholcus phalangioides	6932	other	redundant	species_already_represented
+OZ257070.1	Mareca strepera	75861	DToL	redundant	species_already_represented
+OZ541410.1	Netuma thalassina	435128	other	redundant	species_already_represented
+OZ023101.1	Abramis brama	38527	DToL	redundant	species_already_represented
+OZ281905.1	Aptenodytes patagonicus	9234	other	redundant	species_already_represented
+OZ345457.1	Zeugopterus punctatus	526623	ATLASea	redundant	species_already_represented
+OZ320794.1	Macrosteles quadrilineatus	74068	other	redundant	species_already_represented
+OZ493050.1	Haemaphysalis concinna	523089	other	redundant	species_already_represented
+OU342828.1	Pholis gunnellus	56726	DToL	redundant	species_already_represented
+OZ464845.1	Sarda sarda	8232	other	redundant	species_already_represented
+OZ255654.1	Mullus surmuletus	87757	DToL	redundant	species_already_represented
+OZ251433.1	Gobiusculus flavescens	257540	ATLASea	redundant	species_already_represented
+OZ264055.1	Ctenolabrus rupestris	171735	ATLASea	redundant	species_already_represented
+OY829670.1	Echiichthys vipera	94984	DToL	redundant	species_already_represented
+OZ556068.1	Lethrinus laticaudis	182655	other	redundant	species_already_represented
+OZ541202.1	Lethrinus laticaudis	182655	other	redundant	species_already_represented
+OY019136.1	Eristalinus aeneus	2017640	DToL	redundant	species_already_represented
+LT999975.1	Graphium sarpedon	76205	other	redundant	species_already_represented
+OZ555973.1	Echeneis naucrates	173247	other	redundant	species_already_represented
+OD909580.1	Echeneis naucrates	173247	other	redundant	species_already_represented
+OZ556104.1	Pomadasys kaakan	360508	other	redundant	species_already_represented
+NC_008749.1	Elaphodus cephalophus	109298	RefSeq	redundant	species_already_represented
+HG992304.1	Spilosoma lubricipeda	875880	DToL	redundant	species_already_represented
+OZ261190.1	Turdus philomelos	127946	other	redundant	species_already_represented
+OZ558067.1	Diplodus sargus	38941	ATLASea	redundant	species_already_represented
+OZ559337.1	Mobula japanica	495868	other	redundant	species_already_represented
+OZ563665.1	Episyrphus balteatus	286459	Sanger/ToL-other	redundant	species_already_represented
+OZ563471.1	Episyrphus balteatus	286459	Sanger/ToL-other	redundant	species_already_represented
+OX244022.1	Episyrphus balteatus	286459	DToL	redundant	species_already_represented
+OZ564297.1	Episyrphus balteatus	286459	Sanger/ToL-other	redundant	species_already_represented
+OX244027.1	Eupeodes corollae	290404	DToL	redundant	species_already_represented
+NC_062464.1	Trichiurus lepturus	13733	RefSeq	redundant	species_already_represented
+OZ495651.1	Dasyatis pastinaca	673854	ATLASea	redundant	species_already_represented
+OW052187.1	Rhingia campestris	226161	DToL	redundant	species_already_represented
+NC_050295.1	Hirundo rustica transitiva	768642	RefSeq	redundant	species_already_represented
+OZ565680.1	Delichon urbicum	88116	DToL	redundant	species_already_represented
+OZ337643.1	Haematopus ostralegus	31908	DToL	redundant	species_already_represented
+OZ574471.1	Haematopus ostralegus	31908	DToL	redundant	species_already_represented
+NC_045178.1	Bombus terrestris lusitanicus	1255231	RefSeq	redundant	species_already_represented
+OU342939.1	Bombus terrestris	30195	DToL	redundant	species_already_represented
+OZ223793.1	Tipula fascipennis	2719107	DToL	redundant	species_already_represented
+OZ504246.1	Phryganea bipunctata	1875852	DToL	redundant	species_already_represented
+OZ541183.1	Eumegistus illustris	1219343	other	redundant	species_already_represented
+OZ182621.1	Mustela lutreola	9666	other	redundant	species_already_represented
+OZ556835.1	Thyrsitoides marleyi	1219347	other	redundant	species_already_represented
+OZ556182.1	Gymnosarda unicolor	372805	other	redundant	species_already_represented
+OZ556089.1	Gymnosarda unicolor	372805	other	redundant	species_already_represented
+OZ541415.1	Gymnosarda unicolor	372805	other	redundant	species_already_represented
+OZ556157.1	Gymnosarda unicolor	372805	other	redundant	species_already_represented
+OZ367933.1	Haliotis ovina	36099	ATLASea	redundant	species_already_represented
+OX104126.1	Limnoperna fortunei	356393	Sanger/ToL-other	redundant	species_already_represented
+OZ541360.1	Pomatomus saltator	94948	other	redundant	species_already_represented
+OZ541332.1	Paracirrhites arcatus	215373	other	redundant	species_already_represented
+OZ238024.1	Ceutorhynchus obstrictus	307131	DToL	redundant	species_already_represented
+OZ541185.1	Sphyraena barracuda	70868	other	redundant	species_already_represented
+OZ556123.1	Sphyraena barracuda	70868	other	redundant	species_already_represented
+OZ541330.1	Choerodon schoenleinii	241275	other	redundant	species_already_represented
+OZ210059.1	Sclerolinum brattstromi	167799	other	redundant	species_already_represented
+OZ023219.1	Escarpia spicata	53617	other	redundant	species_already_represented
+OZ292453.1	Gymnammodytes semisquamatus	1306753	ATLASea	redundant	species_already_represented
+OZ541205.1	Parupeneus multifasciatus	626244	other	redundant	species_already_represented
+OZ242433.1	Zootoca vivipara	8524	DToL	redundant	species_already_represented
+OY735921.1	Zootoca vivipara	8524	DToL	redundant	species_already_represented
+NC_021939.1	Aotus azarai	30591	RefSeq	redundant	species_already_represented
+OZ556071.1	Cephalopholis miniata	334914	other	redundant	species_already_represented
+OZ556204.1	Cephalopholis miniata	334914	other	redundant	species_already_represented
+OZ334876.1	Peregrinus maidis	222432	other	redundant	species_already_represented
+OZ555970.1	Carcharodon carcharias	13397	other	redundant	species_already_represented
+OZ538885.1	Dimidiochromis kiwinge	163619	other	redundant	species_already_represented
+OY283155.1	Sarcophaga carnaria	226135	DToL	redundant	species_already_represented
+OY726581.1	Muscardinus avellanarius	39082	DToL	redundant	species_already_represented
+OZ199120.1	Pollenia pediculata	1266492	DToL	redundant	species_already_represented
+OU974085.1	Diadumene lineata	1789172	DToL	redundant	species_already_represented
+OZ559664.1	Lycodes reticulatus	215418	other	redundant	species_already_represented
+OZ185479.1	Leucopleurus acutus	3371109	DToL	redundant	species_already_represented
+NC_020476.1	Equus zebra	9791	RefSeq	redundant	species_already_represented
+OZ253744.1	Hippocampus hippocampus	109283	ATLASea	redundant	species_already_represented
+OZ405078.1	Drosophila subobscura	7241	DToL	redundant	species_already_represented
+OY757502.1	Drosophila subobscura	7241	Sanger/ToL-other	redundant	species_already_represented
+OY757200.1	Drosophila subobscura	7241	Sanger/ToL-other	redundant	species_already_represented
+OZ501380.1	Poecile palustris	48890	DToL	redundant	species_already_represented
+NC_016061.1	Equus hemionus	9794	RefSeq	redundant	species_already_represented
+NC_018782.1	Equus hemionus kulan	73334	RefSeq	redundant	species_already_represented
+OZ176235.1	Ischnura senegalensis	126660	Sanger/ToL-other	redundant	species_already_represented
+OZ499860.1	Phylloscopus proregulus	56435	DToL	redundant	species_already_represented
+OY973609.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973604.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973600.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973598.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973610.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973607.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973601.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973606.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973605.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973603.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973599.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973612.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973602.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973613.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973608.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+OY973611.1	Ixodes ricinus	34613	other	redundant	species_already_represented
+NC_053523.1	Gallus gallus	9031	RefSeq	redundant	species_already_represented
+OY292512.1	Nomophila noctuella	1209556	DToL	redundant	species_already_represented
+OW052240.1	Operophtera brumata	104452	DToL	redundant	species_already_represented
+OZ564771.1	Operophtera brumata	104452	DToL	redundant	species_already_represented
+OZ331381.1	Eunicella cavolini	317547	other	redundant	species_already_represented
+OZ210920.1	Leptogorgia sarmentosa	1502934	ATLASea	redundant	species_already_represented
+OZ556114.1	Alepes kleinii	436002	other	redundant	species_already_represented
+OY979765.1	Ostrinia nubilalis	29057	DToL	redundant	species_already_represented
+OZ247651.1	Loxostege sticticalis	481309	other	redundant	species_already_represented
+NC_018342.1	Brachymystax lenok tsinlingensis	1115630	RefSeq	redundant	species_already_represented
+OZ239434.1	Thelazia callipaeda	103827	Sanger/ToL-other	redundant	species_already_represented
+OX344793.1	Barbatula barbatula	135647	DToL	redundant	species_already_represented
+NC_018366.1	Cyprinus carpio 'color'	749190	RefSeq	redundant	species_already_represented
+NC_018036.1	Cyprinus carpio 'xingguonensis'	1045198	RefSeq	redundant	species_already_represented
+NC_018037.1	Cyprinus carpio haematopterus	1045269	RefSeq	redundant	species_already_represented
+NC_018035.1	Cyprinus carpio carpio	630221	RefSeq	redundant	species_already_represented
+NC_001606.1	Cyprinus carpio	7962	RefSeq	redundant	species_already_represented
+OZ556191.1	Lutjanus erythropterus	211835	other	redundant	species_already_represented
+OZ541215.1	Lutjanus erythropterus	211835	other	redundant	species_already_represented
+OZ363847.1	Ruditapes philippinarum	129788	DToL	redundant	species_already_represented
+OZ198458.1	Ruditapes philippinarum	129788	ATLASea	redundant	species_already_represented
+OZ373285.1	Nerita plicata	483686	ATLASea	redundant	species_already_represented
+OW568912.1	Capra ibex	72542	other	redundant	species_already_represented
+OW568909.1	Capra ibex	72542	other	redundant	species_already_represented
+NC_012773.1	Varecia variegata variegata	87289	RefSeq	redundant	species_already_represented
+OZ414262.1	Scythropia crataegella	753227	DToL	redundant	species_already_represented
+OZ367118.1	Dicentrarchus labrax	13489	ATLASea	redundant	species_already_represented
+OZ252579.1	Littorina saxatilis	31220	DToL	redundant	species_already_represented
+OZ184996.1	Issoria lathonia	171587	other	redundant	species_already_represented
+OZ458176.1	Scathophaga stercoraria	95463	DToL	redundant	species_already_represented
+OZ556052.1	Gnathanodon speciosus	326724	other	redundant	species_already_represented
+OZ541388.1	Gnathanodon speciosus	326724	other	redundant	species_already_represented
+OD909600.1	Microcaecilia unicolor	1415580	other	redundant	species_already_represented
+OZ556126.1	Rhabdosargus sarba	182642	other	redundant	species_already_represented
+OZ556838.1	Carcharhinus leucas	46612	other	redundant	species_already_represented
+OZ556150.1	Carcharhinus leucas	46612	other	redundant	species_already_represented
+OZ555980.1	Carcharhinus leucas	46612	other	redundant	species_already_represented
+OZ555945.1	Carcharhinus leucas	46612	other	redundant	species_already_represented
+OZ541414.1	Carcharhinus leucas	46612	other	redundant	species_already_represented
+OZ501534.1	Rana dybowskii	71582	other	redundant	species_already_represented
+OZ239800.1	Pontia edusa	345723	other	redundant	species_already_represented
+NC_028301.1	Prionailurus bengalensis	37029	RefSeq	redundant	species_already_represented
+OZ493045.1	Ixodes vespertilionis	59656	other	redundant	species_already_represented
+OY992543.1	Pegoplata infirma	559701	DToL	redundant	species_already_represented
+OZ556070.1	Euthynnus affinis	8227	other	redundant	species_already_represented
+OZ555944.1	Euthynnus affinis	8227	other	redundant	species_already_represented
+OZ495679.1	Dicentrarchus punctatus	94946	ATLASea	redundant	species_already_represented
+OZ556046.1	Caesio cuning	119694	other	redundant	species_already_represented
+OZ556021.1	Caesio cuning	119694	other	redundant	species_already_represented
+OZ556093.1	Carcharhinus obscurus	7807	other	redundant	species_already_represented
+OZ541409.1	Carcharhinus obscurus	7807	other	redundant	species_already_represented
+OZ186219.1	Parus major	9157	other	redundant	species_already_represented
+OZ186221.1	Parus major	9157	other	redundant	species_already_represented
+OZ478559.1	Ephestia kuehniella	40079	DToL	redundant	species_already_represented
+OW568856.1	Capra falconeri	48167	other	redundant	species_already_represented
+OW568853.1	Capra falconeri heptneri	373515	other	redundant	species_already_represented
+OZ556029.1	Thalassoma jansenii	239046	other	redundant	species_already_represented
+NC_051555.1	Pieris napi	78633	RefSeq	redundant	species_already_represented
+FR997720.2	Pieris napi	78633	DToL	redundant	species_already_represented
+HG993187.1	Pieris napi	78633	DToL	redundant	species_already_represented
+OZ556233.1	Yongeichthys criniger	1515623	other	redundant	species_already_represented
+OZ541167.1	Paracanthurus hepatus	75030	other	redundant	species_already_represented
+OZ556227.1	Epinephelus latifasciatus	306583	other	redundant	species_already_represented
+OU744322.1	Eristalis arbustorum	1124515	DToL	redundant	species_already_represented
+OY754963.1	Ferdinandea cuprea	226145	DToL	redundant	species_already_represented
+OX608077.1	Eupeodes luniger	1124559	DToL	redundant	species_already_represented
+OZ558148.1	Lophius piscatorius	8074	other	redundant	species_already_represented
+OZ556240.1	Thunnus tonggol	48169	other	redundant	species_already_represented
+OZ239469.1	Cyphoderus albinus	1499079	Sanger/ToL-other	redundant	species_already_represented
+OZ493361.1	Plodia interpunctella	58824	DToL	redundant	species_already_represented
+OY723432.1	Tridacna derasa	80831	other	redundant	species_already_represented
+OZ555996.1	Myoxocephalus scorpius	8097	other	redundant	species_already_represented
+OZ349026.1	Myoxocephalus scorpius	8097	ATLASea	redundant	species_already_represented
+OZ556258.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ556257.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ555992.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ556254.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ556246.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ556860.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ556079.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ555994.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+OZ555950.1	Carcharhinus amblyrhynchos	263684	other	redundant	species_already_represented
+NC_037394.1	Choristoneura occidentalis biennis	2911890	RefSeq	redundant	species_already_represented
+NC_039090.1	Sus scrofa cristatus	309913	RefSeq	redundant	species_already_represented
+NC_000845.1	Sus scrofa	9823	RefSeq	redundant	species_already_represented
+NC_014692.1	Sus scrofa taivanus	310261	RefSeq	redundant	species_already_represented
+OY997226.1	Sus scrofa	9823	other	redundant	species_already_represented
+OZ073234.1	Mesoplodon bidens	48745	Sanger/ToL-other	redundant	species_already_represented
+NC_046441.1	Pseudogastromyzon fasciatus fasciatus	1764039	RefSeq	redundant	species_already_represented
+NC_046442.1	Pseudogastromyzon fasciatus jiulongjiangensis	341105	RefSeq	redundant	species_already_represented
+OZ246515.1	Zosterops lateralis	43581	Sanger/ToL-other	redundant	species_already_represented
+OZ077576.1	Vipera berus	31155	DToL	redundant	species_already_represented
+LR991693.1	Rana temporaria	8407	DToL	redundant	species_already_represented
+OZ296823.1	Myrmeleon formicarius	279485	other	redundant	species_already_represented
+OZ504217.1	Eurygaster testudinaria	1134731	DToL	redundant	species_already_represented
+OZ223967.1	Natator depressus	27790	other	redundant	species_already_represented
+OZ238991.1	Diplotaxodon limnothrissa	163623	Sanger/ToL-other	redundant	species_already_represented
+OZ539316.1	Diplotaxodon limnothrissa	163623	other	redundant	species_already_represented
+OX382284.1	Pyralis farinalis	687122	DToL	redundant	species_already_represented
+OZ556171.1	Selaroides leptolepis	173311	other	redundant	species_already_represented
+OZ556242.1	Sphyrna mokarran	195334	other	redundant	species_already_represented
+OZ556036.1	Sphyrna mokarran	195334	other	redundant	species_already_represented
+OX387452.1	Argiope bruennichi	94029	DToL	redundant	species_already_represented
+OZ556853.1	Carcharhinus melanopterus	263686	other	redundant	species_already_represented
+OZ556848.1	Carcharhinus melanopterus	263686	other	redundant	species_already_represented
+OZ556024.1	Carcharhinus melanopterus	263686	other	redundant	species_already_represented
+OZ485319.1	Sitona obsoletus	1541163	DToL	redundant	species_already_represented
+OZ193855.1	Gasterosteus aculeatus	69293	DToL	redundant	species_already_represented
+OZ454617.1	Gasterosteus aculeatus	69293	other	redundant	species_already_represented
+OZ258522.1	Gambusia holbrooki	37273	other	redundant	species_already_represented
+OZ500626.1	Gallinago gallinago	107377	DToL	redundant	species_already_represented
+OX235278.1	Trichobilharzia szidati	157070	other	redundant	species_already_represented
+OX465349.1	Delphinus delphis	9728	DToL	redundant	species_already_represented
+OZ573793.1	Anas acuta	28680	DToL	redundant	species_already_represented
+OZ010001.1	Anas acuta	28680	DToL	redundant	species_already_represented
+OZ504166.1	Perdix perdix	9052	DToL	redundant	species_already_represented
+OZ014549.1	Tenebrio molitor	7067	DToL	redundant	species_already_represented
+OZ485842.1	Semibalanus balanoides	94630	DToL	redundant	species_already_represented
+OU538755.1	Aporia crataegi	129397	DToL	redundant	species_already_represented
+OZ211690.1	Mustela nivalis	36239	DToL	redundant	species_already_represented
+OZ067098.1	Neogale vison	452646	DToL	redundant	species_already_represented
+OZ199624.1	Martes foina	9659	other	redundant	species_already_represented
+NC_043930.1	Budorcas taxicolor taxicolor	37183	RefSeq	redundant	species_already_represented
+LR026997.1	Phylloscopus examinandus	474924	other	redundant	species_already_represented
+LR026996.1	Phylloscopus examinandus	474924	other	redundant	species_already_represented
+OZ556170.1	Galeocerdo cuvier	7819	other	redundant	species_already_represented
+OZ555987.1	Galeocerdo cuvier	7819	other	redundant	species_already_represented
+OZ555942.1	Galeocerdo cuvier	7819	other	redundant	species_already_represented
+OZ555931.1	Galeocerdo cuvier	7819	other	redundant	species_already_represented
+OZ541177.1	Galeocerdo cuvier	7819	other	redundant	species_already_represented
+LR739070.1	Mytilus coruscus	42192	other	redundant	species_already_represented
+NC_043950.1	Tetrao parvirostris kamtschaticus	116997	RefSeq	redundant	species_already_represented
+OZ290792.1	Alces alces	9852	other	redundant	species_already_represented
+OD909575.1	Anabas testudineus	64144	other	redundant	species_already_represented
+OX457021.1	Callimorpha dominula	938182	DToL	redundant	species_already_represented
+OZ257030.1	Cygnus cygnus	219595	DToL	redundant	species_already_represented
+OZ501031.1	Cygnus olor	8869	DToL	redundant	species_already_represented
+OV705248.1	Lepeophtheirus salmonis	72036	other	redundant	species_already_represented
+OV705012.1	Lepeophtheirus salmonis	72036	other	redundant	species_already_represented
+LR794199.1	Lepeophtheirus salmonis	72036	other	redundant	species_already_represented
+HG994595.1	Lepeophtheirus salmonis	72036	other	redundant	species_already_represented
+OU764922.1	Lepeophtheirus salmonis	72036	other	redundant	species_already_represented
+OZ499346.1	Motacilla flava	180448	DToL	redundant	species_already_represented
+NC_056785.1	Chorthippus parallelus parallelus	588766	RefSeq	redundant	species_already_represented
+OZ568118.1	Calidris alba	279936	DToL	redundant	species_already_represented
+OD909579.1	Astatotilapia calliptera	8154	other	redundant	species_already_represented
+OZ539251.1	Astatotilapia calliptera	8154	other	redundant	species_already_represented
+OZ538862.1	Astatotilapia calliptera	8154	other	redundant	species_already_represented
+OZ492444.1	Astatotilapia calliptera	8154	other	redundant	species_already_represented
+OZ206514.1	Astatotilapia calliptera	8154	Sanger/ToL-other	redundant	species_already_represented
+OZ539021.1	Cynotilapia afra	205486	other	redundant	species_already_represented
+OZ499694.1	Pycnonotus jocosus	182897	DToL	redundant	species_already_represented
+OY734083.1	Martes martes	29065	DToL	redundant	species_already_represented
+OZ453398.1	Leucoraja naevus	223888	DToL	redundant	species_already_represented
+OZ285760.1	Leucoraja naevus	223888	ATLASea	redundant	species_already_represented
+NC_053969.1	Arctictis binturong	94180	RefSeq	redundant	species_already_represented
+OY757540.1	Plagiodera versicolora	154017	DToL	redundant	species_already_represented
+OZ316978.1	Porites lobata	104759	other	redundant	species_already_represented
+OZ412987.1	Raja clavata	7781	DToL	redundant	species_already_represented
+OZ571035.1	Jynx torquilla	189526	DToL	redundant	species_already_represented
+OZ563765.1	Eristalis tenax	198635	Sanger/ToL-other	redundant	species_already_represented
+OZ563510.1	Eristalis tenax	198635	Sanger/ToL-other	redundant	species_already_represented
+OZ563546.1	Eristalis tenax	198635	Sanger/ToL-other	redundant	species_already_represented
+HG993130.2	Eristalis tenax	198635	DToL	redundant	species_already_represented
+OZ488368.1	Aphis citricidus	223852	other	redundant	species_already_represented
+OZ557681.1	Pimephales promelas	90988	DToL	redundant	species_already_represented
+OZ476406.1	Spodoptera exigua	7107	DToL	redundant	species_already_represented
+LR797833.1	Spodoptera exigua	7107	other	redundant	species_already_represented
+OY830042.1	Osmerus eperlanus	29151	DToL	redundant	species_already_represented
+OZ287229.1	Araneus angulatus	1112382	DToL	redundant	species_already_represented
+OZ532451.1	Chrysomya megacephala	115424	other	redundant	species_already_represented
+OZ250654.1	Donax semistriatus	3074273	ATLASea	redundant	species_already_represented
+OZ546815.1	Donax trunculus	40130	Sanger/ToL-other	redundant	species_already_represented
+OZ259533.1	Donax trunculus	40130	ATLASea	redundant	species_already_represented
+OZ207852.1	Donax variegatus	1920007	ATLASea	redundant	species_already_represented
+OZ207853.1	Donax variegatus	1920007	ATLASea	redundant	species_already_represented
+OZ556837.1	Abudefduf bengalensis	229088	other	redundant	species_already_represented
+OZ555976.1	Abudefduf bengalensis	229088	other	redundant	species_already_represented
+OZ555975.1	Abudefduf bengalensis	229088	other	redundant	species_already_represented
+OU816278.1	Phyllotreta striolata	444603	other	redundant	species_already_represented
+OY283138.1	Porites lutea	51062	other	redundant	species_already_represented
+OX419348.1	Galaxea fascicularis	46745	other	redundant	species_already_represented
+OX596080.1	Protophormia terraenovae	34676	DToL	redundant	species_already_represented
+OZ207248.1	Anopheles cruzii	68878	Sanger/ToL-other	redundant	species_already_represented
+OZ207244.1	Anopheles cruzii	68878	Sanger/ToL-other	redundant	species_already_represented
+NC_027825.1	Alouatta seniculus	9503	RefSeq	redundant	species_already_represented
+OZ487776.1	Colobochyla salicalis	938222	other	redundant	species_already_represented
+OZ577622.1	Mythimna turca	987990	DToL	redundant	species_already_represented
+OZ453041.1	Haemaphysalis inermis	48827	other	redundant	species_already_represented
+NC_016191.1	Rhinolophus ferrumequinum korai	1077283	RefSeq	redundant	species_already_represented
+OZ335369.1	Laelia coenosa	1706499	other	redundant	species_already_represented
+OZ346680.1	Heteropriacanthus cruentatus	342441	ATLASea	redundant	species_already_represented
+OZ565127.1	Eudocimus ruber	335483	Sanger/ToL-other	redundant	species_already_represented
+OY754306.1	Chironomus tentans	7153	DToL	redundant	species_already_represented
+OZ199637.1	Cricetus cricetus	10034	other	redundant	species_already_represented
+OZ557945.1	Eumicrotremus spinosus	430040	other	redundant	species_already_represented
+OZ255329.1	Pomatoschistus minutus	13225	ATLASea	redundant	species_already_represented
+OZ499395.1	Calidris alpina	8919	DToL	redundant	species_already_represented
+OZ223660.1	Aythya marila	189534	DToL	redundant	species_already_represented
+OZ539182.1	Nimbochromis linni	311526	other	redundant	species_already_represented
+OZ076388.1	Dictyocaulus viviparus	29172	Sanger/ToL-other	redundant	species_already_represented
+OZ556081.1	Sphyrna lewini	7823	other	redundant	species_already_represented
+OZ555974.1	Sphyrna lewini	7823	other	redundant	species_already_represented
+OZ555953.1	Sphyrna lewini	7823	other	redundant	species_already_represented
+OZ556054.1	Isurus oxyrinchus	57983	other	redundant	species_already_represented
+OZ581723.1	Tringa nebularia	171270	DToL	redundant	species_already_represented
+NC_046437.1	Labigastromyzon changtingensis changtingensis	2547500	RefSeq	redundant	species_already_represented
+OZ556078.1	Epinephelus tauvina	203262	other	redundant	species_already_represented
+OZ493047.1	Hyalomma marginatum	34627	other	redundant	species_already_represented
+OZ469770.1	Spoladea recurvalis	1141038	other	redundant	species_already_represented
+OU525148.1	Vespa velutina	202808	other	redundant	species_already_represented
+HG995187.2	Lycaena phlaeas	282391	DToL	redundant	species_already_represented
+OZ252465.1	Rallus aquaticus	54496	DToL	redundant	species_already_represented
+OZ501436.1	Anthonomus pomorum	201758	DToL	redundant	species_already_represented
+OZ350008.1	Sphaeridium bipustulatum	290649	DToL	redundant	species_already_represented
+OZ259517.1	Scaphidium quadrimaculatum	295644	DToL	redundant	species_already_represented
+OZ223140.1	Lepidochelys olivacea	27788	other	redundant	species_already_represented
+OZ556169.1	Epinephelus stictus	428845	other	redundant	species_already_represented
+NC_060722.1	Amphioctopus fangsiao etchuanus	2913631	RefSeq	redundant	species_already_represented
+OX424434.1	Phoxinus phoxinus	58324	DToL	redundant	species_already_represented
+OZ556164.1	Epinephelus sexfasciatus	309926	other	redundant	species_already_represented
+OZ335069.1	Macroglossum stellatarum	524428	DToL	redundant	species_already_represented
+OZ038412.1	Caenorhabditis brenneri	135651	other	redundant	species_already_represented
+OZ007495.1	Caenorhabditis plicata	281681	other	redundant	species_already_represented
+OZ281196.1	Dinocras cephalotes	441509	DToL	redundant	species_already_represented
+OZ367093.1	Castor fiber	10185	DToL	redundant	species_already_represented
+OZ172643.1	Caenorhabditis angaria	860376	other	redundant	species_already_represented
+OY751559.1	Caenorhabditis doughertyi	1094321	other	redundant	species_already_represented
+OZ038421.1	Caenorhabditis virilis	1094323	other	redundant	species_already_represented
+OZ010624.1	Caenorhabditis macrosperma	1094328	other	redundant	species_already_represented
+OY751538.1	Caenorhabditis afra	1094335	other	redundant	species_already_represented
+NC_005943.1	Macaca mulatta	9544	RefSeq	redundant	species_already_represented
+OZ201220.1	Acropora muricata	159855	other	redundant	species_already_represented
+OZ492775.1	Drosophila suzukii	28584	DToL	redundant	species_already_represented
+NC_018781.1	Equus quagga chapmani	192603	RefSeq	redundant	species_already_represented
+NC_006973.1	Cervus nippon yesoensis	223998	RefSeq	redundant	species_already_represented
+NC_007179.1	Cervus nippon yakushimae	332176	RefSeq	redundant	species_already_represented
+NC_008462.1	Cervus nippon taiouanus	37550	RefSeq	redundant	species_already_represented
+NC_013834.1	Cervus nippon hortulorum	92866	RefSeq	redundant	species_already_represented
+NC_018595.1	Cervus nippon sichuanicus	162956	RefSeq	redundant	species_already_represented
+NC_016178.1	Cervus nippon kopschi	501781	RefSeq	redundant	species_already_represented
+OZ271851.1	Trichuris ovis	93034	Sanger/ToL-other	redundant	species_already_represented
+OZ567717.1	Virgularia mirabilis	1399339	DToL	redundant	species_already_represented
+OZ078859.1	Scardinius erythrophthalmus	58319	DToL	redundant	species_already_represented
+OZ556174.1	Thryssa setirostris	435231	other	redundant	species_already_represented
+OZ353813.1	Pavona decussata	227230	other	redundant	species_already_represented
+OZ582589.1	Atrecus affinis	347277	DToL	redundant	species_already_represented
+OZ271907.1	Teleogryllus oceanicus	128161	Sanger/ToL-other	redundant	species_already_represented
+OZ243531.1	Bubo scandiacus	371907	other	redundant	species_already_represented
+OZ511140.1	Macoma balthica	1903275	other	redundant	species_already_represented
+OZ511971.1	Macoma balthica	1903275	DToL	redundant	species_already_represented
+OZ585914.1	Curruca curruca	43163	DToL	redundant	species_already_represented
+OZ349832.1	Fannia canicularis	307205	other	redundant	species_already_represented
+NC_015478.1	Gomphocerus sibiricus tibetanus	369698	RefSeq	redundant	species_already_represented
+OZ204559.1	Sabella spallanzanii	85702	ATLASea	redundant	species_already_represented
+OU696700.1	Platycheirus albimanus	414846	DToL	redundant	species_already_represented
+OZ563580.1	Heliconius sara	33443	Sanger/ToL-other	redundant	species_already_represented
+OZ205435.1	Mesoplodon mirus	52113	DToL	redundant	species_already_represented
+OZ505056.1	Tadorna tadorna	75865	DToL	redundant	species_already_represented
+OX438540.1	Bruchidius siliquastri	1649775	DToL	redundant	species_already_represented
+LR822063.1	Parambassis ranga	210632	other	redundant	species_already_represented
+OZ375793.1	Ruditapes decussatus	104385	other	redundant	species_already_represented
+NC_061980.1	Rhinolophus rex paradoxolophus	479477	RefSeq	redundant	species_already_represented
+LR797831.1	Spodoptera littoralis	7109	other	redundant	species_already_represented
+OZ037991.1	Rhopilema esculentum	499914	other	redundant	species_already_represented
+OZ022487.1	Cerastoderma edule	55710	DToL	redundant	species_already_represented
+OX401423.1	Cerastoderma edule	55710	other	redundant	species_already_represented
+OZ470509.1	Dipturus intermedius	2814718	DToL	redundant	species_already_represented
+OZ556125.1	Caranx ignobilis	376895	other	redundant	species_already_represented
+OZ541338.1	Lutjanus carponotatus	396785	other	redundant	species_already_represented
+OZ452777.1	Dicyrtomina saundersi	438492	DToL	redundant	species_already_represented
+OY292312.1	Galleria mellonella	7137	DToL	redundant	species_already_represented
+OX439272.1	Squalius cephalus	8284	DToL	redundant	species_already_represented
+NC_008661.1	Gymnocypris przewalskii	75348	RefSeq	redundant	species_already_represented
+OD909577.1	Sparus aurata	8175	other	redundant	species_already_represented
+LR822069.1	Sciurus carolinensis	30640	other	redundant	species_already_represented
+OD909578.1	Mastacembelus armatus	205130	other	redundant	species_already_represented
+OZ566705.1	Fringilla montifringilla	36255	DToL	redundant	species_already_represented
+OZ203683.1	Agrius convolvuli	55055	other	redundant	species_already_represented
+OZ022248.1	Erpobdella octoculata	39305	DToL	redundant	species_already_represented
+OY755094.1	Gastrophysa polygoni	878018	DToL	redundant	species_already_represented
+OZ541376.1	Acanthocybium solandri	13323	other	redundant	species_already_represented
+OZ541171.1	Acanthocybium solandri	13323	other	redundant	species_already_represented
+OZ506048.1	Oenanthe oenanthe	279966	DToL	redundant	species_already_represented
+OZ414170.1	Aiolopus thalassinus	243007	other	redundant	species_already_represented
+OZ500473.1	Dendrocopos major	183177	DToL	redundant	species_already_represented
+OZ248561.1	Anopheles minimus	112268	Sanger/ToL-other	redundant	species_already_represented
+OZ556035.1	Psammoperca waigiensis	329030	other	redundant	species_already_represented
+OZ500798.1	Sterna paradisaea	279953	DToL	redundant	species_already_represented
+OZ330662.1	Ips sexdentatus	55985	DToL	redundant	species_already_represented
+OZ556252.1	Anoxypristis cuspidata	195290	other	redundant	species_already_represented
+OZ556255.1	Anoxypristis cuspidata	195290	other	redundant	species_already_represented
+OZ556247.1	Anoxypristis cuspidata	195290	other	redundant	species_already_represented
+OZ556108.1	Triaenodon obesus	496413	other	redundant	species_already_represented
+OX276340.1	Dasysyrphus albostriatus	414801	DToL	redundant	species_already_represented
+OZ559757.1	Loxia curvirostra	64802	other	redundant	species_already_represented
+NC_010007.1	Salmo trutta trutta	227976	RefSeq	redundant	species_already_represented
+OD909581.1	Salmo trutta	8032	other	redundant	species_already_represented
+LR743636.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743624.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743623.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743625.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743618.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743611.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR744026.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743633.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743631.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743669.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743622.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR744027.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743642.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743617.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743615.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743614.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743616.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR744028.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743629.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743621.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743638.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743613.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR744029.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743635.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743641.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743639.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743619.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743637.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743640.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743670.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743666.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743634.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743626.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743607.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743632.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743627.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR744025.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743620.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743630.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743612.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+LR743628.1	Danaus chrysippus	151541	other	redundant	species_already_represented
+OX359322.1	Apodemus sylvaticus	10129	DToL	redundant	species_already_represented
+OZ001350.1	Anopheles arabiensis	7173	other	redundant	species_already_represented
+OU632726.1	Anopheles atroparvus	41427	other	redundant	species_already_represented
+OZ177543.1	Albulina orbitula	689475	other	redundant	species_already_represented
+OX387714.1	Ostrea edulis	37623	DToL	redundant	species_already_represented
+OZ477842.1	Aphis fabae	191316	other	redundant	species_already_represented
+OY101439.1	Tuberolachnus salignus	96551	DToL	redundant	species_already_represented
+OZ281284.1	Clogmia albipunctata	85120	DToL	redundant	species_already_represented
+OZ556109.1	Siganus canaliculatus	75042	other	redundant	species_already_represented
+OZ555989.1	Siganus canaliculatus	75042	other	redundant	species_already_represented
+OZ556055.1	Siganus canaliculatus	75042	other	redundant	species_already_represented
+OZ499557.1	Motacilla cinerea	56325	DToL	redundant	species_already_represented
+OZ320105.1	Aythya fuligula	219594	DToL	redundant	species_already_represented
+OZ574077.1	Aythya fuligula	219594	DToL	redundant	species_already_represented
+OZ582764.1	Passer montanus	9160	DToL	redundant	species_already_represented
+NC_040006.1	Erythrogenys gravivox	1608428	RefSeq	redundant	species_already_represented
+OZ556132.1	Nemipterus hexodon	443707	other	redundant	species_already_represented
+OZ500763.1	Phylloscopus trochilus	9182	DToL	redundant	species_already_represented
+OZ546133.1	Phylloscopus trochilus	9182	other	redundant	species_already_represented
+OZ531777.1	Phylloscopus collybita	48150	DToL	redundant	species_already_represented
+OX456989.1	Melanostoma scalare	92598	DToL	redundant	species_already_represented
+OZ538793.1	Maylandia zebra	106582	other	redundant	species_already_represented
+OZ538952.1	Maylandia zebra	106582	other	redundant	species_already_represented
+OZ556103.1	Protonibea diacanthus	335060	other	redundant	species_already_represented
+OZ565638.1	Mareca penelope	8838	DToL	redundant	species_already_represented
+OZ245219.1	Pavo cristatus	9049	other	redundant	species_already_represented
+OZ416253.1	Myodes glareolus	447135	DToL	redundant	species_already_represented
+OZ511394.1	Tachybaptus ruficollis	100828	DToL	redundant	species_already_represented
+NC_021966.1	Saimiri boliviensis	27679	RefSeq	redundant	species_already_represented
+OW568852.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OW568916.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OW568907.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LR884221.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LS992617.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LS992603.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OW568859.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OW568857.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OW568911.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OW568910.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LS992612.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LS992607.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LS992604.1	Capra aegagrus	9923	other	redundant	species_already_represented
+LS992601.1	Capra aegagrus	9923	other	redundant	species_already_represented
+OZ500061.1	Corvus corax	56781	DToL	redundant	species_already_represented
+OZ541367.1	Variola albimarginata	334915	other	redundant	species_already_represented
+OZ541385.1	Cephalopholis argus	309930	other	redundant	species_already_represented
+OZ556861.1	Cephalopholis sonnerati	160708	other	redundant	species_already_represented
+OZ475558.1	Anopheles coluzzii	1518534	Sanger/ToL-other	redundant	species_already_represented
+LR777651.1	Acanthosepion pharaonis	158019	other	redundant	species_already_represented
+NC_004694.1	Sarcocheilichthys variegatus microoculus	149978	RefSeq	redundant	species_already_represented
+OZ261232.2	Turdus merula	9187	other	redundant	species_already_represented
+OZ556199.1	Pristipomoides multidens	106585	other	redundant	species_already_represented
+OY740830.1	Raja brachyura	223862	DToL	redundant	species_already_represented
+OZ574880.1	Raja brachyura	223862	DToL	redundant	species_already_represented
+OZ453039.1	Carios vespertilionis	870211	other	redundant	species_already_represented
+NC_028302.1	Panthera leo	9689	RefSeq	redundant	species_already_represented
+OZ207300.1	Anopheles oryzalimnetes	58237	Sanger/ToL-other	redundant	species_already_represented
+OZ123527.1	Styela clava	7725	DToL	redundant	species_already_represented
+OZ125737.1	Isopora palifera	105615	other	redundant	species_already_represented
+NC_029488.1	Uraspis helvola	173317	RefSeq	redundant	species_already_represented
+OZ237574.1	Anemonia sulcata	6108	ATLASea	redundant	species_already_represented
+NC_014703.1	Cervus canadensis songaricus	84701	RefSeq	redundant	species_already_represented
+OZ464881.1	Nereis zonata	880888	DToL	redundant	species_already_represented
+OZ537386.1	Tuta absoluta	702717	DToL	redundant	species_already_represented
+NC_009686.1	Canis lupus lupus	443256	RefSeq	redundant	species_already_represented
+NC_008092.1	Canis lupus	9612	RefSeq	redundant	species_already_represented
+NC_060652.1	Canis lupus signatus	425934	RefSeq	redundant	species_already_represented
+NC_002008.4	Canis lupus familiaris	9615	RefSeq	redundant	species_already_represented
+HG998573.1	Canis lupus	9612	DToL	redundant	species_already_represented
+LR745079.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745084.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745078.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745075.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745074.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745070.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745052.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745056.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745057.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745051.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745083.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745076.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745068.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745077.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745086.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745062.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745082.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745087.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745088.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745063.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745081.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745049.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745080.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745066.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745194.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745183.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745180.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745175.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745173.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745165.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745154.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745145.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745121.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745108.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745102.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745101.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745091.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745060.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745197.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745106.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745104.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745094.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745092.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745089.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745195.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745110.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745107.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745090.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745196.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745193.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745192.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745191.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745190.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745189.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745188.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745187.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745186.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745185.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745184.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745182.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745181.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745179.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745178.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745177.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745176.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745174.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745172.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745171.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745170.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745169.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745168.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745167.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745166.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745164.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745163.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745162.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745161.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745160.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745159.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745158.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745156.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745155.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745153.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745152.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745151.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745150.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745149.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745148.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745147.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745146.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745144.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745143.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745142.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745141.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745140.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745139.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745138.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745137.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745136.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745135.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745134.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745133.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745132.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745131.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745130.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745128.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745127.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745126.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745125.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745124.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745123.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745120.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745119.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745117.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745116.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745115.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745114.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745113.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745112.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745111.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745109.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745105.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745103.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745100.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745098.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745097.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745096.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745095.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745093.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745085.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745073.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745072.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745071.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745069.1	Canis lupus	9612	other	redundant	species_already_represented
+LR745067.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745064.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745061.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745059.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745055.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745054.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745053.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745050.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745065.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745099.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745129.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745122.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745118.1	Canis lupus familiaris	9615	other	redundant	species_already_represented
+LR745058.1	Canis lupus	9612	other	redundant	species_already_represented
+OZ556184.1	Pristis pristis	1577861	other	redundant	species_already_represented
+OZ555962.1	Pristis pristis	1577861	other	redundant	species_already_represented
+OZ555958.1	Pristis pristis	1577861	other	redundant	species_already_represented
+LS975139.1	Teinopalpus imperialis	157461	other	redundant	species_already_represented
+OZ505731.1	Pagellus acarne	98817	ATLASea	redundant	species_already_represented
+OZ556250.1	Thalassoma lunare	219410	other	redundant	species_already_represented
+OZ556203.1	Thalassoma lunare	219410	other	redundant	species_already_represented
+OZ541343.1	Thalassoma lunare	219410	other	redundant	species_already_represented
+OZ296618.1	Lucilia caesar	65466	DToL	redundant	species_already_represented
+OY993140.1	Physella acuta	109671	other	redundant	species_already_represented
+OW485645.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484777.1	Physella acuta	109671	other	redundant	species_already_represented
+OW483886.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484755.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484578.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484510.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484573.1	Physella acuta	109671	other	redundant	species_already_represented
+OW483801.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484773.1	Physella acuta	109671	other	redundant	species_already_represented
+OW483769.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484094.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484508.1	Physella acuta	109671	other	redundant	species_already_represented
+OW483420.1	Physella acuta	109671	other	redundant	species_already_represented
+OW485676.1	Physella acuta	109671	other	redundant	species_already_represented
+OW483838.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484036.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484614.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484534.1	Physella acuta	109671	other	redundant	species_already_represented
+OW483461.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484772.1	Physella acuta	109671	other	redundant	species_already_represented
+OW484492.1	Physella acuta	109671	other	redundant	species_already_represented
+OZ077486.1	Cetorhinus maximus	57982	DToL	redundant	species_already_represented
+NC_064173.1	Saimiri oerstedii	70928	RefSeq	redundant	species_already_represented
+OY776077.1	Halichondria panicea	6063	other	redundant	species_already_represented
+OZ499651.1	Limosa lapponica	161683	DToL	redundant	species_already_represented
+OZ370096.1	Spatula clypeata	75838	DToL	redundant	species_already_represented
+OZ004724.2	Vespertilio murinus	59485	DToL	redundant	species_already_represented
+NC_019605.1	Gymnocypris eckloni	263515	RefSeq	redundant	species_already_represented
+OZ306364.1	Hylaeus dilatatus	1542591	DToL	redundant	species_already_represented
+OZ556137.1	Variola louti	300415	other	redundant	species_already_represented
+OZ555929.1	Variola louti	300415	other	redundant	species_already_represented
+OZ541380.1	Variola louti	300415	other	redundant	species_already_represented
+OZ556230.1	Variola louti	300415	other	redundant	species_already_represented
+OZ318000.1	Athetis lepigone	1223490	other	redundant	species_already_represented
+OZ556001.1	Chloebia gouldiae	44316	other	redundant	species_already_represented
+OX244045.2	Tridacna gigas	80829	other	redundant	species_already_represented
+OX637958.1	Rutilus rutilus	48668	DToL	redundant	species_already_represented
+LR989948.1	Pieris brassicae	7116	DToL	redundant	species_already_represented
+OZ282549.1	Triatoma infestans	30076	Sanger/ToL-other	redundant	species_already_represented
+OX449123.1	Notothenia rossii	101497	DToL	redundant	species_already_represented
+OZ541359.1	Hemigymnus melapterus	241303	other	redundant	species_already_represented
+OZ008366.1	Cataclysta lemnata	1594245	DToL	redundant	species_already_represented
+OX411833.1	Leucoma salicis	688415	DToL	redundant	species_already_represented
+OZ392010.1	Pasiphila chloerata	934886	DToL	redundant	species_already_represented
+LT999969.1	Byasa alcinous	85299	other	redundant	species_already_represented
+OZ556144.1	Plectropomus laevis	134630	other	redundant	species_already_represented
+OX104072.1	Dicrocoelium dendriticum	57078	other	redundant	species_already_represented
+LT999974.1	Choristoneura fumiferana	7141	other	redundant	species_already_represented
+OZ579848.1	Opatrum sabulosum	1470695	DToL	redundant	species_already_represented
+OZ373018.1	Pterois volitans	185886	ATLASea	redundant	species_already_represented
+OZ555917.1	Tilodon sexfasciatus	2609502	other	redundant	species_already_represented
+OZ555947.1	Carcharhinus plumbeus	7808	other	redundant	species_already_represented
+OZ124255.1	Aythya ferina	219593	DToL	redundant	species_already_represented
+OW026584.2	Plutella xylostella	51655	DToL	redundant	species_already_represented
+OZ187189.1	Streptopelia decaocto	177147	DToL	redundant	species_already_represented
+OZ556251.1	Nebrius ferrugineus	496405	other	redundant	species_already_represented
+OZ541368.1	Nebrius ferrugineus	496405	other	redundant	species_already_represented
+OZ541342.1	Nebrius ferrugineus	496405	other	redundant	species_already_represented
+OY288113.1	Syrphus vitripennis	224256	DToL	redundant	species_already_represented
+OZ248585.1	Anopheles squamosus	911292	Sanger/ToL-other	redundant	species_already_represented
+OZ541174.1	Lutjanus fulviflamma	260525	other	redundant	species_already_represented
+OZ498028.1	Alauda arvensis	88112	DToL	redundant	species_already_represented
+NC_064156.1	Cacajao calvus novaesi	658398	RefSeq	redundant	species_already_represented
+NC_064162.1	Cacajao calvus ucayalii	2946513	RefSeq	redundant	species_already_represented
+NC_021967.1	Cacajao calvus	30596	RefSeq	redundant	species_already_represented
+NC_064154.1	Cacajao calvus calvus	85699	RefSeq	redundant	species_already_represented
+OZ464866.1	Lepidurus arcticus	77708	other	redundant	species_already_represented
+OZ412157.1	Anarta trifolii	987454	DToL	redundant	species_already_represented
+OY992875.1	Pyrausta despicata	1281420	DToL	redundant	species_already_represented
+OZ207252.1	Anopheles bellator	139047	Sanger/ToL-other	redundant	species_already_represented
+NC_044673.1	Caracara plancus cheriway	1094199	RefSeq	redundant	species_already_represented
+OZ556839.1	Rhynchobatus australiae	335006	other	redundant	species_already_represented
+OZ556095.1	Rhynchobatus australiae	335006	other	redundant	species_already_represented
+OZ556223.1	Rhynchobatus australiae	335006	other	redundant	species_already_represented
+OZ489246.1	Tringa totanus	171271	DToL	redundant	species_already_represented
+OZ037832.1	Netta rufina	30387	DToL	redundant	species_already_represented
+OZ177519.1	Araschnia levana	171575	other	redundant	species_already_represented
+NC_060494.1	Manis pentadactyla pentadactyla	749565	RefSeq	redundant	species_already_represented
+OZ372948.1	Osmylus fulvicephalus	446453	other	redundant	species_already_represented
+OZ556038.1	Amphiprion clarkii	80970	other	redundant	species_already_represented
+OZ556195.1	Platycaranx malabaricus	3049898	other	redundant	species_already_represented
+NC_027273.1	Rhynchocypris oxycephala	109666	RefSeq	redundant	species_already_represented
+OZ453034.1	Psoroptes ovis	83912	other	redundant	species_already_represented
+OZ500507.1	Ardea cinerea	30390	DToL	redundant	species_already_represented
+OX380353.1	Pterostichus niger	106386	DToL	redundant	species_already_represented
+OZ035885.1	Muscina levida	559660	DToL	redundant	species_already_represented
+OZ244554.1	Gonepteryx rhamni	78609	DToL	redundant	species_already_represented
+OZ010617.1	Acanthosepion lycidas	296134	other	redundant	species_already_represented
+OZ492371.1	Anas crecca	75839	other	redundant	species_already_represented
+NC_013836.1	Cervus elaphus xanthopygus	9865	RefSeq	redundant	species_already_represented
+NC_007704.2	Cervus elaphus	9860	RefSeq	redundant	species_already_represented
+OU343111.2	Cervus elaphus	9860	DToL	redundant	species_already_represented
+OZ555988.1	Sphyraena jello	445362	other	redundant	species_already_represented
+OZ538929.1	Haplochromis burtoni	8153	other	redundant	species_already_represented
+OW971698.1	Mus spretus	10096	other	redundant	species_already_represented
+OZ556841.1	Chelmon rostratus	109905	other	redundant	species_already_represented
+NC_002073.3	Chrysemys picta	8479	RefSeq	redundant	species_already_represented
+OZ415897.1	Canis aureus	68724	other	redundant	species_already_represented
+OZ509641.1	Pyrrhocorax pyrrhocorax	56790	DToL	redundant	species_already_represented
+OZ455081.1	Xenostrobus securis	1289581	Sanger/ToL-other	redundant	species_already_represented
+OZ245602.1	Aulonocara stuartgranti	286572	other	redundant	species_already_represented
+OZ539228.1	Aulonocara stuartgranti	286572	other	redundant	species_already_represented
+OZ197757.1	Acropora hyacinthus	55974	other	redundant	species_already_represented
+OZ567797.1	Ara militaris	57237	Sanger/ToL-other	redundant	species_already_represented
+OZ319714.1	Dalbulus maidis	74065	other	redundant	species_already_represented
+OZ500425.1	Sturnus vulgaris	9172	DToL	redundant	species_already_represented
+OZ209854.1	Bolma rugosa	335776	ATLASea	redundant	species_already_represented
+OZ038424.1	Diploscapter coronatus	288516	other	redundant	species_already_represented
+OZ009937.1	Caenorhabditis wallacei	1094326	other	redundant	species_already_represented
+OZ186299.1	Limenitis reducta	191421	other	redundant	species_already_represented
+LR990255.1	Limenitis camilla	270466	DToL	redundant	species_already_represented
+OZ556845.1	Priacanthus tayenus	443711	other	redundant	species_already_represented
+OZ556138.1	Priacanthus tayenus	443711	other	redundant	species_already_represented
+OZ204968.1	Limenitis populi	227535	other	redundant	species_already_represented
+NC_004539.1	Anser albifrons	50365	RefSeq	redundant	species_already_represented
+OZ320939.1	Anser albifrons	50365	DToL	redundant	species_already_represented
+OZ575056.1	Phalacrocorax carbo	9209	DToL	redundant	species_already_represented
+OY997637.1	Phalacrocorax carbo	9209	DToL	redundant	species_already_represented
+OU538787.1	Papilio machaon	76193	DToL	redundant	species_already_represented
+LS975121.1	Papilio machaon	76193	other	redundant	species_already_represented
+OZ478243.1	Caranx crysos	173309	ATLASea	redundant	species_already_represented
+HG992240.1	Melitaea cinxia	113334	DToL	redundant	species_already_represented
+NC_011821.1	Hydropotes inermis	9883	RefSeq	redundant	species_already_represented
+OZ498312.1	Acanthis flammea	54769	DToL	redundant	species_already_represented
+OZ484972.1	Spirobranchus giganteus	1914524	ATLASea	redundant	species_already_represented
+OY288238.1	Calliphora vicina	7373	DToL	redundant	species_already_represented
+OZ228901.1	Colias erate	72852	other	redundant	species_already_represented
+NC_008747.1	Oncorhynchus masou masou	90313	RefSeq	redundant	species_already_represented
+NC_008745.1	Oncorhynchus masou formosanus	173242	RefSeq	redundant	species_already_represented
+NC_009262.1	Oncorhynchus masou rhodurus	41164	RefSeq	redundant	species_already_represented
+OZ497792.1	Porites porites	104760	ATLASea	redundant	species_already_represented
+OZ350615.1	Colpophyllia natans	242718	other	redundant	species_already_represented
+OZ453043.1	Ixodes persulcatus	34615	other	redundant	species_already_represented
+OZ330420.1	Nautilus macromphalus	34576	ATLASea	redundant	species_already_represented
+NC_004901.2	Thunnus thynnus thynnus	8242	RefSeq	redundant	species_already_represented
+OZ004756.1	Thunnus thynnus	8237	Sanger/ToL-other	redundant	species_already_represented
+OZ124297.1	Anser anser	8843	DToL	redundant	species_already_represented
+NC_015357.1	Rhynchocypris lagowskii steindachneri	564076	RefSeq	redundant	species_already_represented
+NC_014891.1	Locusta migratoria manilensis	229990	RefSeq	redundant	species_already_represented
+NC_001712.1	Locusta migratoria migratorioides	7005	RefSeq	redundant	species_already_represented
+NC_015624.1	Locusta migratoria tibetensis	238696	RefSeq	redundant	species_already_represented
+OW159452.1	Meles meles	9662	DToL	redundant	species_already_represented
+OZ024901.1	Siderastrea radians	214988	other	redundant	species_already_represented
+OZ565410.1	Leiothrix argentauris	201335	Sanger/ToL-other	redundant	species_already_represented
+NC_012977.1	Argopecten irradians irradians	158587	RefSeq	redundant	species_already_represented
+OZ023154.1	Styela plicata	7726	other	redundant	species_already_represented
+OZ077216.1	Alburnus alburnus	54556	other	redundant	species_already_represented
+OY974110.1	Sardina pilchardus	27697	DToL	redundant	species_already_represented
+OZ418378.1	Astropecten polyacanthus	60560	ATLASea	redundant	species_already_represented
+NC_064683.1	Schistocerca gregaria	7010	RefSeq	redundant	species_already_represented
+OZ462977.1	Apatura ilia	461127	other	redundant	species_already_represented
+OZ297372.1	Botryllus schlosseri	30301	other	redundant	species_already_represented
+OZ556058.1	Istiompax indica	13603	other	redundant	species_already_represented
+OZ556173.1	Lagocephalus lunaris	204814	other	redundant	species_already_represented
+OZ276493.1	Flustra foliacea	478208	other	redundant	species_already_represented
+OZ004616.1	Ascidiella aspersa	201961	DToL	redundant	species_already_represented
+NC_012769.1	Eulemur fulvus mayottensis	27680	RefSeq	redundant	species_already_represented
+OZ238968.1	Platalea leucorodia	257867	DToL	redundant	species_already_represented
+OZ585968.1	Desmophyllum pertusum	174260	DToL	redundant	species_already_represented
+OZ497693.1	Phasianus colchicus	9054	DToL	redundant	species_already_represented
+OX457076.1	Hyperoodon ampullatus	48744	DToL	redundant	species_already_represented
+OZ004314.1	Culex pipiens	7175	Sanger/ToL-other	redundant	species_already_represented
+OZ077298.1	Lucinella divaricata	406540	other	redundant	species_already_represented
+OZ478227.1	Aplysia dactylomela	144766	ATLASea	redundant	species_already_represented
+NC_011118.1	Ursus thibetanus thibetanus	441215	RefSeq	redundant	species_already_represented
+NC_008753.1	Ursus thibetanus mupinensis	262110	RefSeq	redundant	species_already_represented
+NC_011117.1	Ursus thibetanus ussuricus	262111	RefSeq	redundant	species_already_represented
+NC_009971.1	Ursus thibetanus	9642	RefSeq	redundant	species_already_represented
+OZ556944.1	Pollachius virens	8060	other	redundant	species_already_represented
+OX465144.1	Pollachius pollachius	185739	DToL	redundant	species_already_represented
+OZ556057.1	Monacanthus chinensis	392921	other	redundant	species_already_represented
+OZ556000.1	Monacanthus chinensis	392921	other	redundant	species_already_represented
+OZ567480.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ567077.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ567016.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ556828.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ179199.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ179230.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ001139.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OZ001096.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OX090939.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+OX090971.1	Heterocephalus glaber	10181	other	redundant	species_already_represented
+NC_006532.1	Anguilla australis australis	86961	RefSeq	redundant	species_already_represented
+NC_006533.1	Anguilla australis schmidti	86962	RefSeq	redundant	species_already_represented
+LR990608.1	Pieris rapae	64459	DToL	redundant	species_already_represented
+OZ038521.1	Acanthosepion esculentum	31210	other	redundant	species_already_represented
+OZ556092.1	Paramonacanthus choirocephalus	392923	other	redundant	species_already_represented
+OZ556040.1	Paramonacanthus choirocephalus	392923	other	redundant	species_already_represented
+OZ555933.1	Paramonacanthus choirocephalus	392923	other	redundant	species_already_represented
+OZ555983.1	Paramonacanthus choirocephalus	392923	other	redundant	species_already_represented
+NC_010472.1	Brachionus plicatilis	10195	RefSeq	redundant	species_already_represented
+OZ333910.1	Falco tinnunculus	100819	DToL	redundant	species_already_represented
+OX442399.1	Gobio gobio	27704	DToL	redundant	species_already_represented
+OZ239476.1	Sminthurus viridis	109609	Sanger/ToL-other	redundant	species_already_represented
+OZ263305.1	Capros aper	206100	ATLASea	redundant	species_already_represented
+OX421841.1	Spirometra erinaceieuropaei	99802	other	redundant	species_already_represented
+OZ541379.1	Lutjanus russellii	232193	other	redundant	species_already_represented
+OZ541182.1	Lutjanus russellii	232193	other	redundant	species_already_represented
+OZ541172.1	Scobinichthys granulatus	392933	other	redundant	species_already_represented
+OZ555936.1	Chaetodermis penicilligerus	392913	other	redundant	species_already_represented
+OY848932.1	Xestospongia muta	178552	other	redundant	species_already_represented
+OZ541195.1	Melichthys vidua	392900	other	redundant	species_already_represented
+OZ567146.1	Clava multicornis	498518	DToL	redundant	species_already_represented
+NC_008106.1	Micropterus salmoides	27706	RefSeq	redundant	species_already_represented
+NC_014689.1	Micropterus salmoides floridanus	225391	RefSeq	redundant	species_already_represented
+OZ388177.1	Physeter macrocephalus	9755	DToL	redundant	species_already_represented
+OV839400.2	Astur gentilis	8957	DToL	redundant	species_already_represented
+OW387167.1	Barbus barbus	40830	DToL	redundant	species_already_represented
+OZ412449.1	Pagellus bogaraveo	98819	ATLASea	redundant	species_already_represented
+OZ546864.1	Gulo gulo gulo	2888764	other	redundant	species_already_represented
+OZ569283.1	Phoenicopterus roseus	435638	Sanger/ToL-other	redundant	species_already_represented
+NC_006914.1	Mus musculus domesticus	10092	RefSeq	redundant	species_already_represented
+NC_006915.1	Mus musculus molossinus	57486	RefSeq	redundant	species_already_represented
+NC_012387.1	Mus musculus castaneus	10091	RefSeq	redundant	species_already_represented
+NC_005089.1	Mus musculus	10090	RefSeq	redundant	species_already_represented
+OX439034.1	Mus musculus	10090	DToL	redundant	species_already_represented
+OX389814.1	Mus musculus	10090	other	redundant	species_already_represented
+OX390165.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971803.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971782.1	Mus musculus musculus	39442	other	redundant	species_already_represented
+OW971614.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971866.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971635.1	Mus musculus domesticus	10092	other	redundant	species_already_represented
+OW971656.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971572.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971593.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971824.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971761.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971740.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971719.1	Mus musculus	10090	other	redundant	species_already_represented
+OW971845.1	Mus musculus castaneus	10091	other	redundant	species_already_represented
+OW971677.1	Mus musculus molossinus	57486	other	redundant	species_already_represented
+OZ405236.1	Saccoglossus kowalevskii	10224	Sanger/ToL-other	redundant	species_already_represented
+OX103969.1	Schistosoma haematobium	6185	other	redundant	species_already_represented
+OX104052.1	Schistosoma haematobium	6185	other	redundant	species_already_represented
+OU953853.1	Nezara viridula	85310	other	redundant	species_already_represented
+OZ263159.1	Mytilus galloprovincialis	29158	DToL	redundant	species_already_represented
+OZ495041.1	Sepia officinalis	6610	other	redundant	species_already_represented
+OZ199190.1	Sepia officinalis	6610	other	redundant	species_already_represented
+OY741313.1	Chelon labrosus	48171	DToL	redundant	species_already_represented
+NC_011120.1	Gorilla gorilla gorilla	9595	RefSeq	redundant	species_already_represented
+OX460346.1	Rangifer tarandus platyrhynchus	3082113	other	redundant	species_already_represented
+OZ289228.1	Rangifer tarandus	9870	other	redundant	species_already_represented
+OZ223835.1	Cygnus columbianus	110926	DToL	redundant	species_already_represented
+OZ573912.1	Cygnus columbianus	110926	DToL	redundant	species_already_represented
+LR899122.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899130.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899132.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899128.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899125.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899127.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899126.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR899129.1	Ornithodoros porcinus	34594	other	redundant	species_already_represented
+LR962893.1	Bos taurus	9913	other	redundant	species_already_represented
+OY997260.1	Bos taurus	9913	other	redundant	species_already_represented
+LR962770.1	Bos taurus	9913	other	redundant	species_already_represented
+OZ004779.1	Phocoena phocoena	9742	DToL	redundant	species_already_represented
+OY720585.1	Octopus vulgaris	6645	other	redundant	species_already_represented
+OY757948.1	Sepioteuthis lessoniana	34570	other	redundant	species_already_represented
+OZ507651.1	Macroramphosus scolopax	206124	ATLASea	redundant	species_already_represented
+LS999407.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999106.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999105.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999104.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999103.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999102.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999101.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999100.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS999099.1	Gadus morhua	8049	other	redundant	species_already_represented
+LS997673.1	Gadus morhua	8049	other	redundant	species_already_represented
+OZ555820.1	Gadus morhua	8049	other	redundant	species_already_represented
+OZ555877.1	Merlangius merlangus	8058	other	redundant	species_already_represented
+NC_066908.1	Oncorhynchus clarkii	30962	RefSeq	redundant	species_already_represented
+OZ405945.1	Siphonaria pectinata	57642	other	redundant	species_already_represented
+OX459111.1	Metridium senile	6116	DToL	redundant	species_already_represented
+OD909592.1	Erpetoichthys calabaricus	27687	other	redundant	species_already_represented
+OZ282196.1	Uroteuthis edulis	55720	other	redundant	species_already_represented
+LR884235.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884215.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884208.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884202.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884192.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992628.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992611.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992610.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992606.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884217.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884213.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884210.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884201.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884194.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884193.1	Capra hircus	9925	other	redundant	species_already_represented
+LR025741.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992662.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992661.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992660.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992659.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992658.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992657.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992656.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992655.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992654.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992644.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992643.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992641.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992640.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992639.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992638.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992636.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992635.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992634.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992632.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992629.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992626.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992625.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992623.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992622.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992621.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992620.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992619.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992616.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992615.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992614.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992613.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992605.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992602.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992600.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992599.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992598.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992597.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992596.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992594.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992593.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992592.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992591.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992590.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992589.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992588.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992587.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992581.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992578.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992576.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884220.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884218.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884216.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884214.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884212.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884211.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884209.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884207.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884206.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884205.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884203.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884200.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884199.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884198.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884197.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884196.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884195.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884191.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992653.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992652.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992651.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992650.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992649.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992648.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992647.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992646.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992645.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992642.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992637.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992633.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992631.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992630.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992627.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992624.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992609.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992608.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992595.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992618.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992583.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992582.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992580.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992579.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884219.1	Capra hircus	9925	other	redundant	species_already_represented
+LR884204.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992586.1	Capra hircus	9925	other	redundant	species_already_represented
+LS992585.1	Capra hircus	9925	other	redundant	species_already_represented
+OZ522933.1	Libythea celtis	76239	other	redundant	species_already_represented
+OX392448.1	Clavelina lepadiformis	159417	DToL	redundant	species_already_represented
+OZ452631.1	Clavelina lepadiformis	159417	other	redundant	species_already_represented
+OY755157.1	Lymantria dispar	13123	DToL	redundant	species_already_represented
+OY783244.1	Symsagittifera roscoffensis	84072	other	redundant	species_already_represented
+OZ555839.1	Boreogadus saida	44932	other	redundant	species_already_represented
+OZ555855.1	Arctogadus glacialis	185735	other	redundant	species_already_represented
+NC_012899.1	Oncomelania hupensis hupensis	111462	RefSeq	redundant	species_already_represented
+NC_013073.1	Oncomelania hupensis	56141	RefSeq	redundant	species_already_represented
+NC_012920.1	Homo sapiens	9606	RefSeq	redundant	species_already_represented
+NC_011137.1	Homo sapiens neanderthalensis	63221	RefSeq	redundant	species_already_represented
+LS998770.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998752.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998727.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997869.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997710.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ583430.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560341.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560450.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998780.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998774.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998755.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998715.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997883.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997851.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997836.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997832.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997809.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997807.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997776.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997722.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ583366.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ579799.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560340.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998781.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998776.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998769.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998766.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998765.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998759.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998750.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998741.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998736.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998735.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998729.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998713.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998704.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998702.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997909.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997904.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997898.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997892.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997887.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997880.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997874.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997861.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997855.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997850.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997849.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997848.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997844.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997840.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997831.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997830.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997829.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997825.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997822.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997815.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997811.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997798.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997788.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997774.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997720.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997715.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997690.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997686.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ583356.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ579463.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ579462.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ576318.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ576317.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ576316.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ570436.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ567093.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ561974.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ561320.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560446.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560445.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560443.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ559369.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998761.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998748.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998745.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998739.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998730.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998726.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998723.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998716.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998714.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997907.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997906.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997900.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997896.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997891.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997888.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997886.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997885.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997877.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997875.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997873.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997871.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997866.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997862.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997859.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997852.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997847.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997846.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997845.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997842.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997837.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997835.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997828.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997820.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997812.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997803.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997713.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997706.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997689.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997680.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997676.1	Homo sapiens	9606	other	redundant	species_already_represented
+LR131170.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ583355.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ583116.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ575465.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ570859.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ570411.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ567094.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ560444.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998779.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998778.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998777.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998775.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998772.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998771.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998768.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998767.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998762.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998760.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998758.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998756.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998753.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998751.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998749.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998747.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998746.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998744.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998743.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998742.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998740.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998738.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998737.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998734.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998733.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998728.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998725.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998721.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998720.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998719.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998718.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998717.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998712.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998711.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998710.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998709.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998708.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998707.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998706.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998705.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998703.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998701.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997908.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997905.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997902.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997901.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997899.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997897.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997895.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997894.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997893.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997889.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997884.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997882.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997881.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997879.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997878.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997876.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997872.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997870.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997865.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997864.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997863.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997860.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997856.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997854.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997853.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997843.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997841.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997838.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997834.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997827.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997826.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997819.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997818.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997817.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997816.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997814.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997813.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997810.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997808.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997806.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997805.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997804.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997801.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997800.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997799.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997796.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997795.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997793.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997792.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997791.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997790.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997787.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997786.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997785.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997784.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997783.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997782.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997780.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997779.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997778.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997777.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997775.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997773.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997772.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997771.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997770.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997769.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997768.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997766.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997765.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997764.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997763.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997762.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997761.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997760.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997759.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997758.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997724.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997723.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997721.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997719.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997717.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997716.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997714.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997712.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997711.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997709.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997708.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997694.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997693.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997692.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997691.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997688.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997687.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997685.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997684.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997683.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997682.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997681.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997679.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997678.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997677.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997675.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997674.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT844545.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998764.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998763.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998757.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998724.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998722.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997890.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997858.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997839.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997824.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997823.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997802.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ569152.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998773.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998732.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997903.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997857.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997833.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997821.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997797.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997794.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997789.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997781.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT844546.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998754.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997718.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS998731.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997705.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997767.1	Homo sapiens	9606	other	redundant	species_already_represented
+LS997707.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721916.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721904.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721910.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721915.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721911.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721902.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719085.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719083.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719077.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721914.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721908.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719076.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719081.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT722641.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721918.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721917.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721913.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721912.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721909.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721907.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721906.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721905.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT721903.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719086.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719082.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719080.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719079.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719078.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719087.1	Homo sapiens	9606	other	redundant	species_already_represented
+LT719084.1	Homo sapiens	9606	other	redundant	species_already_represented
+OX398042.1	Homo sapiens	9606	other	redundant	species_already_represented
+OX397982.1	Homo sapiens	9606	other	redundant	species_already_represented
+OZ020318.1	Arcuatula senhousia	1954227	DToL	redundant	species_already_represented
+OZ499936.1	Ciconia ciconia	8928	DToL	redundant	species_already_represented
+OZ405070.1	Spicara maena	98823	ATLASea	redundant	species_already_represented
+OZ556187.1	Lethrinus obsoletus	182659	other	redundant	species_already_represented
+OZ559333.1	Diagramma pictum	556049	other	redundant	species_already_represented
+OZ541357.1	Saurida undosquamis	143315	other	redundant	species_already_represented
+OZ556192.1	Saurida undosquamis	143315	other	redundant	species_already_represented
+OZ556228.1	Lutjanus argentimaculatus	211834	other	redundant	species_already_represented
+OZ555971.1	Lutjanus argentimaculatus	211834	other	redundant	species_already_represented
+OZ076858.1	Podarcis siculus	65484	Sanger/ToL-other	redundant	species_already_represented
+OZ223910.1	Eretmochelys imbricata	27787	other	redundant	species_already_represented
+OZ541377.1	Chiloscyllium punctatum	137246	other	redundant	species_already_represented
+OZ123764.1	Triturus cristatus	8323	DToL	redundant	species_already_represented
+OZ499777.1	Garrulus glandarius	56783	DToL	redundant	species_already_represented
+OZ346504.1	Trionyx triunguis	101491	other	redundant	species_already_represented
+OZ541201.1	Thunnus obesus	8241	other	redundant	species_already_represented
+OZ555967.1	Thunnus obesus	8241	other	redundant	species_already_represented
+OU607616.1	Thunnus albacares	8236	DToL	redundant	species_already_represented
+OZ556115.1	Thunnus albacares	8236	other	redundant	species_already_represented
+OZ556091.1	Thunnus albacares	8236	other	redundant	species_already_represented
+OZ555969.1	Thunnus albacares	8236	other	redundant	species_already_represented
+OZ565597.1	Threskiornis aethiopicus	100858	Sanger/ToL-other	redundant	species_already_represented
+OZ556147.1	Abudefduf vaigiensis	192871	other	redundant	species_already_represented
+OZ558952.1	Olisthops cyanomelas	1605466	other	redundant	species_already_represented
+OZ034745.1	Pocillopora grandis	2759717	other	redundant	species_already_represented
+OZ123175.1	Pocillopora damicornis	46731	other	redundant	species_already_represented
+OX382170.1	Oscarella lobularis	121494	other	redundant	species_already_represented
+OZ281502.1	Phallusia mammillata	59560	DToL	redundant	species_already_represented
+OZ556241.1	Microcanthus strigatus	163146	other	redundant	species_already_represented
+OY978274.1	Scophthalmus maximus	52904	DToL	redundant	species_already_represented
+OZ123739.1	Bombina variegata	8348	Sanger/ToL-other	redundant	species_already_represented
+OY725689.1	Camelus dromedarius	9838	other	redundant	species_already_represented
+OY725547.1	Camelus dromedarius	9838	other	redundant	species_already_represented
+OY725701.1	Camelus dromedarius	9838	other	redundant	species_already_represented
+OY725706.1	Camelus dromedarius	9838	other	redundant	species_already_represented
+OZ541189.1	Zanclus cornutus	75044	other	redundant	species_already_represented
+OZ243835.1	Philanthus triangulum	280486	DToL	redundant	species_already_represented
+OY970755.1	Magallana gigas	29159	DToL	redundant	species_already_represented
+OZ556176.1	Monotaxis grandoculis	384591	other	redundant	species_already_represented
+OZ556037.1	Monotaxis grandoculis	384591	other	redundant	species_already_represented
+OZ259210.1	Falco peregrinus	8954	DToL	redundant	species_already_represented
+NC_015360.1	Rhynchocypris percnurus	219678	RefSeq	redundant	species_already_represented
+NC_015362.1	Rhynchocypris percnurus sachalinensis	319226	RefSeq	redundant	species_already_represented
+OZ259446.1	Trichostrongylus axei	40349	Sanger/ToL-other	redundant	species_already_represented
+OZ077016.1	Anas platyrhynchos	8839	DToL	redundant	species_already_represented
+OZ574275.1	Anas platyrhynchos	8839	DToL	redundant	species_already_represented
+OZ556168.1	Eubalichthys mosaicus	392919	other	redundant	species_already_represented
+OZ210642.1	Phallusia fumigata	395376	ATLASea	redundant	species_already_represented
+OZ579873.1	Scomber colias	338315	ATLASea	redundant	species_already_represented
+OZ556256.1	Scomber australasicus	29150	other	redundant	species_already_represented
+OZ556097.1	Scomber japonicus	13676	other	redundant	species_already_represented
+OZ005797.1	Helicoverpa armigera	29058	DToL	redundant	species_already_represented
+OZ502215.1	Pica pica	34924	DToL	redundant	species_already_represented
+OY725546.1	Camelus bactrianus	9837	other	redundant	species_already_represented
+OY725624.1	Camelus bactrianus	9837	other	redundant	species_already_represented
+OY725676.1	Camelus bactrianus	9837	other	redundant	species_already_represented
+OY725711.1	Camelus bactrianus	9837	other	redundant	species_already_represented
+OY725543.1	Camelus bactrianus	9837	other	redundant	species_already_represented
+OY725392.1	Camelus bactrianus	9837	other	redundant	species_already_represented
+OZ556005.1	Anyperodon leucogrammicus	160702	other	redundant	species_already_represented
+OZ238845.1	Haliotis tuberculata	36103	ATLASea	redundant	species_already_represented
+OZ245321.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245320.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245319.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245318.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245317.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245316.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245315.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245314.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245313.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245311.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245310.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245308.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245307.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245306.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245304.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245303.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245302.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245300.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245299.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245298.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245297.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245296.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245295.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245294.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245293.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245292.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245291.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245290.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245289.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245288.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245287.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245286.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245285.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245284.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245283.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245281.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245280.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245279.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245276.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245275.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245274.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245273.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245272.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ245271.1	Ovis aries	9940	other	redundant	species_already_represented
+OZ493049.1	Ixodes uriae	59655	other	redundant	species_already_represented
+LR899135.1	Ornithodoros moubata	6938	other	redundant	species_already_represented
+LR899136.1	Ornithodoros moubata	6938	other	redundant	species_already_represented
+LR899134.1	Ornithodoros moubata	6938	other	redundant	species_already_represented
+LR899133.1	Ornithodoros moubata	6938	other	redundant	species_already_represented
+LR899123.1	Ornithodoros moubata	6938	other	redundant	species_already_represented
+OZ079796.1	Triatoma dimidiata	72491	DToL	redundant	species_already_represented
+OZ286059.1	Aplysina cauliformis	289398	other	redundant	species_already_represented
+OZ038006.1	Porites rus	262591	other	redundant	species_already_represented
+OZ284400.1	Tetranychus urticae	32264	DToL	redundant	species_already_represented
+OZ581577.1	Ophiura albida	72672	DToL	redundant	species_already_represented
+OZ206131.1	Antedon mediterranea	105859	ATLASea	redundant	species_already_represented
+OZ556060.1	Istiophorus platypterus	13575	other	redundant	species_already_represented
+OZ556011.1	Xiphias gladius	8245	other	redundant	species_already_represented
+OZ555949.1	Xiphias gladius	8245	other	redundant	species_already_represented
+OZ556850.1	Arothron hispidus	300221	other	redundant	species_already_represented
+OZ556133.1	Lagocephalus sceleratus	229057	other	redundant	species_already_represented
+OZ555918.1	Lagocephalus sceleratus	229057	other	redundant	species_already_represented
+OZ555954.1	Lagocephalus sceleratus	229057	other	redundant	species_already_represented
+OZ501422.1	Otis tarda	73107	DToL	redundant	species_already_represented
+OZ555965.1	Ranzania laevis	215407	other	redundant	species_already_represented
+OZ556116.1	Ranzania laevis	215407	other	redundant	species_already_represented
+OZ555985.1	Ranzania laevis	215407	other	redundant	species_already_represented
+OZ541194.1	Ranzania laevis	215407	other	redundant	species_already_represented
+LR824131.1	Denticeps clupeoides	299321	other	redundant	species_already_represented
+OZ574356.1	Branta canadensis	8853	DToL	redundant	species_already_represented
+OZ246752.1	Branta canadensis	8853	DToL	redundant	species_already_represented
+OZ174341.1	Thermobia domestica	89055	DToL	redundant	species_already_represented
+OZ541212.1	Enoplosus armatus	215367	other	redundant	species_already_represented
+OZ541369.1	Enoplosus armatus	215367	other	redundant	species_already_represented
+OX465372.1	Balaenoptera acutorostrata	9767	DToL	redundant	species_already_represented
+OZ556119.1	Balaenoptera acutorostrata	9767	other	redundant	species_already_represented
+OX063315.1	Danio rerio	7955	Sanger/ToL-other	redundant	species_already_represented
+LR822066.1	Danio rerio	7955	other	redundant	species_already_represented
+OZ239533.1	Balaenoptera physalus	9770	DToL	redundant	species_already_represented
+OX457054.1	Lumbricus terrestris	6398	DToL	redundant	species_already_represented
+NC_011221.1	Hydra vulgaris	6087	RefSeq	redundant	species_already_represented
+OZ077416.1	Talpa europaea	9375	DToL	redundant	species_already_represented
+OZ493046.1	Ixodes hexagonus	34612	other	redundant	species_already_represented
+LR822068.1	Sciurus vulgaris	55149	other	redundant	species_already_represented
+OZ499736.1	Corvus frugilegus	75140	DToL	redundant	species_already_represented
+OZ555959.1	Petroscirtes breviceps	57847	other	redundant	species_already_represented
+OZ556034.1	Sufflamen fraenatum	181478	other	redundant	species_already_represented
+OZ110990.1	Lampetra fluviatilis	7748	DToL	redundant	species_already_represented
+OZ076437.1	Myxine glutinosa	7769	DToL	redundant	species_already_represented
+OZ182204.1	Coregonus lavaretus	59291	DToL	redundant	species_already_represented
+OZ038432.1	Heterorhabditis bacteriophora	37862	other	redundant	species_already_represented
+NC_008491.1	Muntiacus reevesi micrurus	256803	RefSeq	redundant	species_already_represented
+OZ005647.2	Muntiacus reevesi	9886	DToL	redundant	species_already_represented
+LR536429.1	Hymenolepis diminuta	6216	other	redundant	species_already_represented
+OZ076974.1	Podarcis muralis	64176	Sanger/ToL-other	redundant	species_already_represented
+OZ030030.1	Apodemus agrarius	39030	other	redundant	species_already_represented
+OZ076953.1	Buteo buteo	30397	DToL	redundant	species_already_represented
+NC_010642.1	Panthera tigris	9694	RefSeq	redundant	species_already_represented
+OZ376517.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376542.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376559.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376536.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376575.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376527.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376642.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376573.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376557.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376532.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376655.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376641.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376522.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376524.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376631.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376615.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376654.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376519.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376596.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376560.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376640.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376579.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376621.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376662.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376529.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376599.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376646.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376648.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376610.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376609.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376564.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376628.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376624.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376620.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376625.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376622.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376619.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376577.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376608.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376653.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376639.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376606.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376603.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376656.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376634.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376540.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376569.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376632.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376647.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376636.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376598.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376635.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376526.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376612.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376616.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376541.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376520.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376644.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376605.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376594.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376626.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376611.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376623.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376595.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376590.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376627.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376664.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376600.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376568.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376546.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376637.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376652.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376602.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376638.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376549.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376561.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376555.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376550.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376580.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376566.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376585.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376659.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376525.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376545.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376533.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376629.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376645.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376665.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376660.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376565.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376592.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376581.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376643.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376633.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376613.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376583.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376521.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376576.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376614.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376604.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376535.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376586.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376516.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376617.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376538.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376663.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376588.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376584.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376523.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376574.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376530.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376570.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376572.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376567.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376518.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376618.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376630.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376593.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376571.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376553.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376661.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376607.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376650.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376649.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376554.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376578.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376651.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376589.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376582.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376657.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376539.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376534.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ376544.1	Ascaris lumbricoides	6252	other	redundant	species_already_represented
+OZ392265.1	Orchesella cincta	48709	DToL	redundant	species_already_represented
+OZ414000.1	Orchesella cincta	48709	DToL	redundant	species_already_represented
+OZ364656.1	Ephydatia muelleri	6052	other	redundant	species_already_represented
+OZ179923.1	Ephydatia muelleri	6052	other	redundant	species_already_represented
+LT158504.1	Ephydatia muelleri	6052	other	redundant	species_already_represented
+OZ123639.1	Stylophora pistillata	50429	other	redundant	species_already_represented
+OZ476189.1	Acanthocheilonema viteae	6277	Sanger/ToL-other	redundant	species_already_represented
+OX453288.1	Ricordea florida	165100	other	redundant	species_already_represented
+OZ418192.1	Romanomermis nielseni	416167	Sanger/ToL-other	redundant	species_already_represented
+OZ175178.1	Gallinula chloropus	9123	DToL	redundant	species_already_represented
+OZ067330.1	Vulpes vulpes	9627	DToL	redundant	species_already_represented
+OZ472351.1	Antillogorgia bipinnata	1499518	other	redundant	species_already_represented
+NC_015241.1	Alexandromys fortis fortis	3241091	RefSeq	redundant	species_already_represented
+NC_015243.1	Alexandromys fortis calamorum	3241090	RefSeq	redundant	species_already_represented
+OZ566522.1	Mystacina tuberculata	94961	other	redundant	species_already_represented
+OZ507593.1	Nessorhamphus ingolfianus	189506	ATLASea	redundant	species_already_represented
+OZ500669.1	Spinus spinus	160760	DToL	redundant	species_already_represented
+OX485834.1	Erinaceus europaeus	9365	DToL	redundant	species_already_represented
+NC_013989.1	Hypsiglena chlorophaea deserticola	427717	RefSeq	redundant	species_already_represented
+OZ376562.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376528.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376597.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376563.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376556.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376601.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376531.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376552.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376537.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376591.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376547.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376551.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376543.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376548.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376587.1	Ascaris suum	6253	other	redundant	species_already_represented
+OZ376558.1	Ascaris suum	6253	other	redundant	species_already_represented
+NC_013983.1	Hypsiglena ochrorhyncha nuchalata	427719	RefSeq	redundant	species_already_represented
+NC_013984.1	Hypsiglena ochrorhyncha klauberi	509074	RefSeq	redundant	species_already_represented
+OZ556076.1	Aluterus scriptus	303710	other	redundant	species_already_represented
+OZ556105.1	Seriola lalandi	302047	other	redundant	species_already_represented
+OZ556020.1	Seriola lalandi	302047	other	redundant	species_already_represented
+OZ555932.1	Seriola lalandi	302047	other	redundant	species_already_represented
+OZ556156.1	Auxis thazard	13353	other	redundant	species_already_represented
+NC_008642.1	Rhodeus ocellatus kurumeus	80800	RefSeq	redundant	species_already_represented
+OZ034961.1	Micromesistius poutassou	81636	DToL	redundant	species_already_represented
+OY729849.1	Corticium candelabrum	121492	other	redundant	species_already_represented
+OZ308545.1	Orchesella villosa	48706	Sanger/ToL-other	redundant	species_already_represented
+OZ174019.1	Cassiopea xamachana	12993	other	redundant	species_already_represented
+NC_015142.1	Carassius auratus ssp. 'Pingxiang'	763460	RefSeq	redundant	species_already_represented
+OZ556088.1	Megaptera novaeangliae	9773	other	redundant	species_already_represented
+OZ556846.1	Megaptera novaeangliae	9773	other	redundant	species_already_represented
+OZ556094.1	Megaptera novaeangliae	9773	other	redundant	species_already_represented
+OZ556186.1	Megaptera novaeangliae	9773	other	redundant	species_already_represented
+OZ239556.1	Balaenoptera borealis	9768	DToL	redundant	species_already_represented
+OZ349079.1	Orbicella annularis	48500	other	redundant	species_already_represented
+OX336422.1	Schistosoma spindalis	6189	other	redundant	species_already_represented
+OZ568232.1	Dirofilaria immitis	6287	Sanger/ToL-other	redundant	species_already_represented
+OZ570950.1	Dirofilaria immitis	6287	Sanger/ToL-other	redundant	species_already_represented
+OZ116713.1	Orbicella franksi	48499	other	redundant	species_already_represented
+OU815707.1	Diatraea saccharalis	40085	other	redundant	species_already_represented
+OZ362861.1	Briareum asbestinum	86543	other	redundant	species_already_represented
+OZ478074.1	Diodon holocanthus	229062	ATLASea	redundant	species_already_represented
+OY734038.1	Plecotus auritus	61862	DToL	redundant	species_already_represented
+OZ556140.1	Seriola dumerili	41447	other	redundant	species_already_represented
+OZ556145.1	Lutjanus malabaricus	218797	other	redundant	species_already_represented
+OZ556004.1	Lutjanus malabaricus	218797	other	redundant	species_already_represented
+OZ541203.1	Lutjanus sebae	232192	other	redundant	species_already_represented
+OZ556014.1	Lutjanus sebae	232192	other	redundant	species_already_represented
+OZ541364.1	Lutjanus sebae	232192	other	redundant	species_already_represented
+OZ555977.1	Lutjanus sebae	232192	other	redundant	species_already_represented
+OZ556215.1	Lutjanus sebae	232192	other	redundant	species_already_represented
+OZ296906.1	Strongylocentrotus droebachiensis	7671	other	redundant	species_already_represented
+OZ556213.1	Beryx decadactylus	107241	other	redundant	species_already_represented
+OD909593.1	Rhinatrema bivittatum	194408	other	redundant	species_already_represented
+OD909576.1	Takifugu rubripes	31033	other	redundant	species_already_represented
+OU815654.1	Bemisia tabaci	7038	other	redundant	species_already_represented
+OZ480772.1	Paracentrotus lividus	7656	ATLASea	redundant	species_already_represented
+OZ454177.1	Cinachyrella kuekenthali	458489	other	redundant	species_already_represented
+OX596408.1	Stenella coeruleoalba	9737	DToL	redundant	species_already_represented
+OZ286001.1	Cooperia oncophora	27828	Sanger/ToL-other	redundant	species_already_represented
+OZ555641.1	Phoca vitulina	9720	DToL	redundant	species_already_represented
+OZ210076.1	Halichoerus grypus	9711	DToL	redundant	species_already_represented
+OZ206336.1	Grampus griseus	83653	DToL	redundant	species_already_represented
+OZ194976.1	Astrospartus mediterraneus	691888	ATLASea	redundant	species_already_represented
+OZ194975.1	Astrospartus mediterraneus	691888	ATLASea	redundant	species_already_represented
+OZ286335.1	Echinocardium cordatum	39298	DToL	redundant	species_already_represented
+OZ546795.1	Holothuria forskali	72674	DToL	redundant	species_already_represented
+OZ493004.1	Glis glis	41261	DToL	redundant	species_already_represented
+OZ076748.1	Branchiostoma lanceolatum	7740	DToL	redundant	species_already_represented
+OZ175206.1	Oryctolagus cuniculus	9986	DToL	redundant	species_already_represented
+OZ580477.1	Tritia reticulata	1934738	DToL	redundant	species_already_represented
+OZ222339.1	Bolinus brandaris	179646	ATLASea	redundant	species_already_represented
+OX438562.1	Pungitius pungitius	134920	DToL	redundant	species_already_represented
+NC_061413.1	Papio hamadryas hamadryas	9562	RefSeq	redundant	species_already_represented
+OZ541335.1	Mugil cephalus	48193	other	redundant	species_already_represented
+OZ564369.1	Beryx splendens	88663	ATLASea	redundant	species_already_represented
+OY829942.1	Scomber scombrus	13677	DToL	redundant	species_already_represented
+OZ557920.1	Lota lota	69944	other	redundant	species_already_represented
+OZ007585.1	Onchidella celtica	36933	DToL	redundant	species_already_represented
+OZ564253.1	Pusa hispida	9718	DToL	redundant	species_already_represented
+LR991652.1	Trachurus trachurus	36212	DToL	redundant	species_already_represented
+OZ556023.1	Caranx melampygus	181461	other	redundant	species_already_represented
+OZ555952.1	Caranx melampygus	181461	other	redundant	species_already_represented
+OX365791.1	Biomphalaria glabrata	6526	Sanger/ToL-other	redundant	species_already_represented
+OY735306.1	Sprattus sprattus	196075	DToL	redundant	species_already_represented
+OY720518.1	Carassius carassius	217509	DToL	redundant	species_already_represented
+OZ556179.1	Plectropomus leopardus	160734	other	redundant	species_already_represented
+OZ556205.1	Plectropomus leopardus	160734	other	redundant	species_already_represented
+OZ555995.1	Plectropomus leopardus	160734	other	redundant	species_already_represented
+OZ555938.1	Plectropomus leopardus	160734	other	redundant	species_already_represented
+OZ541384.1	Plectropomus leopardus	160734	other	redundant	species_already_represented
+HE601612.2	Schistosoma mansoni	6183	other	redundant	species_already_represented
+OU343215.1	Thunnus maccoyii	8240	other	redundant	species_already_represented
+OZ568073.1	Arenaria interpres	54971	DToL	redundant	species_already_represented
+OZ556212.1	Pangasianodon gigas	30993	other	redundant	species_already_represented
+OX235269.1	Trichobilharzia regenti	157069	other	redundant	species_already_represented
+OZ556099.1	Scatophagus argus	75038	other	redundant	species_already_represented
+OY735173.1	Cyclopterus lumpus	8103	DToL	redundant	species_already_represented
+OZ556194.1	Rastrelliger kanagurta	70446	other	redundant	species_already_represented
+OZ495806.1	Strix aluco	111821	DToL	redundant	species_already_represented
+OZ025225.1	Anthopleura xanthogrammica	6112	other	redundant	species_already_represented
+OZ360259.1	Torpedo marmorata	7788	ATLASea	redundant	species_already_represented
+OZ245659.1	Pagrus pagrus	8173	DToL	redundant	species_already_represented
+NC_064181.1	Leontocebus fuscicollis	9487	RefSeq	redundant	species_already_represented
+NC_064184.1	Sapajus apella	9515	RefSeq	redundant	species_already_represented
+OZ077398.1	Spermophilus citellus	9997	Sanger/ToL-other	redundant	species_already_represented
+LR994576.1	Syritta pipiens	34682	DToL	redundant	species_already_represented
+OZ387131.1	Lepas anatifera	37710	DToL	redundant	species_already_represented
+OZ475337.1	Anopheles aquasalis	42839	Sanger/ToL-other	redundant	species_already_represented
+OZ475428.1	Anopheles darlingi	43151	Sanger/ToL-other	redundant	species_already_represented
+OZ568355.1	Macrosiphum rosae	44659	other	redundant	species_already_represented
+OZ432430.1	Dermacentor marginatus	49202	other	redundant	species_already_represented
+OZ453042.1	Haemaphysalis punctata	49204	other	redundant	species_already_represented
+OX392546.1	Mimachlamys varia	50417	DToL	redundant	species_already_represented
+OZ556267.1	Dascyllus trimaculatus	50790	other	redundant	species_already_represented
+OZ556269.1	Dascyllus trimaculatus	50790	other	redundant	species_already_represented
+LR991018.1	Mamestra brassicae	55057	DToL	redundant	species_already_represented
+OZ306008.1	Acrolepiopsis assectella	57686	other	redundant	species_already_represented
+OZ475382.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ475328.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ475265.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ475440.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ475378.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ475279.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ475284.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OZ482609.1	Anopheles funestus	62324	Sanger/ToL-other	redundant	species_already_represented
+OY482867.1	Zeus faber	64108	DToL	redundant	species_already_represented
+OZ556218.1	Zeus faber	64108	other	redundant	species_already_represented
+OZ556193.1	Zeus faber	64108	other	redundant	species_already_represented
+OZ417656.1	Ixodes simplex	65648	other	redundant	species_already_represented
+OZ202555.1	Sepiola affinis	70192	other	redundant	species_already_represented
+OZ222674.1	Sepietta obscura	84402	other	redundant	species_already_represented
+OZ208168.1	Mythimna unipuncta	103831	other	redundant	species_already_represented
+LR990014.2	Nymphalis urticae	111881	DToL	redundant	species_already_represented
+OZ249401.1	Gigantidas childressi	3051952	other	redundant	species_already_represented
+OZ297319.1	Cordulegaster boltonii	126173	DToL	redundant	species_already_represented
+OZ556033.1	Tylosurus crocodilus	129077	other	redundant	species_already_represented
+OZ022226.1	Aleochara curtula	135881	DToL	redundant	species_already_represented
+OZ455258.1	Doratura stylata	139543	DToL	redundant	species_already_represented
+OX638137.1	Dryomyza anilis	169445	DToL	redundant	species_already_represented
+OZ182942.1	Argynnis paphia	171802	other	redundant	species_already_represented
+OZ556080.1	Acanthurus triostegus	175435	other	redundant	species_already_represented
+OZ413071.1	Raja undulata	182855	ATLASea	redundant	species_already_represented
+OZ555979.1	Rhynchobatus djiddensis	195333	other	redundant	species_already_represented
+OY804591.1	Bathymodiolus brooksi	206348	other	redundant	species_already_represented
+OZ075093.1	Parnassius mnemosyne	213953	other	redundant	species_already_represented
+OW052085.1	Phragmatobia fuliginosa	214311	DToL	redundant	species_already_represented
+OX465447.1	Agrotis exclamationis	215162	DToL	redundant	species_already_represented
+OZ541334.1	Epinephelus polyphekadion	241181	other	redundant	species_already_represented
+OZ556032.1	Epinephelus polyphekadion	241181	other	redundant	species_already_represented
+OZ271892.1	Harpalus anxius	247284	DToL	redundant	species_already_represented
+OX276451.1	Abrostola triplasia	254365	DToL	redundant	species_already_represented
+OZ352973.1	Mylabris quadripunctata	268458	other	redundant	species_already_represented
+OX465476.1	Chionomys nivalis	269649	Sanger/ToL-other	redundant	species_already_represented
+OZ321166.1	Helobdella europaea	270691	other	redundant	species_already_represented
+OZ317477.1	Helobdella europaea	270691	other	redundant	species_already_represented
+OZ374031.1	Aporrectodea caliginosa	302032	DToL	redundant	species_already_represented
+OZ541374.1	Parupeneus indicus	334904	other	redundant	species_already_represented
+OZ541349.1	Parupeneus indicus	334904	other	redundant	species_already_represented
+OZ257493.1	Amara ovata	346692	DToL	redundant	species_already_represented
+OZ373892.1	Serranus scriba	349661	ATLASea	redundant	species_already_represented
+FR997856.1	Schrankia costaestrigalis	411963	DToL	redundant	species_already_represented
+OZ556232.1	Upeneus sulphureus	435238	other	redundant	species_already_represented
+OZ556072.1	Aphareus rutilans	443676	other	redundant	species_already_represented
+OZ556064.1	Aphareus rutilans	443676	other	redundant	species_already_represented
+OZ485534.1	Crambus perlellus	687067	DToL	redundant	species_already_represented
+OZ488441.1	Achroia grisella	688607	DToL	redundant	species_already_represented
+OZ247900.1	Acronicta rumicis	753146	DToL	redundant	species_already_represented
+OZ205108.1	Earias clorana	753175	DToL	redundant	species_already_represented
+OY982948.1	Pyrrhia umbra	753223	DToL	redundant	species_already_represented
+OY720324.1	Philonthus spinipes	878362	DToL	redundant	species_already_represented
+OZ020603.1	Notolepis coatsorum	948063	DToL	redundant	species_already_represented
+OU745274.1	Xestia c-nigrum	987431	DToL	redundant	species_already_represented
+OX376674.1	Melanchra persicariae	987979	DToL	redundant	species_already_represented
+OZ541395.1	Inegocia japonica	1230726	other	redundant	species_already_represented
+OZ541345.1	Inegocia japonica	1230726	other	redundant	species_already_represented
+OZ475261.1	Anopheles marshallii	1521116	Sanger/ToL-other	redundant	species_already_represented
+OZ306278.1	Xylophaga dorsalis	1526741	other	redundant	species_already_represented
+OZ319321.1	Diamesa tonsa	1751538	other	redundant	species_already_represented
+OZ493048.1	Rhipicephalus rutilus	2138176	other	redundant	species_already_represented
+OZ060510.1	Eumandya parva	2302672	other	redundant	species_already_represented
+OZ502644.1	Tropidia scita	2719100	DToL	redundant	species_already_represented
+OX122888.1	Eristalinus sepulchralis	2725509	DToL	redundant	species_already_represented
+OX621267.1	Pseudoips prasinana	2758353	DToL	redundant	species_already_represented
+OZ179961.1	Eunicella verrucosa	396355	other	redundant	species_already_represented
+OZ197028.1	Eunicella verrucosa	396355	ATLASea	redundant	species_already_represented
+OZ497581.1	Gymnothorax miliaris	584627	ATLASea	redundant	species_already_represented
+OX457123.1	Deilephila elpenor	283834	DToL	redundant	species_already_represented
+OZ249384.1	Palythoa caribaeorum	134933	other	redundant	species_already_represented
+LR632920.1	Marmota monax	9995	other	redundant	species_already_represented
+OZ370438.1	Alviniconcha kojimai	1491185	other	redundant	species_already_represented
+OY757559.1	Alviniconcha strummeri	1472349	other	redundant	species_already_represented
+LR824036.1	Acipenser ruthenus	7906	other	redundant	species_already_represented
+OY759276.1	Lamellibrachia columna	53616	other	redundant	species_already_represented
+OZ218097.1	Lamellibrachia barhami	53613	other	redundant	species_already_represented
+OZ457380.1	Perforatus perforatus	1562161	DToL	redundant	species_already_represented
+OZ557804.1	Prunella modularis	181117	DToL	redundant	species_already_represented
+OZ200720.1	Endromis versicolora	119269	DToL	redundant	species_already_represented
+OZ345477.1	Canthigaster rostrata	303740	ATLASea	redundant	species_already_represented
+OZ413088.1	Acanthurus tractus	1316013	ATLASea	redundant	species_already_represented
+OZ004336.1	Pelagia noctiluca	400838	other	redundant	species_already_represented
+OZ499600.1	Chloris chloris	37601	DToL	redundant	species_already_represented
+OZ556065.1	Turrum fulvoguttatum	3040460	other	redundant	species_already_represented
+OZ556087.1	Albula vulpes	54909	other	redundant	species_already_represented
+OZ555935.1	Gephyroberyx darwinii	334984	other	redundant	species_already_represented
+OY660888.1	Xyrichtys novacula	13765	other	redundant	species_already_represented
+LT999970.1	Baronia brevicornis	132695	other	redundant	species_already_represented
+OZ505748.1	Halistemma rubrum	316183	ATLASea	redundant	species_already_represented
+OX403621.1	Meliscaeva auricollis	431829	DToL	redundant	species_already_represented
+OZ360345.1	Monacanthus ciliatus	303715	ATLASea	redundant	species_already_represented
+OZ391880.1	Sphinx ligustri	470732	DToL	redundant	species_already_represented
+OZ035980.1	Acropora cervicornis	6130	other	redundant	species_already_represented
+OZ475226.1	Anopheles gambiae	7165	Sanger/ToL-other	redundant	species_already_represented
+OZ475342.1	Anopheles gambiae	7165	Sanger/ToL-other	redundant	species_already_represented
+OZ475275.1	Anopheles gambiae	7165	Sanger/ToL-other	redundant	species_already_represented
+OZ475332.1	Anopheles gambiae	7165	Sanger/ToL-other	redundant	species_already_represented
+OZ475270.1	Anopheles gambiae	7165	Sanger/ToL-other	redundant	species_already_represented
+OX621305.2	Cnephaeus nilssonii	3371016	DToL	redundant	species_already_represented
+OZ512169.1	Argyresthia conjugella	687015	other	redundant	species_already_represented
+OV121127.2	Nemurella pictetii	143722	DToL	redundant	species_already_represented
+OZ541211.1	Galeorhinus galeus	86063	other	redundant	species_already_represented
+OZ556074.1	Galeorhinus galeus	86063	other	redundant	species_already_represented
+LR877884.1	Pealius mori	1453199	other	redundant	species_already_represented
+OZ453045.1	Rhipicephalus bursa	67831	other	redundant	species_already_represented
+OZ376863.1	Abudefduf saxatilis	50731	ATLASea	redundant	species_already_represented
+OZ176708.1	Coccus hesperidum	538890	DToL	redundant	species_already_represented
+OZ210096.1	Phyllodoce medipapillata	868040	other	redundant	species_already_represented
+OZ362906.1	Cephalopholis fulva	160705	ATLASea	redundant	species_already_represented
+OZ465042.1	Epinephelus marginatus	179535	ATLASea	redundant	species_already_represented
+OZ362931.1	Ocyurus chrysurus	40499	ATLASea	redundant	species_already_represented
+OZ555940.1	Polyprion americanus	112728	other	redundant	species_already_represented
+OZ387669.1	Polyprion americanus	112728	ATLASea	redundant	species_already_represented
+OZ556238.1	Pagrus auratus	75562	other	redundant	species_already_represented
+OZ559342.1	Pagrus auratus	75562	other	redundant	species_already_represented
+OZ574399.1	Clangula hyemalis	197941	DToL	redundant	species_already_represented
+OZ022467.1	Clangula hyemalis	197941	DToL	redundant	species_already_represented
+OY755124.1	Maniola hyperantus	2795564	DToL	redundant	species_already_represented
+OZ568724.1	Hipposideros caffer	302402	other	redundant	species_already_represented
+OZ568723.1	Hipposideros caffer	302402	other	redundant	species_already_represented
+OZ242163.2	Pipistrellus pipistrellus	59474	DToL	redundant	species_already_represented
+LR862378.1	Pipistrellus pipistrellus	59474	other	redundant	species_already_represented
+OZ574199.1	Bucephala clangula	107022	DToL	redundant	species_already_represented
+OZ037774.1	Bugula neritina	10212	DToL	redundant	species_already_represented
+OZ574035.1	Larus argentatus	35669	DToL	redundant	species_already_represented
+OZ537578.1	Stenoptilia pterodactyla	1594347	other	redundant	species_already_represented
+OZ494783.1	Oxypteryx atrella	3112342	DToL	redundant	species_already_represented
+OZ482116.1	Xestia triangulum	988048	DToL	redundant	species_already_represented
+OZ256585.1	Gobius paganellus	85418	ATLASea	redundant	species_already_represented
+OZ558173.1	Sebastes mentella	394696	other	redundant	species_already_represented
+OZ416045.1	Botrylloides diegensis	62933	ATLASea	redundant	species_already_represented
+OZ492281.1	Mechanitis lysimnia	471059	Sanger/ToL-other	redundant	species_already_represented
+OZ275933.1	Mechanitis lysimnia macrinus	651044	Sanger/ToL-other	redundant	species_already_represented
+OZ240204.1	Mechanitis polymnia	127245	Sanger/ToL-other	redundant	species_already_represented
+OZ218812.1	Mechanitis polymnia	127245	Sanger/ToL-other	redundant	species_already_represented
+OZ483741.1	Sitobion fragariae	44665	DToL	redundant	species_already_represented
+OZ477172.1	Smerinthus ocellatus	3112358	DToL	redundant	species_already_represented
+OZ060883.1	Phyllaphis fagi	935663	other	redundant	species_already_represented
+OX451350.1	Myopa testacea	2867102	DToL	redundant	species_already_represented
+OZ454154.1	Cenopis cana	2566676	other	redundant	species_already_represented
+OU815794.1	Phaedon cochleariae	80249	other	redundant	species_already_represented
+OY757235.1	Drosophila immigrans	7250	Sanger/ToL-other	redundant	species_already_represented
+OZ404521.1	Drosophila immigrans	7250	DToL	redundant	species_already_represented
+OZ392371.1	Schoenobius gigantellus	753421	DToL	redundant	species_already_represented
+OZ575464.1	Mergus serrator	8879	DToL	redundant	species_already_represented
+OZ513336.1	Acanthocardia echinata	241154	other	redundant	species_already_represented
+OY979656.1	Coenonympha glycerion	242261	other	redundant	species_already_represented
+OU911060.2	Melinaea menophilus ssp. n. AW-2005	331302	Sanger/ToL-other	redundant	species_already_represented
+OZ502398.1	Trisopterus luscus	27722	ATLASea	redundant	species_already_represented
+OZ245634.1	Euphydryas aurinia	104503	DToL	redundant	species_already_represented
+OZ318687.1	Agonopterix alstromeriana	1869417	DToL	redundant	species_already_represented
+OZ532216.1	Arianta arbustorum arbustorum	91978	other	redundant	species_already_represented
+OZ207077.1	Callopistria juventina	1341252	other	redundant	species_already_represented
+OZ186222.1	Cyanistes caeruleus	156563	other	redundant	species_already_represented
+OZ186218.1	Cyanistes caeruleus	156563	other	redundant	species_already_represented
+OZ186220.1	Cyanistes caeruleus	156563	other	redundant	species_already_represented
+OZ573829.1	Larus canus	28681	DToL	redundant	species_already_represented
+OW618681.1	Agriotes lineatus	292458	other	redundant	species_already_represented
+OZ010785.2	Larus fuscus	8915	DToL	redundant	species_already_represented
+OZ575192.1	Larus marinus	8912	DToL	redundant	species_already_represented
+OZ118781.2	Larus michahellis	119627	DToL	redundant	species_already_represented
+OZ277208.1	Peribatodes rhomboidaria	190356	other	redundant	species_already_represented
+OY751406.1	Epirrhoe alternata	190347	DToL	redundant	species_already_represented
+OZ256961.1	Choneiulus palmatus	1008849	DToL	redundant	species_already_represented
+OY979138.1	Pipistrellus nathusii	59473	other	redundant	species_already_represented
+OZ574315.1	Columba palumbus	8934	DToL	redundant	species_already_represented
+OZ574547.1	Anser fabalis	132587	DToL	redundant	species_already_represented
+OZ244633.1	Orygma luctuosum	169492	DToL	redundant	species_already_represented
+OZ218377.1	Mycale flammula	3294121	other	redundant	species_already_represented
+OZ218374.1	Mycale flammula	3294121	other	redundant	species_already_represented
+OZ218375.1	Mycale flammula	3294121	other	redundant	species_already_represented
+OZ218373.1	Mycale flammula	3294121	other	redundant	species_already_represented
+OY997403.1	Phakellia ventilabrum	942649	other	redundant	species_already_represented
+OZ176061.1	Paragordius varius	190579	Sanger/ToL-other	redundant	species_already_represented
+OZ186454.1	Zygaena filipendulae	287375	other	redundant	species_already_represented
+OY971439.1	Helleia helle	2795559	other	redundant	species_already_represented
+OZ176075.1	Echinomermella matsi	944443	Sanger/ToL-other	redundant	species_already_represented
+OZ573998.1	Calonectris borealis	1323832	DToL	redundant	species_already_represented
+OY279576.1	Cepaea nemoralis	28835	DToL	redundant	species_already_represented
+OZ070855.1	Heliconius congener	33422	Sanger/ToL-other	redundant	species_already_represented
+OZ574751.1	Numenius arquata	31919	DToL	redundant	species_already_represented
+OZ057410.1	Allodiplogaster pararmata	3304976	other	redundant	species_already_represented
+OY757206.1	Drosophila obscura	7282	Sanger/ToL-other	redundant	species_already_represented
+OY757212.1	Drosophila obscura	7282	Sanger/ToL-other	redundant	species_already_represented
+OZ016557.1	Lasioglossum calceatum	88504	DToL	redundant	species_already_represented
+OZ511436.1	Maea johnstoni	3698974	other	redundant	species_already_represented
+OY755266.1	Polydrusus tereticollis	1342093	DToL	redundant	species_already_represented
+OZ484098.1	Cinclus cinclus	127875	other	redundant	species_already_represented
+OY720351.1	Labia minor	146840	DToL	redundant	species_already_represented
+OZ574156.1	Phalacrocorax aristotelis	126867	DToL	redundant	species_already_represented
+OX403639.1	Cheilosia soror	368781	DToL	redundant	species_already_represented
+LT158503.1	Spongilla lacustris	6055	other	redundant	species_already_represented
+LR822065.1	Syngnathus acus	161584	other	redundant	species_already_represented
+OZ060904.1	Drepanosiphum platanoidis	527648	other	redundant	species_already_represented
+OX375864.1	Monopis laevigella	691988	DToL	redundant	species_already_represented
+OX377207.1	Heligmosomoides polygyrus polygyrus	243955	other	redundant	species_already_represented
+OX371299.1	Yponomeuta cagnagella	2567736	DToL	redundant	species_already_represented
+OX101782.1	Aricia agestis	91739	DToL	redundant	species_already_represented
+OZ319299.1	Lepidonotus clava	1210411	ATLASea	redundant	species_already_represented
+OZ453040.1	Ixodiphagus hookeri	1150734	other	redundant	species_already_represented
+OU824212.1	Ichneumon xanthorius	2795680	DToL	redundant	species_already_represented
+OZ495653.1	Sthenelais boa	55702	other	redundant	species_already_represented
+OZ562244.1	Sthenelais boa	55702	ATLASea	redundant	species_already_represented
+OZ559338.1	Trachichthys australis	3056102	other	redundant	species_already_represented
+OZ559344.1	Epinephelus rankini	2930458	other	redundant	species_already_represented
+OZ559343.1	Epinephelides armatus	3362779	other	redundant	species_already_represented
+OZ559341.1	Epinephelides armatus	3362779	other	redundant	species_already_represented
+OZ541179.1	Lethrinus laticaudatus	2609495	other	redundant	species_already_represented
+OZ556253.1	Negaprion acutidens	263687	other	redundant	species_already_represented
+OZ556248.1	Negaprion acutidens	263687	other	redundant	species_already_represented
+OZ541166.1	Negaprion acutidens	263687	other	redundant	species_already_represented
+OZ556162.1	Gymnocranius grandoculis	182646	other	redundant	species_already_represented
+OZ556237.1	Bodianus frenchii	2609488	other	redundant	species_already_represented
+OZ556235.1	Pristis zijsron	495877	other	redundant	species_already_represented
+OZ556229.1	Inimicus sinensis	390343	other	redundant	species_already_represented
+OZ555922.1	Choerodon cauteroma	1579767	other	redundant	species_already_represented
+OZ556211.1	Epinephelus retouti	327829	other	redundant	species_already_represented
+OZ556112.1	Epinephelus retouti	327829	other	redundant	species_already_represented
+OZ556102.1	Upeneus sundaicus	1633448	other	redundant	species_already_represented
+OZ541333.1	Plectropomus maculatus	160735	other	redundant	species_already_represented
+OZ556206.1	Apistus carinatus	990932	other	redundant	species_already_represented
+OZ555921.1	Choerodon cephalotes	443687	other	redundant	species_already_represented
+OZ556200.1	Choerodon cephalotes	443687	other	redundant	species_already_represented
+OZ555919.1	Posidonichthys hutchinsi	2740778	other	redundant	species_already_represented
+OZ556127.1	Aphareus furca	396779	other	redundant	species_already_represented
+OZ541350.1	Aphareus furca	396779	other	redundant	species_already_represented
+OZ556002.1	Caretta caretta	8467	other	redundant	species_already_represented
+OZ555984.1	Scomberomorus commerson	218798	other	redundant	species_already_represented
+OZ541351.1	Scomberomorus commerson	218798	other	redundant	species_already_represented
+OZ556085.1	Pseudophycis breviuscula	2485022	other	redundant	species_already_represented
+OZ541358.1	Lethrinus nebulosus	182658	other	redundant	species_already_represented
+OZ541196.1	Lethrinus nebulosus	182658	other	redundant	species_already_represented
+OZ556159.1	Serranocirrhitus latus	587071	other	redundant	species_already_represented
+OZ556149.1	Serranocirrhitus latus	587071	other	redundant	species_already_represented
+OZ541386.1	Choerodon rubescens	443688	other	redundant	species_already_represented
+OZ556050.1	Lethrinus miniatus	132107	other	redundant	species_already_represented
+OZ556106.1	Lethrinus miniatus	132107	other	redundant	species_already_represented
+OZ541372.1	Lethrinus miniatus	132107	other	redundant	species_already_represented
+OZ556849.1	Parachaetodon ocellatus	109920	other	redundant	species_already_represented
+OZ556852.1	Leviprora inops	1230797	other	redundant	species_already_represented
+OZ555998.1	Platycephalus conatus	497288	other	redundant	species_already_represented
+OZ556832.1	Heterodontus portusjacksoni	7793	other	redundant	species_already_represented
+OZ541206.1	Heterodontus portusjacksoni	7793	other	redundant	species_already_represented
+OZ556829.1	Glaucostegus typus	337882	other	redundant	species_already_represented
+OZ556030.1	Glaucostegus typus	337882	other	redundant	species_already_represented
+OZ556148.1	Cephalopholis aurantia	1522394	other	redundant	species_already_represented
+OZ556069.1	Cephalopholis aurantia	1522394	other	redundant	species_already_represented
+OZ556142.1	Scolopsis taenioptera	443718	other	redundant	species_already_represented
+OZ556130.1	Abudefduf sexfasciatus	80948	other	redundant	species_already_represented
+OZ555951.1	Abudefduf sexfasciatus	80948	other	redundant	species_already_represented
+OZ555916.1	Alepes apercna	1578040	other	redundant	species_already_represented
+OZ556111.1	Lethrinus xanthochilus	490265	other	redundant	species_already_represented
+OZ541365.1	Lethrinus xanthochilus	490265	other	redundant	species_already_represented
+OZ556121.1	Lethrinus erythropterus	182652	other	redundant	species_already_represented
+OZ555937.1	Scomberomorus queenslandicus	248136	other	redundant	species_already_represented
+OZ555927.1	Abudefduf septemfasciatus	229092	other	redundant	species_already_represented
+OZ556077.1	Pempheris klunzingeri	3127111	other	redundant	species_already_represented
+OZ556017.1	Pempheris klunzingeri	3127111	other	redundant	species_already_represented
+OZ541170.1	Pempheris klunzingeri	3127111	other	redundant	species_already_represented
+OZ555963.1	Melichthys niger	94928	other	redundant	species_already_represented
+OZ556031.1	Bodianus bimaculatus	1003693	other	redundant	species_already_represented
+OZ556051.1	Carcharhinus cautus	443757	other	redundant	species_already_represented
+OZ541382.1	Carcharhinus cautus	443757	other	redundant	species_already_represented
+OZ555925.1	Callionymus grossi	1503349	other	redundant	species_already_represented
+OZ556022.1	Nemateleotris magnifica	150309	other	redundant	species_already_represented
+OZ541180.1	Centroberyx gerrardi	166262	other	redundant	species_already_represented
+OZ556047.1	Centroberyx gerrardi	166262	other	redundant	species_already_represented
+OZ556045.1	Pseudanthias pleurotaenia	428427	other	redundant	species_already_represented
+OZ555964.1	Caranx bucculentus	443684	other	redundant	species_already_represented
+OZ555997.1	Ophthalmolepis lineolata	241325	other	redundant	species_already_represented
+OZ555948.1	Ophthalmolepis lineolata	241325	other	redundant	species_already_represented
+OZ541354.1	Ophthalmolepis lineolata	241325	other	redundant	species_already_represented
+OZ541400.1	Chaetodontoplus duboulayi	109737	other	redundant	species_already_represented
+OZ541347.1	Symphorus nematophorus	396798	other	redundant	species_already_represented
+OZ541187.1	Symphorus nematophorus	396798	other	redundant	species_already_represented
+OZ539159.1	Labeotropheus fuelleborni	57307	other	redundant	species_already_represented
+OZ538998.1	Labeotropheus fuelleborni	57307	other	redundant	species_already_represented
+OZ539090.1	Labeotropheus trewavasae	120210	other	redundant	species_already_represented
+OZ538975.1	Labeotropheus trewavasae	120210	other	redundant	species_already_represented
+OZ541393.1	Labroides dimidiatus	241309	other	redundant	species_already_represented
+OZ541173.1	Pristipomoides typus	264210	other	redundant	species_already_represented
+OZ365345.1	Dosinia exoleta	584774	ATLASea	redundant	species_already_represented
+OZ500874.1	Lagis koreni	1582898	other	redundant	species_already_represented
+OZ203535.1	Hemorrhois hippocrepis	166086	other	redundant	species_already_represented
+OY735386.1	Troides magellanus	1758016	other	redundant	species_already_represented
+OY735385.1	Troides magellanus	1758016	other	redundant	species_already_represented
+OY735113.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735111.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735107.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735132.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735114.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735123.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735110.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735128.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735108.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735362.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735361.1	Troides amphrysus	95589	other	redundant	species_already_represented
+OY735124.1	Troides miranda	3064293	other	redundant	species_already_represented
+OY735118.1	Troides miranda	3064293	other	redundant	species_already_represented
+OY735313.1	Troides miranda	3064293	other	redundant	species_already_represented
+OY735312.1	Troides miranda	3064293	other	redundant	species_already_represented
+OY735126.1	Troides cuneifer	1758014	other	redundant	species_already_represented
+OY735122.1	Troides cuneifer	1758014	other	redundant	species_already_represented
+OY735127.1	Troides cuneifer	1758014	other	redundant	species_already_represented
+OY735117.1	Troides cuneifer	1758014	other	redundant	species_already_represented
+OY735119.1	Troides cuneifer	1758014	other	redundant	species_already_represented
+OY735116.1	Troides cuneifer	1758014	other	redundant	species_already_represented
+OY735125.1	Troides andromache	3064718	other	redundant	species_already_represented
+OY735109.1	Troides andromache	3064718	other	redundant	species_already_represented
+OY735121.1	Troides andromache	3064718	other	redundant	species_already_represented
+OY735129.1	Troides andromache	3064718	other	redundant	species_already_represented
+OX442400.1	Geodia barretti	519541	other	redundant	species_already_represented
+OZ406042.1	Messor oertzeni	612071	other	redundant	species_already_represented
+OZ306304.1	Scolopendra cretica	1146903	other	redundant	species_already_represented
+OZ306303.1	Scolopendra cretica	1146903	other	redundant	species_already_represented
+OZ181345.1	Dendarus foraminosus	2712997	other	redundant	species_already_represented
+OZ224578.1	Dendarus foraminosus	2712997	other	redundant	species_already_represented
+OZ224438.1	Eriphia verrucosa	483417	ATLASea	redundant	species_already_represented
+OX104101.1	Schistosoma bovis	6184	other	redundant	species_already_represented
+OX103918.1	Schistosoma rodhaini	6188	other	redundant	species_already_represented
+LS991863.1	Chironomus riparius	315576	other	redundant	species_already_represented
+OW568849.1	Capra cylindricornis	72541	other	redundant	species_already_represented
+OW568848.1	Capra cylindricornis	72541	other	redundant	species_already_represented
+OW568915.1	Capra cylindricornis	72541	other	redundant	species_already_represented
+LR992059.1	Olavius algarvensis	188229	other	redundant	species_already_represented
+LR743665.1	Danaus gilippus	166024	other	redundant	species_already_represented

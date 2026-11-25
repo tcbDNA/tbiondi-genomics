@@ -1,0 +1,211 @@
+records with >=3 conserved-Tyr columns covered: 6632 of 10294
+family	records	species	records with >=1 TAA at a Tyr column	share TAA of Tyr-column codons	records with TAG at Tyr column	transl_table counts
+Criconematidae	1746	376	0	0/3588	0	{'5': 1745, '?': 1}
+Heteroderidae	1372	143	0	0/5199	0	{'5': 1372}
+Pratylenchidae	951	57	0	0/2556	0	{'5': 950, '?': 1}
+Aphelenchoididae	705	188	0	0/2826	0	{'5': 698, '?': 7}
+Meloidogynidae	599	97	0	0/1786	0	{'5': 593, '?': 6}
+Sphaerulariidae	333	69	0	0/1001	0	{'5': 333}
+Tylenchulidae	277	71	0	0/611	0	{'5': 277}
+Neotylenchidae	267	133	0	0/694	0	{'5': 267}
+Hemicycliophoridae	121	52	0	0/242	0	{'5': 121}
+Anguinidae	105	15	1	1/322	0	{'5': 94, '14': 11}
+Hoplolaimidae	99	31	17	30/201	10	{'5': 71, '14': 18, '?': 10}
+Tylenchidae	24	12	0	0/76	0	{'5': 24}
+Allantonematidae	15	6	0	0/45	0	{'5': 15}
+Aphelenchidae	6	3	0	0/18	0	{'5': 6}
+Merliniidae	4	2	0	0/11	0	{'5': 4}
+Iotonchiidae	3	2	0	0/9	0	{'5': 3}
+Dolichodoridae	2	1	0	0/4	0	{'5': 2}
+(none)	2	2	0	0/6	0	{'5': 2}
+Ecphyadophoridae	1	1	0	0/3	0	{'5': 1}
+
+species with >=2 records carrying TAA at a conserved-Tyr column:
+   Hoplolaimidae Rotylenchulus reniformis: 9/9 records, TAA 17 vs TAT/TAC 9, transl_table {'14': 9}
+   Hoplolaimidae Rotylenchulus macrosoma: 4/4 records, TAA 6 vs TAT/TAC 6, transl_table {'14': 4}
+   Hoplolaimidae Helicotylenchus oleae: 2/2 records, TAA 4 vs TAT/TAC 0, transl_table {'14': 2}
+
+Rotylenchulus, Radopholus, Pratylenchus, Hirschmanniella, Nacobbus by species (records, TAA-carrying):
+   Rotylenchulus {'Rotylenchulus reniformis': (9, 9), 'Rotylenchulus macrosoma': (4, 4), 'Rotylenchulus borealis': (3, 0)}
+   Radopholus {'Radopholus similis': (1, 0)}
+   Pratylenchus {'Pratylenchus neglectus': (469, 0), 'Pratylenchus scribneri': (267, 0), 'Pratylenchus hexincisus': (28, 0), 'Pratylenchus thornei': (26, 0), 'Pratylenchus penetrans': (24, 0), 'Pratylenchus smoliki': (14, 0), 'Pratylenchus sp. 9 TSH-2019': (10, 0), 'Pratylenchus horti': (8, 0), 'Pratylenchus coffeae': (7, 0), 'Pratylenchus sp. 6 TSH-2019': (5, 0), 'Pratylenchus sp. 1 TSH-2019': (5, 0), 'Pratylenchus fallax': (4, 0)}
+   Hirschmanniella {'Hirschmanniella sp.': (5, 0), 'Hirschmanniella oryzae': (5, 0), 'Hirschmanniella mucronata': (1, 0)}
+   Nacobbus {'Nacobbus aberrans': (18, 0), 'Nacobbus celatus': (2, 0), 'Nacobbus sp. CZA 0098': (1, 0), 'Nacobbus sp. CZA 0097': (1, 0), 'Nacobbus sp. CZA 0096': (1, 0), 'Nacobbus sp. CZA 0095': (1, 0), 'Nacobbus sp. CZA 0101': (1, 0), 'Nacobbus sp. CZA 0100': (1, 0), 'Nacobbus sp. CZA 0099': (1, 0), 'Nacobbus sp. CZA 0094': (1, 0), 'Nacobbus sp. CZA 0093': (1, 0), 'Nacobbus sp. CZA 0092': (1, 0)}
+
+Radopholus records (all):
+   PQ729001 Radopholus duriophilus 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 197.2
+   PQ729000 Radopholus duriophilus 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 197.2
+   PQ728999 Radopholus duriophilus 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 197.2
+   PQ729005 Radopholus similis 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 193.1
+   PQ729004 Radopholus similis 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 193.1
+   PQ729003 Radopholus similis 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 193.1
+   PQ729002 Radopholus similis 424 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Zhou,S.F., 193.1
+   ON479584 Radopholus similis 359 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Torres,P.E., 138.6
+   ON479582 Radopholus similis 359 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Torres,P.E., 138.6
+   ON479583 Radopholus similis 359 cols 2 TAA 1 TAT/TAC 0 TAG 0 any TAA 1 tab 14 Torres,P.E., 129.5
+   KX378136 Radopholus similis 575 cols 4 TAA 0 TAT/TAC 2 TAG 0 any TAA 0 tab 5 Baby,B.M., 347.5
+   KX349430 Radopholus similis 414 cols 2 TAA 0 TAT/TAC 1 TAG 0 any TAA 0 tab 14 Wang,H., 176.9
+
+Hoplolaimidae with transl_table 14 or TAA/TAG at Tyr columns:
+   MF187678 Helicotylenchus oleae 667 cols 4 TAA 2 TAT/TAC 0 TAG 0 TTT 1 anyTAA 4 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MF187679 Helicotylenchus oleae 652 cols 4 TAA 2 TAT/TAC 0 TAG 0 TTT 1 anyTAA 4 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MG663104 Helicotylenchus pseudorobustus 426 cols 3 TAA 0 TAT/TAC 0 TAG 1 TTT 1 anyTAA 2 anyTAG 1 tab ? Rybarczyk-Mydlowska,K.,
+   MG663105 Helicotylenchus pseudorobustus 672 cols 4 TAA 0 TAT/TAC 1 TAG 1 TTT 1 anyTAA 2 anyTAG 1 tab ? Rybarczyk-Mydlowska,K.,
+   MG663106 Helicotylenchus pseudorobustus 603 cols 4 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 2 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   MG663107 Helicotylenchus pseudorobustus 570 cols 4 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 2 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   MG663108 Helicotylenchus pseudorobustus 591 cols 4 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 2 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   MG663109 Helicotylenchus pseudorobustus 585 cols 4 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 2 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   MG663110 Helicotylenchus pseudorobustus 549 cols 3 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 1 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   MG663111 Helicotylenchus pseudorobustus 585 cols 4 TAA 0 TAT/TAC 0 TAG 1 TTT 1 anyTAA 2 anyTAG 1 tab ? Rybarczyk-Mydlowska,K.,
+   MG663112 Helicotylenchus pseudorobustus 570 cols 4 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 2 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   MG663113 Helicotylenchus pseudorobustus 591 cols 4 TAA 0 TAT/TAC 0 TAG 2 TTT 1 anyTAA 2 anyTAG 2 tab ? Rybarczyk-Mydlowska,K.,
+   PZ023937 Helicotylenchus sp. 5 SAS-2026a 441 cols 3 TAA 2 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 5 Cid
+   MW182432 Rotylenchulus borealis 423 cols 3 TAA 0 TAT/TAC 2 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MW182433 Rotylenchulus borealis 422 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MW182434 Rotylenchulus borealis 428 cols 3 TAA 0 TAT/TAC 2 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MW182435 Rotylenchulus borealis 381 cols 3 TAA 0 TAT/TAC 2 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   PP831163 Rotylenchulus borealis 402 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 1 anyTAG 0 tab 14 Maosa,J.,
+   PP831164 Rotylenchulus borealis 403 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 0 anyTAG 0 tab 14 Maosa,J.,
+   PZ290118 Rotylenchulus borealis 428 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Vovlas,A.,
+   PZ290119 Rotylenchulus borealis 434 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Vovlas,A.,
+   PZ290120 Rotylenchulus borealis 428 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Vovlas,A.,
+   KT003719 Rotylenchulus macrodoratus 393 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003720 Rotylenchulus macrodoratus 393 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003721 Rotylenchulus macrodoratus 393 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003722 Rotylenchulus macrodoratus 393 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KY992841 Rotylenchulus macrodoratus 390 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992842 Rotylenchulus macrodoratus 390 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992843 Rotylenchulus macrodoratus 387 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992844 Rotylenchulus macrodoratus 387 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KT003724 Rotylenchulus macrosoma 376 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003725 Rotylenchulus macrosoma 361 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003726 Rotylenchulus macrosoma 365 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 1 anyTAG 0 tab 14 Van
+   KY992845 Rotylenchulus macrosoma 394 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992846 Rotylenchulus macrosoma 388 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992847 Rotylenchulus macrosoma 443 cols 4 TAA 1 TAT/TAC 2 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992848 Rotylenchulus macrosoma 442 cols 4 TAA 1 TAT/TAC 2 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992849 Rotylenchulus macrosoma 423 cols 5 TAA 2 TAT/TAC 2 TAG 0 TTT 0 anyTAA 5 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075823 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 1 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075824 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075826 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075827 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075828 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075829 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MT075834 Rotylenchulus macrosoma 336 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   MW677569 Rotylenchulus macrosoma 445 cols 4 TAA 2 TAT/TAC 0 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Gitonga,D.
+   KT003723 Rotylenchulus macrosomoides 393 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 0 anyTAG 0 tab 14 Van
+   KT003732 Rotylenchulus parvus 393 cols 2 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003727 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003728 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003729 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003730 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KT003731 Rotylenchulus reniformis 378 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Van
+   KY992850 Rotylenchulus reniformis 366 cols 2 TAA 1 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992851 Rotylenchulus reniformis 375 cols 3 TAA 1 TAT/TAC 1 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   KY992852 Rotylenchulus reniformis 366 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Palomares-Rius,J.E.,
+   LC348942 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348943 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348944 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348945 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348946 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348947 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348948 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nakae,K.
+   LC348949 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348950 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348951 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348952 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348953 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348954 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348955 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   LC348956 Rotylenchulus reniformis 393 cols 2 TAA 0 TAT/TAC 0 TAG 1 TTT 0 anyTAA 2 anyTAG 1 tab ? Nakae,K.
+   MK908051 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908052 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908053 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908054 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908055 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908056 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908057 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908058 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908059 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MK908060 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Riascos-Ortiz,D.,
+   MT232760 Rotylenchulus reniformis 407 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nguyen,T.H.,
+   MT232761 Rotylenchulus reniformis 374 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Nguyen,T.H.,
+   OM985019 Rotylenchulus reniformis 447 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Shi,Q.
+   ON929051 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Elekcioglu,I.H.,
+   ON929052 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Elekcioglu,I.H.,
+   ON929053 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Elekcioglu,I.H.,
+   ON929054 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Elekcioglu,I.H.,
+   ON929055 Rotylenchulus reniformis 393 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Elekcioglu,I.H.,
+   ON937595 Rotylenchulus reniformis 371 cols 3 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Ren,Y.C.,
+   OR497192 Rotylenchulus reniformis 422 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Valdez-Morales,M.T.,
+   OR499873 Rotylenchulus reniformis 422 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Valdez-Morales,M.T.,
+   OR509934 Rotylenchulus reniformis 422 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Valdez-Morales,M.T.,
+   OR509935 Rotylenchulus reniformis 422 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Valdez-Morales,M.T.,
+   OR509936 Rotylenchulus reniformis 422 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Valdez-Morales,M.T.,
+   PZ869239 Rotylenchulus reniformis 384 cols 4 TAA 2 TAT/TAC 1 TAG 0 TTT 0 anyTAA 4 anyTAG 0 tab 14 Alain
+   PZ869271 Rotylenchulus reniformis 386 cols 2 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 3 anyTAG 0 tab 14 Arnold,S.,
+   KT003733 Rotylenchulus sacchari 386 cols 2 TAA 0 TAT/TAC 2 TAG 0 TTT 0 anyTAA 0 anyTAG 0 tab 14 Van
+   KX572868 Rotylenchulus sp. Coliny 324 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Bekker,S.,
+   KX572869 Rotylenchulus sp. Erfdeel 327 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Bekker,S.,
+   KX572870 Rotylenchulus sp. Hartbeesfontein 324 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Bekker,S.,
+   KX572873 Rotylenchulus sp. Kroonstad 324 cols 1 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Bekker,S.,
+   KX572874 Rotylenchulus sp. Lichtenburg 327 cols 1 TAA 1 TAT/TAC 0 TAG 0 TTT 0 anyTAA 5 anyTAG 0 tab 14 Bekker,S.,
+   KX572872 Rotylenchulus sp. Ottosdal 317 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Bekker,S.,
+   KX572871 Rotylenchulus sp. Viljoenskroon 327 cols 1 TAA 0 TAT/TAC 1 TAG 0 TTT 0 anyTAA 2 anyTAG 0 tab 14 Bekker,S.,
+   PZ023932 Scutellonema brachyurus 449 cols 4 TAA 1 TAT/TAC 1 TAG 0 TTT 1 anyTAA 2 anyTAG 0 tab 5 Cid
+
+Anguinidae table 14 or TAA:
+   KT072578 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072581 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072580 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072576 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072582 Ditylenchus gigas cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072577 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072579 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   KT072583 Ditylenchus gigas cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Przybylska,A.,
+   HQ219212 Ditylenchus dipsaci cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Vovlas,N.,
+   HQ219213 Ditylenchus gigas cols 4 TAA 0 TAT/TAC 3 anyTAA 0 tab 14 Vovlas,N.,
+   HQ219214 Ditylenchus gigas cols 4 TAA 1 TAT/TAC 2 anyTAA 1 tab 14 Vovlas,N.,
+
+Other Hoplolaimidae species (cols>=3):
+   {'Helicotylenchus microlobus': (14, 0, 26), 'Helicotylenchus pseudorobustus': (11, 0, 3), 'Rotylenchulus reniformis': (9, 9, 9), 'Helicotylenchus varicaudatus': (7, 0, 7), 'Rotylenchus montanus': (5, 0, 15), 'Rotylenchus goodeyi': (5, 0, 11), 'Rotylenchulus macrosoma': (4, 4, 6), 'Helicotylenchus canadensis': (4, 0, 6), 'Helicotylenchus sp.': (3, 0, 5), 'Scutellonema curcumae': (3, 0, 9), 'Helicotylenchus digonicus': (3, 0, 6), 'Rotylenchulus borealis': (3, 0, 6), 'Scutellonema bradys': (2, 0, 5), 'Scutellonema sp. T77230-1': (2, 0, 4), 'Scutellonema brachyurus': (2, 1, 4), 'Helicotylenchus crassatus': (2, 0, 2), 'Rotylenchus pumilus': (2, 0, 6), 'Rotylenchus uniformis': (2, 0, 3), 'Rotylenchus buxophilus': (2, 0, 6), 'Helicotylenchus oleae': (2, 2, 0), 'Rotylenchus urmiaensis': (2, 0, 6), 'Rotylenchus sp. 3 SAS-2026a': (1, 0, 2), 'Hoplolaimus seinhorsti': (1, 0, 2), 'Helicotylenchus sp. 3 SAS-2026a': (1, 0, 2), 'Helicotylenchus sp. 2 SAS-2026a': (1, 0, 2)}
+
+== internal TAA/TAG anywhere in the aligned COX1 frame (terminal 10 codons masked), records with domain score >=60: 10291
+family	records	records with >=1 internal TAA	records with >=2 internal TAA	records with >=1 internal TAG
+Heteroderidae	2125	0	0	0
+Pratylenchidae	2007	10	0	0
+Criconematidae	1993	1	0	0
+Meloidogynidae	1101	0	0	0
+Aphelenchoididae	749	0	0	0
+Hoplolaimidae	700	120	101	27
+Tylenchulidae	445	0	0	0
+Sphaerulariidae	367	0	0	0
+Neotylenchidae	307	0	0	0
+Hemicycliophoridae	130	0	0	0
+Anguinidae	127	1	0	0
+Allantonematidae	118	0	0	0
+Tylenchidae	36	0	0	0
+Dolichodoridae	26	0	0	0
+Aphelenchidae	18	0	0	0
+Merliniidae	16	0	0	0
+Telotylenchidae	13	0	0	0
+Ecphyadophoridae	5	0	0	0
+Iotonchiidae	3	0	0	0
+Belonolaimidae	2	0	0	0
+(none)	2	0	0	0
+Parasitylenchidae	1	0	0	0
+
+genera with >=5 records and >=20% of records having >=2 internal TAA, or any with >=3 records and >=1 Tyr-column TAA:
+   Pratylenchidae Pratylenchus: records 1883, >=2 internal TAA 0, Tyr-column TAA 8, TAG 0, species {'Pratylenchus neglectus': 570, 'Pratylenchus scribneri': 304, 'Pratylenchus penetrans': 208, 'Pratylenchus brachyurus': 169, 'Pratylenchus zeae': 133}
+   Hoplolaimidae Scutellonema: records 194, >=2 internal TAA 3, Tyr-column TAA 1, TAG 9, species {'Scutellonema bradys': 94, 'Scutellonema brachyurus': 20, 'Scutellonema clathricaudatum': 20, 'Scutellonema cavenessi': 12, 'Scutellonema paralabiatum': 10}
+   Hoplolaimidae Helicotylenchus: records 105, >=2 internal TAA 12, Tyr-column TAA 3, TAG 10, species {'Helicotylenchus microlobus': 34, 'Helicotylenchus varicaudatus': 15, 'Helicotylenchus pseudorobustus': 11, 'Helicotylenchus sp.': 9, 'Helicotylenchus asiaticus': 8}
+   Hoplolaimidae Rotylenchulus: records 92, >=2 internal TAA 86, Tyr-column TAA 47, TAG 8, species {'Rotylenchulus reniformis': 49, 'Rotylenchulus macrosoma': 16, 'Rotylenchulus borealis': 9, 'Rotylenchulus macrodoratus': 8, 'Rotylenchulus sp. Viljoenskroon': 1}
+   Anguinidae Ditylenchus: records 79, >=2 internal TAA 0, Tyr-column TAA 1, TAG 0, species {'Ditylenchus gallaeformans': 61, 'Ditylenchus dipsaci': 7, 'Ditylenchus gigas': 4, 'Ditylenchus laurae': 3, 'Ditylenchus sp. S75': 1}
+   Pratylenchidae Radopholus: records 12, >=2 internal TAA 0, Tyr-column TAA 1, TAG 0, species {'Radopholus similis': 9, 'Radopholus duriophilus': 3}
+
+by species, Rotylenchulus / Helicotylenchus / Scutellonema / Rotylenchus / Hoplolaimus (records, >=1 internal TAA, >=1 internal TAG, Tyr-column TAA):
+   Rotylenchulus {'Rotylenchulus reniformis': (49, 49, 8, 41), 'Rotylenchulus macrosoma': (16, 16, 0, 4), 'Rotylenchulus borealis': (9, 8, 0, 0), 'Rotylenchulus macrodoratus': (8, 8, 0, 0), 'Rotylenchulus sp. Viljoenskroon': (1, 1, 0, 0), 'Rotylenchulus sp. Erfdeel': (1, 1, 0, 0), 'Rotylenchulus sp. Coliny': (1, 1, 0, 0), 'Rotylenchulus sp. Hartbeesfontein': (1, 1, 0, 0), 'Rotylenchulus sp. Kroonstad': (1, 1, 0, 1), 'Rotylenchulus sp. Lichtenburg': (1, 1, 0, 1), 'Rotylenchulus sp. Ottosdal': (1, 1, 0, 0), 'Rotylenchulus macrosomoides': (1, 0, 0, 0), 'Rotylenchulus sacchari': (1, 0, 0, 0), 'Rotylenchulus parvus': (1, 1, 0, 0)}
+   Helicotylenchus {'Helicotylenchus microlobus': (34, 0, 0, 0), 'Helicotylenchus varicaudatus': (15, 0, 0, 0), 'Helicotylenchus pseudorobustus': (11, 10, 10, 0), 'Helicotylenchus sp.': (9, 0, 0, 0), 'Helicotylenchus asiaticus': (8, 0, 0, 0), 'Helicotylenchus dihystera': (5, 0, 0, 0), 'Helicotylenchus canadensis': (4, 0, 0, 0), 'Helicotylenchus crassatus': (3, 0, 0, 0), 'Helicotylenchus oscephalus': (3, 0, 0, 0), 'Helicotylenchus digonicus': (3, 0, 0, 0), 'Helicotylenchus coreanus': (2, 0, 0, 0), 'Helicotylenchus oleae': (2, 2, 0, 2), 'Helicotylenchus sp. 3 SAS-2026a': (1, 0, 0, 0), 'Helicotylenchus sp. 2 SAS-2026a': (1, 1, 0, 0)}
+   Scutellonema {'Scutellonema bradys': (94, 0, 0, 0), 'Scutellonema brachyurus': (20, 8, 7, 1), 'Scutellonema clathricaudatum': (20, 0, 0, 0), 'Scutellonema cavenessi': (12, 0, 0, 0), 'Scutellonema paralabiatum': (10, 0, 0, 0), 'Scutellonema sp. 1 YK-2017': (6, 0, 0, 0), 'Scutellonema afribrachyurus': (5, 0, 0, 0), 'Scutellonema sp. D YK-2017': (4, 0, 0, 0), 'Scutellonema sp. A SAS-2012': (4, 4, 0, 0), 'Scutellonema viazi': (3, 0, 0, 0), 'Scutellonema curcumae': (3, 0, 0, 0), 'Scutellonema sp. 2 YK-2017': (3, 0, 0, 0), 'Scutellonema sp. D SAS-2013': (3, 0, 0, 0), 'Scutellonema sp. T77230-1': (2, 2, 0, 0)}
+   Rotylenchus {'Rotylenchus montanus': (12, 0, 0, 0), 'Rotylenchus goodeyi': (7, 0, 0, 0), 'Rotylenchus robustus': (6, 0, 0, 0), 'Rotylenchus wimbii': (5, 0, 0, 0), 'Rotylenchus incultus': (5, 0, 0, 0), 'Rotylenchus buxophilus': (4, 0, 0, 0), 'Rotylenchus eximius': (4, 0, 0, 0), 'Rotylenchus laurentinus': (3, 0, 0, 0), 'Rotylenchus magnus': (3, 0, 0, 0), 'Rotylenchus sp. 1 SAS-2026a': (2, 0, 0, 0), 'Rotylenchus pumilus': (2, 0, 0, 0), 'Rotylenchus bunae': (2, 0, 0, 0), 'Rotylenchus uniformis': (2, 0, 0, 0), 'Rotylenchus urmiaensis': (2, 0, 0, 0)}
+   Hoplolaimus {'Hoplolaimus columbus': (52, 0, 0, 0), 'Hoplolaimus stephanus': (52, 0, 0, 0), 'Hoplolaimus galeatus': (47, 0, 0, 0), 'Hoplolaimus magnistylus': (22, 0, 0, 0), 'Hoplolaimus concaudajuvencus': (18, 0, 0, 0), 'Hoplolaimus sp. f SS-2025': (14, 0, 0, 0), 'Hoplolaimus seinhorsti': (11, 0, 0, 0), 'Hoplolaimus pararobustus': (5, 0, 0, 0), 'Hoplolaimus sp.': (3, 0, 0, 0), 'Hoplolaimus sp. T80227-1': (2, 0, 0, 0), 'Hoplolaimus tuberosus': (2, 0, 0, 0), 'Hoplolaimus sp. 1 CMH-2015': (2, 0, 0, 0), 'Hoplolaimus sp. T77230-1': (1, 0, 0, 0), 'Hoplolaimus indicus': (1, 0, 0, 0)}

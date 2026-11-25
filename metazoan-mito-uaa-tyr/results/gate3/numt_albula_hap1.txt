@@ -1,0 +1,6 @@
+albula_hap1 CM165726.1 mt length 16378 N33 + strand base G tRNA N33 C strand -
+assembly GCA_056783665.1 size 998112971
+contigs that look like the mitochondrion itself: {'CM165726.1': 16378}
+nuclear-like hits >=200 bp, >=80%: 0 | total aligned bp 0
+nuclear hits covering the N33 site: 0
+DONE albula_hap1 GCA_056783665.1

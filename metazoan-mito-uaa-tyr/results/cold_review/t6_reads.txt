@@ -1,0 +1,8 @@
+PREREG T6 read checks run for the cold review (2026-11-24). tRNA-sense base at N33; alignment-based (blastn), not exact 31-mers.
+A. glossodonta, same specimen as CM165726.1 (fAlbGlo1, BioSample SAMN55933885), PacBio Revio run SRR38145622 (PRJNA1454682), 77 mitochondrial reads found, 32 aligned across N33 (>=1 kb at >=98%; unchanged at >=85%, >=200 bp): C33 32, U33 0, other 0.
+A. glossodonta, independent specimen (isolate HI-2016, BioSample SAMN16516509, PRJNA668352), Illumina RNA-seq run SRR13036352: >=98%/60 bp 1798 reads (C33 1797, U33 1); >=95%/50 bp 1816 (1815/1); >=90%/45 bp 1822 (1821/1).
+Craniella infrequens independent run SRR33975184 (PRJNA1276125): species-diagnostic 31-mers: C. infrequens 1086464, C. zetlandica 822, C. villosa 39, C. arb 180, Ci. apion 178.
+Craniella infrequens independent run, alignment-based at N33 (+ strand gene): >=98%/60 bp 49 reads (G33 49); >=95%/50 bp 53; >=90%/45 bp 55; no other base.
+Species of the PRJNA668352 fish (isolate HI-2016), from mitochondrial reads of SRR13036352 (recruited with CYTB and COX1 seeds of both A. glossodonta and A. virgata; majority consensus, median depth ~30,000 and ~54,000): CYTB identical to CM165726 over 1110 sites; COX1 differs at 1 of 1515. See the Albula identity notes in REPORT 7.2.1.
+diagnostic 25-mers: glossodonta 476 virgata 476
+reads with glossodonta-diagnostic 279991 virgata-diagnostic 149 both 148

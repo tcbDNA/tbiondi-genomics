@@ -1,0 +1,18 @@
+acc	species	family	base	ncbi_mt_code	tier	evidence	lineage_taxon	lineage_other_species	lineage_bases	lineage_panel_only
+CM165726.1	Albula glossodonta	Albulidae	C33	2	Tier 1 same-species independent	HI-2016 fish, RNA-seq SRR13036352 1797/1; own fish PacBio SRR38145622 32/0	genus Albula	1	C:1	1
+CM163399.1	Lycenchelys verrillii	Zoarcidae	C33	2	Tier 1 same-species independent	QB104173, PX940805, PV339947; run SRR37037826 622/1	genus Lycenchelys	2	U:2	0
+NC_037360.1	Microdevario kubotai	Danionidae	C33	2	Tier 1 same-species independent	4 other isolates PV357791-PV357794 (one study) and AB937094; run SRR39401262 572/1	genus Microdevario	1	C:1	0
+NC_013627.1	Serrivomer beanii	Serrivomeridae	C33	2	Tier 1 same-species independent	PX939991, PX754814, PZ284732; run SRR36227421 272/0 (other fish, own sequence)	genus Serrivomer	2	C:2	0
+NC_013436.1	Serrivomer sector	Serrivomeridae	C33	2	Tier 1 same-species independent	PZ743035, PZ285086, PZ285087, OR482581; run SRR22396609 363/0 (other fish)	genus Serrivomer	2	C:2	0
+NC_013628.2	Stemonidium hypomelas	Serrivomeridae	C33	2	Tier 1 same-species independent	PZ285083, PZ285084, PZ285088, PZ285090; run SRR38094758 85/0 (1 A)	family Serrivomeridae	3	C:3	0
+PV357903.1	Coloconger meadi	Colocongridae	C33	2	Tier 2 same-specimen reads only	none	genus Coloconger	1	U:1	0
+PX804232.1	Ophichthus asakusae	Ophichthidae	C33	2	Tier 2 same-specimen reads only	none	genus Ophichthus	12	U:12	0
+PZ495457.1	Serrivomer lanceolatoides	Serrivomeridae	C33	2	Tier 2 same-specimen reads only	none	genus Serrivomer	2	C:2	0
+NC_015546.1	Microdevario nanus	Danionidae	C33	2	Tier 3 lineage-backed only	none (RefSeq copy of AP011402; other kubotai only)	genus Microdevario	1	C:1	0
+NC_005796.1	Pterothrissus gissu	Albulidae	C33	2	Tier 3 lineage-backed only	none; no SRA data	family Albulidae	2	C:2	1
+NC_082198.1	Toxocara apodemi	Toxocaridae	C33	5	unconfirmed	none (RefSeq copy of OR241493, same isolate); no SRA data	genus Toxocara	4	U:4	0
+KY021065.1	Xyrias revulsus	Ophichthidae	C33	2	unconfirmed	none; no SRA data	subfamily Ophichthinae	24	U:23;C:1	0
+KU726971.1	Globodera ellingtonae	Heteroderidae	C33	5	dropped	two populations (reads 176/0, 271/0) but second U33 locus on chromosome II	superfamily Tylenchoidea	8	U:8	3
+OZ318138.1	Craniella infrequens	Tetillidae	G33	4	Tier 1 same-species independent	independent RNA run SRR33975184 (label confirmed by 1,086,464 diagnostic 31-mers): 49-55 G33/0 U33 aligned; own DNA 40/0	genus Craniella	1	G:1	0
+OZ407450.1	Craniella zetlandica	Tetillidae	G33	4	Tier 2 same-specimen reads only	none	genus Craniella	1	G:1	0
+NC_047225.1	Bufotes pewzowi	Bufonidae	G33	2	unconfirmed	none (RefSeq copy of MK855100); RAD runs hold no mitochondrial reads	genus Bufotes	3	U:3	0

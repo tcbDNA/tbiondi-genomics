@@ -1,0 +1,40 @@
+EXPLORATORY / POST-HOC. UNVERIFIED-flagged INSDC species, locked pipeline. Never added to Gate 3 totals.
+evaluated 7707 | of these, species also represented in Gate 3: 212
+UAA classes {'Stop': 7636, 'insufficient': 18, 'ambiguous': 41, 'weak': 12}
+N33 {'resolved': 6560, 'unresolved': 1002, 'stem_audit_review': 145}
+non-U33 among resolved Stop: 1/6506 = 0.015% (Wilson 0.003-0.087%) {'A': 1}
+phylum (n, resolved) {'Arthropoda': (5323, 4704), 'Chordata': (1008, 870), 'Bryozoa': (556, 322), 'Mollusca': (349, 307), 'Annelida': (131, 123), 'Platyhelminthes': (87, 82), 'Porifera': (67, 60), 'Cnidaria': (54, 0), 'Nematoda': (45, 33), 'Echinodermata': (31, 30), 'Gastrotricha': (20, 13), 'Acanthocephala': (12, 4)}
+
+== Tyr / weak calls
+   weak PX770128.1 Ortalia sp. Arthropoda Coleoptera Coccinellidae TAA 2 genes 2 tyr 1 llr 3.37 TAG 0 codetta Y N33 resolved U also in Gate3: False note 
+   weak MW810062.1 Scolopendra morsitans Arthropoda Scolopendromorpha Scolopendridae TAA 1 genes 1 tyr 1 llr 3.46 TAG 0 codetta Y N33 unresolved  also in Gate3: False note 
+   weak OQ675028.1 Nasutitermes sp. G MLW-2023a Arthropoda Blattodea Termitidae TAA 1 genes 1 tyr 1 llr 3.46 TAG 1 codetta Y N33 unresolved U also in Gate3: False note 
+   weak ON525593.1 Pratylenchus goodeyi Nematoda Rhabditida Pratylenchidae TAA 35 genes 7 tyr 9 llr -2.68 TAG 2 codetta Y N33 resolved U also in Gate3: False note 
+   weak MW255583.1 Joubiniteuthis portieri Mollusca Oegopsida Joubiniteuthidae TAA 3 genes 1 tyr 1 llr -3.97 TAG 0 codetta K N33 resolved U also in Gate3: False note 
+   weak MW776437.1 Chrysso nordica Arthropoda Araneae Theridiidae TAA 1 genes 1 tyr 1 llr 3.26 TAG 0 codetta Y N33 unresolved U also in Gate3: False note 
+   weak KX753670.1 Spilarctia alba Arthropoda Lepidoptera Erebidae TAA 9 genes 2 tyr 1 llr -29.83 TAG 0 codetta ? N33 resolved U also in Gate3: False note 
+   weak PV962571.1 Metynnis luna Chordata Characiformes Serrasalmidae TAA 3 genes 2 tyr 1 llr -6.91 TAG 0 codetta ? N33 resolved U also in Gate3: False note 
+   weak PV962563.1 Lophiobrycon weitzmani Chordata Characiformes Stevardiidae TAA 4 genes 3 tyr 1 llr -7.43 TAG 0 codetta ? N33 resolved U also in Gate3: False note 
+   weak PV962435.1 Ammocryptocharax elegans Chordata Characiformes Crenuchidae TAA 3 genes 3 tyr 1 llr 4.32 TAG 1 codetta Y N33 resolved U also in Gate3: False note 
+   weak KY626009.1 Anser sp. Chordata Anseriformes Anatidae TAA 1 genes 1 tyr 1 llr 3.27 TAG 0 codetta Y N33 stem_audit_review U also in Gate3: False note 
+   weak KM893424.1 Sotalia guianensis Chordata Artiodactyla Delphinidae TAA 7 genes 5 tyr 2 llr -1.98 TAG 0 codetta ? N33 unresolved U also in Gate3: False note 
+
+== weak audit (relatives = Gate 3 Stop)
+   {'acc': 'PX770128.1', 'species': 'Ortalia sp.', 'relatives': 10, 'closest_rank': 'family', 'farthest_rank': 'family', 'sites': 2, 'supported_sites': 1, 'supported_genes': 1, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'MW810062.1', 'species': 'Scolopendra morsitans', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'class', 'sites': 1, 'supported_sites': 1, 'supported_genes': 1, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'OQ675028.1', 'species': 'Nasutitermes sp. G MLW-2023a', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'genus', 'sites': 1, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'ON525593.1', 'species': 'Pratylenchus goodeyi', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'order', 'sites': 35, 'supported_sites': 10, 'supported_genes': 4, 'replication': 'FN313571.1 primary', 'verdict': 'supported_weak'}
+   {'acc': 'MW255583.1', 'species': 'Joubiniteuthis portieri', 'relatives': 10, 'closest_rank': 'order', 'farthest_rank': 'order', 'sites': 3, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'MW776437.1', 'species': 'Chrysso nordica', 'relatives': 10, 'closest_rank': 'family', 'farthest_rank': 'order', 'sites': 1, 'supported_sites': 1, 'supported_genes': 1, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'KX753670.1', 'species': 'Spilarctia alba', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'family', 'sites': 9, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'PV962571.1', 'species': 'Metynnis luna', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'family', 'sites': 3, 'supported_sites': 1, 'supported_genes': 1, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'PV962563.1', 'species': 'Lophiobrycon weitzmani', 'relatives': 10, 'closest_rank': 'family', 'farthest_rank': 'order', 'sites': 4, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'PV962435.1', 'species': 'Ammocryptocharax elegans', 'relatives': 10, 'closest_rank': 'family', 'farthest_rank': 'order', 'sites': 3, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'KY626009.1', 'species': 'Anser sp.', 'relatives': 10, 'closest_rank': 'genus', 'farthest_rank': 'family', 'sites': 1, 'supported_sites': 1, 'supported_genes': 1, 'replication': '', 'verdict': 'rejected'}
+   {'acc': 'KM893424.1', 'species': 'Sotalia guianensis', 'relatives': 10, 'closest_rank': 'family', 'farthest_rank': 'family', 'sites': 7, 'supported_sites': 0, 'supported_genes': 0, 'replication': '', 'verdict': 'rejected'}
+
+== non-U33 among Stop, resolved
+   OM729615.1 Desmacella informis Porifera Demospongiae Desmacellida Desmacellidae A UAGUAAA score 10.1 stem 4 agree 1 overlap_0nt;no_annotated_trnY also in Gate3: False
+
+== stem_audit_review non-U33 (Stop)
+module errors 0

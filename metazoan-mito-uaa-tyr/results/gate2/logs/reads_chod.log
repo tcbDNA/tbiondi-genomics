@@ -1,0 +1,5 @@
+SRR1695471 Cephalodiscus hodgsoni RNA-Seq ['https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR169/001/SRR1695471/SRR1695471.fastq.gz'] 9975193
+FAIL SRR1695471 https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR169/001/SRR1695471/SRR1695471.fastq.gz curl: (56) OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 0
+gunzip: (stdin): unexpected end of file
+
+SRR1695471 done False

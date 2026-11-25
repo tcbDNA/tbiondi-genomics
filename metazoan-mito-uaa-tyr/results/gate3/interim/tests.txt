@@ -1,0 +1,57 @@
+included genomes 1650 | confirmatory 1627
+UAA classes (confirmatory) {'Stop': 1624, 'insufficient': 2, 'ambiguous': 1}
+UAA classes (all roles) {'confirmatory': {'Stop': 1624, 'insufficient': 2, 'ambiguous': 1}, 'panel': {'Stop': 23}}
+N33 status (confirmatory) {'resolved': 1325, 'stem_audit_review': 185, 'unresolved': 117}
+locus audit pass at 0 nt (confirmatory): 1050
+locus audit pass at 5 nt (confirmatory): 1252
+locus audit pass at 10 nt (confirmatory): 1325
+
+== phylum-stratified trnY coverage (confirmatory)
+Chordata	n=793	resolved 595 (75.0%)	stem_audit_review 181	unresolved 17 (wrong-locus 17)
+Arthropoda	n=601	resolved 575 (95.7%)	stem_audit_review 0	unresolved 26 (wrong-locus 20)
+Mollusca	n=114	resolved 77 (67.5%)	stem_audit_review 3	unresolved 34 (wrong-locus 32)
+Cnidaria	n=32	resolved 0 (0.0%)	stem_audit_review 0	unresolved 32 (wrong-locus 0)
+Platyhelminthes	n=29	resolved 26 (89.7%)	stem_audit_review 1	unresolved 2 (wrong-locus 0)
+Nematoda	n=21	resolved 18 (85.7%)	stem_audit_review 0	unresolved 3 (wrong-locus 1)
+Echinodermata	n=18	resolved 17 (94.4%)	stem_audit_review 0	unresolved 1 (wrong-locus 1)
+Annelida	n=14	resolved 14 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Nemertea	n=2	resolved 2 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+Porifera	n=2	resolved 0 (0.0%)	stem_audit_review 0	unresolved 2 (wrong-locus 0)
+Priapulida	n=1	resolved 1 (100.0%)	stem_audit_review 0	unresolved 0 (wrong-locus 0)
+
+== new Tyr (confirmatory, primary): 0 | origins on confirmatory genomes {'changes': 0, 'gains_min': 0, 'gains_max': 0}
+
+== T0 {}
+  Tyr by N33 (confirmatory): {}
+
+== T1 Stop species resolved 1323; non-U33 1 = 0.076% (95% CI 0.013-0.427) {'G': 1}
+   Chordata: 1/595
+   by provenance: {'RefSeq': '1/1323'}
+   at 0-nt tolerance: non-U33 1/1048
+   at 5-nt tolerance: non-U33 1/1250
+   at 10-nt tolerance: non-U33 1/1323
+   Fisher (Tyr x non-U33): not run (new independent origins 0 < 3)
+   independent origins of non-U33 among Stop (resolved): {'changes': 1, 'gains_min': 1, 'gains_max': 1}
+
+== sufficiency counterexample candidates (confirmatory, Stop, resolved, non-U33)
+   NC_047225.1 Bufotes pewzowi Chordata Amphibia Anura Bufonidae RefSeq G UGGUAGU score 49.8 stem 4 agree 1 overlap_0nt
+
+== T2 precision 0/1 recall 0/0 | descriptive only (new Tyr species 0, origins 0; needs >=5 and >=3)
+
+== T4 Echinodermata by class: (N33 status, base, UAA)
+   Asteroidea {('resolved', 'U', 'Stop'): 2}
+   Crinoidea {('resolved', 'U', 'Stop'): 2, ('unresolved', '', 'Stop'): 1}
+   Echinoidea {('resolved', 'U', 'Stop'): 11}
+   Holothuroidea {('resolved', 'U', 'Stop'): 2}
+  asteroid resolved 2 {'U': 2} READING: mixed 
+
+== T6 Elopomorpha
+   Anguilliformes {('unresolved', '', 'Stop'): 2, ('resolved', 'U', 'Stop'): 5}
+   Notacanthiformes {('resolved', 'U', 'Stop'): 4}
+   READING: inconclusive
+
+== weak tier (confirmatory): 0
+
+== stem_audit_review (all included): 186 non-U33 among them: [('NC_020580.1', 'Antigone rubicunda', 'C', 'Stop')]
+unresolved reasons (confirmatory): [('gate_fail', 43), ('wrong_locus:overlaps', 42), ('wrong_locus:disagrees', 29), ('not_called:anticodon', 3)]
+module errors: 0

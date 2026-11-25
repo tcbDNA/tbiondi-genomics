@@ -1,0 +1,16 @@
+NC_082992.1 Albula vulpes Chordata Albuliformes length 16357 topology circular provenance RefSeq
+1 PCG families hit 13 internal TAA 0 internal TAG 0 GUA loci ARAGORN 1 tRNAscan 1 verified GUA arms 2 | trnY {'score': 65.4, 'N33': 'C', 'loop': 'CCGUAGC', 'stem_pairs': 5, 'start': 5488, 'end': 5418, 'strand': '-'}
+   RefSeq derived_from: OR546140
+2 nuccore mitochondrial records for genus Albula: 453 (first 400 examined)
+  with a verified GUA trnY call: 6 of 400 N33: {'C': 4, 'U': 2}
+    OR546140.1 Albula vulpes voucher USNM:FISH:413592 mitochondrion, complete genome len 16357 N33 C loop CCGUAGC score 65.4 stem 5
+    OZ556087.1 Albula vulpes genome assembly, organelle: mitochondrion len 16378 N33 C loop CCGUAGC score 65.4 stem 5
+    CM165726.1 Albula glossodonta isolate fAlbGlo1 mitochondrion, complete sequence,  len 16378 N33 C loop CCGUAGC score 65.4 stem 5
+    NC_082992.1 Albula vulpes voucher USNM:FISH:413592 mitochondrion, complete genome len 16357 N33 C loop CCGUAGC score 65.4 stem 5
+  31-mer at N33: record TGTTTATGGGGCTACGGCCCACCGCTTAAGC alt TGTTTATGGGGCTACTGCCCACCGCTTAAGC | record base on + strand G
+3 SRA runs for Albula vulpes : 3 [('SRR14617436', 'AMPLICON', 'GENOMIC', 0.0), ('SRR22396674', 'WGS', 'GENOMIC', 0.59), ('SRR34256053', 'WGS', 'GENOMIC', 27.13)]
+  run SRR14617436 AMPLICON reads carrying the exact 31-mer: {}
+  run SRR22396674 WGS reads carrying the exact 31-mer: {'record': 469}
+  run SRR34256053 skipped (size 27.1 GB or source)
+4 nuclear assemblies for Albula vulpes : []
+DONE

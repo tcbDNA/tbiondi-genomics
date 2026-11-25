@@ -1,0 +1,11 @@
+Failed to parse command line: Option --nohmm is incompatible with option --noF4b
+Usage: cmsearch [options] <cmfile> <seqdb>
+
+where basic options are:
+  -h        : show brief help on version and usage
+  -g        : configure CM for glocal alignment [default: local]
+  -Z <x>    : set search space size in *Mb* to <x> for E-value calculations  (x>0)
+  --devhelp : show list of otherwise hidden developer/expert options
+
+To see more help on available options, do env/prefix/bin/cmsearch -h
+

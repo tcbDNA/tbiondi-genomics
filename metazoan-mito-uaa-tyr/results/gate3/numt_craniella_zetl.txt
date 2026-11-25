@@ -1,0 +1,56 @@
+craniella_zetl_hap1 OZ407450.1 mt length 18452 N33 + strand base G tRNA N33 G strand +
+assembly GCA_978397455.1 size 287426891
+contigs that look like the mitochondrion itself: {'OZ407450.1': 18452}
+nuclear-like hits >=200 bp, >=80%: 322 | total aligned bp 530040
+    OZ407447.1 id 96.944 len 9064 mt 3518-12546 contig 4810498 - 4819476 contig len 10216692
+    OZ407447.1 id 97.474 len 7679 mt 6169-13831 contig 4718924 - 4726557 contig len 10216692
+    OZ407436.1 id 96.639 len 7676 mt 6169-13831 contig 4256029 - 4248437 contig len 11440670
+    OZ407446.1 id 97.066 len 7668 mt 6169-13831 contig 5051362 - 5043770 contig len 10243272
+    OZ407447.1 id 97.469 len 7389 mt 5175-12546 contig 4544404 - 4537048 contig len 10216692
+    OZ407443.1 id 97.520 len 7056 mt 5053-12105 contig 6282581 - 6275562 contig len 11656675
+    OZ407445.1 id 95.913 len 6827 mt 5793-12546 contig 5128915 - 5135641 contig len 10596908
+    OZ407430.1 id 99.530 len 6591 mt 11864-18452 contig 7223947 - 7217360 contig len 21208422
+    OZ407447.1 id 97.049 len 5862 mt 3896-9733 contig 4609741 - 4603918 contig len 10216692
+    OZ407441.1 id 99.593 len 5656 mt 12801-18452 contig 11713637 - 11719291 contig len 11807845
+    OZ407438.1 id 97.239 len 5252 mt 6861-12105 contig 5804285 - 5809500 contig len 12321808
+    CDZGXA010000040.1 id 97.352 len 5250 mt 6861-12105 contig 38206 - 32981 contig len 51759
+   covers N33: OZ407447.1 id 96.944 len 9064 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 97.474 len 7679 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 97.469 len 7389 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 97.645 len 4034 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 98.072 len 3424 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 97.882 len 3399 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 97.363 len 2503 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 97.592 len 2201 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 96.895 len 2190 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 96.527 len 1238 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407447.1 id 98.271 len 1099 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407446.1 id 97.066 len 7668 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407446.1 id 97.374 len 4113 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407446.1 id 96.627 len 3024 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407446.1 id 97.209 len 2580 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407436.1 id 96.639 len 7676 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407436.1 id 96.649 len 3044 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407436.1 id 98.387 len 1178 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407436.1 id 98.264 len 1152 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407436.1 id 97.691 len 823 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407443.1 id 97.520 len 7056 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407443.1 id 97.487 len 3024 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407443.1 id 97.725 len 1143 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407445.1 id 95.913 len 6827 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407445.1 id 97.084 len 4527 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407445.1 id 97.156 len 3024 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407445.1 id 96.972 len 2642 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407441.1 id 99.407 len 3373 aligned base at N33 site G (record + strand base G )
+   covers N33: CDZGXA010000040.1 id 97.352 len 5250 aligned base at N33 site G (record + strand base G )
+   covers N33: CDZGXA010000040.1 id 97.037 len 1350 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407438.1 id 97.239 len 5252 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407438.1 id 97.851 len 2653 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407438.1 id 97.395 len 1804 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407432.1 id 98.249 len 4739 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407434.1 id 97.940 len 1845 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407434.1 id 98.267 len 1731 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407442.1 id 96.886 len 1413 aligned base at N33 site G (record + strand base G )
+   covers N33: OZ407439.1 id 92.297 len 714 aligned base at N33 site G (record + strand base G )
+nuclear hits covering the N33 site: 38
+DONE craniella_zetl_hap1 GCA_978397455.1
