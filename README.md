@@ -120,6 +120,7 @@ The work was done in stages called gates, and each has a report.
 | `data/manifests/` | download ledger and checksums |
 | `src/` | scripts, named by gate or topic |
 | `env/*.lock` | conda environments: arm64 macOS, and x86-64 macOS for the HMMER 3.3.2 that Codetta uses |
+| `env/tools_outside_lockfiles.tsv` | versions, builds and package checksums of seven conda tools installed after the lockfiles were made |
 
 The lock was made in a local git repository, without an external timestamp. Where a gate report and REPORT.md give
 different numbers, REPORT.md is the current one.

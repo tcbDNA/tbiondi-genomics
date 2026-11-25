@@ -1,0 +1,28 @@
+item	doi	source	year	volume	issue	pages	title	manuscript_matches	issue_in_manuscript
+1	10.1093/genetics/140.3.1047	Europe PMC	1995	140	3	1047-1060	Nucleotide sequence and gene organization of the starfish Asterina pectinifera mitochondrial genome.	yes	yes
+2	10.1016/j.ympev.2012.08.023	Europe PMC	2013	69	2	313-319	MITOS: improved de novo metazoan mitochondrial genome annotation.	yes	yes
+3	10.5281/zenodo.4284483	Zenodo	2020				Reference data for MITOS2	yes	none in the record
+4	10.1038/s41592-021-01101-x	Europe PMC	2021	18	4	366-368	Sensitive protein alignments at tree-of-life scale using DIAMOND.	yes	yes
+5	10.1093/nar/gkab688	Europe PMC	2021	49	16	9077-9096	tRNAscan-SE 2.0: improved detection and functional classification of transfer RNA genes.	yes	yes
+6	10.1093/nar/gkz833	Europe PMC	2019	47	20	10543-10552	Improved annotation of protein-coding genes boundaries in metazoan mitochondrial genomes.	yes	yes
+7	10.1371/journal.pcbi.1002195	Europe PMC	2011	7	10	e1002195	Accelerated Profile HMM Searches.	yes	yes
+8	10.1186/1756-0500-2-192	Europe PMC	2009	2		192	A unique genetic code change in the mitochondrial genome of the parasitic nematode Radopholus similis.	yes	none in the record
+9	10.1016/j.pocean.2025.103534	Crossref	2025	238		103534	Decoding the evolutionary history and systematic complexity of Pseudotanaidae (Crustacea: Tanaidacea)	yes	none in the record
+10	10.1093/molbev/mst010	Europe PMC	2013	30	4	772-780	MAFFT multiple sequence alignment software version 7: improvements in performance and usability.	yes	yes
+11	10.1093/nar/gkh152	Europe PMC	2004	32	1	11-16	ARAGORN, a program to detect tRNA genes and tmRNA genes in nucleotide sequences.	yes	yes
+12	10.1093/bioinformatics/bty191	Europe PMC	2018	34	18	3094-3100	Minimap2: pairwise alignment for nucleotide sequences.	yes	yes
+13	10.1093/bioinformatics/btad014	Europe PMC	2023	39	1	btad014	Protein-to-genome alignment with miniprot.	yes	yes
+14	10.1093/gbe/evy254	Europe PMC	2019	11	1	29-40	Mitogenomics Reveals a Novel Genetic Code in Hemichordata.	yes	yes
+15	10.64898/2026.08.14.744788	Europe PMC	2026				Life finds a way: Integrative phylogenomics resolves an overlooked bivalve order with chromosome fusion and mitochondrial translational-code evolution	yes	none in the record
+16	10.3897/asp.84.e192470	Crossref	2026	84		705-718	Phylogenetic relationships among four superfamilies in Tanaidacea (Peracarida) inferred from mitochondrial genomes	yes	none in the record
+17	10.1093/bioinformatics/btt509	Europe PMC	2013	29	22	2933-2935	Infernal 1.1: 100-fold faster RNA homology searches.	yes	yes
+18	10.1038/290470a0	Europe PMC	1981	290	5806	470-474	tRNA punctuation model of RNA processing in human mitochondria.	yes	not given in the manuscript
+19	10.3390/plants10010007	Europe PMC	2020	10	1	E7	Global Distribution of the Reniform Nematode Genus <i>Rotylenchulus</i> with the Synonymy of <i>Rotylenchulus</i> <i>macrosoma</i> with <i>Rotylenchulus</i> <i>borealis</i>.	yes	yes
+20	10.1186/1471-2148-11-134	Europe PMC	2011	11		134	The enigmatic mitochondrial genome of Rhabdopleura compacta (Pterobranchia) reveals insights into selection of an efficient tRNA system and supports monophyly of Ambulacraria.	yes	none in the record
+21	10.1371/journal.pone.0009490	Europe PMC	2010	5	3	e9490	FastTree 2--approximately maximum-likelihood trees for large alignments.	yes	yes
+22	10.1002/cpbi.102	Europe PMC	2020	70	1	e102	Using SPAdes De Novo Assembler.	yes	yes
+23	10.1186/s12864-016-3054-y	Europe PMC	2016	17		719	Structure and variation of the mitochondrial genome of fishes.	yes	none in the record
+24	10.7554/eLife.71402	Europe PMC	2021	10		e71402	A computational screen for alternative genetic codes in over 250,000 genomes.	yes	none in the record
+25	10.1093/bioinformatics/btac802	Europe PMC	2023	39	1	btac802	Codetta: predicting the genetic code from nucleotide sequence.	yes	yes
+26	10.3390/plants15101423	Europe PMC	2026	15	10	1423	Intragenomic rDNA Variants Identified in &lt;i&gt;Rotylenchulus borealis&lt;/i&gt; and &lt;i&gt;R. macrodoratus&lt;/i&gt; Populations Associated with Olive Groves in Italy.	yes	yes
+27	10.1186/s12915-026-02767-5	Crossref	2026				A near-complete genome assembly of Anomia chinensis provides insights into bivalve phylogenomic evolution and mitochondrial UAA stop-to-Tyr codon reassignment in metazoans	yes	none in the record
