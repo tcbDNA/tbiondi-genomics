@@ -1,0 +1,7 @@
+POST-HOC (cold review 2, check 8).
+rows 26708 eligible 12884 | rule: quality>=1 and title without unverified / partial / nearly complete (one-off command of 2026-11-23 20:04 UTC, not in src/). Rows that disagree with the rule: 0
+not eligible: {'unverified': 8189, 'partial': 5099, 'no_complete_or_circular_flag': 536}
+records 26708 distinct taxids 24405 | eligible taxids 12089
+UNVERIFIED rows 8189 distinct taxids 7345
+UNVERIFIED run rows 7707 distinct taxids 7009
+note: gate1b_sweep_set.py as committed would write the table without 'eligible'; a rerun would then make gate3_build.py fail with a KeyError (it reads r['eligible']), not silently change the set.

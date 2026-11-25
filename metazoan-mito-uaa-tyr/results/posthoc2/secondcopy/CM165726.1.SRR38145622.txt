@@ -1,0 +1,7 @@
+POST-HOC check 4 CM165726.1 SRR38145622 record N33 C | scanner: reads 2779181 windows 170
+windows 170 {'tRNA-Tyr(GUA)': 56, 'gap in the loop': 88, 'anticodon not GUA': 26}
+rivals []
+non-GUA anticodons [(('CUA', 'C', '70-80', 'other/short flank'), 26)]
+  N33=C identity >=97 mt flank: 31
+  N33=C identity 70-80 other flank: 25
+reads with another base at 33: 0

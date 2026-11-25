@@ -1,0 +1,9 @@
+POST-HOC check 4 OZ407450.1 ERR14842678 record N33 G | scanner: reads 2203457 windows 112
+windows 112 {'tRNA-Tyr(GUA)': 72, 'not spanning or <40 nt': 16, 'gap in the loop': 19, 'anticodon not GUA': 4, 'another tRNA wins or ties': 1}
+rivals [('ARAGORN_Leu_TAA', 1)]
+non-GUA anticodons [(('GAC', 'G', '70-80', 'other/short flank'), 4)]
+  N33=G identity >=97 mt flank: 57
+  N33=G identity 70-80 no flank in read: 11
+  N33=G identity 90-97 mt flank: 3
+  N33=G identity 80-90 other flank: 1
+reads with another base at 33: 0

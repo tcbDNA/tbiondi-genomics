@@ -1,0 +1,42 @@
+POST-HOC. rows 10294 distinct acc 10294
+all 10294
+len<=2500 10294
+cols>=1 10291
+[as shipped] n=10294
+    Rotylenchulus records with >=1 internal UAA 89 of 92 ; >=2: 86
+    Hoplolaimus records with >=1 internal UAA 0 of 233 ; >=2: 0
+    Rotylenchus records with >=1 internal UAA 0 of 72 ; >=2: 0
+    Meloidogyne records with >=1 internal UAA 0 of 1102 ; >=2: 0
+    Heterodera records with >=1 internal UAA 0 of 1668 ; >=2: 0
+    Helicotylenchus records with >=1 internal UAA 15 of 105 ; >=2: 12
+    Scutellonema records with >=1 internal UAA 16 of 195 ; >=2: 3
+    Radopholus records with >=1 internal UAA 1 of 12 ; >=2: 0
+    outside Hoplolaimidae+Pratylenchidae: >=2 UAA 0 of 7586 ; >=1: 2
+duplicate accessions: []
+species field with odd names: [('LC147030', 'Tylenchomorpha sp. Asemum_PT', '', '678'), ('LC147029', 'Tylenchomorpha sp. Spondylis_PT', '', '658')]
+
+Filter that reproduces the report (10,291; Meloidogyne 1,101; Scutellonema 194; outside 7,584): the query of 2026-11-24 kept cols>=1 AND domain score>=60 (one Scutellonema record fails both). The cols>=1 condition alone removes the same three; its printed label said only domain score >=60, and REPORT 7.2.4 states neither.
+[cols>=1] n=10291
+    Rotylenchulus records with >=1 internal UAA 89 of 92 ; >=2: 86
+    Hoplolaimus records with >=1 internal UAA 0 of 233 ; >=2: 0
+    Rotylenchus records with >=1 internal UAA 0 of 72 ; >=2: 0
+    Meloidogyne records with >=1 internal UAA 0 of 1101 ; >=2: 0
+    Heterodera records with >=1 internal UAA 0 of 1668 ; >=2: 0
+    Helicotylenchus records with >=1 internal UAA 15 of 105 ; >=2: 12
+    Scutellonema records with >=1 internal UAA 16 of 194 ; >=2: 3
+    Radopholus records with >=1 internal UAA 1 of 12 ; >=2: 0
+    outside Hoplolaimidae+Pratylenchidae: >=2 UAA 0 of 7584 ; >=1: 2
+[domain score>=60 (does NOT reproduce the report)] n=10293
+    Rotylenchulus records with >=1 internal UAA 89 of 92 ; >=2: 86
+    Hoplolaimus records with >=1 internal UAA 0 of 233 ; >=2: 0
+    Rotylenchus records with >=1 internal UAA 0 of 72 ; >=2: 0
+    Meloidogyne records with >=1 internal UAA 0 of 1102 ; >=2: 0
+    Heterodera records with >=1 internal UAA 0 of 1668 ; >=2: 0
+    Helicotylenchus records with >=1 internal UAA 15 of 105 ; >=2: 12
+    Scutellonema records with >=1 internal UAA 16 of 194 ; >=2: 3
+    Radopholus records with >=1 internal UAA 1 of 12 ; >=2: 0
+    outside Hoplolaimidae+Pratylenchidae: >=2 UAA 0 of 7586 ; >=1: 2
+records with 0 conserved-Tyr columns: [('PX113309', 'Scutellonema bradys', '44.5'), ('OP923224', 'Meloidogyne enterolobii', '104.8'), ('MN167829', 'Howardula sp. SP-B', '183.3')]
+the two outside-family records with exactly 1 UAA: [('KY574840', 'Mesocriconema sphaerocephalum', 'Criconematidae', '1', '375.0'), ('HQ219214', 'Ditylenchus gigas', 'Anguinidae', '1', '349.8')]
+the retrieved record that did not align (10,295 retrieved, 10,294 aligned):
+   [('MN654372', 'Meloidogyne enterolobii isolate Taquara DF cytochrome oxidase', '663')] records on disk 10295

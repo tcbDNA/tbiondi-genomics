@@ -1,0 +1,102 @@
+POST-HOC. included records 32982 without a title found: 1 ['AP002973.1']
+class	included(32,982)	confirmatory	resolved Stop(28,583)	17 hits
+whole_title	32894	32540	28533	16
+segment_title	32	32	7	1
+gene_cds_title	30	30	26	0
+no_complete_claim	15	11	9	0
+partial_title	8	8	8	0
+complete_other	2	2	0	0
+no_title	1	0	0	0
+
+by provenance (included):
+   ('RefSeq', 'whole_title') 15891
+   ('INSDC_only', 'whole_title') 12767
+   ('DToL', 'whole_title') 2238
+   ('other_assembly', 'whole_title') 1998
+   ('INSDC_only', 'gene_cds_title') 30
+   ('INSDC_only', 'segment_title') 28
+   ('INSDC_only', 'no_complete_claim') 15
+   ('RefSeq', 'partial_title') 8
+   ('RefSeq', 'segment_title') 4
+   ('INSDC_only', 'complete_other') 2
+   ('named_extra', 'no_title') 1
+
+gene_cds_title: 30 examples
+    PV448933.1 circular 15935 11 Stop resolved | Chrysomallon squamiferum voucher SIO:BIC:M13766 tRNA-Gln (trnQ), tRNA-Trp (trnW), tRNA-Cys (trnC), tRNA-Tyr (t
+    PV448932.1 circular 15573 11 Stop resolved | Levinaespira georgesnyderi voucher SIO:BIC:M14646 tRNA-Gln (trnQ), tRNA-Trp (trnW), tRNA-Cys (trnC), tRNA-Tyr 
+    PQ740960.1 circular 14059 9 Stop resolved | Hysterothylacium hainanense cytochrome c oxidase subunit I (COX1) gene, complete cds; tRNA-Cys (trnC(gca)), tR
+    PP333954.1 linear 15687 11 Stop resolved | Amphimeniidae sp. 1 FSB-2019 voucher ZSM Mol 20190581 cytochrome c oxidase subunit III (COX3) gene, complete c
+    PP419898.1 circular 14437 11 Stop resolved | Ramazzottius claudii isolate Ram_IT158_WGA_1 cytochrome c oxidase subunit I (COX1) and cytochrome c oxidase su
+    OR637230.1 linear 15903 11 Stop resolved | Chaetopterus qiani cytochrome b (cob) gene, complete cds; tRNA-Ser (trnS2(tca)) gene, complete sequence; NADH 
+    OQ946609.1 linear 8028 6 Stop resolved | Chtenopteryx canariensis NADH dehydrogenase subunit 5 (nad5) gene, complete cds; tRNA-His gene, complete seque
+    KR350466.1 circular 15516 11 Stop resolved | Pomacea occulta cytochrome c oxidase subunit I (COI) and cytochrome c oxidase subunit II (COII) genes, complet
+    MK919672.1 linear 12938 10 Stop unresolved | Umbellula sp. 3 RH-2019 cytochrome oxidase subunit 1 (cox1) gene, complete cds; small subunit ribosomal RNA ge
+    KF728890.1 linear 15866 12 Stop resolved | Nerita versicolor cytochrome c oxidase subunit III (cox3) gene, complete cds; tRNA-Lys, tRNA-Ala, tRNA-Arg, tR
+    KF728889.1 linear 15741 12 Stop resolved | Nerita tessellata cytochrome c oxidase subunit III (cox3) gene, complete cds; tRNA-Lys, tRNA-Ala, tRNA-Arg, tR
+    KF728888.1 linear 15343 12 Stop resolved | Nerita fulgurans cytochrome c oxidase subunit III (cox3) gene, complete cds; tRNA-Lys, tRNA-Ala, tRNA-Arg, tRN
+
+partial_title: 8 examples
+    NC_056277.1 circular 14949 13 Stop resolved | Apomecyna saltator mitochondrion, partial genome.
+    NC_024951.1 linear 18436 13 Stop resolved | Laeops lanceolata mitochondrial DNA, nearly complete genome.
+    NC_069238.1 circular 17276 10 Stop resolved | Plectrocnemia tsukuiensis mitochondrion, partial genome.
+    NC_069237.1 circular 16503 11 Stop resolved | Parapsyche difformis mitochondrion, partial genome.
+    NC_069235.1 circular 15241 11 Stop resolved | Lepidostoma longipilosum mitochondrion, partial genome.
+    NC_069236.1 circular 16593 10 Stop resolved | Maesaipsyche stengeli mitochondrion, partial genome.
+    NC_069234.1 circular 15262 12 Stop resolved | Glossosoma caudatum mitochondrion, partial genome.
+    NC_006517.1 linear 16538 12 Stop resolved | Sminthopsis douglasi mitochondrion, partial genome.
+
+segment_title: 32 examples
+    NC_021112.1 linear 9406 2 insufficient unresolved | Clathrina clathrus chromosome 6 mitochondrion, complete sequence.
+    NC_025504.1 circular 12675 5 insufficient resolved | Liposcelis entomophila minichromosome II mitochondrion, complete sequence.
+    NC_011220.1 linear 8194 6 Stop unresolved | Hydra magnipapillata mitochondrion chromosome 1, complete sequence.
+    NC_066963.1 circular 14770 9 Stop resolved | Laemobothrion tinnunculi chromosome 1 mitochondrion, complete sequence.
+    PZ169069.1 circular 11965 6 Stop unresolved | Brachionus koreanus isolate LJS chromosome II mitochondrion, complete sequence
+    MW559987.1 circular 12443 6 Stop unresolved | Brachionus manjavacas isolate AU chromosome II mitochondrion, complete sequence
+    PZ169057.1 circular 11712 6 Stop unresolved | Brachionus rotundiformis isolate Oita chromosome II mitochondrion, complete sequence
+    PZ169055.1 circular 11924 6 Stop unresolved | Brachionus sp. Tiscar isolate Btiscar-hagiwara chromosome II mitochondrion, complete sequence
+    PZ169051.1 circular 10451 3 insufficient resolved | Brachionus sp. Tiscar isolate Btiscar-hagiwara chromosome I mitochondrion, complete sequence
+    PZ098974.1 circular 12457 6 Stop unresolved | Brachionus asplanchnoidis isolate BaOHJ82 chromosome II mitochondrion, complete sequence
+    PX832396.1 circular 14912 11 Stop resolved | Parasabella cf. microphthalma voucher MBMCAS:MBM288580 chromosome 1 mitochondrion, complete sequence
+    PX677910.1 circular 11642 6 Stop unresolved | Brachionus sp. isolate HJP-US chromosome II mitochondrion, complete sequence
+
+complete_other: 2 examples
+    OZ183365.1 linear 16810 13 Stop stem_audit_review | Trachemys venusta mitochondrion genomic DNA containing complete mitochondrion region, specimen voucher BTBC126
+    OX637973.1 linear 16910 13 Stop stem_audit_review | Pyrgilauda theresae mitochondrion genomic DNA containing complete mt-genome (from tRNA-Phe to control region) 
+
+no_complete_claim: 15 examples
+    OZ586577.1 circular 15477 12 Stop resolved | Stercutus niveus mitochondrion
+    PV741121.1 circular 14963 6 insufficient resolved | sp.-0922D
+    PZ051289.1 circular 15512 12 Stop unresolved | fracticornis topology=linear
+    PX057673.1 circular 15991 11 Stop resolved | (15,991 (1/4)i>>u paragraph signO) Accession: 14_draft
+    OZ281200.1 circular 16957 9 Tyr unresolved | Pseudotanais sp. mitochondrion
+    OZ281199.1 circular 22033 8 Tyr resolved | Pseudotanais sp. mitochondrion
+    OZ281198.1 circular 18062 9 Tyr unresolved | Pseudotanais sp. mitochondrion
+    OZ281197.1 circular 15921 8 Tyr resolved | Pseudotanais sp. mitochondrion
+    PV891970.1 circular 16209 13 Stop resolved | topology=linear
+    PV891969.1 circular 15884 13 Stop resolved | topology=linear
+    PV891968.1 circular 16230 13 Stop resolved | topology=linear
+    PV891967.1 circular 16311 13 Stop resolved | topology=linear
+
+profile genes found (of 13) among resolved Stop: [(5, 158), (6, 158), (7, 142), (8, 191), (9, 934), (10, 1646), (11, 2956), (12, 6616), (13, 15782)]
+linear topology among resolved Stop: 713  linear & <10 profile genes: 67
+shorter than 12 kb among resolved Stop: 9
+OQ946609.1: [{'acc': 'OQ946609.1', 'species': 'Chtenopteryx canariensis', 'phylum': 'Mollusca', 'role': 'confirmatory', 'provenance': 'INSDC_only', 'topology': 'linear', 'length': 8028, 'uaa': 'Stop', 'n33': 'resolved', 'base': 'U', 'genes': '6', 'ann_cds': 6, 'ann_trna': 11, 'cls': 'gene_cds_title', 'title': 'Chtenopteryx canariensis NADH dehydrogenase subunit 5 (nad5) gene, complete cds; tRNA-His gene, complete sequence; NADH dehydrogenase subunit 4 (nad4) and NADH dehydrogenase subunit 4L (nad4l) genes, complete cds; tRNA-Thr, tRNA-Gln, and tRNA-Ser genes, complete sequence; cytochrome b (COB) and NADH dehydrogenase subunit 6 (nad6) genes, complete cds; tRNA-Pro gene, complete sequence; NADH dehydrogenase subunit 1 (nad1) gene, complete cds; and tRNA-Leu, 16S ribosomal RNA, tRNA-Tyr, tRNA-Trp, tRNA-Gly, and tRNA-Glu genes, complete sequence; mitochondrial'}]
+
+the 17:
+    NC_047225.1 Bufotes pewzowi circular 17551 genes 13 whole_title | Bufotes pewzowi mitochondrion, complete genome.
+    NC_037360.1 Microdevario kubotai circular 16775 genes 13 whole_title | Microdevario kubotai mitochondrial DNA, complete genome.
+    NC_013628.2 Stemonidium hypomelas circular 16566 genes 13 whole_title | Stemonidium hypomelas mitochondrion, complete genome.
+    NC_015546.1 Microdevario nanus circular 16772 genes 13 whole_title | Microdevario nana mitochondrion, complete genome.
+    NC_013436.1 Serrivomer sector circular 16099 genes 13 whole_title | Serrivomer sector mitochondrion, complete genome.
+    NC_005796.1 Pterothrissus gissu circular 16188 genes 13 whole_title | Pterothrissus gissu mitochondrion, complete genome.
+    NC_013627.1 Serrivomer beanii circular 16731 genes 13 whole_title | Serrivomer beanii mitochondrion, complete genome.
+    NC_082198.1 Toxocara apodemi circular 14303 genes 8 whole_title | Toxocara apodemi isolate Taizhou mitochondrion, complete genome.
+    KU726971.1 Globodera ellingtonae circular 17757 genes 6 segment_title | Globodera ellingtonae chromosome I mitochondrion, complete sequence
+    CM163399.1 Lycenchelys verrillii circular 17184 genes 13 whole_title | Lycenchelys verrillii isolate WolfEelpout01 mitochondrion, complete sequence, whole genome shotgun s
+    PX804232.1 Ophichthus asakusae circular 17877 genes 13 whole_title | Ophichthus asakusae voucher USNM:FISH:471277 mitochondrion, complete genome
+    PV357903.1 Coloconger meadi circular 17754 genes 13 whole_title | Coloconger meadi voucher USNM:FISH:400788 mitochondrion, complete genome
+    PZ495457.1 Serrivomer lanceolatoides circular 16657 genes 13 whole_title | Serrivomer lanceolatoides voucher USNM:FISH:407662 mitochondrion, complete genome
+    CM165726.1 Albula glossodonta circular 16378 genes 13 whole_title | Albula glossodonta isolate fAlbGlo1 mitochondrion, complete sequence, whole genome shotgun sequence
+    KY021065.1 Xyrias revulsus circular 17784 genes 13 whole_title | Xyrias revulsus mitochondrion, complete genome
+    OZ407450.1 Craniella zetlandica circular 18452 genes 11 whole_title | Craniella zetlandica genome assembly, organelle: mitochondrion
+    OZ318138.1 Craniella infrequens circular 18285 genes 11 whole_title | Craniella infrequens genome assembly, organelle: mitochondrion

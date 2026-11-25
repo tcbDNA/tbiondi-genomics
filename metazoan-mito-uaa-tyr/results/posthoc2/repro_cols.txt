@@ -1,0 +1,6 @@
+POST-HOC (cold review 2, check 8).
+columns aligned in both 950 | R. reniformis TAA 20 P. goodeyi TAA 30 shared 9 expected (independent placement) 0.63
+shared columns [('COX1', 324), ('COX1', 375), ('COX2', 120), ('COX2', 192), ('COX3', 179), ('CYTB', 53), ('CYTB', 66), ('CYTB', 129), ('CYTB', 276)] of which conserved-Tyr 7
+conserved-Tyr columns in both 26 | TAA 12 9 shared 7 expected 4.15
+hypergeometric P(>=shared) within conserved-Tyr columns 0.0254 (descriptive; no matched evolutionary model)
+non-Tyr shared columns [('COX1', 324), ('CYTB', 66)] expected outside Tyr columns 0.18

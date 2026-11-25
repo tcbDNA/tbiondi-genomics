@@ -1,0 +1,50 @@
+POST-HOC check 6. Criteria: results/posthoc2/roty_criteria.md (sha256 in its timestamp file), written before mapping.
+
+C1/C2. primary alignments covering N33 on CM003310.1: 545 {'MAPQ>=20': 543, 'MAPQ 1-19': 2}
+  tRNA base at N33 (all): {'U': 545} (base quality >=20): {'U': 529}
+  depth (bq>=20) over the 62-nt interval: min 454 median 521 max 618 | positions with a second base >=5% or a major base unlike the record: none
+  mitochondrial depth: median 443 | trnY interval median 555 | 500 nt each side median 536
+  places in the reference resembling the tRNA (blastn word 7, E<=10): 859
+     CM003310.1 id 100.000 len 62 q 1-62 s 22704-22643 E 1.01e-24 median depth 556 criterion (>=80% over >=50 nt): True
+     CM003310.1 id 95.238 len 21 q 5-25 s 3080-3060 E 0.78 median depth 536 criterion (>=80% over >=50 nt): False
+     CM003310.1 id 92.000 len 25 q 3-27 s 177-154 E 0.78 median depth 152 criterion (>=80% over >=50 nt): False
+     CM003310.1 id 92.000 len 25 q 3-27 s 23457-23434 E 0.78 median depth 321 criterion (>=80% over >=50 nt): False
+     LDKF01000008.1 id 96.667 len 60 q 3-62 s 190166-190108 E 7.76e-20 median depth 18 criterion (>=80% over >=50 nt): True
+     LDKF01017904.1 id 85.000 len 40 q 5-41 s 1369-1408 E 4.29e-04 median depth 9 criterion (>=80% over >=50 nt): False
+     LDKF01002992.1 id 86.842 len 38 q 19-56 s 10988-10953 E 4.29e-04 median depth 18 criterion (>=80% over >=50 nt): False
+     LDKF01000155.1 id 76.786 len 56 q 7-62 s 65453-65508 E 0.001 median depth 18 criterion (>=80% over >=50 nt): False
+     LDKF01000155.1 id 90.909 len 22 q 20-41 s 44981-45002 E 2.7 median depth 17 criterion (>=80% over >=50 nt): False
+     LDKF01000082.1 id 84.615 len 39 q 6-41 s 35360-35398 E 0.001 median depth 3 criterion (>=80% over >=50 nt): False
+     LDKF01000082.1 id 91.667 len 24 q 13-36 s 96606-96629 E 0.22 median depth 7 criterion (>=80% over >=50 nt): False
+     LDKF01000082.1 id 84.375 len 32 q 1-32 s 1089-1119 E 2.7 median depth 11 criterion (>=80% over >=50 nt): False
+  all placements of those read pairs: [(('primary', 'CM003310.1'), 929), (('secondary', 'CM003310.1'), 4), (('secondary', 'LDKF01000008.1'), 4), (('supplementary', 'CM003310.1'), 1), (('secondary', 'LDKF01000021.1'), 1), (('secondary', 'LDKF01000664.1'), 1), (('secondary', 'LDKF01001261.1'), 1), (('secondary', 'LDKF01001715.1'), 1)]
+
+C3. local assembly 'win': contigs 4 longest 5134
+   contig NODE_1_length_5134_cov_118.677477 holds the 62-nt ARAGORN interval exactly (tRNA sense -); 1864 nt before it and 3208 after it on the contig
+    5' flank 1500 nt identical positions 1500 (100.00%, ungapped) []
+    3' flank 1500 nt identical positions 1018 (67.87%, ungapped) [(620, 'T', 'G'), (634, 'T', 'G'), (635, 'T', 'G'), (640, 'T', 'G'), (641, 'T', 'C'), (644, 'T', 'G')]
+   contig against CM003310.1 (top HSPs: identity, length, mismatches, gaps, contig, record): ['99.883 2566 3 0 1 2566 24568 22003', '97.959 2597 37 10 2509 5095 22122 19532', '100.000 1288 0 0 1 1288 1288 1']
+C5. locked extractor on the contig: {'status': 'called', 'reason': 'sens', 'start': 1885, 'end': 1937, 'strand': '+', 'score': 12.8, 'anticodon': 'GUA', 'N33': 'U', 'loop': 'UUGUAAA', 'stem_pairs': 3, 'g34_pos': 1901}
+    second callers: {'aragorn': [[1901, '+', 'Tyr']], 'trnascan': []} | ARAGORN tRNAs within 250 nt: [[1805, 1861, '+', 'Ser', 'TGA'], [1865, 1926, '+', 'Tyr', 'GTA'], [1957, 2030, '+', 'Trp', 'TCA']]
+    registered status (gate and audit functions unchanged; no annotation, tRNA calls used for overlap): stem_audit_review stem_lt4_only N33 U stem at model columns 3 score 12.8 callers 1
+C4. ARAGORN interval: AGGGUUUUUAGUUUAUUAUUUUUAAAAUGUUAGUUUGUAAAGCUAAAGAAAUUUUUGCCUUU (62 nt); 5' of the arm 29 nt, 3' of the arm 16 nt; acceptor pairs 5/7 (best of 0-2 unpaired 3' bases: 5/7 with 1); anticodon arm UUAGU-[UUGUAAA]-GCUAA 5/5, GUA yes; largest overlap with a neighbouring ARAGORN tRNA 0 nt -> supported
+C4. Infernal interval (locked call on the contig): UUUAAAAUGUUAGUUUGUAAAGCUAAAGAAAUUUUUGCCUUUUUUUUGUAGAA (53 nt); 5' of the arm 9 nt, 3' of the arm 27 nt; acceptor pairs 6/7 (best of 0-2 unpaired 3' bases: 6/7 with 1); anticodon arm UUAGU-[UUGUAAA]-GCUAA 5/5, GUA yes; largest overlap with a neighbouring ARAGORN tRNA 0 nt -> supported
+
+C3. local assembly 'mt': contigs 29 longest 19298
+   contig NODE_1_length_19298_cov_184.153582 holds the 62-nt ARAGORN interval exactly (tRNA sense +); 4678 nt before it and 14558 after it on the contig
+    5' flank 1500 nt identical positions 1500 (100.00%, ungapped) []
+    3' flank 1500 nt identical positions 1500 (100.00%, ungapped) []
+   contig against CM003310.1 (top HSPs: identity, length, mismatches, gaps, contig, record): ['99.972 10608 2 1 2811 13417 24572 13965', '99.982 5699 1 0 13600 19298 13991 8293', '99.976 4102 1 0 1 4102 4102 1']
+C5. locked extractor on the contig: {'status': 'called', 'reason': 'sens', 'start': 4699, 'end': 4751, 'strand': '+', 'score': 12.8, 'anticodon': 'GUA', 'N33': 'U', 'loop': 'UUGUAAA', 'stem_pairs': 3, 'g34_pos': 4715}
+    second callers: {'aragorn': [[4715, '+', 'Tyr']], 'trnascan': []} | ARAGORN tRNAs within 250 nt: [[4619, 4675, '+', 'Ser', 'TGA'], [4679, 4740, '+', 'Tyr', 'GTA'], [4771, 4844, '+', 'Trp', 'TCA']]
+    registered status (gate and audit functions unchanged; no annotation, tRNA calls used for overlap): stem_audit_review stem_lt4_only N33 U stem at model columns 3 score 12.8 callers 1
+C4. ARAGORN interval: AGGGUUUUUAGUUUAUUAUUUUUAAAAUGUUAGUUUGUAAAGCUAAAGAAAUUUUUGCCUUU (62 nt); 5' of the arm 29 nt, 3' of the arm 16 nt; acceptor pairs 5/7 (best of 0-2 unpaired 3' bases: 5/7 with 1); anticodon arm UUAGU-[UUGUAAA]-GCUAA 5/5, GUA yes; largest overlap with a neighbouring ARAGORN tRNA 0 nt -> supported
+C4. Infernal interval (locked call on the contig): UUUAAAAUGUUAGUUUGUAAAGCUAAAGAAAUUUUUGCCUUUUUUUUGUAGAA (53 nt); 5' of the arm 9 nt, 3' of the arm 27 nt; acceptor pairs 6/7 (best of 0-2 unpaired 3' bases: 6/7 with 1); anticodon arm UUAGU-[UUGUAAA]-GCUAA 5/5, GUA yes; largest overlap with a neighbouring ARAGORN tRNA 0 nt -> supported
+
+DONE
+
+NOTES WRITTEN AFTER THE RESULT (not part of the criteria)
+  acceptor criterion base rate: random 53-nt stretches of this mitogenome reach >=5/7 in 16.9% and >=6/7 in 4.8% (AT-rich; G.U allowed)
+  acceptor criterion base rate: random 62-nt stretches of this mitogenome reach >=5/7 in 17.4% and >=6/7 in 4.9% (AT-rich; G.U allowed)
+  nuclear copy LDKF01000008.1 id 96.667 len 60 base at N33: U anticodon+loop region GGTTTTTAGTTTATTATTTTTAAAACGTTAGTTTGTAAAGCTAAAGAAA-TTTTGCCTTT
+    local nuclear depth (median, +-1 kb) 20

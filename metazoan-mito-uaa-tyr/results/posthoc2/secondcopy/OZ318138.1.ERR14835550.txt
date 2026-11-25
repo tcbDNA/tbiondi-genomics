@@ -1,0 +1,14 @@
+POST-HOC check 4 OZ318138.1 ERR14835550 record N33 G | scanner: reads 3101912 windows 189
+windows 189 {'gap in the loop': 39, 'tRNA-Tyr(GUA)': 61, 'not spanning or <40 nt': 80, 'anticodon not GUA': 9}
+rivals []
+non-GUA anticodons [(('GUG', 'G', '70-80', 'other/short flank'), 4), (('GAC', 'G', '70-80', 'other/short flank'), 2), (('GAG', 'G', '70-80', 'other/short flank'), 2), (('AUA', 'G', '70-80', 'other/short flank'), 1)]
+  N33=G identity >=97 mt flank: 40
+  N33=G identity 70-80 no flank in read: 8
+  N33=G identity 80-90 other flank: 4
+  N33=G identity 70-80 other flank: 3
+  N33=C identity 70-80 no flank in read: 2
+  N33=G identity 90-97 mt flank: 2
+  N33=G identity >=97 other flank: 1
+  N33=G identity 90-97 other flank: 1
+reads with another base at 33: 1
+    (2, 'C', np.float64(0.792), 'CCGUAAA', 'no flank in read', (0.0, 0), 'CCTGCCGAAGTTAGTGGTCCTCCACGATCACCAGCGAGATTTCGAGATAGCGCCTCGAGACCAATCTCGTATTCTCCACCGATGACCGAATCGGCCAACCCAGAGCTCATGAGCAGGTCGTGCAAGGGTGATGCGTAGAGGCCGTAAAAGGCAATATGTAGCTTCGAGTCGAGCTGCCTGATTCGTTGGGCCAACTGTATGCCGAGACGCGAGGCGGTGTGCATCGGGATTGAGATGCCGATGAGCTCGGCTTCTGCGAACAGGCCTGGCTCCAGCGTCTGGACGGACAAATC')

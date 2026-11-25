@@ -1,0 +1,58 @@
+POST-HOC (cold review 2, check 1). Locked results unchanged.
+confirmatory genomes 32623 | locked statuses reproduced from out.jsonl; mismatches: 0 []
+panel positives: 20 | gate+audit pass 14 | gate called 16
+
+(a) same-strand tRNAscan-SE. genomes whose top arm overlaps an opposite-strand tRNAscan GUA call: 0 | calls that change status: 0 Counter()
+   affected among the 17: []
+   affected panel genomes: []
+
+(b) retry. confirmatory calls not resolved with a second plausible arm: 1923 | panel: 31
+   cmsearch reruns 1954 failures []
+   reruns whose top arm equals the locked call: 1923 of 1923
+(b) newly resolved: 39
+     ('Stop', 'unresolved', 'U', '->U') 38
+     ('Stop', 'unresolved', 'G', '->U') 1
+   Stop denominator under (b): 28622 (locked 28,583); U33/non-U33: Counter({'U': 28605, 'nonU': 17})
+   new non-U33 Stop: []
+   Tyr genome CM003310.1 retried: False no second plausible arm
+(ab) newly resolved: 39
+     ('Stop', 'unresolved', 'U', '->U') 38
+     ('Stop', 'unresolved', 'G', '->U') 1
+   Stop denominator under (ab): 28622 (locked 28,583); U33/non-U33: Counter({'U': 28605, 'nonU': 17})
+   new non-U33 Stop: []
+   Tyr genome CM003310.1 retried: False no second plausible arm
+   panel retry OZ281198.1 pos Pseudotanais sp. no arm passes
+   panel retry NC_071830.1 neg_broad Brueelia nebulosa [(2, 14.3, 'U', ('pass', 'called', 'sens', 'pass', 'overlap_0nt', 'U'))]
+   panel retry NC_049868.1 neg_broad Spirocodon saltatrix no arm passes
+   panel retry NC_033869.1 neg_broad Xiphinema rivesi no arm passes
+   panel retry NC_022921.1 neg_broad Pallisentis celatus no arm passes
+   panel retry NC_038192.1 neg_broad Pectinatella magnifica no arm passes
+   panel retry NC_071371.1 neg_broad Aonchotheca putorii no arm passes
+   panel retry NC_026724.1 neg_broad Loligo uyii no arm passes
+   panel retry NC_071821.1 neg_broad Myriopathes ulex no arm passes
+   panel retry NC_031358.1 neg_broad Psephotellus pulcherrimus no arm passes
+   panel retry NC_026987.1 neg_broad Melibe leonina no arm passes
+   panel retry NC_027653.1 neg_broad Crassostrea tulipa no arm passes
+   panel retry NC_046843.1 neg_broad Tanacetipathes thamnea no arm passes
+   panel retry NC_038081.1 neg_broad Scutopus robustus [(2, 35.1, 'U', ('pass', 'called', 'std', 'pass', 'overlap_0nt', 'U'))]
+   panel retry NC_032075.1 neg_broad Euborellia arcanum no arm passes
+   panel retry NC_039929.1 neg_broad Actinia equina no arm passes
+   panel retry NC_057120.1 neg_broad Channichthys rhinoceratus no arm passes
+   panel retry NC_008192.1 neg_broad Flustrellidra hispida no arm passes
+   panel retry NC_008640.1 neg_broad Romanomermis culicivorax no arm passes
+   panel retry NC_008693.1 neg_broad Romanomermis iyengari no arm passes
+   panel retry NC_008828.1 neg_broad Hexamermis agrotis no arm passes
+   panel retry NC_005928.1 neg_broad Xiphinema americanum no arm passes
+   panel retry NC_014046.1 neg_broad Otis tarda no arm passes
+   panel retry NC_008046.1 neg_broad Thaumamermis cosgrovei no arm passes
+   panel retry NC_008047.1 neg_broad Diximermis spiculatus no arm passes
+   panel retry NC_008692.1 neg_broad Romanomermis nielseni no arm passes
+   panel retry NC_009082.1 neg_broad Epiperipatus biolleyi no arm passes
+   panel retry NC_062035.1 neg_broad Virgularia schultzei no arm passes
+   panel retry NC_061659.1 neg_broad Thysanostoma flagellatum no arm passes
+   panel retry NC_062024.1 neg_broad Primnoella chilensis no arm passes
+   panel retry NC_085486.1 neg_broad Membranipora villosa no arm passes
+   n_ok of the 17: {'NC_047225.1': 2, 'NC_037360.1': 2, 'NC_013628.2': 1, 'NC_015546.1': 2, 'NC_013436.1': 1, 'NC_005796.1': 2, 'NC_013627.1': 1, 'NC_082198.1': 1, 'KU726971.1': 1, 'CM163399.1': 2, 'PX804232.1': 1, 'PV357903.1': 2, 'PZ495457.1': 1, 'CM165726.1': 2, 'KY021065.1': 1, 'OZ407450.1': 2, 'OZ318138.1': 2}
+
+(c) extra: all non-GUA ARAGORN and tRNAscan-SE calls on either strand added to the overlap test: status changes 346 | of the 17: [('NC_047225.1', 'Bufotes pewzowi', 'wrong_locus:overlaps_call_GGT-_70nt')]
+   resolved Stop lost: 342

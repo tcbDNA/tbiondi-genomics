@@ -1,0 +1,7 @@
+POST-HOC (cold review 2, check 8).
+Tyr genome CM003310.1 first-stop calls {'COX1': 'unaligned_3prime', 'ND5': 'unaligned_3prime', 'COX2': 'none', 'CYTB': 'TAA', 'COX3': 'TAA', 'ND1': 'T--', 'ND4': 'unaligned_3prime'}
+called genes 2 TAG 0 | sister rank order sisters with >=3 called genes 291 distinct taxids 282 mean TAG share 0.3144
+P(0 TAG of 2 at that share) 0.47
+as shipped (>=3 applied to the Tyr genome too): testable False
+'first' takes the first in-frame TAA/TAG past the last aligned codon; it is a terminal-codon proxy. Under UAA=Tyr a TAA there need not be a stop (REPORT 7.2.5: the COX3 transcript passes its first UAA).
+A1 (as shipped): sister rank order records 336 taxids 302 {'U': 334, 'C': 2}

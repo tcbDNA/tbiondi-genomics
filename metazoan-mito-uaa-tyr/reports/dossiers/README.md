@@ -1,6 +1,6 @@
 # Outlier dossiers
 
-Built by `src/dossiers.py` from committed outputs. 17 non-U33 Stop candidates (post-hoc tier rule, REPORT 7.2.1: C33: Tier 1, 6; Tier 2, 3; Tier 3, 2; unconfirmed, 2; dropped, 1; G33: Tier 1, 1; Tier 2, 1; unconfirmed, 1), plus *Rotylenchulus* (unconfirmed single-genome candidate) and *Pratylenchus goodeyi* (sensitivity). The locked rules count all 17.
+Built by `src/dossiers.py` from committed outputs; [P] marks post-hoc work of 2026-11-25 (second review). 17 non-U33 Stop candidates (post-hoc tier rule, REPORT 7.2.1: C33: Tier 1, 6; Tier 2, 3; Tier 3, 2; unconfirmed, 2; dropped, 1; G33: Tier 1, 1; Tier 2, 1; unconfirmed, 1), plus *Rotylenchulus* (unconfirmed single-genome candidate) and *Pratylenchus goodeyi* (sensitivity). The locked rules count all 17.
 
 | Dossier | Species | Family | Base | Status |
 |---|---|---|---|---|

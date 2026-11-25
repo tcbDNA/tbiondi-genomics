@@ -1,0 +1,88 @@
+POST-HOC (pre-push fix 4)
+
+== Serrivomer sector: counted record NC_013436.1; voucher -, isolate -, Ocean Research Institute, The University of Tokyo; 1-15-1 Minamidai, N, 09-AUG-2004; N33 C
+   PZ743035.1 | filed as Serrivomer sector | voucher USNM:FISH:485028 | isolate - | SAMN57263817 | Pacific Ocean 20.49307 N 158.7381 E 2024-04-11 | Vertebrate Zoology, Smithsonian National | mito 98.69% (211 mismatches, 3 gap bases over 16099) | COX1 98.78% (19 of 1563) | N33 C | distinct yes same species yes ['the counted record has no voucher, isolate or BioSample; distinctness rests on submitter, date and sequence']
+   PZ285086.1 | filed as Serrivomer sector | voucher USNM:FISH:485032 | isolate - | SAMN57263820 |  21.22464167 N 158.29625000 E 2024-03-21 | Division of Fishes | Department of Verte | mito 98.47% (246 mismatches, 3 gap bases over 16099) | COX1 98.59% (22 of 1562) | N33 C | distinct yes same species yes ['the counted record has no voucher, isolate or BioSample; distinctness rests on submitter, date and sequence']
+   PZ285087.1 | filed as Serrivomer sector | voucher USNM:FISH:485026 | isolate - | SAMN57263815 |  21.22464167 N 158.29625000 E 2024-03-21 | Division of Fishes | Department of Verte | mito 98.69% (211 mismatches, 1 gap bases over 16100) | COX1 98.72% (20 of 1563) | N33 C | distinct yes same species yes ['the counted record has no voucher, isolate or BioSample; distinctness rests on submitter, date and sequence']
+   OR482581.1 | filed as Stemonidium hypomelas | voucher SIO:5ea0f0ab-0ebc-436c-9ba0-d9e1b79dc5a2 | isolate - | SAMN31811598 | Pacific Ocean: Pacific Ocean 30.8333 N 121.8 W 17-Nov-2008 | Jonah Ventures, 5485 Conestoga Ct STE 21 | mito 98.66% (215 mismatches, 2 gap bases over 16099) | COX1 98.85% (18 of 1563) | N33 C | distinct yes same species yes ['filed as Stemonidium hypomelas', 'the counted record has no voucher, isolate or BioSample; distinctness rests on submitter, date and sequence']
+   identical sequences within the set: none
+   nearest relatives for scale: NC_013627.1 Serrivomer beanii mito 91.0% over 11018 COX1 92.3%
+   nearest relatives for scale: PZ495457.1 Serrivomer lanceolatoides mito 91.0% over 16106 COX1 90.9%
+   nearest relatives for scale: NC_013628.2 Stemonidium hypomelas mito 90.0% over 16024 COX1 91.6%
+   independent COI records (>=400 bp), best identity by name: [('Serrivomer sector', 'best 98.6% MF957046.1', 'n=12', 'worst 78.9%'), ('Serrivomer jesperseni', 'best 98.5% GU440522.1', 'n=6', 'worst 82.8%'), ('Serrivomer sp. BOLD:AAB6645', 'best 98.5% JN641138.1', 'n=1', 'worst 98.5%'), ('Stemonidium hypomelas', 'best 98.0% PZ575687.1', 'n=6', 'worst 91.5%'), ('Serrivomer beanii', 'best 92.5% PZ284732.1', 'n=17', 'worst 91.3%')]
+
+== Serrivomer beanii: counted record NC_013627.1; voucher -, isolate A404, University College London, Biology; Gower Street, London WC1E 6BT, UK, 26-AUG-2008; N33 C
+   PX939991.1 | filed as Serrivomer beanii | voucher USNM:FISH:477867 | isolate - | SAMN52832581 | Atlantic Ocean 40.5042405 N 67.714989 W 26-Apr-2024 | Division of Fishes | Department of Verte | mito 99.64% (61 mismatches, 9 gap bases over 16735) | COX1 99.81% (3 of 1569) | N33 C | distinct yes same species yes []
+   PX754814.1 | filed as Serrivomer beanii | voucher VIMS:31064 | isolate - | SAMN53485791 | Atlantic Ocean: Charlie-Gibbs Fracture Zone 52.75 N 35.5 W 09-Jun-2009 | Division of Fishes | Department of Verte | mito 99.24% (127 mismatches, 8 gap bases over 16735) | COX1 99.55% (7 of 1569) | N33 C | distinct yes same species yes []
+   PZ284732.1 | filed as Serrivomer beanii | voucher USNM:FISH:483640 | isolate - | SAMN57239940 |  40.5042405 N 67.714989 W 2024-04-26 | Division of Fishes | Department of Verte | mito 99.22% (131 mismatches, 6 gap bases over 16734) | COX1 99.3% (11 of 1569) | N33 C | distinct yes same species yes []
+   identical sequences within the set: none
+   nearest relatives for scale: NC_013436.1 Serrivomer sector mito 91.6% over 16180 COX1 92.3%
+   nearest relatives for scale: PZ495457.1 Serrivomer lanceolatoides mito 89.4% over 16744 COX1 90.4%
+   nearest relatives for scale: NC_013628.2 Stemonidium hypomelas mito 88.6% over 16135 COX1 90.7%
+   independent COI records (>=400 bp), best identity by name: [('Serrivomer beanii', 'best 100.0% KY033946.1', 'n=13', 'worst 98.9%'), ('Serrivomer sp. FOAI843-10', 'best 92.8% HQ563892.1', 'n=1', 'worst 92.8%'), ('Serrivomer sector', 'best 92.6% MF957047.1', 'n=16', 'worst 78.6%'), ('Serrivomer jesperseni', 'best 92.5% GU440522.1', 'n=6', 'worst 83.7%'), ('Serrivomer sp. FOAI844-10', 'best 92.5% HQ563893.1', 'n=1', 'worst 92.5%')]
+
+== Lycenchelys verrillii: counted record CM163399.1; voucher -, isolate WolfEelpout01, Canadian Biogenome Project, Canada's National Platform for Genome Sequ, 20-AUG-2025; N33 C
+   QB104173.1 | filed as Lycenchelys verrillii | voucher USNM:FISH:477921 | isolate - | SAMN52832623 | Atlantic Ocean 43.04258 N 67.9017 W 2023-11-05 | Vertebrate Zoology, Smithsonian National | mito 99.78% (37 mismatches, 13 gap bases over 17145) | COX1 99.87% (2 of 1560) | N33 C | distinct yes same species yes []
+   PX940805.1 | filed as Lycenchelys verrillii | voucher USNM:FISH:477953 | isolate - | SAMN54962050 | Atlantic Ocean:USA 43.62667 N 68.3692500 W 09-Nov-2022 | Division of Fishes | Department of Verte | mito 99.56% (74 mismatches, 7 gap bases over 16731) | COX1 99.74% (4 of 1560) | N33 C | distinct yes same species yes []
+   PV339947.1 | filed as Lycenchelys verrillii | voucher ADN_24_00921 | isolate - | - | Canada 50.0686667 N 66.052167 W 24-Aug-2016 | Fisheries and Oceans Canada, Institut Ma | mito 99.64% (61 mismatches, 11 gap bases over 17096) | COX1 99.87% (2 of 1560) | N33 C | distinct yes same species yes []
+   identical sequences within the set: none
+   independent COI records (>=400 bp), best identity by name: [('Lycenchelys verrillii', 'best 100.0% KC015589.1', 'n=4', 'worst 99.7%'), ('Lycenchelys kolthoffi', 'best 95.8% LC493919.1', 'n=2', 'worst 95.4%'), ('Lycenchelys sp. EM-2017', 'best 94.7% KX676057.1', 'n=1', 'worst 94.7%'), ('Lycenchelys muraena', 'best 94.6% KC015583.1', 'n=4', 'worst 94.0%'), ('Lycenchelys aratrirostris', 'best 94.6% HQ713040.1', 'n=13', 'worst 93.9%')]
+
+== Stemonidium hypomelas: counted record NC_013628.2; voucher CBM:ZF-10303, isolate -, University College London, Biology; Gower Street, London WC1E 6BT, UK, 26-AUG-2008; N33 C
+   PZ285083.1 | filed as Stemonidium hypomelas | voucher USNM:FISH:485024 | isolate - | SAMN57263814 |  18.29257 N 160.22577500 E 2024-03-30 | Division of Fishes | Department of Verte | mito 99.57% (71 mismatches, 8 gap bases over 16571) | COX1 99.87% (2 of 1563) | N33 C | distinct yes same species yes []
+   PZ285084.1 | filed as Stemonidium hypomelas | voucher USNM:FISH:485031 | isolate - | SAMN57263819 |  20.60606667 N 157.78026 E 2024-04-13 | Division of Fishes | Department of Verte | mito 99.61% (64 mismatches, 8 gap bases over 16571) | COX1 99.81% (3 of 1563) | N33 C | distinct yes same species yes []
+   PZ285088.1 | filed as Stemonidium hypomelas | voucher USNM:FISH:485027 | isolate - | SAMN57263816 |  16.89175833 N 159.92425000 E 2024-04-01 | Division of Fishes | Department of Verte | mito 99.6% (66 mismatches, 8 gap bases over 16571) | COX1 99.94% (1 of 1563) | N33 C | distinct yes same species yes []
+   PZ285090.1 | filed as Stemonidium hypomelas | voucher USNM:FISH:485029 | isolate - | SAMN57263818 |  18.29257 N 160.22577500 E 2024-03-30 | Division of Fishes | Department of Verte | mito 99.5% (56 mismatches, 0 gap bases over 11205) | COX1 99.87% (2 of 1563) | N33 C | distinct yes same species yes []
+   identical sequences within the set: none
+   nearest relatives for scale: NC_013436.1 Serrivomer sector mito 90.1% over 16187 COX1 91.6%
+   nearest relatives for scale: NC_013627.1 Serrivomer beanii mito 88.6% over 16134 COX1 90.7%
+   independent COI records (>=400 bp), best identity by name: [('Serrivomer sector', 'best 92.0% PZ743035.1', 'n=16', 'worst 78.4%'), ('Stemonidium hypomelas', 'best 91.6% OR482581.1', 'n=2', 'worst 91.4%'), ('Serrivomer jesperseni', 'best 91.3% GU440522.1', 'n=6', 'worst 82.0%'), ('Serrivomer beanii', 'best 91.1% FJ918904.1', 'n=17', 'worst 90.3%'), ('Serrivomer sp. BOLD:AAB6645', 'best 90.8% JN641138.1', 'n=1', 'worst 90.8%')]
+
+== Microdevario kubotai: counted record NC_037360.1; voucher -, isolate CBM ZF 11662, Natural History Museum & Institute, Chiba, Department of Zoology; 955-, 01-MAY-2009; N33 C
+   PV357791.1 | filed as Microdevario kubotai | voucher - | isolate kub1 | - | USA: Madison, WI  24-Jun-2020 | Genetics, Medical Genetics, University o | mito 99.73% (45 mismatches, 3 gap bases over 16777) | COX1 99.94% (1 of 1563) | N33 C | distinct yes same species yes []
+   PV357792.1 | filed as Microdevario kubotai | voucher - | isolate kub2 | - | USA: Madison, WI  24-Jun-2020 | Genetics, Medical Genetics, University o | mito 97.72% (382 mismatches, 7 gap bases over 16778) | COX1 97.82% (34 of 1563) | N33 C | distinct yes same species not confirmed (COX1 <98%) []
+   PV357793.1 | filed as Microdevario kubotai | voucher - | isolate kub3 | - | USA: Madison, WI  24-Jun-2020 | Genetics, Medical Genetics, University o | mito 95.35% (780 mismatches, 19 gap bases over 16782) | COX1 95.39% (72 of 1563) | N33 C | distinct yes same species not confirmed (COX1 <98%) []
+   PV357794.1 | filed as Microdevario kubotai | voucher - | isolate kub4 | - | USA: Madison, WI  24-Jun-2020 | Genetics, Medical Genetics, University o | mito 97.65% (395 mismatches, 7 gap bases over 16779) | COX1 97.7% (36 of 1563) | N33 C | distinct yes same species not confirmed (COX1 <98%) []
+   AB937094.1 | filed as Microdevario kubotai | voucher - | isolate - | - |    | Zhang Chinese Academy of Fishery Science | mito 95.57% (696 mismatches, 60 gap bases over 15716) | COX1 97.7% (36 of 1563) | N33 C | distinct yes same species not confirmed (COX1 <98%) ['no voucher, isolate or BioSample in the record']
+   identical sequences within the set: none
+   nearest relatives for scale: NC_015546.1 Microdevario nanus mito 89.5% over 16797 COX1 89.5%
+   independent COI records (>=400 bp), best identity by name: [('Microdevario kubotai', 'best 100.0% FJ753491.1', 'n=14', 'worst 77.9%'), ('Microdevario nanus', 'best 89.5% NC_015546.1', 'n=8', 'worst 88.8%'), ('Microdevario cf. kubotai YY-2011', 'best 85.7% JF915623.1', 'n=1', 'worst 85.7%'), ('Microrasbora rubescens', 'best 83.7% JF915629.1', 'n=70', 'worst 82.7%'), ('Microrasbora cf. rubescens RC0685', 'best 83.0% MN342638.1', 'n=1', 'worst 83.0%')]
+
+== Panel A. vulpes NC_082992.1 (= OR546140.1)
+   {'organism': 'Albula vulpes', 'voucher': 'USNM:FISH:413592', 'isolate': '', 'geo': 'Curacao: Atlantic Ocean, Curacao', 'lat_lon': '12.137464 N 68.972392 W', 'date': '16-Mar-2008', 'biosample': 'SAMN31811715', 'bioproject': 'PRJNA720393', 'submitted': '12-SEP-2023', 'institution': 'Jonah Ventures, 5485 Conestoga Ct STE 210, Boulder, CO 80301, USA', 'tech': 'Illumina'}
+   copy of OR546140.1 identical: True | N33 ('C', 65.4)
+   mitogenome against CM165726.1 Albula glossodonta 93.1% over 16380
+   mitogenome against OZ556087.1 Albula vulpes 93.1% over 16381
+   mitogenome against AP002973.1 Albula glossodonta 87.6% over 15874
+    ('Albula vulpes', 'cytochrome b') best 100.0% over 502 nt (KJ910047.1), n=2, worst 99.8%
+    ('Albula vulpes', 'coi') best 100.0% over 652 nt (KF929577.1), n=102, worst 77.5%
+    ('Albula sp. BOLD:AAA3090', 'coi') best 99.8% over 655 nt (JQ841465.1), n=11, worst 99.1%
+    ('Albula vulpes', 'cytb') best 99.8% over 564 nt (AF311753.1), n=3, worst 99.6%
+    ('Albula vulpes', '16s') best 99.8% over 548 nt (X99179.1), n=3, worst 95.4%
+    ('Albula glossodonta', '16s') best 98.3% over 405 nt (KF681807.1), n=1, worst 98.3%
+    ('Albula vulpes', '12s') best 98.2% over 325 nt (X99180.1), n=1, worst 98.2%
+    ('Albula vulpes', 'albula vulpes voucher av') best 98.1% over 374 nt (PP873935.1), n=2, worst 97.7%
+    ('Albula glossodonta', '12s') best 98.1% over 363 nt (KF681778.1), n=3, worst 92.6%
+    ('Albula virgata', 'albula virgata voucher p') best 97.6% over 332 nt (MT656070.1), n=1, worst 97.6%
+    ('Albula glossodonta', 'albula glossodonta vouch') best 97.6% over 332 nt (MT656069.1), n=2, worst 94.4%
+    ('Albula goreensis', '12s') best 97.5% over 919 nt (PQ628731.1), n=1, worst 97.5%
+    ('Albula goreensis', 'albula goreensis isolate') best 97.3% over 968 nt (OP154156.1), n=3, worst 97.2%
+    ('Albula sp. B JJC-2000', '16s') best 97.0% over 636 nt (AY857935.2), n=1, worst 97.0%
+    ('Albula vulpes', 'albula vulpes isolate fg') best 96.8% over 692 nt (PV350444.1), n=2, worst 94.6%
+    ('Albula koreana', '12s') best 95.7% over 351 nt (KF681777.1), n=1, worst 95.7%
+   records filed as A. vulpes by place and whether >=97.5% to the panel genome: [(('coi', 'same', 'Mexico'), 66), (('coi', 'same', 'Virgin Islands'), 15), (('coi', 'same', 'Belize'), 9), (('coi', 'other', 'Brazil'), 4), (('coi', 'same', 'British Virgin Islands'), 3), (('coi', 'other', 'South Africa'), 3), (('cytb', 'same', '?'), 3), (('albula vulpes isolate fg', 'other', 'French Guiana'), 2), (('16s', 'same', '?'), 2), (('albula vulpes voucher av', 'same', 'Brazil'), 2), (('coi', 'other', 'USA'), 1), (('coi', 'other', '?'), 1), (('16s', 'other', '?'), 1), (('cytochrome c oxidase sub', 'other', 'French Guiana'), 1)]
+
+How the links were made: the record lists came from scripts that searched GenBank by genus, called tRNA-Tyr on every record and printed the target species (src/gate3b_conspecific.py -> results/gate3/conspecific_b.txt; src/conspecific_filter.py for Microdevario). Whether a record is another specimen of the same species was then read by hand from titles and vouchers, and typed into src/tiers.py (ind_rec=True and the 'indep' text) and src/dossiers.py. It was not computed until this audit.
+
+== Extras
+   M. kubotai mitogenome identity (%): NC_037360.1 [('PV357791.1', 99.7), ('PV357792.1', 97.7), ('PV357793.1', 95.4), ('PV357794.1', 97.6), ('AB937094.1', 95.6)]
+   M. kubotai mitogenome identity (%): PV357791.1 [('PV357792.1', 97.7), ('PV357793.1', 95.3), ('PV357794.1', 97.7), ('AB937094.1', 95.6)]
+   M. kubotai mitogenome identity (%): PV357792.1 [('PV357793.1', 95.0), ('PV357794.1', 99.3), ('AB937094.1', 97.1)]
+   M. kubotai mitogenome identity (%): PV357793.1 [('PV357794.1', 95.0), ('AB937094.1', 93.2)]
+   M. kubotai mitogenome identity (%): PV357794.1 [('AB937094.1', 97.6)]
+   M. kubotai mitogenome identity (%): AB937094.1 []
+   assembled mitochondrial contig of SRR39401262 ( 16852 bp) against each record: [('NC_037360.1', 97.64, 398), ('PV357791.1', 97.66, 394), ('PV357792.1', 99.76, 41), ('PV357793.1', 95.03, 837), ('PV357794.1', 99.32, 114), ('AB937094.1', 97.02, 470)]
+   COI of the panel A. vulpes, best identity by name: [(100.0, 'Albula vulpes', 103), (99.847, 'Albula sp. BOLD:AAA3090', 11), (91.808, 'Albula goreensis', 58), (91.785, 'Albula sp. B JJC-2000', 6), (91.358, 'Albula glossodonta', 6), (91.312, 'Albula sp. BOLD:AAA3537', 2), (91.011, 'Albula sp.', 1), (88.444, 'Albula esuncula', 4)]
+   CYTB of the panel A. vulpes, best identity by name: [(100.0, 'Albula vulpes', 5), (93.155, 'Albula glossodonta', 43), (90.22, 'Albula goreensis', 11), (90.087, 'Albula esuncula', 8), (89.762, 'Albula sp. B JJC-2000', 3), (88.652, 'Albula sp. A JJC-2000', 6), (88.6, 'Albula cf. vulpes EMW-2014', 1), (88.4, 'Albula gilberti', 53)]
+   S. sector: all five records sit in one COI group (97.5-99.8% to 11 independent S. sector barcodes); that group also holds one record filed S. jesperseni (GU440522), one S. sp. (JN641138) and one misfiled Stemonidium (PZ575687, India); the next named group is S. beanii at about 92%.
+   Read specimens against the counted record (mitogenome): S. sector SRR22396609 = OR482581 98.7%; S. beanii SRR36227421 = PX754814 99.2%; St. hypomelas SRR38094758 = PZ285090 99.5%; L. verrillii SRR37037826 = PX940805 99.6%; M. kubotai SRR39401262 97.6% (99.8% to PV357792, kub2).

@@ -1,0 +1,4 @@
+POST-HOC (cold review 2, check 8).
+re-included classes ['Aves', 'Testudines']
+as shipped (named extra AP002973.1 counted): non-U33 19/30308; resolved only 18/28584
+named extra excluded (REPORT 7.1, GATE_3): non-U33 18/30307; resolved only 17/28583

@@ -1,0 +1,6 @@
+POST-HOC check 4 NC_037360.1 SRR4556446 record N33 C | scanner: reads 2953542 windows 16
+windows 16 {'tRNA-Tyr(GUA)': 10, 'not spanning or <40 nt': 5, 'gap in the loop': 1}
+rivals []
+non-GUA anticodons []
+  N33=C identity >=97 mt flank: 10
+reads with another base at 33: 0

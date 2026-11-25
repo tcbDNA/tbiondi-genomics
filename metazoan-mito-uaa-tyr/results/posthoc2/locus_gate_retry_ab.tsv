@@ -1,0 +1,40 @@
+acc	species	phylum	uaa	locked_status	locked_reason	top_score	top_N33	new_rank	new_score	new_N33	new_stem	new_start	new_end	new_strand	n_agree
+NC_024676.1	Tetranychus kanzawai	Arthropoda	Stop	unresolved	gate_fail	12.1	U	2	10.1	U	5	5835	5805	-	1
+NC_025511.1	Camaena cicatricosa	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	23.3	U	2	21.7	U	5	8075	8136	+	1
+NC_030339.1	Aglaiogyrodactylus forficulatus	Platyhelminthes	Stop	unresolved	gate_fail	17.4	U	2	15.4	U	4	8746	8808	+	1
+NC_038142.1	Trioza erytreae	Arthropoda	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	60.2	U	2	60.2	U	4	3045	2982	-	2
+NC_070137.1	Camallanus lacustris	Nematoda	Stop	unresolved	gate_fail	23.3	G	2	12.7	U	5	2418	2471	+	1
+NC_028008.1	Metorchis orientalis	Platyhelminthes	Stop	unresolved	gate_fail	15.8	U	2	13.5	U	5	11473	11535	+	1
+NC_060796.1	Bulinus nasutus	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	30.3	U	2	21.0	U	5	4665	4720	+	0
+NC_060798.1	Bulinus globosus	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	29.1	U	2	17.4	U	5	4664	4716	+	1
+NC_045239.1	Dasypogon diadema	Arthropoda	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	64.1	U	2	64.1	U	5	7576	7507	-	2
+NC_028425.1	Anoplocephala perfoliata	Platyhelminthes	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	29.6	U	4	26.8	U	5	4544	4603	+	1
+NC_011127.2	Opisthorchis felineus	Platyhelminthes	Stop	unresolved	gate_fail	15.5	U	2	12.1	U	5	11546	11607	+	1
+NC_002681.1	Trichinella spiralis	Nematoda	Stop	unresolved	gate_fail	12.8	U	2	12.4	U	5	10619	10554	-	1
+NC_014399.1	Tetranychus cinnabarinus	Arthropoda	Stop	unresolved	gate_fail	12.1	U	2	10.1	U	5	5836	5806	-	1
+NC_015106.1	Micromelo undatus	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	34.8	U	2	31.0	U	5	5946	6005	+	0
+NC_006892.1	Leptorhynchoides thecatus	Acanthocephala	Stop	unresolved	gate_fail	15.0	U	2	12.4	U	4	1624	1676	+	1
+NC_001761.1	Albinaria caerulea	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	27.5	U	2	25.5	U	5	4849	4912	+	1
+NC_065315.1	Lebertia trifurcilla	Arthropoda	Stop	unresolved	gate_fail	16.7	U	2	14.9	U	5	6549	6506	-	1
+NC_072954.1	Ambigolimax valentianus	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	49.9	U	2	49.9	U	5	8655	8718	+	1
+NC_072986.1	Bipalium admarginatum	Platyhelminthes	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	17.9	U	2	14.4	U	5	12064	12080	+	1
+LC864470.1	Marinula pepita	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	31.5	U	2	29.9	U	4	5447	5497	+	0
+PX739865.1	Biomphalaria peregrina	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	26.9	U	2	23.3	U	4	7969	8026	+	1
+PQ801813.1	Cheilostomatida gen. n. sp. n. AW-2024	Bryozoa	Stop	unresolved	gate_fail	16.4	U	2	11.7	U	4	2971	3024	+	1
+OR460715.2	Catenicula corbulifera	Bryozoa	Stop	unresolved	gate_fail	19.4	U	2	13.2	U	5	5041	5096	+	1
+OR460716.1	Calpensia nobilis	Bryozoa	Stop	unresolved	gate_fail	14.4	U	4	10.1	U	5	3744	3801	+	1
+PV740361.1	Patagifer bilobus	Platyhelminthes	Stop	unresolved	gate_fail	11.0	U	2	10.4	U	5	11420	11481	+	1
+PQ822241.1	Tetranychus bambusae	Arthropoda	Stop	unresolved	gate_fail	12.1	U	2	10.1	U	5	5836	5806	-	1
+PV684674.1	Hydatina physis	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	36.9	U	2	28.2	U	5	5939	5998	+	0
+PV273724.1	Radix sp.	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	34.8	U	2	32.4	U	5	5100	5163	+	1
+OR282484.1	Moellendorffia eastlakeana	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	33.3	U	2	23.0	U	4	8110	8164	+	1
+OR187754.1	Camaena platyodon	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	30.0	U	2	27.6	U	5	9094	9154	+	1
+MT081960.1	Parakontikia ventrolineata	Platyhelminthes	Stop	unresolved	gate_fail	16.8	U	2	14.4	U	5	11952	11968	+	1
+MZ594567.1	Anthocephalum sp. BT-2021	Platyhelminthes	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	26.4	U	2	26.3	U	5	4558	4611	+	1
+KT001074.1	Camaena poyuensis	Mollusca	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	22.5	U	2	20.3	U	5	8052	8117	+	1
+AP010869.1	Monognathus jesperseni	Chordata	Stop	unresolved	wrong_locus:disagrees_with_annotated_trnY	67.7	U	2	63.4	U	5	9320	9252	-	2
+OZ389825.1	Macrosiphum cholodkovskyi	Arthropoda	Stop	unresolved	wrong_locus:overlaps_PCG_CYTB_56nt	17.1	U	3	14.0	U	5	4950	4966	+	1
+OZ222547.1	Cylindroiulus punctatus	Arthropoda	Stop	unresolved	wrong_locus:overlaps_tRNAcall_TGT_63nt	24.4	U	2	23.4	U	5	73	132	+	1
+OY796687.1	Tetragnatha montana	Arthropoda	Stop	unresolved	gate_fail	16.9	U	2	13.4	U	5	4696	4713	+	1
+OZ370520.1	Isognomon alatus	Mollusca	Stop	unresolved	gate_fail	13.3	U	2	12.6	U	5	12331	12426	+	1
+OZ185675.1	Albinaria teres	Mollusca	Stop	unresolved	wrong_locus:overlaps_tRNAcall_TGT_70nt	29.1	U	2	26.4	U	5	12818	12755	-	1

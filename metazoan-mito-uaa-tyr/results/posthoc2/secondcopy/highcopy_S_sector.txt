@@ -1,0 +1,4 @@
+POST-HOC check 4 supplement S_sector SRR22396609 spots 5832271 pilot 400000 spots -> mitochondrial median depth 25 | spots used 960000 (16.5%) | estimated full-run mitochondrial depth 365
+  mitochondrial median depth in the subsample 64
+  contigs 43974 | coverage >=20% of the mitogenome and >=200 bp: 3478 total bp 1919208 | of them mitochondrial record: 1 16884 bp
+DONE step 1 (assembly and coverage); the tRNA search is step 2, src/cr2_highcopy2.py

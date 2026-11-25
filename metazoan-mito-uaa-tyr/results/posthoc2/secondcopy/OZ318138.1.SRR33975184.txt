@@ -1,0 +1,11 @@
+POST-HOC check 4 OZ318138.1 SRR33975184 record N33 G | scanner: reads 34169376 windows 102
+windows 102 {'tRNA-Tyr(GUA)': 86, 'not spanning or <40 nt': 15, 'gap in the loop': 1}
+rivals []
+non-GUA anticodons []
+  N33=G identity >=97 mt flank: 76
+  N33=G identity 90-97 mt flank: 6
+  N33=G identity >=97 no flank in read: 2
+  N33=U identity 90-97 mt flank: 1
+  N33=G identity 90-97 other flank: 1
+reads with another base at 33: 1
+    (1, 'U', np.float64(0.932), 'CUGUAAA', 'mt flank', (0.99, 77), 'TTAATCTTAAATTGGAGTGAAGTTGCAGAAGGGTTATGCGTCCCGCTGTAAAAGTAATACTTTGAGAGTTCGAGTCTCTTCTTTACTATTTTGTTTATAGAGAAGACTATGGGTAAGTTGCCAGGCTCATGACTTGGAGATGTAGGTTCG')

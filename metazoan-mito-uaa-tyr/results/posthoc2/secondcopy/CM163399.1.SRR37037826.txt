@@ -1,0 +1,18 @@
+POST-HOC check 4 CM163399.1 SRR37037826 record N33 C | scanner: reads 45542068 windows 1199
+windows 1199 {'gap in the loop': 48, 'tRNA-Tyr(GUA)': 750, 'not spanning or <40 nt': 394, 'anticodon not GUA': 7}
+rivals []
+non-GUA anticodons [(('AUC', 'C', '70-80', 'other/short flank'), 3), (('AUA', 'C', '80-90', 'other/short flank'), 1), (('UUA', 'C', '90-97', 'mt flank'), 1), (('GUG', 'C', '>=97', 'mt flank'), 1), (('GGA', 'C', '70-80', 'other/short flank'), 1)]
+  N33=C identity >=97 mt flank: 624
+  N33=C identity >=97 no flank in read: 52
+  N33=C identity >=97 other flank: 33
+  N33=C identity 80-90 mt flank: 18
+  N33=C identity 90-97 mt flank: 10
+  N33=C identity 80-90 no flank in read: 5
+  N33=C identity 80-90 other flank: 3
+  N33=C identity 90-97 no flank in read: 2
+  N33=U identity 80-90 mt flank: 1
+  N33=U identity 90-97 mt flank: 1
+  N33=C identity 90-97 other flank: 1
+reads with another base at 33: 2
+    (1, 'U', np.float64(0.859), 'UUGUAGU', 'mt flank', (0.95, 79), 'GTCTTTATGATTAGTCGAGAAAAATCAGCGTGTGATGGCCACAGGTAGGATGGCTGAGCGTTTAAGCGGTGGATTGTAGTCCCATAGACAGAGGTTTGAGTCCTCTTCTTACCAAGCCCTAAGGTGTTCCACATATAAGATTGCAAATCTT')
+    (1, 'U', np.float64(0.945), 'UUGUAGA', 'mt flank', (0.99, 96), 'GCATAGGCGGTGGATTGTAGACCCATAGACAGAGGTTCGATTCCTATTACTACCAAGCCATAAGGTGTTTCACATATAAGATTGCAAATCTTAAGAGGCAGACTAACTCCTGCTGGGGCTTCCCCCCGCCTTTTAAGGGTTGACAAGGCGG')

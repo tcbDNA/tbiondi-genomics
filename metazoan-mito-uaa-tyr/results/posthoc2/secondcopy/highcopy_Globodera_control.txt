@@ -1,0 +1,17 @@
+POST-HOC check 4 supplement Globodera_control SRR15202047 spots 8580185 pilot 400000 spots -> mitochondrial median depth 16 | spots used 1500000 (17.5%) | estimated full-run mitochondrial depth 343
+  mitochondrial median depth in the subsample 68
+  contigs 97264 | coverage >=20% of the mitogenome and >=200 bp: 1022 total bp 1609828 | of them mitochondrial record: 5 15222 bp
+  GUA tRNA candidates on high-copy contigs:
+     MITOGENOME RECORD NODE_55_length_8797_cov_19.491858 len 8797 cov 53.4 CM (N33,loop,score,stem,coords) [] ARAGORN ['4 mtRNA-Tyr c[6845,6920] 32 (gta)']
+     other high-copy contig NODE_87_length_7907_cov_4.317880 len 7907 cov 15.2 CM (N33,loop,score,stem,coords) [('U', 'AUGUAGA', 16.3, 5, 7406, 7474)] ARAGORN []
+     other high-copy contig NODE_8605_length_1246_cov_3.029085 len 1246 cov 15.7 CM (N33,loop,score,stem,coords) [('U', 'AUGUAAA', 16.8, 5, 178, 117)] ARAGORN []
+     other high-copy contig NODE_850_length_3406_cov_3.509162 len 3406 cov 16.3 CM (N33,loop,score,stem,coords) [] ARAGORN ['1 mtRNA-Tyr c[1074,1130] 22 (gta)']
+     other high-copy contig NODE_5357_length_1538_cov_4.685832 len 1538 cov 20.6 CM (N33,loop,score,stem,coords) [('G', 'UGGUAAG', 16.5, 4, 1208, 1138)] ARAGORN []
+     other high-copy contig NODE_41_length_9407_cov_3.924330 len 9407 cov 13.8 CM (N33,loop,score,stem,coords) [('U', 'UUGUAGA', 21.4, 5, 2408, 2469)] ARAGORN []
+     other high-copy contig NODE_293_length_5170_cov_3.800707 len 5170 cov 13.7 CM (N33,loop,score,stem,coords) [] ARAGORN ['1 mtRNA-Tyr c[926,986] 36 (gta)']
+     other high-copy contig NODE_234_length_5610_cov_7.682089 len 5610 cov 24.2 CM (N33,loop,score,stem,coords) [('U', 'UUGUAAU', 17.8, 4, 1336, 1256)] ARAGORN []
+     other high-copy contig NODE_207_length_5802_cov_3.559825 len 5802 cov 14.5 CM (N33,loop,score,stem,coords) [('U', 'UUGUAAA', 16.3, 3, 125, 193)] ARAGORN []
+     other high-copy contig NODE_1914_length_2425_cov_4.754685 len 2425 cov 17.6 CM (N33,loop,score,stem,coords) [] ARAGORN ['2 mtRNA-Tyr [662,741] 34 (gta)']
+     other high-copy contig NODE_15_length_12042_cov_99.798161 len 12042 cov 259.7 CM (N33,loop,score,stem,coords) [] ARAGORN ['2 mtRNA-Tyr [510,563] 31 (gta)']
+     other high-copy contig NODE_1541_length_2658_cov_3.463774 len 2658 cov 22.8 CM (N33,loop,score,stem,coords) [('U', 'CUGUAAU', 16.5, 4, 2410, 2339)] ARAGORN []
+DONE

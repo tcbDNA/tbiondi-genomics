@@ -1,0 +1,11 @@
+series	planted_frac	genomes	observations	called	rate	wilson_lo	wilson_hi	boot_lo	boot_hi	width_ratio
+counter	0.05	65	325	0	0.0	0.0	0.0117	0.0	0.0	0.0
+counter	0.1	65	325	79	0.2431	0.1996	0.2925	0.1508	0.3446	2.09
+counter	0.25	65	325	291	0.8954	0.8574	0.9242	0.8246	0.9538	1.93
+counter	0.5	65	325	310	0.9538	0.9253	0.9718	0.9015	0.9938	1.98
+counter	1.0	65	65	63	0.9692	0.8946	0.9915	0.9231	1.0	0.79
+counter+Codetta(rep 0)	0.05	65	65	0	0.0	0.0	0.0558	0.0	0.0	0.0
+counter+Codetta(rep 0)	0.1	65	65	16	0.2462	0.1576	0.3631	0.1385	0.3538	1.05
+counter+Codetta(rep 0)	0.25	65	65	59	0.9077	0.8129	0.957	0.8308	0.9692	0.96
+counter+Codetta(rep 0)	0.5	65	65	63	0.9692	0.8946	0.9915	0.9231	1.0	0.79
+counter+Codetta(rep 0)	1.0	65	65	63	0.9692	0.8946	0.9915	0.9231	1.0	0.79

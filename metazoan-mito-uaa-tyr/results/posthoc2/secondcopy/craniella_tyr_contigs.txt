@@ -1,0 +1,32 @@
+POST-HOC
+
+CDFYFP010000042.1 70001-85000 (contig 117623 bp): CM Tyr(GUA) candidates score>=10: 2, loops {'CUGUAAA': 2}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GCTAGGATCCAGTTTTTTCCTATTCCAAATAGCTGGGAAACATATTTTTCGTGCTCCTACAGGCTGTAAACCAGTTTTTTAGACTTTAAATAGATGTCATAATCTTTTTCCTAGCT | to cytosolic tRNA-Tyr 77% over 47 nt | to the mitochondrial tRNA-Tyr 80% over 41 nt score 14.6
+     AAATAGCTGAGAAACATTTTTTTCGTGCTGCTACTGGCTGTAAACCAGTTTTTCTGACTTTTAAAAGATGTCATAATCTTTTT | to cytosolic tRNA-Tyr 89% over 9 nt | to the mitochondrial tRNA-Tyr 71% over 21 nt score 14.6
+
+CDFYFP010000083.1 65001-85000 (contig 90000 bp): CM Tyr(GUA) candidates score>=10: 8, loops {'CUGUAAA': 8}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GGGAAAAAATTGTTTCGTGCTCATACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 93% over 15 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 17.6
+     GGGAAAAAATTGTTTCGTGCTCATACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 93% over 15 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 17.6
+     GGGAAAAAATTGTTTCGTGCTCATACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 93% over 15 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 17.6
+
+CDFYFP010000180.1 20001-30000 (contig 51933 bp): CM Tyr(GUA) candidates score>=10: 1, loops {'CUGUAAA': 1}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GGGAAAAAATTGTTTCGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 16.8
+
+CDFYFP010000180.1 35001-50000 (contig 51933 bp): CM Tyr(GUA) candidates score>=10: 1, loops {'CUGUAAA': 1}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GGGAAAAAATTGTTTCGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 16.8
+
+CDFYFP010000288.1 25001-30000 (contig 34000 bp): CM Tyr(GUA) candidates score>=10: 1, loops {'CUGUAAA': 1}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GGGAAAAAATTGTTTCGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 16.8
+
+CDFYFP010000419.1 15001-20000 (contig 26000 bp): CM Tyr(GUA) candidates score>=10: 2, loops {'CUGUAAA': 2}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     AAAAAGTTAGGAACCAGTTTTTTCCACTTCCAAATAGCTGGGAAACATTTTTTTCGTGCTCCTACTGGCTGTAAACCAGTTTTTCAGACTTTTAA | to cytosolic tRNA-Tyr 91% over 11 nt | to the mitochondrial tRNA-Tyr 75% over 24 nt score 15.4
+     ACTGGCTGTAAACCAGT | to cytosolic tRNA-Tyr 100% over 5 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 10.1
+
+CDFYFP010000449.1 1-24249 (contig 24249 bp): CM Tyr(GUA) candidates score>=10: 2, loops {'CUGUAAA': 2}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GGAAAAATTGTTTCATGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 94% over 17 nt score 17.5
+     GGGAAAAAATTGTTTCGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 16.8
+
+CDFYFP010000849.1 1-15000 (contig 16000 bp): CM Tyr(GUA) candidates score>=10: 3, loops {'CUGUAAA': 3}; tRNAscan-SE eukaryotic mode Tyr(GTA): 0 []; all tRNAs in eukaryotic mode 0; mitochondrial protein domains []; blastn to the mitogenome (E<=1e-5): 0 []
+     GGGAAACATTTTTTAGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 10.9
+     GGGAAACATTTTTTAGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 10.9
+     GGGAAACATTTTTTTCGTGCTCCTACTGGCTGTAAACCAGTTTTTCTGACTTTAAATAGATGTCATAATCTTTTTCCTT | to cytosolic tRNA-Tyr 80% over 10 nt | to the mitochondrial tRNA-Tyr 89% over 9 nt score 10.5

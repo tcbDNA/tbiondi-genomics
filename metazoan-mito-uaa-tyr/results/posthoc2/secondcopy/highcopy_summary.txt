@@ -1,0 +1,39 @@
+POST-HOC check 4 supplement, step 2 (contigs >=500 bp at >=50% of the mitochondrial depth)
+
+Globodera_control: mitochondrial depth 68x; contigs at >=50% of it: 121 (mitogenome record 14647 bp; other 118 contigs, 266898 bp)
+    OTHER contig passing the locked gate NODE_15_length_12042_cov_99.798161 cov 259.7 | extractor: ('U', 'UUGUAAA', 'score', 11.1, 'stem', 4, 510, 563) | ARAGORN at the same place: ['2 mtRNA-Tyr [510,563] 31 (gta)']
+    record NODE_55_length_8797_cov_19.491858 cov 53.4 | extractor: ('C', 'UCGUAGA', 'score', 10.0, 'stem', 4, 6920, 6866) | ARAGORN at the same place: ['4 mtRNA-Tyr c[6845,6920] 32 (gta)']
+    other contigs: {'no candidate': 89, 'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 30}
+
+S_sector: mitochondrial depth 64x; contigs at >=50% of it: 309 (mitogenome record 16884 bp; other 308 contigs, 452506 bp)
+    record NODE_1_length_16884_cov_22.550544 cov 61.4 | extractor: ('C', 'CCGUAGC', 'score', 64.3, 'stem', 5, 8189, 8119) | ARAGORN at the same place: ['14 mtRNA-Tyr c[8119,8189] 33 (gta)']
+    other contigs: {'no candidate': 224, 'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 84}
+
+S_beanii: mitochondrial depth 62x; contigs at >=50% of it: 316 (mitogenome record 16808 bp; other 315 contigs, 403030 bp)
+    record NODE_1_length_16808_cov_18.264419 cov 54.9 | extractor: ('C', 'CCGUAGC', 'score', 65.2, 'stem', 5, 14392, 14462) | ARAGORN at the same place: ['18 mtRNA-Tyr [14392,14462] 33 (gta)']
+    OTHER contig passing the locked gate NODE_189_length_1255_cov_3.185908 cov 41.2 | extractor: ('U', 'UUGUAAA', 'score', 14.3, 'stem', 4, 622, 546) | ARAGORN at the same place: ['1 mtRNA-Tyr c[548,627] 37 (gta)']
+    other contigs: {'no candidate': 257, 'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 57}
+
+L_verrillii: mitochondrial depth 27x; contigs at >=50% of it: 219 (mitogenome record 16786 bp; other 209 contigs, 199021 bp)
+    record NODE_2_length_3814_cov_8.812952 cov 22.0 | extractor: ('C', 'UCGUAGA', 'score', 64.4, 'stem', 4, 2038, 1970) | ARAGORN at the same place: ['9 mtRNA-Tyr c[1970,2038] 31 (gta)']
+    record NODE_17_length_2195_cov_9.418319 cov 25.0 | extractor: ('U', 'CUGUAAU', 'score', 5.4, 'stem', 3, 1912, 1924) | ARAGORN at the same place: none
+    record NODE_68_length_1333_cov_9.304936 cov 25.1 | extractor: ('U', 'CUGUAAG', 'score', 5.0, 'stem', 5, 133, 227) | ARAGORN at the same place: none
+    record NODE_70_length_1318_cov_8.384367 cov 20.4 | extractor: ('U', 'UUGUAAG', 'score', 21.8, 'stem', 3, 414, 343) | ARAGORN at the same place: none
+    other contigs: {'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 29, 'no candidate': 186}
+
+St_hypomelas: mitochondrial depth 35x; contigs at >=50% of it: 1419 (mitogenome record 16428 bp; other 1415 contigs, 4552217 bp)
+    record NODE_132_length_9683_cov_7.779200 cov 29.1 | extractor: ('C', 'CCGUAGC', 'score', 65.6, 'stem', 5, 8016, 8086) | ARAGORN at the same place: ['10 mtRNA-Tyr [8016,8086] 33 (gta)']
+    OTHER contig passing the locked gate NODE_206_length_6070_cov_28.999166 cov 93.3 | extractor: ('U', 'CUGUAAG', 'score', 12.6, 'stem', 5, 2655, 2725) | ARAGORN at the same place: ['2 mtRNA-Tyr [2656,2724] 30 (gta)']
+    OTHER contig passing the locked gate NODE_224_length_5662_cov_28.415756 cov 90.2 | extractor: ('U', 'CUGUAAA', 'score', 49.5, 'stem', 5, 4382, 4462) | ARAGORN at the same place: ['3 mtRNA-Tyr [4382,4465] 35 (gta)']
+    OTHER contig passing the locked gate NODE_578_length_2052_cov_8.794430 cov 29.3 | extractor: ('U', 'CUGUAAG', 'score', 12.9, 'stem', 5, 1809, 1891) | ARAGORN at the same place: ['2 mtRNA-Tyr [1835,1896] 21 (gta)']
+    other contigs: {'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 214, 'no candidate': 1201}
+
+M_kubotai: mitochondrial depth 22x; contigs at >=50% of it: 1087 (mitogenome record 18168 bp; other 1084 contigs, 1484147 bp)
+    record NODE_206418_length_16852_cov_9.600656 cov 22.7 | extractor: ('C', 'CCGUAGC', 'score', 70.2, 'stem', 5, 7815, 7885) | ARAGORN at the same place: ['9 mtRNA-Tyr [7815,7885] 33 (gta)']
+    other contigs: {'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 257, 'no candidate': 829}
+
+A_glossodonta: mitochondrial depth 28x; contigs at >=50% of it: 247 (mitogenome record 16454 bp; other 246 contigs, 403543 bp)
+    record NODE_14043_length_16454_cov_14.434268 cov 27.4 | extractor: ('C', 'CCGUAGC', 'score', 65.4, 'stem', 5, 13202, 13272) | ARAGORN at the same place: ['16 mtRNA-Tyr [13202,13272] 33 (gta)']
+    other contigs: {'candidate fails the locked gate (score >=20, or >=10 with ARAGORN at the same place)': 49, 'no candidate': 197}
+
+Identified: S_beanii NODE_189 = dispersed nuclear repeat (beanii_contig.txt); St_hypomelas NODE_206, NODE_224, NODE_578 = bacterial or phage DNA (contig_id_St_hypomelas.txt); Globodera NODE_15 = chromosome II (KU726972.1). M_kubotai and A_glossodonta: contigs from before repeat resolution. Craniella: highcopy_craniella.txt, craniella_tyr_contigs.txt.

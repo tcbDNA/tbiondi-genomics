@@ -1,0 +1,12 @@
+POST-HOC check 4 CM165726.1 SRR13036352 record N33 C | scanner: reads 168421074 windows 2387
+windows 2387 {'tRNA-Tyr(GUA)': 1874, 'not spanning or <40 nt': 490, 'identity <70%': 8, 'gap in the loop': 3, 'anticodon not GUA': 12}
+rivals []
+non-GUA anticodons [(('CUA', 'C', '70-80', 'other/short flank'), 4), (('GGA', 'C', '90-97', 'mt flank'), 2), (('UUA', 'C', '80-90', 'other/short flank'), 1), (('AUA', 'C', '>=97', 'mt flank'), 1), (('CUA', 'C', '>=97', 'mt flank'), 1), (('GCA', 'C', '90-97', 'mt flank'), 1), (('GCA', 'C', '90-97', 'other/short flank'), 1), (('CUA', 'C', '90-97', 'mt flank'), 1)]
+  N33=C identity >=97 mt flank: 1855
+  N33=C identity 90-97 mt flank: 12
+  N33=C identity >=97 other flank: 3
+  N33=C identity 90-97 other flank: 2
+  N33=U identity >=97 mt flank: 1
+  N33=C identity 80-90 other flank: 1
+reads with another base at 33: 1
+    (1, 'U', np.float64(0.982), 'CUGUAGC', 'mt flank', (1.0, 69), 'CCAAACACTAAATAGAGGGTACCGATATCTTTGTGATTAGTAGAAAAAAATCATCGAGTAATTGCCATAGGTAAGGTGGCTGAATGCTTAAGCGGTGGGCTGTAGCCCCATAAACAGAGGTTAA')

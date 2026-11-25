@@ -1,0 +1,25 @@
+POST-HOC check 2, part 2
+   OZ318118.1 2715052-2727185 id 99.67 len 12136 mt 4302-16431 median depth inside 1.0 | outside left 0.0 right 0.0 | reads crossing the edges by >=500 nt each way: left 1 right 0
+   OZ318121.1 19571199-19582621 id 99.467 len 11441 mt 1384-12818 median depth inside 1 | outside left 1.0 right 1.0 | reads crossing the edges by >=500 nt each way: left 1 right 0
+   OZ318123.1 6113449-6123248 id 99.755 len 9801 mt 1-9800 median depth inside 15.0 | outside left 5.0 right 32.0 | reads crossing the edges by >=500 nt each way: left 5 right 38
+   OZ318118.1 28747195-28755710 id 96.834 len 8592 mt 1-8549 median depth inside 1.0 | outside left 0.0 right 1.0 | reads crossing the edges by >=500 nt each way: left 0 right 0
+   OZ318123.1 6123249-6131541 id 99.879 len 8294 mt 9992-18285 median depth inside 19 | outside left 35.0 right 0.0 | reads crossing the edges by >=500 nt each way: left 38 right 1
+   CDFYFP010000281.1 10210-17437 id 73.111 len 7397 mt 3972-11173 median depth inside 0.0 | outside left 0.0 right 1.0 | reads crossing the edges by >=500 nt each way: left 0 right 1
+   CDFYFP010000016.1 181616-188779 id 99.177 len 7169 mt 665-7825 median depth inside 2.0 | outside left 4.0 right 2.0 | reads crossing the edges by >=500 nt each way: left 2 right 0
+   OZ318130.1 1866497-1873562 id 99.038 len 7071 mt 3848-10903 median depth inside 2.0 | outside left 0.0 right 2.0 | reads crossing the edges by >=500 nt each way: left 0 right 2
+   CDFYFP010000281.1 28688-34302 id 73.267 len 5772 mt 3972-9595 median depth inside 0 | outside left 0.0 right None | reads crossing the edges by >=500 nt each way: left 0 right 0
+   OZ318130.1 5829088-5833876 id 95.731 len 4872 mt 7788-12631 median depth inside 1 | outside left 1.0 right 0.0 | reads crossing the edges by >=500 nt each way: left 1 right 0
+   OZ318122.1 3723428-3727958 id 95.799 len 4618 mt 7184-11800 median depth inside 2 | outside left 2.0 right 3.0 | reads crossing the edges by >=500 nt each way: left 2 right 1
+   OZ318121.1 19564959-19569306 id 99.678 len 4348 mt 1-4345 median depth inside 1.0 | outside left 3.0 right 1.0 | reads crossing the edges by >=500 nt each way: left 1 right 1
+   OZ318118.1 28743161-28747194 id 96.965 len 4085 mt 14208-18285 median depth inside 0.0 | outside left 0.0 right 1.0 | reads crossing the edges by >=500 nt each way: left 0 right 0
+   CDFYFP010000281.1 17582-21465 id 74.988 len 4078 mt 1-3918 median depth inside 1.0 | outside left 0.0 right 1.0 | reads crossing the edges by >=500 nt each way: left 1 right 1
+  OZ318123.1 block 6,113,449-6,131,541: median inside 18 | 5-30 kb left 2.0 | 5-30 kb right 1.0
+   mitogenome COX1 11592-13115: record 35.0, OZ318123 copy 10.0, sum 45.0
+   mitogenome ND1 13615-14544: record 25.0, OZ318123 copy 18.5, sum 44.0
+   mitogenome trnY 14818-14890: record 19, OZ318123 copy 20, sum 39
+   mitogenome ND2 15261-16178: record 14.0, OZ318123 copy 23.0, sum 37.0
+   mitogenome ND5 16352-18154: record 5, OZ318123 copy 37, sum 41
+   mitogenome ATP6/COX region 5000-6000 5000-6000: record 41, OZ318123 copy 12, sum 52
+   mitogenome whole 1-18285: record 34, OZ318123 copy 17, sum 49
+  circularity: reads whose alignment ends at the record's end (<=50 nt) and have a supplementary part at its start:
+   reads split within OZ318138.1 (origin-crossing): 1

@@ -1,0 +1,13 @@
+POST-HOC
+NC_047225.1 Bufotes pewzowi resolved G | score 49.8 | Tyr framing ('GUGGC', 'UGGUAGU', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Thr', 'GGT', 29.0, '-')] | GGUAAGAUGGCCGAGGGUGAGGCGGUGGCUGGUAGUUCCACCAAGGGAGGUUAAAUUCUUCUUUUUAUCA
+    one-base-shifted framing (anticodon GGU): ('GGUGG', 'CUGGUAG', 'UUCCA', 3)
+NC_046047.1 Bufotes pseudoraddei resolved U | score 65.1 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 44.1, '-')] | GGUAAGAUGGCCGAGGGCGAGGCGGUGGCUUGUAGCUCCACCAAGGGAGGUUAAAGUCCUCCUCUUAUCA
+NC_050665.1 Bufotes sitibundus resolved U | score 67.3 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 47.1, '-')] | GGUAAGAUGGCCGAGGGUGAGGCGGUGGCUUGUAGCUCCACCAAGGGAGGUUAAAGUCCUCCUCUUAUCA
+NC_062077.1 Bufotes turanensis resolved U | score 67.3 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 47.1, '-')] | GGUAAGAUGGCCGAGGGUGAGGCGGUGGCUUGUAGCUCCACCAAGGGAGGUUAAAGUCCUCCUCUUAUCA
+LR991678.1 Bufo bufo resolved U | score 65.8 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 49.0, '-')] | GGUAAGAUGGCCGAGGGUAAGGCGGUGGCUUGUAGCUCCACUCAGGGAGGUUAAAGUCCUUCUUUUACCA
+NC_008410.1 Bufo gargarizans unresolved U | score 68.9 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 50.0, '-')] | GGUAAGAUGGCCGAGGGUAAGGCGGUGGCUUGUAGCUCCACCUAGGGAGGUUAAAGUCCUCCUCUUAUCA
+NC_009886.1 Bufo japonicus resolved U | score 63.4 | Tyr framing ('GUGGC', 'UUGUAGU', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 46.8, '-')] | GGUAAGAUGGCCGAGGGUAAGGCGGUGGCUUGUAGUUCCACCCAGGGAGGUUAAAGUCCUUCUCUUAUCA
+NC_027686.1 Bufo stejnegeri resolved U | score 66.7 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 47.1, '-')] | GGUAAGAUGGCCGAGGGCAAGGCGGUGGCUUGUAGCUCCACCUAGGGAGGUUAAAGUCCUCCUCUUAUCA
+NC_020048.1 Bufo tibetanus resolved U | score 68.9 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 50.0, '-')] | GGUAAGAUGGCCGAGGGUAAGGCGGUGGCUUGUAGCUCCACCUAGGGAGGUUAAAGUCCUCCUCUUAUCA
+NC_005794.2 Duttaphrynus melanostictus resolved U | score 69.4 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 47.8, '-')] | GGUAAGAUGGCCGAGGGAUAGGCGGUGGCUUGUAGCUCCACCGAGGAAGGUUAAAGUCCUUCUCUUACCA
+NC_028424.1 Strauchbufo raddei resolved U | score 68.1 | Tyr framing ('GUGGC', 'UUGUAGC', 'UCCAC', 4) | tRNAscan-SE at the locus: [('Tyr', 'GTA', 46.3, '-')] | GGUAAGAUGGCCGAGGGUGAGGCGGUGGCUUGUAGCUCCACCUAGGGAGGUUAAAGUCCUCCUCUUAUCA
