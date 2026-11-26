@@ -1,0 +1,76 @@
+word	context	kind	source	checked
+seven	show transcripts ending in UAA for seven genes in the bonefish and six in t	count	results/posthoc2/sixfish_terminal_uaa.tsv	by hand: correct
+six	or seven genes in the bonefish and six in the eelpout, the latter from th	count	results/posthoc2/sixfish_terminal_uaa.tsv	by hand: correct
+Two	Two effects have been proposed for the	wording		by hand: not a count
+two	If the two changes must occur together, a gen	wording		by hand: not a count
+Two	Two records in their species list carr	count	prior_art_c33_fish.md (Satoh et al. Table S7)	by hand: correct
+two	We infer that these are the two.	wording		by hand: not a count
+two	Lin et al.'s observation, and for two other genera it flagged:	count	the manuscript itself (Craniella, Rotylenchulus)	by hand: correct
+two	Each genome was examined in two ways, by rules fixed in the pre-re	wording		by hand: not a count
+Thirteen	Thirteen of the 17 are vertebrates using th	count	results/mitogenome_master.tsv (code 2: 13/10,717)	by hand: correct
+two	and 1 G33, among 10,717 genomes), two are G33 sponges using the sponge c	count	results/mitogenome_master.tsv (code 4: 2/150)	by hand: correct
+two	sponge code (code 4; of 150), and two are C33 nematodes using code 5 (of	count	results/mitogenome_master.tsv (code 5: 2/16,902)	by hand: correct
+six	, gene ends and transcript ends in six C33 fish [P]	count	results/cold_review/tiers.tsv	by hand: correct
+Twelve	Twelve of the 14 C33 genomes are vertebra	count	results/posthoc2/elopomorpha_c33.tsv (Vertebrata C33 12)	by hand: correct
+six	All six use the vertebrate mitochondrial c	count	results/cold_review/tiers.tsv; results/mitogenome_master.tsv (code 2)	by hand: correct
+three	We used three kinds of evidence about gene ends.	wording		by hand: not a count
+two	The two exceptions are in S. beanii:	count	results/posthoc2/sixfish_terminal_genes.tsv	by hand: correct
+six	COX1 ends six residues beyond that median, and N	count	results/posthoc2/sixfish_terminal_genes.tsv (COX1 cterm_offset 6)	by hand: correct
+seven	eads per gene, place the 3' end of seven transcripts where the mRNA reads U	count	results/posthoc2/sixfish_polya_junctions.tsv	by hand: correct
+Thirteen	Thirteen of the 17 reached Tiers 1–3, three	count	results/cold_review/tiers.tsv	by hand: correct
+five	For five, the support is another GenBank mi	count	results/posthoc2/conspecific_specimen_audit.tsv	by hand: correct
+Two	Two Albula records in GenBank are prob	count	reports/REPORT.md:71; results/gate3/notes_albula_records.md	by hand: correct
+five	ecord carried C33, and each of the five species has at least one compariso	count	results/posthoc2/conspecific_specimen_audit.tsv	by hand: correct
+two	The two weaker cases are S. sector and M.	count	the manuscript itself (S. sector, M. kubotai)	by hand: correct
+four	cimen metadata are incomplete, and four other records filed under the name	count	results/posthoc2/conspecific_specimen_audit.tsv	by hand: correct
+four	identical to PV357792, one of the four unconfirmed records, so its specie	count	results/posthoc2/conspecific_specimen_audit.tsv; reports/REPORT.md:246	by hand: correct
+three	nder the stricter rule, one of the three Tier 2 eels, Serrivomer lanceolato	count	results/cold_review/tiers.tsv (C. meadi, O. asakusae, S. lanceolatoides)	by hand: correct
+five	QXK010000041.1) carries C33 in all five of its trnY copies.	count	reports/REPORT.md:276	by hand: correct
+three	In St. hypomelas, the three passing contigs are bacterial and	count	results/posthoc2/secondcopy/highcopy_summary.txt (3 other contigs pass, St. hypomelas)	by hand: correct
+two	For these two fish the search used contigs from	count	reports/REPORT.md:115,280-290 (REPORT 7.2.10 table)	by hand: correct
+two	The only two C33 genomes were nematodes, and ne	count	results/mitogenome_master.tsv (code 5)	by hand: correct
+four	oborated by ARAGORN alone, and its four congeners carry U33.	count	dossier NC_082198.1; Table 1	by hand: correct
+two	and the eelpout L. verrillii, the two C33 fish with nuclear assemblies,	count	reports/REPORT.md:154-164	by hand: correct
+two	s also keeps T216, with K203 and a two-residue insertion in the loop, so	count	results/gate4/loop_report.txt (+2 aa)	by hand: correct
+three	ta has Q203 and T216, and so, from three clean reads in an exploratory chec	count	results/gate4/reads_SRR3350473.txt	by hand: correct
+two	S216 occurs in two reassigned lineages: the anomiid a	count	reports/REPORT.md:16,133	by hand: correct
+four	the anomiid and placunid bivalves (four species, in which the loop is rewr	count	reports/REPORT.md:133 (4 species)	by hand: correct
+two	nd controls chosen at calibration, two anomiids that use UAA as a stop (H	count	results/posthoc2/mtrf1a_stop_denominator.tsv	by hand: correct
+two	d non-U33 base, G33, occurs in the two Craniella demosponges, which use t	count	results/cold_review/tiers.tsv	by hand: correct
+two	reading G; a relaxed search found two more copies reading T in C. infreq	count	reports/REPORT.md:276	by hand: correct
+two	ent RNA-seq run (SRR33975184), and two caveats attach to it.	count	the manuscript itself (two caveats listed)	by hand: correct
+Three	Three in-frame UAG codons are also confi	count	reports/REPORT.md:272; results/gate3/roty_tag_sites.txt	by hand: correct
+five	2.8, U33) has an anticodon stem of five contiguous pairs, but the covarian	count	results/posthoc2/roty_eval.txt (5/5 contiguous)	by hand: correct
+three	gnment deletes one column, so only three of the five pairs fall where the m	count	results/posthoc2/roty_eval.txt (3/5 model columns)	by hand: correct
+five	s one column, so only three of the five pairs fall where the model expects	count	results/posthoc2/roty_eval.txt	by hand: correct
+two	This difference between the two ways of counting had been document	wording		by hand: not a count
+five	s of this AT-rich mitogenome reach five of seven pairs.	count	reports/REPORT.md:306; results/posthoc2/roty_eval.txt:48 (>=5/7 in 17.4%)	by hand: correct
+seven	s AT-rich mitogenome reach five of seven pairs.	count	reports/REPORT.md:306; results/posthoc2/roty_eval.txt:48 (>=5/7 in 17.4%)	by hand: correct
+three	e screen's tRNA caller again found three of five model-column pairs.	count	results/posthoc2/roty_eval.txt (C5)	by hand: correct
+five	s tRNA caller again found three of five model-column pairs.	count	results/posthoc2/roty_eval.txt	by hand: correct
+two	86 of them have two or more, from five named species (	count	results/gate3/tylench_cox1_summary.txt (>= 2)	by hand: correct
+five	86 of them have two or more, from five named species (one of them, R. mac	count	results/gate3/tylench_cox1_summary.txt	by hand: correct
+seven	1), with 35 in-frame UAA codons in seven genes, 9 of them at its 28 conserv	count	results/gate3_unverified/tests.txt; dossier ON525593.1	by hand: correct
+two	of Radopholus, against 68–81% with two tylenchids that use UAA as a stop;	count	results/posthoc2/tylench_trny_identity.tsv (P. vulnus, M. incognita)	by hand: correct
+four	ause their tRNA-Tyr had fewer than four of its five anticodon-stem pairs a	count	PREREG.md §2.3 (>= 4/5 model-column stem pairs)	by hand: correct
+five	RNA-Tyr had fewer than four of its five anticodon-stem pairs at the positi	count	PREREG.md §2.3	by hand: correct
+seven	eelpout the mature transcripts of seven and six genes end in UAA.	count	results/posthoc2/sixfish_terminal_uaa.tsv	by hand: correct
+six	he mature transcripts of seven and six genes end in UAA.	count	results/posthoc2/sixfish_terminal_uaa.tsv	by hand: correct
+two	Other lineages show that the two changes are not a fixed pair.	wording		by hand: not a count
+Three	Three measurements in the animals themse	count	the manuscript itself (three measurements listed)	by hand: correct
+Nine	Nine of the 12 vertebrate C33 genomes b	count	results/posthoc2/elopomorpha_c33.tsv	by hand: correct
+nine	related species separately, so the nine genomes are not nine independent g	count	results/posthoc2/elopomorpha_c33.tsv	by hand: correct
+nine	ately, so the nine genomes are not nine independent gains: four are sawtoo	count	results/posthoc2/elopomorpha_c33.tsv	by hand: correct
+four	es are not nine independent gains: four are sawtooth eels, and on the NCBI	count	results/posthoc2/elopomorpha_c33.tsv (Serrivomeridae 4)	by hand: correct
+nine	eels, and on the NCBI taxonomy the nine require at least five gains withou	count	results/posthoc2/elopomorpha_c33.tsv	by hand: correct
+five	taxonomy the nine require at least five gains without reversal, one of the	count	results/posthoc2/elopomorpha_c33.tsv (gains_min 5)	by hand: correct
+two	them for Xyrias, against at least two for the other three.	count	results/posthoc2/elopomorpha_c33.tsv (gains_min 2)	by hand: correct
+three	against at least two for the other three.	count	results/posthoc2/elopomorpha_c33.tsv (other vertebrates C33 3)	by hand: correct
+two	s from before repeat resolution in two fish, and none of its libraries ca	count	reports/REPORT.md:115 (M. kubotai, A. glossodonta)	by hand: correct
+three	run, because it required at least three new tyrosine origins.	count	PREREG.md:89 (>= 3 new origins)	by hand: correct
+zero	T5, new reassigned clades: zero;	count	reports/REPORT.md:99-100	by hand: correct
+five	(15 distinct sequences from about five origins).	count	reports/REPORT.md:35	by hand: correct
+Two	Two further T216 species lack a mitoge	count	results/posthoc2/mtrf1a_stop_denominator.tsv	by hand: correct
+three	d (Section [ref:S-support]); these three keep Tier 1 through their conspeci	count	the manuscript itself (S. beanii, St. hypomelas, M. kubotai); reports/REPORT.md:246	by hand: correct
+six	COX1 ends six residues beyond the reference medi	count	results/posthoc2/sixfish_terminal_genes.tsv	by hand: correct
+33	half-filled, some passed; hollow, none passed (base 33 is then a provisional call).	label (figure)		by hand: not a count

@@ -1,9 +1,13 @@
-"""Figures for REPORT.md (SVG, PDF, PNG). fig1 tree of non-U33 Stop and UAA=Tyr lineages; fig2 mtRF1a loop alignment; fig3 detection sensitivity. All numbers come from committed tables; sources are printed."""
+"""Figures for REPORT.md (SVG, PDF, PNG). fig1 tree of non-U33 Stop and UAA=Tyr lineages; fig2 mtRF1a loop alignment; fig3 detection sensitivity. All numbers come from committed tables; sources are printed.
+usage: figures.py [OUTDIR] [--plain]. OUTDIR defaults to reports/figures/. --plain draws the same figures with the plain-language labels of the v4 manuscript revision; without it the labels are those of REPORT.md and the v3 preprint."""
 import csv,json,os,subprocess,sys,math,collections,textwrap
 sys.path.insert(0,"src")
 import matplotlib; matplotlib.use("Agg"); import matplotlib.pyplot as plt
 plt.rcParams.update({"font.family":"DejaVu Sans","font.size":8,"svg.fonttype":"none","pdf.fonttype":42,"axes.spines.top":False,"axes.spines.right":False})
-O="reports/figures/"; BL,OR,AQ,INK,MUT,SUR="#2a78d6","#eb6834","#1baf7a","#0b0b0b","#52514e","#fcfcfb"
+ARGS=[a for a in sys.argv[1:] if not a.startswith("--")]; PLAIN="--plain" in sys.argv
+O=(ARGS[0].rstrip("/")+"/") if ARGS else "reports/figures/"; os.makedirs(O,exist_ok=True)
+def P(old,new): return new if PLAIN else old
+BL,OR,AQ,INK,MUT,SUR="#2a78d6","#eb6834","#1baf7a","#0b0b0b","#52514e","#fcfcfb"
 def save(fig,n):
     for e in("svg","pdf","png"): fig.savefig(f"{O}{n}.{e}",dpi=300,bbox_inches="tight",facecolor="white")
     plt.close(fig)
@@ -60,23 +64,31 @@ for t in rows:
     elif s=="drop": ax.plot(4.5,y,"x",ms=7,mec=col,mew=1.8)
     elif s=="cand": ax.plot(4.5,y,"*",ms=11,mfc="white",mec=col,mew=1.4)
     elif s=="weak": ax.plot(4.5,y,"o",ms=7,mfc="white",mec=col,mew=1.4,ls="none")
-    tag={("C","Tier 1"):"C33 Stop, Tier 1 same-species independent",("C","Tier 2"):"C33 Stop, Tier 2 own-specimen reads",("C","Tier 3"):"C33 Stop, Tier 3 lineage-backed only",("C","unc"):"C33 Stop, unconfirmed",("C","drop"):"C33 Stop, dropped",("G","Tier 1"):"G33 Stop, Tier 1 same-species independent",("G","Tier 2"):"G33 Stop, Tier 2 own-specimen reads",("G","unc"):"G33 Stop, unconfirmed",("T","panelC"):"UAA=Tyr, panel, C33",("T","panelU"):"UAA=Tyr, panel, U33",("T","cand"):"UAA=Tyr, U33; unconfirmed candidate, stem-blocked",("T","weak"):"UAA=Tyr?, U33; supported weak (UNVERIFIED)"}[(b,s)]
-    if s in("panelC","panelU"): a_,b_=PG[n]; tag+=f"; {a_} of {b_} pass the gates"+{"Enigmonia aenigmatica":" (audit: overlap)","Plicatula muricata":" (stem 3/5)","Radopholus similis":" (no 2nd caller)"}.get(n,"")
+    tag=P({("C","Tier 1"):"C33 Stop, Tier 1 same-species independent",("C","Tier 2"):"C33 Stop, Tier 2 own-specimen reads",("C","Tier 3"):"C33 Stop, Tier 3 lineage-backed only",("C","unc"):"C33 Stop, unconfirmed",("C","drop"):"C33 Stop, dropped",("G","Tier 1"):"G33 Stop, Tier 1 same-species independent",("G","Tier 2"):"G33 Stop, Tier 2 own-specimen reads",("G","unc"):"G33 Stop, unconfirmed",("T","panelC"):"UAA=Tyr, panel, C33",("T","panelU"):"UAA=Tyr, panel, U33",("T","cand"):"UAA=Tyr, U33; unconfirmed candidate, stem-blocked",("T","weak"):"UAA=Tyr?, U33; supported weak (UNVERIFIED)"},{("C","Tier 1"):"C33, UAA=Stop; Tier 1, same-species support",("C","Tier 2"):"C33, UAA=Stop; Tier 2, reads of the specimen",("C","Tier 3"):"C33, UAA=Stop; Tier 3, related species only",("C","unc"):"C33, UAA=Stop; unconfirmed",("C","drop"):"C33, UAA=Stop; dropped (U33 copy elsewhere)",("G","Tier 1"):"G33, UAA=Stop; Tier 1, same-species support",("G","Tier 2"):"G33, UAA=Stop; Tier 2, reads of the specimen",("G","unc"):"G33, UAA=Stop; unconfirmed",("T","panelC"):"known UAA=Tyr, C33",("T","panelU"):"known UAA=Tyr, U33",("T","cand"):"UAA=Tyr, U33; unconfirmed (failed stem check)",("T","weak"):"weak UAA=Tyr signal, U33; UNVERIFIED record"})[(b,s)]
+    if s in("panelC","panelU"): a_,b_=PG[n]; tag+=P(f"; {a_} of {b_} pass the gates",f"; {a_} of {b_} passed the tRNA checks")+P({"Enigmonia aenigmatica":" (audit: overlap)","Plicatula muricata":" (stem 3/5)","Radopholus similis":" (no 2nd caller)"},{"Enigmonia aenigmatica":" (gene overlap)","Plicatula muricata":" (stem 3/5)","Radopholus similis":" (no 2nd finder)"}).get(n,"")
     ax.text(4.72,y,n,va="center",style="italic",color=INK,fontsize=7.8); ax.text(7.45,y,tag,va="center",color=MUT,fontsize=7.45)
 for r in RK: ax.text(X[r],len(rows)-0.35,{"cls":"class"}.get(r,r),ha="center",va="bottom",fontsize=7.45,color=MUT)
 for p,y in ys["phylum"].items(): ax.text(0.04,y+0.16,p[0],fontsize=7.45,color=MUT)
-txt=["Screen positives (blue C33, orange G33; post-hoc tiers, REPORT 7.2.1): circle Tier 1, diamond Tier 2, square Tier 3, hollow circle unconfirmed, cross dropped. Hollow star: unconfirmed candidate.",
+txt=P(["Screen positives (blue C33, orange G33; post-hoc tiers, REPORT 7.2.1): circle Tier 1, diamond Tier 2, square Tier 3, hollow circle unconfirmed, cross dropped. Hollow star: unconfirmed candidate.",
 "Calibration positives (green triangles, not new): filled, all panel genomes shown pass the tRNA-Tyr gate and audit; half-filled, some pass; hollow, none pass (N33 is then a raw call).",
 "C33 + UAA=Stop: Tier 1, 6 genomes (4 fish lineages, 4 origins); Tier 2, 3; Tier 3, 2; unconfirmed, 2; dropped, 1 (14). Tiers 1 and 2: 9 genomes, 6 origins.",
 "G33 + UAA=Stop: Tier 1, 1 genome; Tier 2, 1 (2 species of 1 genus, Craniella; 1 origin); unconfirmed, 1 (Bufotes) (3).",
 "11 gains on the NCBI hierarchy, all 17 screen positives (one dropped and three unconfirmed included).",
 "UAA=Tyr, panel, about 5 origins. Supported weak: P. goodeyi (hollow green circle, UNVERIFIED record, not one of the 17). Non-panel Tyr: Rotylenchulus, unconfirmed single-genome candidate.",
 "Background not drawn: 28,566 U33 Stop genomes. Origin counts come from the full taxonomy table, not from this pruned display.",
-"The tree is NCBI taxonomy (phylum to genus), not a molecular phylogeny, so origin counts are approximate; branch lengths have no meaning."]
+"The tree is NCBI taxonomy (phylum to genus), not a molecular phylogeny, so origin counts are approximate; branch lengths have no meaning."],
+["Non-U33 genomes that use UAA as a stop (blue C33, orange G33), by post-hoc evidence tier: circle Tier 1, diamond Tier 2, square Tier 3, hollow circle unconfirmed, cross dropped. Hollow star: unconfirmed candidate.",
+"Known UAA=Tyr lineages of the control panel (green triangles): filled, every genome shown passed the tRNA checks; half-filled, some passed; hollow, none passed (base 33 is then a provisional call).",
+"C33 with UAA=Stop: Tier 1, 6 genomes (4 fish lineages, 4 origins); Tier 2, 3; Tier 3, 2; unconfirmed, 2; dropped, 1 (14). Tiers 1 and 2: 9 genomes, 6 origins.",
+"G33 with UAA=Stop: Tier 1, 1 genome; Tier 2, 1 (2 species of 1 genus, Craniella; 1 origin); unconfirmed, 1 (Bufotes) (3).",
+"11 gains on the NCBI taxonomy, across all 17 non-U33 genomes (one dropped and three unconfirmed included).",
+"Known UAA=Tyr lineages: about 5 origins. Weak tyrosine signal, supported on audit: P. goodeyi (hollow green circle, UNVERIFIED record, not one of the 17). Rotylenchulus: the only tyrosine-class genome outside the panel, an unconfirmed single-genome candidate.",
+"Not drawn: 28,566 U33 genomes that use UAA as a stop. Origin counts come from the full taxonomy table, not from this pruned display.",
+"The tree is NCBI taxonomy (phylum to genus), not a molecular phylogeny, so origin counts are approximate; branch lengths have no meaning."])
 yy_=-1.5
 for i,s in enumerate(txt):
     for k_,ln_ in enumerate(textwrap.wrap(s,118)): ax.text(0.0 if k_==0 else 0.15,yy_,ln_,fontsize=7.45,color=INK if i in(2,3,4) else MUT); yy_-=0.9
-ax.axis("off"); ax.set_title("Non-U33 tRNA-Tyr with UAA=Stop, and UAA=Tyr lineages",loc="left",fontsize=10,color=INK,pad=2); save(fig,"fig1_tree")
+ax.axis("off"); ax.set_title(P("Non-U33 tRNA-Tyr with UAA=Stop, and UAA=Tyr lineages","Non-U33 tRNA-Tyr in genomes that use UAA as a stop, and known UAA=Tyr lineages"),loc="left",fontsize=10,color=INK,pad=2); save(fig,"fig1_tree")
 # ---------- fig2 ----------
 H="EGGVHRVQRVPKTEKQGRVHTSTMTVA"; G={}
 for r in csv.DictReader(open("results/gate4/loop.tsv"),delimiter="\t"):
@@ -132,13 +144,18 @@ yb=lambda g0:[n-1-i for i,(g,*_) in enumerate(R) if lab[g]==g0]
 for t in dict.fromkeys(lab.values()):
     v=yb(t)
     if t and v: pass
-for k_,(m_,lb_) in enumerate((("panel","calibration panel call"),("conf","confirmatory Stop call"),("expl","exploratory Stop call (UNVERIFIED sweep)"),("none","no mitogenome call here: literature or inferred"),("cand","Tyr call, unconfirmed candidate"))):
+for k_,(m_,lb_) in enumerate(P((("panel","calibration panel call"),("conf","confirmatory Stop call"),("expl","exploratory Stop call (UNVERIFIED sweep)"),("none","no mitogenome call here: literature or inferred"),("cand","Tyr call, unconfirmed candidate")),(("panel","control-panel call"),("conf","Stop call in the screen"),("expl","Stop call, UNVERIFIED record (exploratory)"),("none","no mitogenome call here: literature or inferred"),("cand","Tyr call, unconfirmed candidate")))):
     xk=(-19.0,-7.6,4.0,-19.0,4.0)[k_]; yk=-1.4 if k_<3 else -2.4; ax.plot(xk+0.3,yk,MK[m_][0],ms=MK[m_][2],mfc=MK[m_][1],mec=INK,mew=1.0,clip_on=False); ax.text(xk+1.0,yk,lb_,fontsize=7.25,va="center",color=INK)
-txt=["Marks beside the names: evidence class of the UAA status. mtRF1a sequences in the [E] block and in the tylenchids are exploratory.",
+txt=P(["Marks beside the names: evidence class of the UAA status. mtRF1a sequences in the [E] block and in the tylenchids are exploratory.",
 "Orange cell: S at human 216 (T216S). Green cell: T at 216. Blue cell: residue other than Q at 203. Human numbering NP_061914.3. Radopholus +2 aa (placement approximate).",
 "Loop length against tylenchid Stop sisters (PREREG 2.4): Rotylenchulus 27 aa against 26 in R. robustus, P. vulnus and M. hapla (+1 aa); +0 against human.",
 "Partial sequences (Cephalodiscus, Radopholus): gaps are missing data. The two P. vulnus models with +14 aa read through a 47-nt intron and are not used (REPORT 6). H. columbus is omitted (bacterial).",
-"Targeted Stop block [E] (Gate 4): Albula, Lycenchelys, Craniella (non-U33 Stop) and three U33 sisters. Only some of the 47 UAA=Stop species are drawn. Rotylenchulus is an unconfirmed single-genome candidate (stem-blocked). T191S is not isolable in Anomia/Placuna (GATE_0)."]
+"Targeted Stop block [E] (Gate 4): Albula, Lycenchelys, Craniella (non-U33 Stop) and three U33 sisters. Only some of the 47 UAA=Stop species are drawn. Rotylenchulus is an unconfirmed single-genome candidate (stem-blocked). T191S is not isolable in Anomia/Placuna (GATE_0)."],
+["Marks beside the names: how the UAA status of each species was established. mtRF1a sequences in the [E] block and in the tylenchids are exploratory.",
+"Orange cell: S at human 216 (T216S). Green cell: T at 216. Blue cell: residue other than Q at 203. Human numbering NP_061914.3. Radopholus +2 aa (placement approximate).",
+"Loop length against canonical tylenchid relatives: Rotylenchulus 27 aa against 26 in R. robustus, P. vulnus and M. hapla (+1 aa); +0 against human.",
+"Partial sequences (Cephalodiscus, Radopholus): gaps are missing data. The two P. vulnus models with +14 aa read through a 47-nt intron and are not used (Methods). H. columbus is omitted (bacterial).",
+"Block [E], chosen after the screen: Albula, Lycenchelys, Craniella (non-U33, UAA=Stop) and three U33 sisters. Only some of the 47 UAA=Stop species are drawn. Rotylenchulus is an unconfirmed single-genome candidate (failed anticodon-stem check). T191S cannot be isolated in Anomia/Placuna."])
 yy_=-3.6
 for i,s in enumerate(txt):
     for k_,ln_ in enumerate(textwrap.wrap(s,124)): ax.text(-19.0 if k_==0 else -18.6,yy_,ln_,fontsize=7.25,color=MUT); yy_-=0.92
@@ -147,10 +164,10 @@ for t,ys_ in [(t,[n-1-i for i,(g,*_) in enumerate(R) if lab[g]==t]) for t in dic
 LEN={"Rotylenchulus reniformis (candidate)":"27 aa: +1","Pratylenchus vulnus":"26 aa","Meloidogyne hapla":"26 aa","Rotylenchus robustus":"26 aa","Homo sapiens MTRF1L":"27 aa"}
 for i,(g,nm,sq,src) in enumerate(R):
     if nm in LEN: ax.text(W+0.1,n-1-i,LEN[nm],va="center",fontsize=7.25,color=INK if "27 aa: +1" in LEN[nm] else MUT,weight="bold" if "+1" in LEN[nm] else "normal")
-ax.axis("off"); ax.set_title("mtRF1a loop (human 196–222): UAA=Tyr lineages, Stop sisters, and targeted Stop taxa (Gate 4)",loc="left",fontsize=10,color=INK)
+ax.axis("off"); ax.set_title(P("mtRF1a loop (human 196–222): UAA=Tyr lineages, Stop sisters, and targeted Stop taxa (Gate 4)","mtRF1a loop (human 196–222): UAA=Tyr lineages, Stop sisters, and Stop taxa chosen after the screen"),loc="left",fontsize=10,color=INK)
 # block labels at the far left as coloured bars
 bars=[("ref",""),]
-for (gset,tx,cl) in ((("tyr","tyrS"),"UAA = Tyr",AQ),(("stop","stopq"),"UAA = Stop",BL),(("tb","tbs"),"[E] targeted Stop",OR)):
+for (gset,tx,cl) in ((("tyr","tyrS"),"UAA = Tyr",AQ),(("stop","stopq"),"UAA = Stop",BL),(("tb","tbs"),P("[E] targeted Stop","[E] after screen"),OR)):
     v=[n-1-i for i,(g,*_) in enumerate(R) if g in gset]; ax.add_patch(plt.Rectangle((-19.2,min(v)-0.45),0.25,max(v)-min(v)+0.9,color=cl)); ax.text(-18.2,(max(v)+min(v))/2,tx,rotation=90,va="center",ha="center",fontsize=7.25,color=INK)
 save(fig,"fig2_mtrf1a_loop"); print("fig2 alignment columns",W,"pos203",pos[203],"pos216",pos[216])
 # ---------- fig3 ----------
@@ -159,14 +176,14 @@ B3=list(csv.DictReader(open("results/posthoc2/fig3_bootstrap.tsv"),delimiter="\t
 for r_ in B3: ser.setdefault(r_["series"],[]).append((int(r_["called"]),int(r_["observations"]),float(r_["boot_lo"]),float(r_["boot_hi"]),int(r_["genomes"])))
 cnt=[x[:2] for x in ser["counter"]]; cod=[x[:2] for x in ser["counter+Codetta(rep 0)"]]; UP0=1-0.025**(1/65); print("exact two-sided 95% upper limit on 0 of 65 genomes",round(UP0,4))
 fig=plt.figure(figsize=(7.1,6.5)); a1=fig.add_axes([0.085,0.63,0.90,0.34]); a2=fig.add_axes([0.16,0.215,0.825,0.295]); X=range(5)
-for nm,lb,cl,mk,off in (("counter","Internal-UAA counter alone (replicates: 5 per genome; 1 at 100%)",BL,"o",-0.11),("counter+Codetta(rep 0)","Locked rule: counter and Codetta (genomes: replicate 0 of each)",OR,"s",0.11)):
+for nm,lb,cl,mk,off in (("counter",P("Internal-UAA counter alone (replicates: 5 per genome; 1 at 100%)","In-frame UAA counter alone (5 replicates per genome; 1 at 100%)"),BL,"o",-0.11),("counter+Codetta(rep 0)",P("Locked rule: counter and Codetta (genomes: replicate 0 of each)","Pre-registered rule: counter and Codetta (one replicate per genome)"),OR,"s",0.11)):
     d=ser[nm]; y=[v[0]/v[1] for v in d]; lo=[y[i]-v[2] for i,v in enumerate(d)]; hi=[v[3]-y[i] for i,v in enumerate(d)]; lo[0]=0; hi[0]=UP0
     a1.errorbar([x+off for x in X],y,yerr=[lo,hi],color=cl,marker=mk,ms=6.5,lw=0,elinewidth=1.6,capsize=3,label=lb,ls="none")
 for x,((k,n),(k2,n2)) in enumerate(zip(cnt,cod)):
     lo1=(ser["counter"][x][2] if k else 0); lo2=(ser["counter+Codetta(rep 0)"][x][2] if k2 else 0)
     a1.annotate(f"{100*k/n:.1f}%\n{k}/{n}" if k else "0%\n0/325",(x-0.11,lo1),textcoords="offset points",xytext=(-11,-7),ha="center",va="top",fontsize=7.5,color=INK)
     a1.annotate(f"{100*k2/n2:.1f}%\n{k2}/{n2}" if k2 else "0%\n0/65",(x+0.11,lo2),textcoords="offset points",xytext=(12,-7),ha="center",va="top",fontsize=7.5,color=INK)
-a1.set_yticks([0,0.2,0.4,0.6,0.8,1.0]); a1.set_xticks(list(X)); a1.set_xticklabels([f"{f}%" for f in fr]); a1.set_ylim(-0.2,1.08); a1.set_ylabel("Fraction called Tyr"); a1.set_xlim(-0.6,4.5); a1.set_xlabel("Conserved Tyr codons replaced by TAA (categories, not to scale)"); a1.legend(frameon=False,loc="center left",bbox_to_anchor=(0.0,0.555),fontsize=8); a1.set_title("Planted-null detection (95% intervals over 65 source genomes)",loc="left",fontsize=9.5,color=INK)
+a1.set_yticks([0,0.2,0.4,0.6,0.8,1.0]); a1.set_xticks(list(X)); a1.set_xticklabels([f"{f}%" for f in fr]); a1.set_ylim(-0.2,1.08); a1.set_ylabel("Fraction called Tyr"); a1.set_xlim(-0.6,4.5); a1.set_xlabel("Conserved Tyr codons replaced by TAA (categories, not to scale)"); a1.legend(frameon=False,loc="center left",bbox_to_anchor=(0.0,0.555),fontsize=8); a1.set_title(P("Planted-null detection (95% intervals over 65 source genomes)","Detection of planted UAA codons (95% intervals over 65 source genomes)"),loc="left",fontsize=9.5,color=INK)
 LO=list(csv.DictReader(open("results/gate2/lolo.tsv"),delimiter="\t")); S=collections.OrderedDict()
 for r in LO:
     if r["unit"]=="lineage" and r["proc"]!="N": S.setdefault(r["held_out"],{})[r["proc"]]=(int(r["recalled"]),int(r["genomes"]))
@@ -174,15 +191,15 @@ LIN={r_["panel_id"]:r_["lineage"] for r_ in csv.DictReader(open("results/gate2_p
 for r_ in csv.DictReader(open("results/posthoc2/locus_gate_corroboration.tsv"),delimiter="\t"):
     if r_["set"]=="panel20": l_=LIN[r_["acc"]]; END[l_][1]+=1; END[l_][0]+=r_["locked_status"].startswith("pass")
 print("panel pass rate by lineage",{k:tuple(v) for k,v in END.items()},"total",sum(v[0] for v in END.values()),"of",sum(v[1] for v in END.values()))
-ln=sorted(S); procs=["Fixed","M","R","END"]; heads={"Fixed":"UAA rule\n(in-sample)","M":"held-out:\nmidpoint","R":"held-out:\n0.8 x min","END":"panel pass rate\nfor the molecular\ngates"}
+ln=sorted(S); procs=["Fixed","M","R","END"]; heads=P({"Fixed":"UAA rule\n(in-sample)","M":"held-out:\nmidpoint","R":"held-out:\n0.8 x min","END":"panel pass rate\nfor the molecular\ngates"},{"Fixed":"UAA rule\n(in sample)","M":"lineage held out:\nmidpoint","R":"lineage held out:\n0.8 x min","END":"UAA rule and\ntRNA checks\npassed"})
 for i,l in enumerate(ln):
     for j,q in enumerate(procs):
         k,n=END[l] if q=="END" else S[l][q]; f=k/n; a2.add_patch(plt.Rectangle((j-0.45,len(ln)-1-i-0.4),0.9,0.8,facecolor="#2a78d6" if f==1 else "#9cc3ef" if f>=0.5 else "#dbe9fa" if f>0 else "#f0efec",edgecolor="white")); a2.text(j,len(ln)-1-i,f"{k}/{n}",ha="center",va="center",fontsize=8.5,color="white" if f==1 else INK)
 a2.text(len(procs)-1,-1.0,f"{sum(v[0] for v in END.values())} / {sum(v[1] for v in END.values())}",ha="center",fontsize=8.5,weight="bold",color=INK); a2.text(0,-1.0,f"{sum(S[l]['Fixed'][0] for l in ln)} / {sum(S[l]['Fixed'][1] for l in ln)}",ha="center",fontsize=8.5,weight="bold",color=INK); a2.text(-0.55,-1.0,"all",ha="right",fontsize=8,color=MUT)
-a2.set_xlim(-0.6,len(procs)-0.4); a2.set_ylim(-1.2,len(ln)-0.3); a2.set_xticks(range(len(procs))); a2.set_xticklabels([heads[q] for q in procs],fontsize=8); a2.set_yticks(range(len(ln))); a2.set_yticklabels(ln[::-1],fontsize=8,style="italic"); a2.tick_params(length=0); a2.set_title("Recall of the 20 known positives (genomes)",loc="left",fontsize=9.5,color=INK)
+a2.set_xlim(-0.6,len(procs)-0.4); a2.set_ylim(-1.2,len(ln)-0.3); a2.set_xticks(range(len(procs))); a2.set_xticklabels([heads[q] for q in procs],fontsize=8); a2.set_yticks(range(len(ln))); a2.set_yticklabels(ln[::-1],fontsize=8,style="italic"); a2.tick_params(length=0); a2.set_title(P("Recall of the 20 known positives (genomes)","Recall of the 20 genomes from known UAA=Tyr lineages"),loc="left",fontsize=9.5,color=INK)
 for sp in a2.spines.values(): sp.set_visible(False)
 nt_=["Top: at 10 to 100%, percentile bootstrap that resamples the 65 source genomes and keeps their replicates together (10,000 resamples). At 5%, 0 of 65 genomes in both series: upper limit of the two-sided exact (Clopper-Pearson) 95% interval, 5.5%. Intervals do not account for relatedness among source genomes. The two series use different replicate sets.",
-"Bottom: the last column is the UAA rule plus the tRNA-Tyr gate and locus audit (PREREG 2.3) on known positives; it does not test the novelty or replication parts of PREREG 3. The UAA rule was set with all lineages in view. False Tyr with thresholds from the other phyla (29 held-out phyla): 0 of 340, upper bound 1.1%. Sources: results/gate2, results/posthoc2 [P]."]
+P("Bottom: the last column is the UAA rule plus the tRNA-Tyr gate and locus audit (PREREG 2.3) on known positives; it does not test the novelty or replication parts of PREREG 3. The UAA rule was set with all lineages in view. False Tyr with thresholds from the other phyla (29 held-out phyla): 0 of 340, upper bound 1.1%. Sources: results/gate2, results/posthoc2 [P].","Bottom: the last column counts known UAA=Tyr genomes that pass both the UAA rule and the tRNA-Tyr checks (gate and structural audit); it does not test whether the screen can tell a new lineage from a known one. The UAA rule was set with all lineages in view. False Tyr calls with thresholds from the other phyla (29 held-out phyla): 0 of 340, upper bound 1.1%. Sources: results/gate2, results/posthoc2 [P].")]
 yy_=0.085
 for t_ in nt_:
     for ln_ in textwrap.wrap(t_,128): fig.text(0.0,yy_,ln_,fontsize=7.05,color=MUT); yy_-=0.0195
